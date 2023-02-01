@@ -6,7 +6,7 @@ This document generated automatically, see https://github.com/bormaxi8080/github
 
 Created at: 2023-02-01
 
-Starred repositories count: 1002
+Starred repositories count: 1004
 
 ----
 
@@ -20,9 +20,11 @@ Clone: [https://github.com/30-seconds/30-seconds-of-code.git](https://github.com
 
 Created: 29 November 2017
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 107256
+Stars on GitHub: 107271
+
+----
 
 ### [30-seconds/30-seconds-of-git](https://github.com/30-seconds/30-seconds-of-git)
 
@@ -38,6 +40,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 263
 
+----
+
 ### [30-seconds/30-seconds-of-golang](https://github.com/30-seconds/30-seconds-of-golang)
 
 Short Golang code snippets for all your development needs
@@ -52,6 +56,8 @@ Updated: 28 January 2023
 
 Stars on GitHub: 138
 
+----
+
 ### [30-seconds/30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews)
 
 A curated collection of common interview questions to help you prepare for your next interview.
@@ -62,9 +68,11 @@ Clone: [https://github.com/30-seconds/30-seconds-of-interviews.git](https://gith
 
 Created: 07 April 2018
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 11106
+Stars on GitHub: 11109
+
+----
 
 ### [30-seconds/30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python)
 
@@ -80,6 +88,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 8668
 
+----
+
 ### [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
 
 📜 33 JavaScript concepts every developer should know.
@@ -90,9 +100,11 @@ Clone: [https://github.com/leonardomso/33-js-concepts.git](https://github.com/le
 
 Created: 04 September 2018
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 54671
+Stars on GitHub: 54690
+
+----
 
 ### [sahanmar/451](https://github.com/sahanmar/451)
 
@@ -108,6 +120,8 @@ Updated: 16 January 2023
 
 Stars on GitHub: 28
 
+----
+
 ### [Loskir/50-lines](https://github.com/Loskir/50-lines)
 
 None
@@ -122,6 +136,8 @@ Updated: 01 December 2022
 
 Stars on GitHub: 49
 
+----
+
 ### [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 
 I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 & 2023 inc.
@@ -132,9 +148,11 @@ Clone: [https://github.com/MichaelCade/90DaysOfDevOps.git](https://github.com/Mi
 
 Created: 26 December 2021
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 21244
+Stars on GitHub: 21246
+
+----
 
 ### [google/AFL](https://github.com/google/AFL)
 
@@ -150,6 +168,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 3013
 
+----
+
 ### [D3Ext/AORT](https://github.com/D3Ext/AORT)
 
 All in One Recon Tool for Bug Bounty
@@ -160,9 +180,11 @@ Clone: [https://github.com/D3Ext/AORT.git](https://github.com/D3Ext/AORT.git)
 
 Created: 24 June 2022
 
-Updated: 30 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 587
+Stars on GitHub: 588
+
+----
 
 ### [cipher387/API-s-for-OSINT](https://github.com/cipher387/API-s-for-OSINT)
 
@@ -178,6 +200,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 608
 
+----
+
 ### [Anof-cyber/APTRS](https://github.com/Anof-cyber/APTRS)
 
 Automated Penetration Testing Reporting System
@@ -192,6 +216,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 585
 
+----
+
 ### [ine-labs/AWSGoat](https://github.com/ine-labs/AWSGoat)
 
 AWSGoat : A Damn Vulnerable AWS Infrastructure
@@ -202,9 +228,11 @@ Clone: [https://github.com/ine-labs/AWSGoat.git](https://github.com/ine-labs/AWS
 
 Created: 13 July 2022
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 1069
+Stars on GitHub: 1073
+
+----
 
 ### [AIHunters/AcurusTrack](https://github.com/AIHunters/AcurusTrack)
 
@@ -220,6 +248,8 @@ Updated: 27 January 2023
 
 Stars on GitHub: 297
 
+----
+
 ### [ClearURLs/Addon](https://github.com/ClearURLs/Addon)
 
 ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
@@ -230,9 +260,11 @@ Clone: [https://github.com/ClearURLs/Addon.git](https://github.com/ClearURLs/Add
 
 Created: 04 August 2017
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 3403
+Stars on GitHub: 3404
+
+----
 
 ### [cipher387/Advanced-search-operators-list](https://github.com/cipher387/Advanced-search-operators-list)
 
@@ -248,6 +280,8 @@ Updated: 22 January 2023
 
 Stars on GitHub: 141
 
+----
+
 ### [Gakhramanzode/Airflow](https://github.com/Gakhramanzode/Airflow)
 
 Bash-скрипт по установке Airflow
@@ -261,6 +295,8 @@ Created: 26 November 2022
 Updated: 16 January 2023
 
 Stars on GitHub: 2
+
+----
 
 ### [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye)
 
@@ -276,6 +312,8 @@ Updated: 24 January 2023
 
 Stars on GitHub: 90
 
+----
+
 ### [Josue87/AnalyticsRelationships](https://github.com/Josue87/AnalyticsRelationships)
 
 Get related domains / subdomains by looking at Google Analytics IDs
@@ -289,6 +327,8 @@ Created: 15 May 2021
 Updated: 19 January 2023
 
 Stars on GitHub: 164
+
+----
 
 ### [AnonymousMessenger/AnonymousMessenger](https://github.com/AnonymousMessenger/AnonymousMessenger)
 
@@ -304,6 +344,8 @@ Updated: 27 January 2023
 
 Stars on GitHub: 47
 
+----
+
 ### [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)
 
 A tool for reverse engineering Android apk files
@@ -314,9 +356,11 @@ Clone: [https://github.com/iBotPeaches/Apktool.git](https://github.com/iBotPeach
 
 Created: 19 March 2012
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 15590
+Stars on GitHub: 15594
+
+----
 
 ### [AsuharietYgvar/AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX)
 
@@ -332,6 +376,8 @@ Updated: 26 January 2023
 
 Stars on GitHub: 1493
 
+----
+
 ### [powerexploit/Ashok](https://github.com/powerexploit/Ashok)
 
 Ashok is a OSINT Recon Tool , a.k.a :heart_eyes:  Swiss Army knife .
@@ -346,6 +392,8 @@ Updated: 17 January 2023
 
 Stars on GitHub: 120
 
+----
+
 ### [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 
 A collection of various awesome lists for hackers, pentesters and security researchers
@@ -358,7 +406,9 @@ Created: 30 March 2016
 
 Updated: 01 February 2023
 
-Stars on GitHub: 60883
+Stars on GitHub: 60896
+
+----
 
 ### [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
 
@@ -370,9 +420,11 @@ Clone: [https://github.com/luong-komorebi/Awesome-Linux-Software.git](https://gi
 
 Created: 06 August 2016
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 18693
+Stars on GitHub: 18696
+
+----
 
 ### [DedSecInside/Awesome-Scripts](https://github.com/DedSecInside/Awesome-Scripts)
 
@@ -388,6 +440,8 @@ Updated: 29 January 2023
 
 Stars on GitHub: 164
 
+----
+
 ### [Hack-with-Github/Awesome-Security-Gists](https://github.com/Hack-with-Github/Awesome-Security-Gists)
 
 A collection of various GitHub gists for hackers, pentesters and security researchers
@@ -401,6 +455,8 @@ Created: 10 August 2017
 Updated: 29 January 2023
 
 Stars on GitHub: 799
+
+----
 
 ### [sirredbeard/Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL)
 
@@ -416,6 +472,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 4387
 
+----
+
 ### [Anugrahsr/Awesome-web3-Security](https://github.com/Anugrahsr/Awesome-web3-Security)
 
 A curated list of web3Security materials and resources For Pentesters and Bug Hunters.
@@ -429,6 +487,8 @@ Created: 05 June 2022
 Updated: 31 January 2023
 
 Stars on GitHub: 772
+
+----
 
 ### [darkquasar/AzureHunter](https://github.com/darkquasar/AzureHunter)
 
@@ -444,6 +504,8 @@ Updated: 25 January 2023
 
 Stars on GitHub: 652
 
+----
+
 ### [bablosoft/BAS](https://github.com/bablosoft/BAS)
 
 BrowserAutomationStudio can automate everything that Chrome can.
@@ -457,6 +519,8 @@ Created: 16 May 2016
 Updated: 29 January 2023
 
 Stars on GitHub: 347
+
+----
 
 ### [alfazzafashion/Backlink-dorks](https://github.com/alfazzafashion/Backlink-dorks)
 
@@ -472,6 +536,8 @@ Updated: 06 January 2023
 
 Stars on GitHub: 12
 
+----
+
 ### [Bevigil/BeVigil-OSINT-CLI](https://github.com/Bevigil/BeVigil-OSINT-CLI)
 
 bevigil-cli provides a unified command line interface and python library for using BeVigil OSINT API.
@@ -485,6 +551,8 @@ Created: 25 May 2022
 Updated: 31 January 2023
 
 Stars on GitHub: 70
+
+----
 
 ### [Bafomet666/Bigbro](https://github.com/Bafomet666/Bigbro)
 
@@ -500,6 +568,8 @@ Updated: 05 January 2023
 
 Stars on GitHub: 103
 
+----
+
 ### [IvanMathy/Boop](https://github.com/IvanMathy/Boop)
 
 A scriptable scratchpad for developers. In slow yet steady progress.
@@ -513,6 +583,8 @@ Created: 27 January 2019
 Updated: 31 January 2023
 
 Stars on GitHub: 3124
+
+----
 
 ### [fingerprintjs/BotD](https://github.com/fingerprintjs/BotD)
 
@@ -528,6 +600,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 505
 
+----
+
 ### [odedshimon/BruteShark](https://github.com/odedshimon/BruteShark)
 
 Network Analysis Tool
@@ -542,6 +616,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 2620
 
+----
+
 ### [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
 
 Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
@@ -552,9 +628,11 @@ Clone: [https://github.com/TheAlgorithms/C-Plus-Plus.git](https://github.com/The
 
 Created: 16 July 2016
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 23005
+Stars on GitHub: 23010
+
+----
 
 ### [gzc/CLRS](https://github.com/gzc/CLRS)
 
@@ -570,6 +648,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 8857
 
+----
+
 ### [CScorza/CORPINT-Corporate-Intelligence](https://github.com/CScorza/CORPINT-Corporate-Intelligence)
 
 CORPINT - Corporate / Business Intelligence
@@ -583,6 +663,8 @@ Created: 10 October 2022
 Updated: 31 January 2023
 
 Stars on GitHub: 34
+
+----
 
 ### [TheTumultuousUnicornOfDarkness/CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X)
 
@@ -598,6 +680,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 1535
 
+----
+
 ### [devploit/CTF_OnlineTools](https://github.com/devploit/CTF_OnlineTools)
 
 Repository to index useful online tools for CTF
@@ -611,6 +695,8 @@ Created: 24 October 2018
 Updated: 26 January 2023
 
 Stars on GitHub: 111
+
+----
 
 ### [Lazza/Carbon14](https://github.com/Lazza/Carbon14)
 
@@ -626,6 +712,8 @@ Updated: 24 December 2022
 
 Stars on GitHub: 62
 
+----
+
 ### [ins1gn1a/CardScan4Linux](https://github.com/ins1gn1a/CardScan4Linux)
 
 Use this script to search through locally stored files for any Credit/Debit card details.
@@ -639,6 +727,8 @@ Created: 09 September 2015
 Updated: 24 November 2022
 
 Stars on GitHub: 15
+
+----
 
 ### [mathis2001/Cert4Recon](https://github.com/mathis2001/Cert4Recon)
 
@@ -654,6 +744,8 @@ Updated: 17 October 2022
 
 Stars on GitHub: 11
 
+----
+
 ### [lvwzhen/ChatGPT-Matrix-Style](https://github.com/lvwzhen/ChatGPT-Matrix-Style)
 
 Make ChatGPT like the Matrix.
@@ -667,6 +759,8 @@ Created: 09 December 2022
 Updated: 25 January 2023
 
 Stars on GitHub: 69
+
+----
 
 ### [D4Vinci/Chrome-Extractor](https://github.com/D4Vinci/Chrome-Extractor)
 
@@ -682,6 +776,8 @@ Updated: 10 January 2023
 
 Stars on GitHub: 57
 
+----
+
 ### [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey)
 
 ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -692,9 +788,11 @@ Clone: [https://github.com/Ciphey/Ciphey.git](https://github.com/Ciphey/Ciphey.g
 
 Created: 16 July 2019
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 11329
+Stars on GitHub: 11331
+
+----
 
 ### [0xsha/CloudBrute](https://github.com/0xsha/CloudBrute)
 
@@ -710,6 +808,8 @@ Updated: 27 January 2023
 
 Stars on GitHub: 631
 
+----
+
 ### [bwimpsett/CloudBunny](https://github.com/bwimpsett/CloudBunny)
 
 CloudBunny is a tool to capture the real IP of the server that uses a WAF as a proxy or protection. In this tool we used three search engines to search domain information: Shodan, Censys and Zoomeye.
@@ -723,6 +823,8 @@ Created: 28 January 2022
 Updated: 19 November 2022
 
 Stars on GitHub: 1
+
+----
 
 ### [jordanpotti/CloudScraper](https://github.com/jordanpotti/CloudScraper)
 
@@ -738,6 +840,8 @@ Updated: 28 January 2023
 
 Stars on GitHub: 404
 
+----
+
 ### [ISGNeuroTeam/CoAuthor](https://github.com/ISGNeuroTeam/CoAuthor)
 
 NLP project that works with news (NER, context generation, news trend analytics)
@@ -751,6 +855,8 @@ Created: 28 December 2021
 Updated: 19 January 2023
 
 Stars on GitHub: 39
+
+----
 
 ### [DigiDNA/ColorSet](https://github.com/DigiDNA/ColorSet)
 
@@ -766,6 +872,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 178
 
+----
+
 ### [ins1gn1a/Combine-Brute-List](https://github.com/ins1gn1a/Combine-Brute-List)
 
 Simple script to be able to combine every combination of username and passwords from separate files
@@ -780,6 +888,8 @@ Updated: 06 September 2022
 
 Stars on GitHub: 2
 
+----
+
 ### [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace)
 
 Leading free and open-source face recognition system
@@ -790,9 +900,11 @@ Clone: [https://github.com/exadel-inc/CompreFace.git](https://github.com/exadel-
 
 Created: 06 July 2020
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 2639
+Stars on GitHub: 2640
+
+----
 
 ### [andkret/Cookbook](https://github.com/andkret/Cookbook)
 
@@ -808,6 +920,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 11434
 
+----
+
 ### [D4Vinci/Cr3dOv3r](https://github.com/D4Vinci/Cr3dOv3r)
 
 Know the dangers of credential reuse attacks.
@@ -818,9 +932,11 @@ Clone: [https://github.com/D4Vinci/Cr3dOv3r.git](https://github.com/D4Vinci/Cr3d
 
 Created: 13 November 2017
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 1841
+Stars on GitHub: 1843
+
+----
 
 ### [N0tA1dan/Crab](https://github.com/N0tA1dan/Crab)
 
@@ -836,6 +952,8 @@ Updated: 17 December 2022
 
 Stars on GitHub: 18
 
+----
+
 ### [krdsploit/Credit-OSINT](https://github.com/krdsploit/Credit-OSINT)
 
 Credit Card OSINT Information Gathering
@@ -849,6 +967,8 @@ Created: 28 July 2022
 Updated: 22 January 2023
 
 Stars on GitHub: 35
+
+----
 
 ### [m8sec/CrossLinked](https://github.com/m8sec/CrossLinked)
 
@@ -864,6 +984,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 696
 
+----
+
 ### [birdbee44/Cryptography-Resources](https://github.com/birdbee44/Cryptography-Resources)
 
 Cryptography Resources
@@ -878,6 +1000,8 @@ Updated: 14 December 2022
 
 Stars on GitHub: 4
 
+----
+
 ### [gchq/CyberChef](https://github.com/gchq/CyberChef)
 
 The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
@@ -888,9 +1012,11 @@ Clone: [https://github.com/gchq/CyberChef.git](https://github.com/gchq/CyberChef
 
 Created: 28 November 2016
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 20102
+Stars on GitHub: 20103
+
+----
 
 ### [Nickyie/Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources)
 
@@ -906,6 +1032,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 1784
 
+----
+
 ### [micro-joan/D4TA-HUNTER](https://github.com/micro-joan/D4TA-HUNTER)
 
 GUI Osint Framework with Kali Linux
@@ -916,9 +1044,11 @@ Clone: [https://github.com/micro-joan/D4TA-HUNTER.git](https://github.com/micro-
 
 Created: 24 October 2022
 
-Updated: 19 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 63
+Stars on GitHub: 62
+
+----
 
 ### [hugoahosta/DFIR](https://github.com/hugoahosta/DFIR)
 
@@ -934,6 +1064,8 @@ Updated: 31 August 2022
 
 Stars on GitHub: 7
 
+----
+
 ### [AndrewRathbun/DFIRMindMaps](https://github.com/AndrewRathbun/DFIRMindMaps)
 
 A repository of DFIR-related Mind Maps geared towards the visual learners!
@@ -947,6 +1079,8 @@ Created: 28 August 2021
 Updated: 31 January 2023
 
 Stars on GitHub: 412
+
+----
 
 ### [AndrewRathbun/DFIRRegex](https://github.com/AndrewRathbun/DFIRRegex)
 
@@ -962,6 +1096,8 @@ Updated: 18 January 2023
 
 Stars on GitHub: 49
 
+----
+
 ### [mhaskar/DNSStager](https://github.com/mhaskar/DNSStager)
 
 Hide your payload in DNS
@@ -975,6 +1111,8 @@ Created: 18 April 2021
 Updated: 31 January 2023
 
 Stars on GitHub: 548
+
+----
 
 ### [johnnyzn/DW-GAN](https://github.com/johnnyzn/DW-GAN)
 
@@ -990,6 +1128,8 @@ Updated: 17 January 2023
 
 Stars on GitHub: 147
 
+----
+
 ### [thehappydinoa/DarkSearch](https://github.com/thehappydinoa/DarkSearch)
 
 Python API wrapper for DarkSearch (darksearch.io).
@@ -1003,6 +1143,8 @@ Created: 12 May 2019
 Updated: 28 January 2023
 
 Stars on GitHub: 22
+
+----
 
 ### [khuyentran1401/Data-science](https://github.com/khuyentran1401/Data-science)
 
@@ -1018,6 +1160,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 3424
 
+----
+
 ### [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab)
 
 DeepFaceLab is the leading software for creating deepfakes.
@@ -1028,9 +1172,11 @@ Clone: [https://github.com/iperov/DeepFaceLab.git](https://github.com/iperov/Dee
 
 Created: 04 June 2018
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 36938
+Stars on GitHub: 36947
+
+----
 
 ### [beurtschipper/Depix](https://github.com/beurtschipper/Depix)
 
@@ -1042,9 +1188,11 @@ Clone: [https://github.com/beurtschipper/Depix.git](https://github.com/beurtschi
 
 Created: 06 December 2020
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 23179
+Stars on GitHub: 23180
+
+----
 
 ### [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy)
 
@@ -1056,9 +1204,11 @@ Clone: [https://github.com/horsicq/Detect-It-Easy.git](https://github.com/horsic
 
 Created: 01 June 2014
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 4650
+Stars on GitHub: 4651
+
+----
 
 ### [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app)
 
@@ -1074,6 +1224,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 3710
 
+----
+
 ### [AnLoMinus/Diablo](https://github.com/AnLoMinus/Diablo)
 
 Diablo ~ Hacking / Pentesting & Reporting
@@ -1088,6 +1240,8 @@ Updated: 11 January 2023
 
 Stars on GitHub: 112
 
+----
+
 ### [AstraaDev/Discord-All-Tools-In-One](https://github.com/AstraaDev/Discord-All-Tools-In-One)
 
 ATIO is a AIO Script Developed with Python3. It gathers a total of 23 Discord tools (including a RAT, a Raid Tool, a Token Grabber, a Crash Video Maker, etc). It has a pleasant and intuitive interface to facilitate the use of all with help and explanations for each of them.
@@ -1098,9 +1252,11 @@ Clone: [https://github.com/AstraaDev/Discord-All-Tools-In-One.git](https://githu
 
 Created: 02 September 2021
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 506
+Stars on GitHub: 505
+
+----
 
 ### [AstraaDev/Discord-Token-Grabber](https://github.com/AstraaDev/Discord-Token-Grabber)
 
@@ -1116,6 +1272,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 111
 
+----
+
 ### [AstraaDev/Discord-Token-Grabber-V2](https://github.com/AstraaDev/Discord-Token-Grabber-V2)
 
 Simple token grabber developped in python.
@@ -1126,9 +1284,11 @@ Clone: [https://github.com/AstraaDev/Discord-Token-Grabber-V2.git](https://githu
 
 Created: 09 June 2022
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 63
+Stars on GitHub: 62
+
+----
 
 ### [Ginsberg5150/Discord-and-Telegram-OSINT-references](https://github.com/Ginsberg5150/Discord-and-Telegram-OSINT-references)
 
@@ -1144,6 +1304,8 @@ Updated: 15 January 2023
 
 Stars on GitHub: 67
 
+----
+
 ### [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
 
 Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
@@ -1154,9 +1316,11 @@ Clone: [https://github.com/sickcodes/Docker-OSX.git](https://github.com/sickcode
 
 Created: 04 June 2020
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 28685
+Stars on GitHub: 28696
+
+----
 
 ### [sickcodes/Docker-eyeOS](https://github.com/sickcodes/Docker-eyeOS)
 
@@ -1172,6 +1336,8 @@ Updated: 27 January 2023
 
 Stars on GitHub: 658
 
+----
+
 ### [Ph055a/Domains_OSINT_Collection](https://github.com/Ph055a/Domains_OSINT_Collection)
 
 Maintained list of OSINT resources specifically for researching domains and IoT products.
@@ -1185,6 +1351,8 @@ Created: 16 October 2018
 Updated: 12 December 2022
 
 Stars on GitHub: 42
+
+----
 
 ### [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list)
 
@@ -1200,6 +1368,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 1262
 
+----
+
 ### [Dragon-Userbot/Dragon-Userbot](https://github.com/Dragon-Userbot/Dragon-Userbot)
 
 Userbot for telegram with easiest installation
@@ -1213,6 +1383,8 @@ Created: 16 June 2020
 Updated: 20 January 2023
 
 Stars on GitHub: 178
+
+----
 
 ### [jor6PS/DrawNmap](https://github.com/jor6PS/DrawNmap)
 
@@ -1228,6 +1400,8 @@ Updated: 05 January 2023
 
 Stars on GitHub: 79
 
+----
+
 ### [indiancyberops/Drishti](https://github.com/indiancyberops/Drishti)
 
 Drishti is an information collection tool (OSINT) which aims to carry out Basic Information.
@@ -1242,6 +1416,8 @@ Updated: 27 December 2022
 
 Stars on GitHub: 41
 
+----
+
 ### [securing/DumpsterDiver](https://github.com/securing/DumpsterDiver)
 
 Tool to search secrets in various filetypes.
@@ -1252,9 +1428,11 @@ Clone: [https://github.com/securing/DumpsterDiver.git](https://github.com/securi
 
 Created: 27 May 2018
 
-Updated: 28 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 810
+Stars on GitHub: 811
+
+----
 
 ### [D4Vinci/EagleEye](https://github.com/D4Vinci/EagleEye)
 
@@ -1270,6 +1448,8 @@ Updated: 20 January 2023
 
 Stars on GitHub: 14
 
+----
+
 ### [ThoughtfulDev/EagleEye](https://github.com/ThoughtfulDev/EagleEye)
 
 Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.
@@ -1280,9 +1460,11 @@ Clone: [https://github.com/ThoughtfulDev/EagleEye.git](https://github.com/Though
 
 Created: 17 February 2018
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 3387
+Stars on GitHub: 3386
+
+----
 
 ### [UKPLab/EasyNMT](https://github.com/UKPLab/EasyNMT)
 
@@ -1298,6 +1480,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 771
 
+----
+
 ### [IT-Fullstack-Dev/EmailAddressExtracting](https://github.com/IT-Fullstack-Dev/EmailAddressExtracting)
 
 this project can extract contact email address from many site.
@@ -1311,6 +1495,8 @@ Created: 26 September 2021
 Updated: 02 January 2023
 
 Stars on GitHub: 9
+
+----
 
 ### [keraattin/EmailAnalyzer](https://github.com/keraattin/EmailAnalyzer)
 
@@ -1326,6 +1512,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 137
 
+----
+
 ### [maldevel/EmailHarvester](https://github.com/maldevel/EmailHarvester)
 
 Email addresses harvester
@@ -1340,6 +1528,8 @@ Updated: 28 January 2023
 
 Stars on GitHub: 650
 
+----
+
 ### [hhhrrrttt222111/Ethical-Hacking-Tools](https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools)
 
 Complete Listing and Usage of Tools used for Ethical Hacking
@@ -1350,9 +1540,11 @@ Clone: [https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools.git](https://gi
 
 Created: 23 April 2020
 
-Updated: 30 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 909
+Stars on GitHub: 910
+
+----
 
 ### [R4yGM/Ethical-Hacking-Tools](https://github.com/R4yGM/Ethical-Hacking-Tools)
 
@@ -1368,6 +1560,8 @@ Updated: 04 September 2022
 
 Stars on GitHub: 2
 
+----
+
 ### [D4Vinci/Exif-Grabber](https://github.com/D4Vinci/Exif-Grabber)
 
 A python tool that will extract exif data from picture with two methods
@@ -1381,6 +1575,8 @@ Created: 26 July 2016
 Updated: 16 November 2022
 
 Stars on GitHub: 30
+
+----
 
 ### [tg-bomze/Face-Depixelizer](https://github.com/tg-bomze/Face-Depixelizer)
 
@@ -1396,6 +1592,8 @@ Updated: 25 January 2023
 
 Stars on GitHub: 1990
 
+----
+
 ### [IvanGlinkin/Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan)
 
 The OSINT project, the main idea of which is to collect all the possible Google dorks search combinations and to find the information about the specific web-site: common admin panels, the widespread file types and path traversal. The 100% automated.
@@ -1409,6 +1607,8 @@ Created: 05 May 2020
 Updated: 30 January 2023
 
 Stars on GitHub: 718
+
+----
 
 ### [karthik997/Forensic_Toolkit](https://github.com/karthik997/Forensic_Toolkit)
 
@@ -1424,6 +1624,8 @@ Updated: 22 January 2023
 
 Stars on GitHub: 54
 
+----
+
 ### [Hack-with-Github/Free-Security-eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks)
 
 Free Security and Hacking eBooks
@@ -1438,6 +1640,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 3625
 
+----
+
 ### [optiv/Freeze](https://github.com/optiv/Freeze)
 
 Freeze is a payload toolkit for bypassing EDRs using suspended processes, direct syscalls, and alternative execution methods
@@ -1448,9 +1652,11 @@ Clone: [https://github.com/optiv/Freeze.git](https://github.com/optiv/Freeze.git
 
 Created: 21 September 2022
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 1087
+Stars on GitHub: 1088
+
+----
 
 ### [NickPepper/FriendWork_test](https://github.com/NickPepper/FriendWork_test)
 
@@ -1466,6 +1672,8 @@ Updated: 08 September 2022
 
 Stars on GitHub: 1
 
+----
+
 ### [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN)
 
 GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
@@ -1476,9 +1684,11 @@ Clone: [https://github.com/TencentARC/GFPGAN.git](https://github.com/TencentARC/
 
 Created: 19 March 2021
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 26080
+Stars on GitHub: 26090
+
+----
 
 ### [mxrch/GHunt](https://github.com/mxrch/GHunt)
 
@@ -1494,6 +1704,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 13262
 
+----
+
 ### [Alb-310/Geogramint](https://github.com/Alb-310/Geogramint)
 
 An OSINT Geolocalization tool for Telegram that find nearby users and groups 📡🌍🔍
@@ -1507,6 +1719,8 @@ Created: 16 July 2022
 Updated: 31 January 2023
 
 Stars on GitHub: 200
+
+----
 
 ### [mathis2001/GitDiscloser](https://github.com/mathis2001/GitDiscloser)
 
@@ -1522,6 +1736,8 @@ Updated: 30 August 2022
 
 Stars on GitHub: 1
 
+----
+
 ### [mxrch/GitFive](https://github.com/mxrch/GitFive)
 
 🐙 Track down GitHub users.
@@ -1535,6 +1751,8 @@ Created: 05 October 2022
 Updated: 31 January 2023
 
 Stars on GitHub: 530
+
+----
 
 ### [andrebradshaw/GitHub-Sourcing-Tools](https://github.com/andrebradshaw/GitHub-Sourcing-Tools)
 
@@ -1550,6 +1768,8 @@ Updated: 20 January 2023
 
 Stars on GitHub: 28
 
+----
+
 ### [git-up/GitUp](https://github.com/git-up/GitUp)
 
 The Git interface you've been missing all your life has finally arrived.
@@ -1563,6 +1783,8 @@ Created: 13 August 2015
 Updated: 31 January 2023
 
 Stars on GitHub: 10711
+
+----
 
 ### [ad/GithubListener](https://github.com/ad/GithubListener)
 
@@ -1578,6 +1800,8 @@ Updated: 08 September 2022
 
 Stars on GitHub: 25
 
+----
+
 ### [Josue87/GiveMeSecrets](https://github.com/Josue87/GiveMeSecrets)
 
 Use regular expressions to get sensitive information from a given repository (GitHub, pip or npm).
@@ -1592,6 +1816,8 @@ Updated: 15 January 2023
 
 Stars on GitHub: 34
 
+----
+
 ### [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
 
 Algorithms and Data Structures implemented in Go for beginners, following best practices.
@@ -1602,9 +1828,11 @@ Clone: [https://github.com/TheAlgorithms/Go.git](https://github.com/TheAlgorithm
 
 Created: 20 August 2016
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 11933
+Stars on GitHub: 11937
+
+----
 
 ### [loseys/Goblyn](https://github.com/loseys/Goblyn)
 
@@ -1620,6 +1848,8 @@ Updated: 22 November 2022
 
 Stars on GitHub: 46
 
+----
+
 ### [TrueTheos/God-s-Eye](https://github.com/TrueTheos/God-s-Eye)
 
 God's Eye - [GUI] Email, IP and Nickname OSINT & Password breach hunting tool.
@@ -1633,6 +1863,8 @@ Created: 08 April 2021
 Updated: 15 January 2023
 
 Stars on GitHub: 20
+
+----
 
 ### [GoesToEleven/GolangTraining](https://github.com/GoesToEleven/GolangTraining)
 
@@ -1648,6 +1880,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 8731
 
+----
+
 ### [m3n0sd0n4ld/GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz)
 
 GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking).
@@ -1658,9 +1892,11 @@ Clone: [https://github.com/m3n0sd0n4ld/GooFuzz.git](https://github.com/m3n0sd0n4
 
 Created: 17 June 2022
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 756
+Stars on GitHub: 757
+
+----
 
 ### [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
 
@@ -1672,9 +1908,11 @@ Clone: [https://github.com/ValdikSS/GoodbyeDPI.git](https://github.com/ValdikSS/
 
 Created: 16 May 2017
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 8201
+Stars on GitHub: 8203
+
+----
 
 ### [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey)
 
@@ -1686,9 +1924,11 @@ Clone: [https://github.com/chriskiehl/Gooey.git](https://github.com/chriskiehl/G
 
 Created: 01 January 2014
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 17178
+Stars on GitHub: 17180
+
+----
 
 ### [HASH1da1/Gotanda](https://github.com/HASH1da1/Gotanda)
 
@@ -1704,6 +1944,8 @@ Updated: 17 January 2023
 
 Stars on GitHub: 154
 
+----
+
 ### [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel)
 
 GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
@@ -1714,9 +1956,11 @@ Clone: [https://github.com/SadeghHayeri/GreenTunnel.git](https://github.com/Sade
 
 Created: 15 March 2019
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 3212
+Stars on GitHub: 3213
+
+----
 
 ### [ByDog3r/GvngSearch](https://github.com/ByDog3r/GvngSearch)
 
@@ -1732,6 +1976,8 @@ Updated: 18 December 2022
 
 Stars on GitHub: 49
 
+----
+
 ### [ayltai/Hack-Scribd-Unblurer](https://github.com/ayltai/Hack-Scribd-Unblurer)
 
 Unblur Scribd document pages for non-paid members
@@ -1746,6 +1992,8 @@ Updated: 28 January 2023
 
 Stars on GitHub: 95
 
+----
+
 ### [hacksalot/HackMyResume](https://github.com/hacksalot/HackMyResume)
 
 Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
@@ -1756,9 +2004,11 @@ Clone: [https://github.com/hacksalot/HackMyResume.git](https://github.com/hacksa
 
 Created: 24 September 2015
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 9135
+Stars on GitHub: 9134
+
+----
 
 ### [Gexos/Hacking-Tools-Repository](https://github.com/Gexos/Hacking-Tools-Repository)
 
@@ -1774,6 +2024,8 @@ Updated: 22 December 2022
 
 Stars on GitHub: 500
 
+----
+
 ### [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc)
 
 The Havoc Framework.
@@ -1784,9 +2036,11 @@ Clone: [https://github.com/HavocFramework/Havoc.git](https://github.com/HavocFra
 
 Created: 11 September 2022
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 3442
+Stars on GitHub: 3446
+
+----
 
 ### [ins1gn1a/Hexcat](https://github.com/ins1gn1a/Hexcat)
 
@@ -1802,6 +2056,8 @@ Updated: 10 January 2023
 
 Stars on GitHub: 18
 
+----
+
 ### [IntelTakes/Hidden-Friends-Finder](https://github.com/IntelTakes/Hidden-Friends-Finder)
 
 Hidden Friends Finder (HFF) for Facebook
@@ -1815,6 +2071,8 @@ Created: 13 February 2019
 Updated: 03 September 2022
 
 Stars on GitHub: 58
+
+----
 
 ### [CoolerVoid/HiddenWall](https://github.com/CoolerVoid/HiddenWall)
 
@@ -1830,6 +2088,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 406
 
+----
+
 ### [h3x0crypt/HostSpider](https://github.com/h3x0crypt/HostSpider)
 
 Domain information gathering tool
@@ -1844,6 +2104,8 @@ Updated: 29 January 2023
 
 Stars on GitHub: 65
 
+----
+
 ### [KathanP19/HowToHunt](https://github.com/KathanP19/HowToHunt)
 
 Collection of methodology and test case for various web vulnerabilities.
@@ -1854,9 +2116,11 @@ Clone: [https://github.com/KathanP19/HowToHunt.git](https://github.com/KathanP19
 
 Created: 29 August 2020
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 4710
+Stars on GitHub: 4721
+
+----
 
 ### [techgaun/HowToHunt](https://github.com/techgaun/HowToHunt)
 
@@ -1872,6 +2136,8 @@ Updated: 21 September 2022
 
 Stars on GitHub: 4
 
+----
+
 ### [Divested-Mobile/Hypatia](https://github.com/Divested-Mobile/Hypatia)
 
 A realtime malware scanner
@@ -1885,6 +2151,8 @@ Created: 02 June 2020
 Updated: 29 January 2023
 
 Stars on GitHub: 166
+
+----
 
 ### [VickentyZherebov/Import-DB-from-CleverStaff-2-FriendWork](https://github.com/VickentyZherebov/Import-DB-from-CleverStaff-2-FriendWork)
 
@@ -1900,6 +2168,8 @@ Updated: 08 September 2022
 
 Stars on GitHub: 1
 
+----
+
 ### [bradjasper/ImportJSON](https://github.com/bradjasper/ImportJSON)
 
 Import JSON into Google Sheets, this library adds various ImportJSON functions to your spreadsheet
@@ -1913,6 +2183,8 @@ Created: 14 November 2012
 Updated: 31 January 2023
 
 Stars on GitHub: 1940
+
+----
 
 ### [code-for-charity/ImprovedTube-for-YouTube](https://github.com/code-for-charity/ImprovedTube-for-YouTube)
 
@@ -1928,6 +2200,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 2414
 
+----
+
 ### [m4ll0k/Infoga](https://github.com/m4ll0k/Infoga)
 
 Infoga - Email OSINT
@@ -1941,6 +2215,8 @@ Created: 15 September 2017
 Updated: 31 January 2023
 
 Stars on GitHub: 1785
+
+----
 
 ### [keerok/InploitEye](https://github.com/keerok/InploitEye)
 
@@ -1956,6 +2232,8 @@ Updated: 19 November 2022
 
 Stars on GitHub: 4
 
+----
+
 ### [salaheldinaz/Instagram-Tools](https://github.com/salaheldinaz/Instagram-Tools)
 
 Instagram tools/scripts 
@@ -1969,6 +2247,8 @@ Created: 16 July 2019
 Updated: 31 August 2022
 
 Stars on GitHub: 1
+
+----
 
 ### [HuiiBuh/InstagramDownloader](https://github.com/HuiiBuh/InstagramDownloader)
 
@@ -1984,6 +2264,8 @@ Updated: 28 January 2023
 
 Stars on GitHub: 585
 
+----
+
 ### [devXprite/Instaiva](https://github.com/devXprite/Instaiva)
 
 A free and OpenSource Instagram DP downloader.
@@ -1997,6 +2279,8 @@ Created: 19 April 2022
 Updated: 27 January 2023
 
 Stars on GitHub: 6
+
+----
 
 ### [ohsusannamarie/Instant-Data-Scraper-Chrome-Extension-v0.1.7](https://github.com/ohsusannamarie/Instant-Data-Scraper-Chrome-Extension-v0.1.7)
 
@@ -2012,6 +2296,8 @@ Updated: 29 September 2022
 
 Stars on GitHub: 34
 
+----
+
 ### [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl)
 
 Intel Owl: analyze files, domains, IPs in multiple ways from a single API at scale
@@ -2026,6 +2312,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 2545
 
+----
+
 ### [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript)
 
 Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
@@ -2036,9 +2324,11 @@ Clone: [https://github.com/TheAlgorithms/JavaScript.git](https://github.com/TheA
 
 Created: 13 July 2017
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 24604
+Stars on GitHub: 24605
+
+----
 
 ### [VickentyZherebov/Job_boards_parser](https://github.com/VickentyZherebov/Job_boards_parser)
 
@@ -2054,6 +2344,8 @@ Updated: 08 September 2022
 
 Stars on GitHub: 2
 
+----
+
 ### [shatyuka/Killergram](https://github.com/shatyuka/Killergram)
 
 Remove sponsored messages of Telegram
@@ -2064,9 +2356,11 @@ Clone: [https://github.com/shatyuka/Killergram.git](https://github.com/shatyuka/
 
 Created: 09 November 2021
 
-Updated: 25 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 525
+Stars on GitHub: 526
+
+----
 
 ### [4w4k3/KnockMail](https://github.com/4w4k3/KnockMail)
 
@@ -2082,6 +2376,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 242
 
+----
+
 ### [daniel-sanche/KubeMonitor](https://github.com/daniel-sanche/KubeMonitor)
 
 KubeMonitor is a macOS app that displays information about your active Kubernetes cluster in your menu bar
@@ -2095,6 +2391,8 @@ Created: 28 November 2017
 Updated: 10 January 2023
 
 Stars on GitHub: 122
+
+----
 
 ### [octetsplicer/LAZYPARIAH](https://github.com/octetsplicer/LAZYPARIAH)
 
@@ -2110,6 +2408,8 @@ Updated: 24 January 2023
 
 Stars on GitHub: 126
 
+----
+
 ### [RoyalIcing/Lantern](https://github.com/RoyalIcing/Lantern)
 
 Mac app for website auditing and crawling
@@ -2123,6 +2423,8 @@ Created: 16 August 2015
 Updated: 12 January 2023
 
 Stars on GitHub: 197
+
+----
 
 ### [woj-ciech/LeakLooker](https://github.com/woj-ciech/LeakLooker)
 
@@ -2138,6 +2440,8 @@ Updated: 28 January 2023
 
 Stars on GitHub: 1204
 
+----
+
 ### [vysecurity/LinkedInt](https://github.com/vysecurity/LinkedInt)
 
 LinkedIn Recon Tool
@@ -2151,6 +2455,8 @@ Created: 08 March 2018
 Updated: 31 January 2023
 
 Stars on GitHub: 891
+
+----
 
 ### [SimonSchubert/LinuxCommandLibrary](https://github.com/SimonSchubert/LinuxCommandLibrary)
 
@@ -2166,6 +2472,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 303
 
+----
+
 ### [bi-zone/Log4j_Detector](https://github.com/bi-zone/Log4j_Detector)
 
 Detection of Log4j in memory
@@ -2180,6 +2488,8 @@ Updated: 17 October 2022
 
 Stars on GitHub: 40
 
+----
+
 ### [Neo23x0/Loki](https://github.com/Neo23x0/Loki)
 
 Loki - Simple IOC and Incident Response Scanner
@@ -2190,9 +2500,11 @@ Clone: [https://github.com/Neo23x0/Loki.git](https://github.com/Neo23x0/Loki.git
 
 Created: 18 January 2015
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 2727
+Stars on GitHub: 2728
+
+----
 
 ### [objective-see/LuLu](https://github.com/objective-see/LuLu)
 
@@ -2206,7 +2518,9 @@ Created: 10 September 2017
 
 Updated: 01 February 2023
 
-Stars on GitHub: 7474
+Stars on GitHub: 7473
+
+----
 
 ### [Roznoshchik/Lurnby](https://github.com/Roznoshchik/Lurnby)
 
@@ -2222,6 +2536,8 @@ Updated: 19 January 2023
 
 Stars on GitHub: 654
 
+----
+
 ### [emqx/MQTTX](https://github.com/emqx/MQTTX)
 
 Powerful cross-platform MQTT 5.0 Desktop, CLI, and WebSocket client tools
@@ -2232,9 +2548,11 @@ Clone: [https://github.com/emqx/MQTTX.git](https://github.com/emqx/MQTTX.git)
 
 Created: 24 May 2019
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 2406
+Stars on GitHub: 2408
+
+----
 
 ### [mailhog/MailHog](https://github.com/mailhog/MailHog)
 
@@ -2246,9 +2564,11 @@ Clone: [https://github.com/mailhog/MailHog.git](https://github.com/mailhog/MailH
 
 Created: 16 April 2014
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 11474
+Stars on GitHub: 11475
+
+----
 
 ### [mailhog/MailHog-MDA](https://github.com/mailhog/MailHog-MDA)
 
@@ -2264,6 +2584,8 @@ Updated: 08 September 2022
 
 Stars on GitHub: 2
 
+----
+
 ### [mailhog/MailHog-MTA](https://github.com/mailhog/MailHog-MTA)
 
 Experimental mail transfer agent based on MailHog
@@ -2277,6 +2599,8 @@ Created: 24 December 2014
 Updated: 08 September 2022
 
 Stars on GitHub: 19
+
+----
 
 ### [mailhog/MailHog-Server](https://github.com/mailhog/MailHog-Server)
 
@@ -2292,6 +2616,8 @@ Updated: 25 October 2022
 
 Stars on GitHub: 54
 
+----
+
 ### [birdbee44/MalwareResources](https://github.com/birdbee44/MalwareResources)
 
 A list of good resources to learn more about malware RE. 
@@ -2306,6 +2632,8 @@ Updated: 30 August 2022
 
 Stars on GitHub: 2
 
+----
+
 ### [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)
 
 Collection of malware source code for a variety of platforms in an array of different programming languages.
@@ -2318,7 +2646,9 @@ Created: 10 October 2020
 
 Updated: 01 February 2023
 
-Stars on GitHub: 12209
+Stars on GitHub: 12210
+
+----
 
 ### [optiv/Mangle](https://github.com/optiv/Mangle)
 
@@ -2334,6 +2664,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 941
 
+----
+
 ### [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud)
 
 A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
@@ -2344,9 +2676,11 @@ Clone: [https://github.com/flightlessmango/MangoHud.git](https://github.com/flig
 
 Created: 28 January 2020
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 4442
+Stars on GitHub: 4441
+
+----
 
 ### [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers)
 
@@ -2362,6 +2696,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 12314
 
+----
+
 ### [ohsusannamarie/Marketing-for-Engineers](https://github.com/ohsusannamarie/Marketing-for-Engineers)
 
 A curated collection of marketing articles & tools to grow your product. 
@@ -2375,6 +2711,8 @@ Created: 10 March 2020
 Updated: 03 September 2022
 
 Stars on GitHub: 1
+
+----
 
 ### [saeeddhqan/Maryam](https://github.com/saeeddhqan/Maryam)
 
@@ -2390,6 +2728,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 744
 
+----
+
 ### [Sector035/Maryam](https://github.com/Sector035/Maryam)
 
 Maryam : Open-source Intelligence(OSINT) Framework
@@ -2403,6 +2743,8 @@ Created: 01 November 2020
 Updated: 30 August 2022
 
 Stars on GitHub: 1
+
+----
 
 ### [C3n7ral051nt4g3ncy/Masto](https://github.com/C3n7ral051nt4g3ncy/Masto)
 
@@ -2418,6 +2760,8 @@ Updated: 27 January 2023
 
 Stars on GitHub: 152
 
+----
+
 ### [zhenyanghua/MeasureTool-GoogleMaps-V3](https://github.com/zhenyanghua/MeasureTool-GoogleMaps-V3)
 
 A mobile friendly measure tool for Google Maps JS API v3.
@@ -2431,6 +2775,8 @@ Created: 05 March 2017
 Updated: 23 January 2023
 
 Stars on GitHub: 114
+
+----
 
 ### [imran-parray/Mind-Maps](https://github.com/imran-parray/Mind-Maps)
 
@@ -2446,6 +2792,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 1537
 
+----
+
 ### [mikaku/Monitorix](https://github.com/mikaku/Monitorix)
 
 Monitorix is a free, open source, lightweight system monitoring tool.
@@ -2459,6 +2807,8 @@ Created: 22 October 2012
 Updated: 29 January 2023
 
 Stars on GitHub: 1008
+
+----
 
 ### [AzizKpln/Moriarty-Project](https://github.com/AzizKpln/Moriarty-Project)
 
@@ -2474,6 +2824,8 @@ Updated: 29 January 2023
 
 Stars on GitHub: 982
 
+----
+
 ### [SeaDve/Mousai](https://github.com/SeaDve/Mousai)
 
 Identify songs in seconds
@@ -2487,6 +2839,8 @@ Created: 29 March 2021
 Updated: 31 January 2023
 
 Stars on GitHub: 670
+
+----
 
 ### [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes)
 
@@ -2502,6 +2856,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 585
 
+----
+
 ### [Sprp77/My-Google-CSE](https://github.com/Sprp77/My-Google-CSE)
 
 List of Custom Search Engines 
@@ -2515,6 +2871,8 @@ Created: 17 January 2018
 Updated: 10 January 2023
 
 Stars on GitHub: 23
+
+----
 
 ### [GONZOsint/Namechk](https://github.com/GONZOsint/Namechk)
 
@@ -2530,6 +2888,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 509
 
+----
+
 ### [Zeyad-Azima/Need-IP](https://github.com/Zeyad-Azima/Need-IP)
 
 A tool for Pentesters & BugHunters to collect IPs of company, server, Operating System & many more
@@ -2543,6 +2903,8 @@ Created: 17 July 2020
 Updated: 19 November 2022
 
 Stars on GitHub: 12
+
+----
 
 ### [eth0izzle/Needl](https://github.com/eth0izzle/Needl)
 
@@ -2558,6 +2920,8 @@ Updated: 26 January 2023
 
 Stars on GitHub: 445
 
+----
+
 ### [itaymigdal/Nimbo-C2](https://github.com/itaymigdal/Nimbo-C2)
 
 Nimbo-C2 is yet another (simple and lightweight) C2 framework
@@ -2571,6 +2935,8 @@ Created: 08 October 2022
 Updated: 18 January 2023
 
 Stars on GitHub: 113
+
+----
 
 ### [R4yGM/NorthKoreaScans](https://github.com/R4yGM/NorthKoreaScans)
 
@@ -2586,6 +2952,8 @@ Updated: 04 September 2022
 
 Stars on GitHub: 6
 
+----
+
 ### [OsintDojo/OSINT](https://github.com/OsintDojo/OSINT)
 
 Collections of tools and methods created to aid in OSINT collection
@@ -2599,6 +2967,8 @@ Created: 17 July 2021
 Updated: 19 January 2023
 
 Stars on GitHub: 12
+
+----
 
 ### [sinwindie/OSINT](https://github.com/sinwindie/OSINT)
 
@@ -2614,6 +2984,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 1922
 
+----
+
 ### [C3n7ral051nt4g3ncy/OSINT-Bookmarklets](https://github.com/C3n7ral051nt4g3ncy/OSINT-Bookmarklets)
 
 Fast Search including Dark Web Search
@@ -2627,6 +2999,8 @@ Created: 03 June 2022
 Updated: 31 January 2023
 
 Stars on GitHub: 53
+
+----
 
 ### [GFB-BFH/OSINT-CLUB](https://github.com/GFB-BFH/OSINT-CLUB)
 
@@ -2642,6 +3016,8 @@ Updated: 30 August 2022
 
 Stars on GitHub: 3
 
+----
+
 ### [Dutchosintguy/OSINT-Discord-resources](https://github.com/Dutchosintguy/OSINT-Discord-resources)
 
 Some OSINT Discord resources
@@ -2656,6 +3032,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 179
 
+----
+
 ### [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework)
 
 OSINT Framework
@@ -2666,9 +3044,11 @@ Clone: [https://github.com/lockfale/OSINT-Framework.git](https://github.com/lock
 
 Created: 19 December 2015
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 4909
+Stars on GitHub: 4911
+
+----
 
 ### [cipher387/OSINT-Github-profiles](https://github.com/cipher387/OSINT-Github-profiles)
 
@@ -2684,6 +3064,8 @@ Updated: 29 January 2023
 
 Stars on GitHub: 45
 
+----
+
 ### [Malfrats/OSINT-Map](https://github.com/Malfrats/OSINT-Map)
 
 🗺  A map of OSINT tools.
@@ -2697,6 +3079,8 @@ Created: 13 March 2022
 Updated: 31 January 2023
 
 Stars on GitHub: 266
+
+----
 
 ### [Bafomet666/OSINT-SAN](https://github.com/Bafomet666/OSINT-SAN)
 
@@ -2712,6 +3096,8 @@ Updated: 26 January 2023
 
 Stars on GitHub: 349
 
+----
+
 ### [Bafomet666/OSINT-SAN-PRO](https://github.com/Bafomet666/OSINT-SAN-PRO)
 
 PRO-SAN Framework дает возможность быстро находить информацию и деанонимизировать пользователей сети интернет.
@@ -2725,6 +3111,8 @@ Created: 26 April 2021
 Updated: 16 October 2022
 
 Stars on GitHub: 18
+
+----
 
 ### [SharadKumar97/OSINT-SPY](https://github.com/SharadKumar97/OSINT-SPY)
 
@@ -2740,6 +3128,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 791
 
+----
+
 ### [HOPain/OSINT-Search-Tools](https://github.com/HOPain/OSINT-Search-Tools)
 
 Complex OSINT Search Tools 🕵️‍♂️🔥
@@ -2753,6 +3143,8 @@ Created: 11 September 2021
 Updated: 31 January 2023
 
 Stars on GitHub: 97
+
+----
 
 ### [daviesombasa/OSINT-Tools](https://github.com/daviesombasa/OSINT-Tools)
 
@@ -2768,6 +3160,8 @@ Updated: 30 August 2022
 
 Stars on GitHub: 2
 
+----
+
 ### [willc/OSINT-flowcharts](https://github.com/willc/OSINT-flowcharts)
 
 OSINT flowcharts. Credit to IntelTechniques.com
@@ -2781,6 +3175,8 @@ Created: 24 January 2019
 Updated: 04 January 2023
 
 Stars on GitHub: 24
+
+----
 
 ### [Ph055a/OSINT_Articles](https://github.com/Ph055a/OSINT_Articles)
 
@@ -2796,6 +3192,8 @@ Updated: 18 October 2022
 
 Stars on GitHub: 12
 
+----
+
 ### [hugoahosta/OSINT_Collection](https://github.com/hugoahosta/OSINT_Collection)
 
 Maintained collection of OSINT related resources. (All Free & Actionable)
@@ -2810,6 +3208,8 @@ Updated: 31 August 2022
 
 Stars on GitHub: 6
 
+----
+
 ### [Ph055a/OSINT_Collection](https://github.com/Ph055a/OSINT_Collection)
 
 Maintained collection of OSINT related resources. (All Free & Actionable)
@@ -2820,9 +3220,11 @@ Clone: [https://github.com/Ph055a/OSINT_Collection.git](https://github.com/Ph055
 
 Created: 26 February 2018
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 1398
+Stars on GitHub: 1399
+
+----
 
 ### [C3n7ral051nt4g3ncy/OSINT_Inception-links](https://github.com/C3n7ral051nt4g3ncy/OSINT_Inception-links)
 
@@ -2838,6 +3240,8 @@ Updated: 13 January 2023
 
 Stars on GitHub: 98
 
+----
+
 ### [Sprp77/OSINT_Intel_Tracker](https://github.com/Sprp77/OSINT_Intel_Tracker)
 
 OSINT Intelligence for different areas ( useful for different type of investigations and learning etc)
@@ -2852,6 +3256,8 @@ Updated: 29 December 2022
 
 Stars on GitHub: 7
 
+----
+
 ### [blaCCkHatHacEEkr/OSINT_TIPS](https://github.com/blaCCkHatHacEEkr/OSINT_TIPS)
 
 OSINT 
@@ -2862,9 +3268,11 @@ Clone: [https://github.com/blaCCkHatHacEEkr/OSINT_TIPS.git](https://github.com/b
 
 Created: 04 November 2019
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 557
+Stars on GitHub: 558
+
+----
 
 ### [IVMachiavelli/OSINT_Team_Links](https://github.com/IVMachiavelli/OSINT_Team_Links)
 
@@ -2880,6 +3288,8 @@ Updated: 18 January 2023
 
 Stars on GitHub: 476
 
+----
+
 ### [Double2Sky/OffenOsint](https://github.com/Double2Sky/OffenOsint)
 
 Beta release
@@ -2893,6 +3303,8 @@ Created: 09 January 2021
 Updated: 26 December 2022
 
 Stars on GitHub: 139
+
+----
 
 ### [D4Vinci/One-Lin3r](https://github.com/D4Vinci/One-Lin3r)
 
@@ -2908,6 +3320,8 @@ Updated: 29 January 2023
 
 Stars on GitHub: 1524
 
+----
+
 ### [megadose/OnionSearch](https://github.com/megadose/OnionSearch)
 
 OnionSearch is a script that scrapes urls on different .onion search engines. 
@@ -2921,6 +3335,8 @@ Created: 18 March 2020
 Updated: 31 January 2023
 
 Stars on GitHub: 720
+
+----
 
 ### [zincwork/Open_Source_Your_Interview_Process](https://github.com/zincwork/Open_Source_Your_Interview_Process)
 
@@ -2936,6 +3352,8 @@ Updated: 03 September 2022
 
 Stars on GitHub: 18
 
+----
+
 ### [Datalux/Osintgram](https://github.com/Datalux/Osintgram)
 
 Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
@@ -2946,9 +3364,11 @@ Clone: [https://github.com/Datalux/Osintgram.git](https://github.com/Datalux/Osi
 
 Created: 07 June 2019
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 5928
+Stars on GitHub: 5929
+
+----
 
 ### [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)
 
@@ -2960,9 +3380,11 @@ Clone: [https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE.git](https://github
 
 Created: 28 June 2019
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 11793
+Stars on GitHub: 11796
+
+----
 
 ### [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List)
 
@@ -2974,9 +3396,11 @@ Clone: [https://github.com/TheSpeedX/PROXY-List.git](https://github.com/TheSpeed
 
 Created: 22 September 2018
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 1474
+Stars on GitHub: 1475
+
+----
 
 ### [xHak9x/PYcrypt](https://github.com/xHak9x/PYcrypt)
 
@@ -2992,6 +3416,8 @@ Updated: 01 January 2023
 
 Stars on GitHub: 53
 
+----
+
 ### [s0md3v/Parth](https://github.com/s0md3v/Parth)
 
 Heuristic Vulnerable Parameter Scanner
@@ -3005,6 +3431,8 @@ Created: 19 August 2020
 Updated: 31 January 2023
 
 Stars on GitHub: 457
+
+----
 
 ### [Viralmaniar/Passhunt](https://github.com/Viralmaniar/Passhunt)
 
@@ -3020,6 +3448,8 @@ Updated: 24 January 2023
 
 Stars on GitHub: 1101
 
+----
+
 ### [Tek-Security-Group/Password-Repo](https://github.com/Tek-Security-Group/Password-Repo)
 
 None
@@ -3034,6 +3464,8 @@ Updated: 04 September 2022
 
 Stars on GitHub: 67
 
+----
+
 ### [peazip/PeaZip](https://github.com/peazip/PeaZip)
 
 Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.
@@ -3044,9 +3476,11 @@ Clone: [https://github.com/peazip/PeaZip.git](https://github.com/peazip/PeaZip.g
 
 Created: 13 November 2010
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 2500
+Stars on GitHub: 2501
+
+----
 
 ### [Hack-with-Github/Peerlyst](https://github.com/Hack-with-Github/Peerlyst)
 
@@ -3062,6 +3496,8 @@ Updated: 10 October 2022
 
 Stars on GitHub: 32
 
+----
+
 ### [s0md3v/Photon](https://github.com/s0md3v/Photon)
 
 Incredibly fast crawler designed for OSINT.
@@ -3076,6 +3512,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 9348
 
+----
+
 ### [HACKERALERT/Picocrypt](https://github.com/HACKERALERT/Picocrypt)
 
 A very small, very simple, yet very secure encryption tool.
@@ -3086,9 +3524,11 @@ Clone: [https://github.com/HACKERALERT/Picocrypt.git](https://github.com/HACKERA
 
 Created: 18 February 2021
 
-Updated: 30 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 1079
+Stars on GitHub: 1080
+
+----
 
 ### [sp35/Pika](https://github.com/sp35/Pika)
 
@@ -3104,6 +3544,8 @@ Updated: 13 September 2022
 
 Stars on GitHub: 2
 
+----
+
 ### [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
 
 PowerShell for every system!
@@ -3114,9 +3556,11 @@ Clone: [https://github.com/PowerShell/PowerShell.git](https://github.com/PowerSh
 
 Created: 13 January 2016
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 36991
+Stars on GitHub: 37004
+
+----
 
 ### [krlvm/PowerTunnel](https://github.com/krlvm/PowerTunnel)
 
@@ -3132,6 +3576,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 644
 
+----
+
 ### [krlvm/PowerTunnel-Android](https://github.com/krlvm/PowerTunnel-Android)
 
 Powerful and extensible proxy server with anti-censorship functionality for Android
@@ -3145,6 +3591,8 @@ Created: 07 March 2020
 Updated: 31 January 2023
 
 Stars on GitHub: 640
+
+----
 
 ### [Hack-with-Github/Powerful-Plugins](https://github.com/Hack-with-Github/Powerful-Plugins)
 
@@ -3160,6 +3608,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 718
 
+----
+
 ### [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 
 aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)  
@@ -3170,9 +3620,11 @@ Clone: [https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesi
 
 Created: 14 January 2013
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 25221
+Stars on GitHub: 25223
+
+----
 
 ### [C3n7ral051nt4g3ncy/Prot1ntelligence](https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence)
 
@@ -3188,6 +3640,8 @@ Updated: 23 January 2023
 
 Stars on GitHub: 73
 
+----
+
 ### [AstraaDev/Pseudo-Changer](https://github.com/AstraaDev/Pseudo-Changer)
 
 Change a nickname by replacing the letters with numbers.
@@ -3201,6 +3655,8 @@ Created: 27 August 2021
 Updated: 11 January 2023
 
 Stars on GitHub: 3
+
+----
 
 ### [ins1gn1a/Pwdlyser-CLI](https://github.com/ins1gn1a/Pwdlyser-CLI)
 
@@ -3216,6 +3672,8 @@ Updated: 06 September 2022
 
 Stars on GitHub: 30
 
+----
+
 ### [ins1gn1a/Pwned-Anonymity](https://github.com/ins1gn1a/Pwned-Anonymity)
 
 Automated script to check for mass list of passwords against HaveIBeenPwned's K-Anonymity API
@@ -3229,6 +3687,8 @@ Created: 04 June 2018
 Updated: 06 September 2022
 
 Stars on GitHub: 2
+
+----
 
 ### [D4Vinci/PyFlooder](https://github.com/D4Vinci/PyFlooder)
 
@@ -3244,6 +3704,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 316
 
+----
+
 ### [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper)
 
 Never use print for debugging again
@@ -3254,9 +3716,11 @@ Clone: [https://github.com/cool-RR/PySnooper.git](https://github.com/cool-RR/PyS
 
 Created: 18 April 2019
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 15646
+Stars on GitHub: 15647
+
+----
 
 ### [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
 
@@ -3268,9 +3732,11 @@ Clone: [https://github.com/TheAlgorithms/Python.git](https://github.com/TheAlgor
 
 Created: 16 July 2016
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 151718
+Stars on GitHub: 151736
+
+----
 
 ### [cipher387/Python-osint-automation-examples](https://github.com/cipher387/Python-osint-automation-examples)
 
@@ -3286,6 +3752,8 @@ Updated: 21 January 2023
 
 Stars on GitHub: 30
 
+----
+
 ### [zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises)
 
 100+ Python challenging programming exercises
@@ -3296,9 +3764,11 @@ Clone: [https://github.com/zhiwehu/Python-programming-exercises.git](https://git
 
 Created: 14 June 2012
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 22254
+Stars on GitHub: 22259
+
+----
 
 ### [devXprite/Random-Quote-Generator](https://github.com/devXprite/Random-Quote-Generator)
 
@@ -3314,6 +3784,8 @@ Updated: 08 September 2022
 
 Stars on GitHub: 2
 
+----
+
 ### [gokulapap/Reconator](https://github.com/gokulapap/Reconator)
 
 Automated Recon for Pentesting & Bug Bounty
@@ -3327,6 +3799,8 @@ Created: 21 September 2021
 Updated: 27 January 2023
 
 Stars on GitHub: 320
+
+----
 
 ### [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
 
@@ -3342,6 +3816,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 3715
 
+----
+
 ### [CyberSecurityUP/Red-Team-Management](https://github.com/CyberSecurityUP/Red-Team-Management)
 
 None
@@ -3356,6 +3832,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 292
 
+----
+
 ### [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit)
 
 This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.
@@ -3366,9 +3844,11 @@ Clone: [https://github.com/infosecn1nja/Red-Teaming-Toolkit.git](https://github.
 
 Created: 26 April 2018
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 7119
+Stars on GitHub: 7121
+
+----
 
 ### [redcode-labs/RedNixOS](https://github.com/redcode-labs/RedNixOS)
 
@@ -3384,6 +3864,8 @@ Updated: 27 January 2023
 
 Stars on GitHub: 135
 
+----
+
 ### [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager)
 
 :wrench: Cross-platform Developer GUI for Redis
@@ -3394,9 +3876,11 @@ Clone: [https://github.com/RedisInsight/RedisDesktopManager.git](https://github.
 
 Created: 05 August 2013
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 21394
+Stars on GitHub: 21396
+
+----
 
 ### [bambax/Remsi](https://github.com/bambax/Remsi)
 
@@ -3412,6 +3896,8 @@ Updated: 20 January 2023
 
 Stars on GitHub: 134
 
+----
+
 ### [birdbee44/Resources](https://github.com/birdbee44/Resources)
 
 None
@@ -3425,6 +3911,8 @@ Created: 06 October 2019
 Updated: 12 January 2023
 
 Stars on GitHub: 48
+
+----
 
 ### [tanaikech/ResumableUploadForGoogleDrive_js](https://github.com/tanaikech/ResumableUploadForGoogleDrive_js)
 
@@ -3440,6 +3928,8 @@ Updated: 26 January 2023
 
 Stars on GitHub: 68
 
+----
+
 ### [KostyaKulakov/Russian_System_of_ANPR](https://github.com/KostyaKulakov/Russian_System_of_ANPR)
 
 The Russian system of automatic number plate recognition
@@ -3454,6 +3944,8 @@ Updated: 19 January 2023
 
 Stars on GitHub: 152
 
+----
+
 ### [RustScan/RustScan](https://github.com/RustScan/RustScan)
 
 🤖 The Modern Port Scanner 🤖
@@ -3464,9 +3956,11 @@ Clone: [https://github.com/RustScan/RustScan.git](https://github.com/RustScan/Ru
 
 Created: 11 July 2020
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 9006
+Stars on GitHub: 9010
+
+----
 
 ### [IntelligenceX/SDK](https://github.com/IntelligenceX/SDK)
 
@@ -3482,6 +3976,8 @@ Updated: 28 January 2023
 
 Stars on GitHub: 283
 
+----
+
 ### [termuxhackers-id/SIGIT](https://github.com/termuxhackers-id/SIGIT)
 
 SIGIT - Simple Information Gathering Toolkit
@@ -3495,6 +3991,8 @@ Created: 21 April 2021
 Updated: 31 January 2023
 
 Stars on GitHub: 445
+
+----
 
 ### [Viralmaniar/SMWYG-Show-Me-What-You-Got](https://github.com/Viralmaniar/SMWYG-Show-Me-What-You-Got)
 
@@ -3510,6 +4008,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 269
 
+----
+
 ### [ShivamRai2003/SQL-Injection-Google-Dork-List](https://github.com/ShivamRai2003/SQL-Injection-Google-Dork-List)
 
 Updated 6000 Sql Injection Google Dork 2021 
@@ -3523,6 +4023,8 @@ Created: 13 July 2021
 Updated: 15 January 2023
 
 Stars on GitHub: 13
+
+----
 
 ### [eslam3kl/SQLiDetector](https://github.com/eslam3kl/SQLiDetector)
 
@@ -3538,6 +4040,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 410
 
+----
+
 ### [legly/SamSploit](https://github.com/legly/SamSploit)
 
 A professional ethical hacking tool. 
@@ -3551,6 +4055,8 @@ Created: 26 May 2022
 Updated: 03 November 2022
 
 Stars on GitHub: 32
+
+----
 
 ### [OffXec/Samurai](https://github.com/OffXec/Samurai)
 
@@ -3566,6 +4072,8 @@ Updated: 28 December 2022
 
 Stars on GitHub: 81
 
+----
+
 ### [matamorphosis/Scrummage](https://github.com/matamorphosis/Scrummage)
 
 The Ultimate OSINT and Threat Hunting Framework
@@ -3579,6 +4087,8 @@ Created: 10 April 2019
 Updated: 17 January 2023
 
 Stars on GitHub: 413
+
+----
 
 ### [HashPals/Search-That-Hash](https://github.com/HashPals/Search-That-Hash)
 
@@ -3594,6 +4104,8 @@ Updated: 25 January 2023
 
 Stars on GitHub: 1098
 
+----
+
 ### [m4ll0k/SecretFinder](https://github.com/m4ll0k/SecretFinder)
 
 SecretFinder - A python script for find sensitive data (apikeys, accesstoken,jwt,..) and search anything on javascript files 
@@ -3607,6 +4119,8 @@ Created: 08 June 2020
 Updated: 31 January 2023
 
 Stars on GitHub: 1286
+
+----
 
 ### [deepfence/SecretScanner](https://github.com/deepfence/SecretScanner)
 
@@ -3622,6 +4136,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 1894
 
+----
+
 ### [SecurityRAT/SecurityRAT](https://github.com/SecurityRAT/SecurityRAT)
 
 OWASP SecurityRAT (version 1.x) - Tool for handling security requirements in development
@@ -3635,6 +4151,8 @@ Created: 02 May 2016
 Updated: 22 January 2023
 
 Stars on GitHub: 144
+
+----
 
 ### [ohsusannamarie/Shareworthy-Technical-Interview-Prep-Resources](https://github.com/ohsusannamarie/Shareworthy-Technical-Interview-Prep-Resources)
 
@@ -3650,6 +4168,8 @@ Updated: 03 September 2022
 
 Stars on GitHub: 11
 
+----
+
 ### [JakeWnuk/SickNerd](https://github.com/JakeWnuk/SickNerd)
 
 CLI tool for Google Dorking with the ability to fetch and filter dorks from GHDB, save and load results, and search multiple domains.
@@ -3663,6 +4183,8 @@ Created: 27 January 2022
 Updated: 18 January 2023
 
 Stars on GitHub: 22
+
+----
 
 ### [x13a/Silence](https://github.com/x13a/Silence)
 
@@ -3678,6 +4200,8 @@ Updated: 27 January 2023
 
 Stars on GitHub: 164
 
+----
+
 ### [prabalmanhas/Social-Media-Detoxifier-Minor-Project-I](https://github.com/prabalmanhas/Social-Media-Detoxifier-Minor-Project-I)
 
 Social Media Detoxifier - a step towards Cyber Security / against Cyber Crimes
@@ -3691,6 +4215,8 @@ Created: 19 May 2022
 Updated: 13 September 2022
 
 Stars on GitHub: 2
+
+----
 
 ### [vdrmota/Social-Media-and-Contact-Info-Extractor](https://github.com/vdrmota/Social-Media-and-Contact-Info-Extractor)
 
@@ -3706,6 +4232,8 @@ Updated: 26 January 2023
 
 Stars on GitHub: 56
 
+----
+
 ### [The-Amoghavarsha/Sock-You](https://github.com/The-Amoghavarsha/Sock-You)
 
 Terminal based fake identity generator.
@@ -3719,6 +4247,8 @@ Created: 25 July 2022
 Updated: 19 January 2023
 
 Stars on GitHub: 10
+
+----
 
 ### [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API)
 
@@ -3734,6 +4264,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 9704
 
+----
+
 ### [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI)
 
 A simple and fast anti-censorship tool written in Go
@@ -3748,6 +4280,8 @@ Updated: 26 January 2023
 
 Stars on GitHub: 240
 
+----
+
 ### [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer)
 
 Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
@@ -3758,9 +4292,11 @@ Clone: [https://github.com/oguzhaninan/Stacer.git](https://github.com/oguzhanina
 
 Created: 06 November 2016
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
 Stars on GitHub: 8201
+
+----
 
 ### [bing0o/SubEnum](https://github.com/bing0o/SubEnum)
 
@@ -3776,6 +4312,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 161
 
+----
+
 ### [fuzz-security/SuperWordlist](https://github.com/fuzz-security/SuperWordlist)
 
 基于实战沉淀下的各种弱口令字典
@@ -3786,9 +4324,11 @@ Clone: [https://github.com/fuzz-security/SuperWordlist.git](https://github.com/f
 
 Created: 06 June 2020
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 1280
+Stars on GitHub: 1281
+
+----
 
 ### [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus)
 
@@ -3800,9 +4340,11 @@ Clone: [https://github.com/TablePlus/TablePlus.git](https://github.com/TablePlus
 
 Created: 13 June 2017
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 2889
+Stars on GitHub: 2890
+
+----
 
 ### [zqtay/Telegram-Message-Analyzer](https://github.com/zqtay/Telegram-Message-Analyzer)
 
@@ -3818,6 +4360,8 @@ Updated: 20 January 2023
 
 Stars on GitHub: 26
 
+----
+
 ### [Forichok/TelegramOnlineSpy](https://github.com/Forichok/TelegramOnlineSpy)
 
 Simple telegram online spy logger bot
@@ -3831,6 +4375,8 @@ Created: 06 November 2019
 Updated: 31 January 2023
 
 Stars on GitHub: 181
+
+----
 
 ### [thomasjjj/TelegramWC](https://github.com/thomasjjj/TelegramWC)
 
@@ -3846,6 +4392,8 @@ Updated: 13 January 2023
 
 Stars on GitHub: 6
 
+----
+
 ### [bellingcat/Telepathy](https://github.com/bellingcat/Telepathy)
 
 Public release of Telepathy, an OSINT toolkit for investigating Telegram chats.
@@ -3859,6 +4407,8 @@ Created: 07 February 2022
 Updated: 31 January 2023
 
 Stars on GitHub: 44
+
+----
 
 ### [novitae/Tenai](https://github.com/novitae/Tenai)
 
@@ -3874,6 +4424,8 @@ Updated: 27 January 2023
 
 Stars on GitHub: 71
 
+----
+
 ### [RajSolai/TextSnatcher](https://github.com/RajSolai/TextSnatcher)
 
 How to Copy Text from Images ? Answer is TextSnatcher !. Perform OCR operations in seconds on Linux Desktop.
@@ -3887,6 +4439,8 @@ Created: 15 July 2021
 Updated: 27 January 2023
 
 Stars on GitHub: 402
+
+----
 
 ### [fleef-me/TgBackUP](https://github.com/fleef-me/TgBackUP)
 
@@ -3902,6 +4456,8 @@ Updated: 10 December 2022
 
 Stars on GitHub: 14
 
+----
+
 ### [champmq/TheScrapper](https://github.com/champmq/TheScrapper)
 
 Scrape emails, phone numbers and social media accounts from a website.
@@ -3915,6 +4471,8 @@ Created: 07 May 2021
 Updated: 31 January 2023
 
 Stars on GitHub: 116
+
+----
 
 ### [SobrioRiot/The_spy_job](https://github.com/SobrioRiot/The_spy_job)
 
@@ -3930,6 +4488,8 @@ Updated: 07 January 2023
 
 Stars on GitHub: 6
 
+----
+
 ### [davidteather/TikTok-Api](https://github.com/davidteather/TikTok-Api)
 
 The Unofficial TikTok API Wrapper In Python
@@ -3940,9 +4500,11 @@ Clone: [https://github.com/davidteather/TikTok-Api.git](https://github.com/david
 
 Created: 26 May 2019
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 2960
+Stars on GitHub: 2961
+
+----
 
 ### [punk-security/Timeline](https://github.com/punk-security/Timeline)
 
@@ -3958,6 +4520,8 @@ Updated: 23 October 2022
 
 Stars on GitHub: 7
 
+----
+
 ### [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot)
 
 Dark Web OSINT Tool
@@ -3968,9 +4532,11 @@ Clone: [https://github.com/DedSecInside/TorBot.git](https://github.com/DedSecIns
 
 Created: 17 May 2017
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 1835
+Stars on GitHub: 1836
+
+----
 
 ### [alex14324/Turbolist3r](https://github.com/alex14324/Turbolist3r)
 
@@ -3986,6 +4552,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 35
 
+----
+
 ### [JohnnyMa/TwitterFontana](https://github.com/JohnnyMa/TwitterFontana)
 
 An open-source alternative for those flash based Twitter fountains, built using HTML5, CSS (SASS) and Javascript.
@@ -4000,6 +4568,8 @@ Updated: 03 September 2022
 
 Stars on GitHub: 1
 
+----
+
 ### [utmapp/UTM](https://github.com/utmapp/UTM)
 
 Virtual machines for iOS and macOS
@@ -4010,9 +4580,11 @@ Clone: [https://github.com/utmapp/UTM.git](https://github.com/utmapp/UTM.git)
 
 Created: 12 April 2019
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 17648
+Stars on GitHub: 17655
+
+----
 
 ### [harismuneer/Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper)
 
@@ -4024,9 +4596,11 @@ Clone: [https://github.com/harismuneer/Ultimate-Facebook-Scraper.git](https://gi
 
 Created: 22 August 2018
 
-Updated: 29 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 2509
+Stars on GitHub: 2511
+
+----
 
 ### [bormaxi8080/Unlabelling](https://github.com/bormaxi8080/Unlabelling)
 
@@ -4042,6 +4616,8 @@ Updated: 30 August 2022
 
 Stars on GitHub: 1
 
+----
+
 ### [sergo-code/VKGroupParser](https://github.com/sergo-code/VKGroupParser)
 
 Программа собирает посты и комментарии с социальной сети Вконтакте, отбирает сообщения по ключевым словам нечетким сравнением и проверкой орфографии, сохраняет сообщения в нереляционную базу данных MongoDB. Реализован телеграмм бот для удаленного управления.
@@ -4056,6 +4632,8 @@ Updated: 28 January 2023
 
 Stars on GitHub: 18
 
+----
+
 ### [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
 
 A new bootable USB solution.
@@ -4066,9 +4644,11 @@ Clone: [https://github.com/ventoy/Ventoy.git](https://github.com/ventoy/Ventoy.g
 
 Created: 10 March 2020
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 44705
+Stars on GitHub: 44711
+
+----
 
 ### [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt)
 
@@ -4084,6 +4664,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 4692
 
+----
+
 ### [t3l3machus/Villain](https://github.com/t3l3machus/Villain)
 
 Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team.
@@ -4094,9 +4676,11 @@ Clone: [https://github.com/t3l3machus/Villain.git](https://github.com/t3l3machus
 
 Created: 25 October 2022
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 2376
+Stars on GitHub: 2377
+
+----
 
 ### [LeFroid/Viper-Browser](https://github.com/LeFroid/Viper-Browser)
 
@@ -4112,6 +4696,8 @@ Updated: 29 January 2023
 
 Stars on GitHub: 168
 
+----
+
 ### [sickcodes/Vulnogram](https://github.com/sickcodes/Vulnogram)
 
 Vulnogram is a tool for creating and editing CVE information in CVE JSON format
@@ -4125,6 +4711,8 @@ Created: 08 April 2021
 Updated: 03 September 2022
 
 Stars on GitHub: 4
+
+----
 
 ### [riz4d/WaGpScraper](https://github.com/riz4d/WaGpScraper)
 
@@ -4140,6 +4728,8 @@ Updated: 18 December 2022
 
 Stars on GitHub: 27
 
+----
+
 ### [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint)
 
 The awesome document factory
@@ -4154,6 +4744,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 5447
 
+----
+
 ### [H-M-H/Weylus](https://github.com/H-M-H/Weylus)
 
 Use your tablet as graphic tablet/touch screen on your computer.
@@ -4164,9 +4756,11 @@ Clone: [https://github.com/H-M-H/Weylus.git](https://github.com/H-M-H/Weylus.git
 
 Created: 01 May 2020
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 4560
+Stars on GitHub: 4563
+
+----
 
 ### [GONZOsint/WhatCMS](https://github.com/GONZOsint/WhatCMS)
 
@@ -4182,6 +4776,8 @@ Updated: 10 November 2022
 
 Stars on GitHub: 231
 
+----
+
 ### [TheSpeedX/WhatScraper](https://github.com/TheSpeedX/WhatScraper)
 
 A Whatsapp Group Link Scraper And Checker
@@ -4195,6 +4791,8 @@ Created: 17 October 2019
 Updated: 24 January 2023
 
 Stars on GitHub: 155
+
+----
 
 ### [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb)
 
@@ -4210,6 +4808,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 4316
 
+----
+
 ### [WebBreacher/WhatsMyName](https://github.com/WebBreacher/WhatsMyName)
 
 This repository has the unified data required to perform user enumeration on various websites. Content is in a JSON file and can easily be used in other projects.
@@ -4223,6 +4823,8 @@ Created: 02 October 2015
 Updated: 31 January 2023
 
 Stars on GitHub: 1105
+
+----
 
 ### [Sector035/WhatsMyName](https://github.com/Sector035/WhatsMyName)
 
@@ -4238,6 +4840,8 @@ Updated: 30 August 2022
 
 Stars on GitHub: 1
 
+----
+
 ### [rootm0s/WinPwnage](https://github.com/rootm0s/WinPwnage)
 
 UAC bypass, Elevate, Persistence methods
@@ -4248,9 +4852,11 @@ Clone: [https://github.com/rootm0s/WinPwnage.git](https://github.com/rootm0s/Win
 
 Created: 08 April 2018
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 2397
+Stars on GitHub: 2398
+
+----
 
 ### [Hack-with-Github/Windows](https://github.com/Hack-with-Github/Windows)
 
@@ -4266,6 +4872,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 1171
 
+----
+
 ### [GetStream/Winds](https://github.com/GetStream/Winds)
 
 A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
@@ -4279,6 +4887,8 @@ Created: 19 September 2016
 Updated: 31 January 2023
 
 Stars on GitHub: 8736
+
+----
 
 ### [blackhatethicalhacking/XSSRocket](https://github.com/blackhatethicalhacking/XSSRocket)
 
@@ -4294,6 +4904,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 22
 
+----
+
 ### [l4rm4nd/XingDumper](https://github.com/l4rm4nd/XingDumper)
 
 Python3 script to dump employee information from XING API
@@ -4307,6 +4919,8 @@ Created: 12 November 2021
 Updated: 26 December 2022
 
 Stars on GitHub: 11
+
+----
 
 ### [Uncommon/Xit](https://github.com/Uncommon/Xit)
 
@@ -4322,6 +4936,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 903
 
+----
+
 ### [DrakenWan/Yale3](https://github.com/DrakenWan/Yale3)
 
 A simple LinkedIn profile scraper implemented as a chrome extension
@@ -4335,6 +4951,8 @@ Created: 04 December 2021
 Updated: 17 January 2023
 
 Stars on GitHub: 26
+
+----
 
 ### [s0md3v/Zen](https://github.com/s0md3v/Zen)
 
@@ -4350,6 +4968,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 471
 
+----
+
 ### [Yariya/Zmap-ProxyScanner](https://github.com/Yariya/Zmap-ProxyScanner)
 
 A Thread Safe fast way to find proxies. Find 2000-5000 working http,socks4,socks5 proxies in one scan.
@@ -4363,6 +4983,8 @@ Created: 26 August 2022
 Updated: 29 January 2023
 
 Stars on GitHub: 122
+
+----
 
 ### [starnightcyber/ZoomEye](https://github.com/starnightcyber/ZoomEye)
 
@@ -4378,6 +5000,8 @@ Updated: 27 January 2023
 
 Stars on GitHub: 26
 
+----
+
 ### [knownsec/ZoomEye-python](https://github.com/knownsec/ZoomEye-python)
 
 ZoomEye-python: The official Python library and CLI by Knownsec 404 Team.
@@ -4392,6 +5016,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 424
 
+----
+
 ### [nektos/act](https://github.com/nektos/act)
 
 Run your GitHub Actions locally 🚀
@@ -4402,9 +5028,11 @@ Clone: [https://github.com/nektos/act.git](https://github.com/nektos/act.git)
 
 Created: 02 January 2019
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 34441
+Stars on GitHub: 34449
+
+----
 
 ### [apify/actor-scraper](https://github.com/apify/actor-scraper)
 
@@ -4420,6 +5048,8 @@ Updated: 19 January 2023
 
 Stars on GitHub: 94
 
+----
+
 ### [vdrmota/actor-twitter-scraper](https://github.com/vdrmota/actor-twitter-scraper)
 
 None
@@ -4433,6 +5063,8 @@ Created: 17 June 2019
 Updated: 23 December 2022
 
 Stars on GitHub: 11
+
+----
 
 ### [ahmia/ahmia-site](https://github.com/ahmia/ahmia-site)
 
@@ -4448,6 +5080,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 262
 
+----
+
 ### [aiogram/aiogram](https://github.com/aiogram/aiogram)
 
 Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp.
@@ -4461,6 +5095,8 @@ Created: 18 November 2017
 Updated: 31 January 2023
 
 Stars on GitHub: 3334
+
+----
 
 ### [Forden/aiogram-bot-template](https://github.com/Forden/aiogram-bot-template)
 
@@ -4476,6 +5112,8 @@ Updated: 29 January 2023
 
 Stars on GitHub: 233
 
+----
+
 ### [mahenzon/aiogram-lessons](https://github.com/mahenzon/aiogram-lessons)
 
 Небольшая серия уроков по работе с библиотекой aiogram
@@ -4489,6 +5127,8 @@ Created: 13 January 2018
 Updated: 25 January 2023
 
 Stars on GitHub: 241
+
+----
 
 ### [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends)
 
@@ -4504,6 +5144,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 3478
 
+----
+
 ### [drawrowfly/amazon-keyword-scraper-go](https://github.com/drawrowfly/amazon-keyword-scraper-go)
 
 Amazon Keyword Suggestion Tool in GoLang. Tool will generate relevant Amazon Product Keywords with the number of active products per each keyword 
@@ -4517,6 +5159,8 @@ Created: 28 January 2020
 Updated: 24 December 2022
 
 Stars on GitHub: 40
+
+----
 
 ### [scrapehero-code/amazon-scraper](https://github.com/scrapehero-code/amazon-scraper)
 
@@ -4532,6 +5176,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 191
 
+----
+
 ### [plausible/analytics](https://github.com/plausible/analytics)
 
 Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
@@ -4542,9 +5188,11 @@ Clone: [https://github.com/plausible/analytics.git](https://github.com/plausible
 
 Created: 04 December 2018
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 13718
+Stars on GitHub: 13723
+
+----
 
 ### [BootBoi/android-app](https://github.com/BootBoi/android-app)
 
@@ -4560,6 +5208,8 @@ Updated: 26 December 2022
 
 Stars on GitHub: 75
 
+----
+
 ### [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy)
 
 Anonymous email forwarding
@@ -4574,6 +5224,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 2136
 
+----
+
 ### [ansible/ansible](https://github.com/ansible/ansible)
 
 Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
@@ -4584,9 +5236,11 @@ Clone: [https://github.com/ansible/ansible.git](https://github.com/ansible/ansib
 
 Created: 06 March 2012
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 56124
+Stars on GitHub: 56127
+
+----
 
 ### [antlr/antlr4](https://github.com/antlr/antlr4)
 
@@ -4598,9 +5252,11 @@ Clone: [https://github.com/antlr/antlr4.git](https://github.com/antlr/antlr4.git
 
 Created: 04 February 2010
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 13739
+Stars on GitHub: 13745
+
+----
 
 ### [huntflow/api](https://github.com/huntflow/api)
 
@@ -4616,6 +5272,8 @@ Updated: 08 September 2022
 
 Stars on GitHub: 30
 
+----
+
 ### [pushshift/api](https://github.com/pushshift/api)
 
 Pushshift API
@@ -4629,6 +5287,8 @@ Created: 17 August 2017
 Updated: 30 January 2023
 
 Stars on GitHub: 1091
+
+----
 
 ### [apify/apify-client-js](https://github.com/apify/apify-client-js)
 
@@ -4644,6 +5304,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 35
 
+----
+
 ### [vdrmota/apify-js](https://github.com/vdrmota/apify-js)
 
 Apify SDK — The scalable web crawling and scraping library for JavaScript/Node.js. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.
@@ -4657,6 +5319,8 @@ Created: 18 June 2019
 Updated: 05 September 2022
 
 Stars on GitHub: 1
+
+----
 
 ### [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks)
 
@@ -4672,6 +5336,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 3544
 
+----
+
 ### [tomnomnom/assetfinder](https://github.com/tomnomnom/assetfinder)
 
 Find domains and subdomains related to a given domain
@@ -4686,6 +5352,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 2237
 
+----
+
 ### [hibiken/asynq](https://github.com/hibiken/asynq)
 
 Simple, reliable, and efficient distributed task queue in Go
@@ -4696,9 +5364,11 @@ Clone: [https://github.com/hibiken/asynq.git](https://github.com/hibiken/asynq.g
 
 Created: 15 November 2019
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 5269
+Stars on GitHub: 5272
+
+----
 
 ### [bellingcat/auto-archiver](https://github.com/bellingcat/auto-archiver)
 
@@ -4710,9 +5380,11 @@ Clone: [https://github.com/bellingcat/auto-archiver.git](https://github.com/bell
 
 Created: 15 January 2021
 
-Updated: 30 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 320
+Stars on GitHub: 319
+
+----
 
 ### [withfig/autocomplete](https://github.com/withfig/autocomplete)
 
@@ -4724,9 +5396,11 @@ Clone: [https://github.com/withfig/autocomplete.git](https://github.com/withfig/
 
 Created: 29 September 2020
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 21224
+Stars on GitHub: 21226
+
+----
 
 ### [AutomaApp/automa](https://github.com/AutomaApp/automa)
 
@@ -4738,9 +5412,11 @@ Clone: [https://github.com/AutomaApp/automa.git](https://github.com/AutomaApp/au
 
 Created: 02 October 2021
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 6270
+Stars on GitHub: 6278
+
+----
 
 ### [pelmers/autotoon](https://github.com/pelmers/autotoon)
 
@@ -4756,6 +5432,8 @@ Updated: 04 September 2022
 
 Stars on GitHub: 1
 
+----
+
 ### [h4fan/autozm](https://github.com/h4fan/autozm)
 
 利用zoomeye api搜索c段ip和端口，存入sqlite进行查询
@@ -4770,6 +5448,8 @@ Updated: 19 November 2022
 
 Stars on GitHub: 4
 
+----
+
 ### [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
 A curated list of awesome awesomeness
@@ -4782,7 +5462,9 @@ Created: 08 July 2014
 
 Updated: 01 February 2023
 
-Stars on GitHub: 29815
+Stars on GitHub: 29816
+
+----
 
 ### [ZYSzys/awesome-captcha](https://github.com/ZYSzys/awesome-captcha)
 
@@ -4798,6 +5480,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 939
 
+----
+
 ### [thehappydinoa/awesome-censys-queries](https://github.com/thehappydinoa/awesome-censys-queries)
 
 A collection of fascinating and bizarre Censys Search Queries 
@@ -4812,6 +5496,8 @@ Updated: 29 January 2023
 
 Stars on GitHub: 115
 
+----
+
 ### [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler)
 
 A collection of awesome web crawler,spider in different languages
@@ -4822,9 +5508,11 @@ Clone: [https://github.com/BruceDone/awesome-crawler.git](https://github.com/Bru
 
 Created: 10 October 2016
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 5371
+Stars on GitHub: 5372
+
+----
 
 ### [paralax/awesome-cybersecurity-internships](https://github.com/paralax/awesome-cybersecurity-internships)
 
@@ -4840,6 +5528,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 410
 
+----
+
 ### [neutraltone/awesome-development-jobs](https://github.com/neutraltone/awesome-development-jobs)
 
 :office: A collection of links to various job listings websites and helpful resources
@@ -4854,6 +5544,8 @@ Updated: 13 November 2022
 
 Stars on GitHub: 186
 
+----
+
 ### [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines)
 
 A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
@@ -4864,9 +5556,11 @@ Clone: [https://github.com/edoardottt/awesome-hacker-search-engines.git](https:/
 
 Created: 20 June 2022
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 4299
+Stars on GitHub: 4302
+
+----
 
 ### [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots)
 
@@ -4878,9 +5572,11 @@ Clone: [https://github.com/paralax/awesome-honeypots.git](https://github.com/par
 
 Created: 18 June 2015
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 6669
+Stars on GitHub: 6671
+
+----
 
 ### [paralax/awesome-internet-scanning](https://github.com/paralax/awesome-internet-scanning)
 
@@ -4896,6 +5592,8 @@ Updated: 21 January 2023
 
 Stars on GitHub: 183
 
+----
+
 ### [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
 
 :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: 
@@ -4908,7 +5606,9 @@ Created: 28 November 2015
 
 Updated: 01 February 2023
 
-Stars on GitHub: 52988
+Stars on GitHub: 52993
+
+----
 
 ### [dwisiswant0/awesome-oneliner-bugbounty](https://github.com/dwisiswant0/awesome-oneliner-bugbounty)
 
@@ -4924,6 +5624,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 1840
 
+----
+
 ### [CaledoniaProject/awesome-opensource-security](https://github.com/CaledoniaProject/awesome-opensource-security)
 
 A list of interesting open-source tools
@@ -4938,6 +5640,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 366
 
+----
+
 ### [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
 
 :scream: A curated list of amazingly awesome OSINT
@@ -4948,9 +5652,11 @@ Clone: [https://github.com/jivoi/awesome-osint.git](https://github.com/jivoi/awe
 
 Created: 30 November 2016
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 11541
+Stars on GitHub: 11547
+
+----
 
 ### [smicallef/awesome-osint](https://github.com/smicallef/awesome-osint)
 
@@ -4966,6 +5672,8 @@ Updated: 28 December 2022
 
 Stars on GitHub: 46
 
+----
+
 ### [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)
 
 A collection of awesome penetration testing resources, tools and other shiny things
@@ -4976,9 +5684,11 @@ Clone: [https://github.com/enaqx/awesome-pentest.git](https://github.com/enaqx/a
 
 Created: 03 August 2014
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 17719
+Stars on GitHub: 17720
+
+----
 
 ### [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
 
@@ -4990,9 +5700,11 @@ Clone: [https://github.com/awesomedata/awesome-public-datasets.git](https://gith
 
 Created: 20 November 2014
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 52717
+Stars on GitHub: 52722
+
+----
 
 ### [vinta/awesome-python](https://github.com/vinta/awesome-python)
 
@@ -5004,9 +5716,11 @@ Clone: [https://github.com/vinta/awesome-python.git](https://github.com/vinta/aw
 
 Created: 27 June 2014
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 155229
+Stars on GitHub: 155261
+
+----
 
 ### [junnplus/awesome-python-books](https://github.com/junnplus/awesome-python-books)
 
@@ -5022,6 +5736,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 3534
 
+----
+
 ### [Sjamilla/awesome-recruitment](https://github.com/Sjamilla/awesome-recruitment)
 
 List of my favourite recruitment things 💫
@@ -5036,6 +5752,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 392
 
+----
+
 ### [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
 A list of Free Software network services and web applications which can be hosted on your own servers
@@ -5046,9 +5764,11 @@ Clone: [https://github.com/awesome-selfhosted/awesome-selfhosted.git](https://gi
 
 Created: 01 June 2015
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 117071
+Stars on GitHub: 117119
+
+----
 
 ### [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries)
 
@@ -5060,9 +5780,11 @@ Clone: [https://github.com/jakejarvis/awesome-shodan-queries.git](https://github
 
 Created: 25 April 2019
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 3831
+Stars on GitHub: 3832
+
+----
 
 ### [giuliacassara/awesome-social-engineering](https://github.com/giuliacassara/awesome-social-engineering)
 
@@ -5078,6 +5800,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 1817
 
+----
+
 ### [uraimo/awesome-software-patreons](https://github.com/uraimo/awesome-software-patreons)
 
 A curated list of awesome programmers and software projects you can support!
@@ -5092,6 +5816,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 447
 
+----
+
 ### [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
 
 :city_sunrise: A collection of links for free stock photography, video and Illustration websites
@@ -5102,9 +5828,11 @@ Clone: [https://github.com/neutraltone/awesome-stock-resources.git](https://gith
 
 Created: 31 October 2015
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 11307
+Stars on GitHub: 11309
+
+----
 
 ### [ohsusannamarie/awesome-talent-sourcing](https://github.com/ohsusannamarie/awesome-talent-sourcing)
 
@@ -5120,6 +5848,8 @@ Updated: 12 January 2023
 
 Stars on GitHub: 18
 
+----
+
 ### [ukwa/awesome-web-archiving](https://github.com/ukwa/awesome-web-archiving)
 
 An Awesome List for getting started with web archiving
@@ -5134,6 +5864,8 @@ Updated: 30 August 2022
 
 Stars on GitHub: 6
 
+----
+
 ### [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping)
 
 List of libraries, tools and APIs for web scraping and data processing.
@@ -5144,9 +5876,11 @@ Clone: [https://github.com/lorien/awesome-web-scraping.git](https://github.com/l
 
 Created: 12 August 2015
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 5626
+Stars on GitHub: 5635
+
+----
 
 ### [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
 
@@ -5158,9 +5892,11 @@ Clone: [https://github.com/qazbnm456/awesome-web-security.git](https://github.co
 
 Created: 29 January 2017
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 9341
+Stars on GitHub: 9343
+
+----
 
 ### [vnestoruk/ban-dera](https://github.com/vnestoruk/ban-dera)
 
@@ -5176,6 +5912,8 @@ Updated: 06 December 2022
 
 Stars on GitHub: 67
 
+----
+
 ### [vinifmor/bauh](https://github.com/vinifmor/bauh)
 
 Graphical user interface for managing your Linux applications. Supports AppImage, Arch packages (including AUR), Debian packages, Flatpak, Snap and native Web applications
@@ -5189,6 +5927,8 @@ Created: 12 August 2019
 Updated: 30 January 2023
 
 Stars on GitHub: 654
+
+----
 
 ### [dmw94/bazzellpy](https://github.com/dmw94/bazzellpy)
 
@@ -5204,6 +5944,8 @@ Updated: 28 January 2023
 
 Stars on GitHub: 42
 
+----
+
 ### [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot)
 
 OSINT automation for hackers.
@@ -5217,6 +5959,8 @@ Created: 12 March 2022
 Updated: 30 January 2023
 
 Stars on GitHub: 1713
+
+----
 
 ### [mat/besticon](https://github.com/mat/besticon)
 
@@ -5232,6 +5976,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 620
 
+----
+
 ### [andylvua/bibaandboba](https://github.com/andylvua/bibaandboba)
 
 Python package for analyzing Telegram chats and finding correlations between people
@@ -5246,6 +5992,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 112
 
+----
+
 ### [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 
 The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
@@ -5258,7 +6006,9 @@ Created: 08 August 2015
 
 Updated: 01 February 2023
 
-Stars on GitHub: 44491
+Stars on GitHub: 44495
+
+----
 
 ### [ninoseki/binaryedge-rb](https://github.com/ninoseki/binaryedge-rb)
 
@@ -5274,6 +6024,8 @@ Updated: 19 November 2022
 
 Stars on GitHub: 6
 
+----
+
 ### [michenriksen/birdwatcher](https://github.com/michenriksen/birdwatcher)
 
 Data analysis and OSINT framework for Twitter
@@ -5288,6 +6040,8 @@ Updated: 29 January 2023
 
 Stars on GitHub: 402
 
+----
+
 ### [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird)
 
 An OSINT tool to search for accounts by username in social networks.
@@ -5298,9 +6052,11 @@ Clone: [https://github.com/p1ngul1n0/blackbird.git](https://github.com/p1ngul1n0
 
 Created: 06 May 2022
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 1431
+Stars on GitHub: 1432
+
+----
 
 ### [darkhz/bluetuith](https://github.com/darkhz/bluetuith)
 
@@ -5316,6 +6072,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 246
 
+----
+
 ### [bormaxi8080/bormaxi-about-hiring](https://github.com/bormaxi8080/bormaxi-about-hiring)
 
 Hiring Developers Experience Notes
@@ -5330,6 +6088,8 @@ Updated: 04 December 2022
 
 Stars on GitHub: 2
 
+----
+
 ### [EdOverflow/bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
 
 A list of interesting payloads, tips and tricks for bug bounty hunters.
@@ -5340,9 +6100,11 @@ Clone: [https://github.com/EdOverflow/bugbounty-cheatsheet.git](https://github.c
 
 Created: 13 July 2017
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
 Stars on GitHub: 4781
+
+----
 
 ### [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
@@ -5356,7 +6118,9 @@ Created: 09 May 2018
 
 Updated: 01 February 2023
 
-Stars on GitHub: 186404
+Stars on GitHub: 186509
+
+----
 
 ### [sickcodes/bulk-whois](https://github.com/sickcodes/bulk-whois)
 
@@ -5372,6 +6136,8 @@ Updated: 29 January 2023
 
 Stars on GitHub: 7
 
+----
+
 ### [IntelTakes/bulkbotchecker](https://github.com/IntelTakes/bulkbotchecker)
 
 Verify Twitter accounts in bulk
@@ -5385,6 +6151,8 @@ Created: 12 May 2020
 Updated: 03 September 2022
 
 Stars on GitHub: 4
+
+----
 
 ### [burlesco/burlesco](https://github.com/burlesco/burlesco)
 
@@ -5400,6 +6168,8 @@ Updated: 27 January 2023
 
 Stars on GitHub: 801
 
+----
+
 ### [dessant/buster](https://github.com/dessant/buster)
 
 Captcha solver extension for humans
@@ -5410,9 +6180,11 @@ Clone: [https://github.com/dessant/buster.git](https://github.com/dessant/buster
 
 Created: 18 November 2018
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 5618
+Stars on GitHub: 5619
+
+----
 
 ### [josh-richardson/cadmus](https://github.com/josh-richardson/cadmus)
 
@@ -5428,6 +6200,8 @@ Updated: 29 January 2023
 
 Stars on GitHub: 2067
 
+----
+
 ### [sindresorhus/caprine](https://github.com/sindresorhus/caprine)
 
 Elegant Facebook Messenger desktop app
@@ -5438,9 +6212,11 @@ Clone: [https://github.com/sindresorhus/caprine.git](https://github.com/sindreso
 
 Created: 16 September 2015
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 6566
+Stars on GitHub: 6565
+
+----
 
 ### [fathyb/carbonyl](https://github.com/fathyb/carbonyl)
 
@@ -5454,7 +6230,9 @@ Created: 20 January 2023
 
 Updated: 01 February 2023
 
-Stars on GitHub: 6668
+Stars on GitHub: 7181
+
+----
 
 ### [developers-against-repressions/case-212](https://github.com/developers-against-repressions/case-212)
 
@@ -5470,6 +6248,8 @@ Updated: 23 January 2023
 
 Stars on GitHub: 1299
 
+----
+
 ### [leandromoreira/cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running)
 
 CDN Up and Running - Building a CDN from Scratch to Learn about CDN
@@ -5480,9 +6260,11 @@ Clone: [https://github.com/leandromoreira/cdn-up-and-running.git](https://github
 
 Created: 23 December 2021
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 1993
+Stars on GitHub: 2012
+
+----
 
 ### [celery/celery](https://github.com/celery/celery)
 
@@ -5494,9 +6276,11 @@ Clone: [https://github.com/celery/celery.git](https://github.com/celery/celery.g
 
 Created: 24 April 2009
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 20866
+Stars on GitHub: 20870
+
+----
 
 ### [Enforcer/celery-beat-example](https://github.com/Enforcer/celery-beat-example)
 
@@ -5512,6 +6296,8 @@ Updated: 05 October 2022
 
 Stars on GitHub: 8
 
+----
+
 ### [depop/celery-message-consumer](https://github.com/depop/celery-message-consumer)
 
 Tool for using the battle-tested `bin/celery` worker to consume vanilla AMQP messages (i.e. not Celery tasks)
@@ -5525,6 +6311,8 @@ Created: 24 October 2017
 Updated: 13 December 2022
 
 Stars on GitHub: 45
+
+----
 
 ### [dwisiswant0/cf-check](https://github.com/dwisiswant0/cf-check)
 
@@ -5540,6 +6328,8 @@ Updated: 27 January 2023
 
 Stars on GitHub: 198
 
+----
+
 ### [xenova/chat-downloader](https://github.com/xenova/chat-downloader)
 
 A simple tool used to retrieve chat messages from livestreams, videos, clips and past broadcasts. No authentication needed!
@@ -5554,6 +6344,8 @@ Updated: 28 January 2023
 
 Stars on GitHub: 618
 
+----
+
 ### [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot)
 
 This is a very early attempt at having chatGPT work within a telegram bot
@@ -5564,9 +6356,27 @@ Clone: [https://github.com/altryne/chatGPT-telegram-bot.git](https://github.com/
 
 Created: 02 December 2022
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 1161
+Stars on GitHub: 1164
+
+----
+
+### [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)
+
+A VSCode extension that allows you to use ChatGPT
+
+Url: [https://github.com/mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)
+
+Clone: [https://github.com/mpociot/chatgpt-vscode.git](https://github.com/mpociot/chatgpt-vscode.git)
+
+Created: 03 December 2022
+
+Updated: 01 February 2023
+
+Stars on GitHub: 3006
+
+----
 
 ### [chubin/cheat.sh](https://github.com/chubin/cheat.sh)
 
@@ -5578,9 +6388,11 @@ Clone: [https://github.com/chubin/cheat.sh.git](https://github.com/chubin/cheat.
 
 Created: 07 May 2017
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 34557
+Stars on GitHub: 34562
+
+----
 
 ### [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists)
 
@@ -5596,6 +6408,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 3659
 
+----
+
 ### [esrlabs/chipmunk](https://github.com/esrlabs/chipmunk)
 
 log analysis tool
@@ -5609,6 +6423,8 @@ Created: 13 November 2017
 Updated: 24 January 2023
 
 Stars on GitHub: 392
+
+----
 
 ### [Mayowa-Ojo/chmod-cli](https://github.com/Mayowa-Ojo/chmod-cli)
 
@@ -5624,6 +6440,8 @@ Updated: 21 January 2023
 
 Stars on GitHub: 154
 
+----
+
 ### [paulmillr/chokidar](https://github.com/paulmillr/chokidar)
 
 Minimal and efficient cross-platform file watching library
@@ -5634,9 +6452,11 @@ Clone: [https://github.com/paulmillr/chokidar.git](https://github.com/paulmillr/
 
 Created: 20 April 2012
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 9666
+Stars on GitHub: 9669
+
+----
 
 ### [Sector035/chronocalc](https://github.com/Sector035/chronocalc)
 
@@ -5652,6 +6472,8 @@ Updated: 13 December 2022
 
 Stars on GitHub: 16
 
+----
+
 ### [cipher387/cipher387](https://github.com/cipher387/cipher387)
 
 None
@@ -5665,6 +6487,8 @@ Created: 25 July 2021
 Updated: 27 January 2023
 
 Stars on GitHub: 18
+
+----
 
 ### [cipher387/cipher387.github.io](https://github.com/cipher387/cipher387.github.io)
 
@@ -5680,6 +6504,8 @@ Updated: 21 January 2023
 
 Stars on GitHub: 31
 
+----
+
 ### [Ph33rr/cirrusgo](https://github.com/Ph33rr/cirrusgo)
 
 A fast tool to scan SAAS,PAAS App written in Go
@@ -5693,6 +6519,8 @@ Created: 03 July 2022
 Updated: 25 January 2023
 
 Stars on GitHub: 67
+
+----
 
 ### [DopplerHQ/cli](https://github.com/DopplerHQ/cli)
 
@@ -5708,6 +6536,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 147
 
+----
+
 ### [spyse-com/cli](https://github.com/spyse-com/cli)
 
 The official command-line client for spyse.com
@@ -5721,6 +6551,8 @@ Created: 04 August 2021
 Updated: 06 January 2023
 
 Stars on GitHub: 43
+
+----
 
 ### [bellingcat/cloud-free-subregion](https://github.com/bellingcat/cloud-free-subregion)
 
@@ -5736,6 +6568,8 @@ Updated: 29 January 2023
 
 Stars on GitHub: 46
 
+----
+
 ### [cipher387/code-understanding-tools](https://github.com/cipher387/code-understanding-tools)
 
 Tools for understanding other people's code
@@ -5749,6 +6583,8 @@ Created: 30 March 2022
 Updated: 29 January 2023
 
 Stars on GitHub: 77
+
+----
 
 ### [cipher387/code_repository_google_custom_search_engines](https://github.com/cipher387/code_repository_google_custom_search_engines)
 
@@ -5764,6 +6600,8 @@ Updated: 20 January 2023
 
 Stars on GitHub: 16
 
+----
+
 ### [codewars/codewars.com](https://github.com/codewars/codewars.com)
 
 Issue tracker for Codewars
@@ -5774,9 +6612,11 @@ Clone: [https://github.com/codewars/codewars.com.git](https://github.com/codewar
 
 Created: 29 August 2014
 
-Updated: 28 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 1957
+Stars on GitHub: 1956
+
+----
 
 ### [cipher387/collection_of_cadastral_maps](https://github.com/cipher387/collection_of_cadastral_maps)
 
@@ -5792,6 +6632,8 @@ Updated: 28 January 2023
 
 Stars on GitHub: 6
 
+----
+
 ### [TheNewNormal/corectl.app](https://github.com/TheNewNormal/corectl.app)
 
 Controlling app of corectld server daemon for macOS
@@ -5805,6 +6647,8 @@ Created: 28 June 2016
 Updated: 29 September 2022
 
 Stars on GitHub: 166
+
+----
 
 ### [TheNewNormal/coreos-osx](https://github.com/TheNewNormal/coreos-osx)
 
@@ -5820,6 +6664,8 @@ Updated: 28 January 2023
 
 Stars on GitHub: 389
 
+----
+
 ### [cipher387/corporative_registry_worldwide_catalog](https://github.com/cipher387/corporative_registry_worldwide_catalog)
 
 Corporative registry worldwide catalog. 63 countries
@@ -5833,6 +6679,8 @@ Created: 18 August 2021
 Updated: 09 November 2022
 
 Stars on GitHub: 10
+
+----
 
 ### [soxoj/counter-osint-guide-ru](https://github.com/soxoj/counter-osint-guide-ru)
 
@@ -5848,6 +6696,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 191
 
+----
+
 ### [apify/crawlee](https://github.com/apify/crawlee)
 
 Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
@@ -5862,6 +6712,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 7558
 
+----
+
 ### [dwisiswant0/crlfuzz](https://github.com/dwisiswant0/crlfuzz)
 
 A fast tool to scan CRLF vulnerability written in Go
@@ -5872,9 +6724,11 @@ Clone: [https://github.com/dwisiswant0/crlfuzz.git](https://github.com/dwisiswan
 
 Created: 12 August 2020
 
-Updated: 27 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 916
+Stars on GitHub: 917
+
+----
 
 ### [juliocesarfort/crossdomainer](https://github.com/juliocesarfort/crossdomainer)
 
@@ -5890,6 +6744,8 @@ Updated: 06 September 2022
 
 Stars on GitHub: 24
 
+----
+
 ### [lctrcl/crwg](https://github.com/lctrcl/crwg)
 
 Custom Russian WordList Generator
@@ -5903,6 +6759,8 @@ Created: 16 May 2015
 Updated: 14 January 2023
 
 Stars on GitHub: 35
+
+----
 
 ### [cupcakearmy/cryptgeon](https://github.com/cupcakearmy/cryptgeon)
 
@@ -5918,6 +6776,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 441
 
+----
+
 ### [chris408/ct-exposer](https://github.com/chris408/ct-exposer)
 
 An OSINT tool that discovers sub-domains by searching Certificate Transparency logs
@@ -5931,6 +6791,8 @@ Created: 04 September 2018
 Updated: 31 January 2023
 
 Stars on GitHub: 439
+
+----
 
 ### [bcicen/ctop](https://github.com/bcicen/ctop)
 
@@ -5946,6 +6808,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 13921
 
+----
+
 ### [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck)
 
 Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
@@ -5956,9 +6820,11 @@ Clone: [https://github.com/iterate-ch/cyberduck.git](https://github.com/iterate-
 
 Created: 20 January 2017
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 2201
+Stars on GitHub: 2203
+
+----
 
 ### [fin3ss3g0d/cypherhound](https://github.com/fin3ss3g0d/cypherhound)
 
@@ -5974,6 +6840,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 194
 
+----
+
 ### [qarmin/czkawka](https://github.com/qarmin/czkawka)
 
 Multi functional app to find duplicates, empty folders, similar images etc.
@@ -5984,9 +6852,11 @@ Clone: [https://github.com/qarmin/czkawka.git](https://github.com/qarmin/czkawka
 
 Created: 01 September 2020
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 9408
+Stars on GitHub: 9409
+
+----
 
 ### [mxrch/darkshot](https://github.com/mxrch/darkshot)
 
@@ -6002,6 +6872,8 @@ Updated: 27 January 2023
 
 Stars on GitHub: 233
 
+----
+
 ### [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot)
 
 A simple, modern server dashboard, primarily used by smaller private servers
@@ -6012,9 +6884,11 @@ Clone: [https://github.com/MauriceNino/dashdot.git](https://github.com/MauriceNi
 
 Created: 29 October 2021
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 1068
+Stars on GitHub: 1069
+
+----
 
 ### [bellingcat/datasheet-server](https://github.com/bellingcat/datasheet-server)
 
@@ -6030,6 +6904,8 @@ Updated: 08 January 2023
 
 Stars on GitHub: 21
 
+----
+
 ### [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)
 
 Free universal database tool and SQL client
@@ -6040,9 +6916,11 @@ Clone: [https://github.com/dbeaver/dbeaver.git](https://github.com/dbeaver/dbeav
 
 Created: 21 October 2015
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 30184
+Stars on GitHub: 30191
+
+----
 
 ### [deepware/deepfake-scanner](https://github.com/deepware/deepfake-scanner)
 
@@ -6058,6 +6936,8 @@ Updated: 23 January 2023
 
 Stars on GitHub: 113
 
+----
+
 ### [tycrek/degoogle](https://github.com/tycrek/degoogle)
 
 A huge list of alternatives to Google products. Privacy tips, tricks, and links.
@@ -6068,9 +6948,11 @@ Clone: [https://github.com/tycrek/degoogle.git](https://github.com/tycrek/degoog
 
 Created: 10 June 2019
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 6593
+Stars on GitHub: 6594
+
+----
 
 ### [amnezia-vpn/desktop-client](https://github.com/amnezia-vpn/desktop-client)
 
@@ -6086,6 +6968,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 732
 
+----
+
 ### [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
 
 Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -6098,7 +6982,9 @@ Created: 03 October 2019
 
 Updated: 01 February 2023
 
-Stars on GitHub: 38319
+Stars on GitHub: 38525
+
+----
 
 ### [Swfuse/devops-interview](https://github.com/Swfuse/devops-interview)
 
@@ -6114,6 +7000,8 @@ Updated: 24 January 2023
 
 Stars on GitHub: 330
 
+----
+
 ### [developers-against-repressions/devs-against-the-machine](https://github.com/developers-against-repressions/devs-against-the-machine)
 
 I онлайн-хакатон в поддержку политических заключенных 
@@ -6127,6 +7015,8 @@ Created: 29 November 2019
 Updated: 13 September 2022
 
 Stars on GitHub: 211
+
+----
 
 ### [quackduck/devzat](https://github.com/quackduck/devzat)
 
@@ -6142,6 +7032,8 @@ Updated: 27 January 2023
 
 Stars on GitHub: 1416
 
+----
+
 ### [brxken128/dexios](https://github.com/brxken128/dexios)
 
 A secure file encryption utility, written in Rust.
@@ -6156,6 +7048,8 @@ Updated: 23 January 2023
 
 Stars on GitHub: 160
 
+----
+
 ### [mingrammer/diagrams](https://github.com/mingrammer/diagrams)
 
 :art: Diagram as Code for prototyping cloud system architectures
@@ -6166,9 +7060,11 @@ Clone: [https://github.com/mingrammer/diagrams.git](https://github.com/mingramme
 
 Created: 02 February 2020
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 27733
+Stars on GitHub: 27735
+
+----
 
 ### [dialect-app/dialect](https://github.com/dialect-app/dialect)
 
@@ -6184,6 +7080,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 491
 
+----
+
 ### [Cillian-Collins/dirscraper](https://github.com/Cillian-Collins/dirscraper)
 
 OSINT scanning tool which discovers and maps directories found in javascript files hosted on a website.
@@ -6197,6 +7095,8 @@ Created: 21 February 2019
 Updated: 31 January 2023
 
 Stars on GitHub: 207
+
+----
 
 ### [oryon-osint/discord-osint-hub](https://github.com/oryon-osint/discord-osint-hub)
 
@@ -6212,6 +7112,8 @@ Updated: 30 August 2022
 
 Stars on GitHub: 8
 
+----
+
 ### [leebaird/discover](https://github.com/leebaird/discover)
 
 Custom bash scripts used to automate various penetration testing tasks including recon, scanning,  enumeration, and malicious payload creation using Metasploit. For use with Kali Linux.
@@ -6222,9 +7124,11 @@ Clone: [https://github.com/leebaird/discover.git](https://github.com/leebaird/di
 
 Created: 28 October 2013
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 2923
+Stars on GitHub: 2924
+
+----
 
 ### [imsnif/diskonaut](https://github.com/imsnif/diskonaut)
 
@@ -6240,6 +7144,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 1626
 
+----
+
 ### [vitalik/django-ninja](https://github.com/vitalik/django-ninja)
 
 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
@@ -6250,9 +7156,11 @@ Clone: [https://github.com/vitalik/django-ninja.git](https://github.com/vitalik/
 
 Created: 19 May 2020
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 3975
+Stars on GitHub: 3977
+
+----
 
 ### [djbook-ru/djbookru](https://github.com/djbook-ru/djbookru)
 
@@ -6268,6 +7176,8 @@ Updated: 08 December 2022
 
 Stars on GitHub: 85
 
+----
+
 ### [Egorrko/dlnr_status](https://github.com/Egorrko/dlnr_status)
 
 Telegram bot that ping dlnr zone.
@@ -6281,6 +7191,8 @@ Created: 22 February 2022
 Updated: 20 December 2022
 
 Stars on GitHub: 31
+
+----
 
 ### [punk-security/dnsReaper](https://github.com/punk-security/dnsReaper)
 
@@ -6296,6 +7208,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 1601
 
+----
+
 ### [elceef/dnstwist](https://github.com/elceef/dnstwist)
 
 Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
@@ -6309,6 +7223,8 @@ Created: 11 June 2015
 Updated: 31 January 2023
 
 Stars on GitHub: 3707
+
+----
 
 ### [jonohill/docker-openvpn-proxy](https://github.com/jonohill/docker-openvpn-proxy)
 
@@ -6324,6 +7240,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 44
 
+----
+
 ### [sickcodes/docker-openvpn-proxy](https://github.com/sickcodes/docker-openvpn-proxy)
 
 HTTP proxy server which (selectively) tunnels traffic over an OpenVPN connection
@@ -6338,6 +7256,8 @@ Updated: 03 September 2022
 
 Stars on GitHub: 2
 
+----
+
 ### [dolthub/dolt](https://github.com/dolthub/dolt)
 
 Dolt – Git for Data
@@ -6350,7 +7270,9 @@ Created: 24 July 2019
 
 Updated: 01 February 2023
 
-Stars on GitHub: 13994
+Stars on GitHub: 13996
+
+----
 
 ### [cipher387/domain_investigation_toolbox](https://github.com/cipher387/domain_investigation_toolbox)
 
@@ -6366,6 +7288,8 @@ Updated: 20 January 2023
 
 Stars on GitHub: 24
 
+----
+
 ### [tb0hdan/domains](https://github.com/tb0hdan/domains)
 
 World’s single largest Internet domains dataset
@@ -6379,6 +7303,8 @@ Created: 12 January 2020
 Updated: 29 January 2023
 
 Stars on GitHub: 440
+
+----
 
 ### [six2dez/dorks_hunter](https://github.com/six2dez/dorks_hunter)
 
@@ -6394,6 +7320,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 145
 
+----
+
 ### [R4yGM/dorkscout](https://github.com/R4yGM/dorkscout)
 
 DorkScout - Golang tool to automate google dork scan against the entiere internet or specific targets
@@ -6408,6 +7336,8 @@ Updated: 16 January 2023
 
 Stars on GitHub: 191
 
+----
+
 ### [jgraph/drawio](https://github.com/jgraph/drawio)
 
 draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
@@ -6420,7 +7350,9 @@ Created: 06 September 2016
 
 Updated: 01 February 2023
 
-Stars on GitHub: 32966
+Stars on GitHub: 32971
+
+----
 
 ### [niklasb/dryscrape](https://github.com/niklasb/dryscrape)
 
@@ -6436,6 +7368,8 @@ Updated: 28 January 2023
 
 Stars on GitHub: 535
 
+----
+
 ### [jakecreps/earthshot](https://github.com/jakecreps/earthshot)
 
 A utility that automatically takes screenshots of coordinates using Google Earth.
@@ -6450,6 +7384,8 @@ Updated: 03 September 2022
 
 Stars on GitHub: 20
 
+----
+
 ### [jpylypiw/easywall](https://github.com/jpylypiw/easywall)
 
 Web interface for easy use of the IPTables firewall on Linux systems written in Python3.
@@ -6460,9 +7396,11 @@ Clone: [https://github.com/jpylypiw/easywall.git](https://github.com/jpylypiw/ea
 
 Created: 10 February 2017
 
-Updated: 30 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 434
+Stars on GitHub: 435
+
+----
 
 ### [gojue/ecapture](https://github.com/gojue/ecapture)
 
@@ -6474,9 +7412,11 @@ Clone: [https://github.com/gojue/ecapture.git](https://github.com/gojue/ecapture
 
 Created: 13 March 2022
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 5560
+Stars on GitHub: 5571
+
+----
 
 ### [cirruslabs/echelon](https://github.com/cirruslabs/echelon)
 
@@ -6492,6 +7432,8 @@ Updated: 22 January 2023
 
 Stars on GitHub: 345
 
+----
+
 ### [martinvigo/email2phonenumber](https://github.com/martinvigo/email2phonenumber)
 
 A OSINT tool to obtain a target's phone number just by having his email address
@@ -6505,6 +7447,8 @@ Created: 17 March 2019
 Updated: 31 January 2023
 
 Stars on GitHub: 1195
+
+----
 
 ### [ninoseki/emailrep-analyzer](https://github.com/ninoseki/emailrep-analyzer)
 
@@ -6520,6 +7464,8 @@ Updated: 30 August 2022
 
 Stars on GitHub: 5
 
+----
+
 ### [bormaxi8080/emergency-shutdown](https://github.com/bormaxi8080/emergency-shutdown)
 
 Emergency shutdown shell script for Mac OS X
@@ -6533,6 +7479,8 @@ Created: 15 December 2021
 Updated: 30 August 2022
 
 Stars on GitHub: 5
+
+----
 
 ### [ninoseki/eml_analyzer](https://github.com/ninoseki/eml_analyzer)
 
@@ -6548,6 +7496,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 166
 
+----
+
 ### [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther)
 
 Affordable WiFi hacking platform for testing and learning
@@ -6562,6 +7512,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 11238
 
+----
+
 ### [balena-io/etcher](https://github.com/balena-io/etcher)
 
 Flash OS images to SD cards & USB drives, safely and easily.
@@ -6572,9 +7524,11 @@ Clone: [https://github.com/balena-io/etcher.git](https://github.com/balena-io/et
 
 Created: 27 October 2015
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 24788
+Stars on GitHub: 24790
+
+----
 
 ### [eventmachine/eventmachine](https://github.com/eventmachine/eventmachine)
 
@@ -6590,6 +7544,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 4206
 
+----
+
 ### [evil-icons/evil-icons](https://github.com/evil-icons/evil-icons)
 
 Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN
@@ -6603,6 +7559,8 @@ Created: 30 October 2014
 Updated: 27 January 2023
 
 Stars on GitHub: 5008
+
+----
 
 ### [cloud-native-go/examples](https://github.com/cloud-native-go/examples)
 
@@ -6618,6 +7576,8 @@ Updated: 28 January 2023
 
 Stars on GitHub: 248
 
+----
+
 ### [aydinnyunus/exifLooter](https://github.com/aydinnyunus/exifLooter)
 
 ExifLooter finds geolocation on all image urls and directories also integrates with OpenStreetMap
@@ -6631,6 +7591,8 @@ Created: 30 July 2022
 Updated: 24 January 2023
 
 Stars on GitHub: 304
+
+----
 
 ### [Exodus-Privacy/exodus-android-app](https://github.com/Exodus-Privacy/exodus-android-app)
 
@@ -6646,6 +7608,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 301
 
+----
+
 ### [MegadodoPublications/exploits](https://github.com/MegadodoPublications/exploits)
 
 Some of my public exploits
@@ -6659,6 +7623,8 @@ Created: 11 August 2019
 Updated: 09 November 2022
 
 Stars on GitHub: 50
+
+----
 
 ### [ohsusannamarie/ezLinkPreview-Chrome-Extension-v6.24](https://github.com/ohsusannamarie/ezLinkPreview-Chrome-Extension-v6.24)
 
@@ -6674,6 +7640,8 @@ Updated: 31 August 2022
 
 Stars on GitHub: 2
 
+----
+
 ### [oarriaga/face_classification](https://github.com/oarriaga/face_classification)
 
 Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV.
@@ -6688,6 +7656,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 5339
 
+----
+
 ### [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition)
 
 The world's simplest facial recognition api for Python and the command line
@@ -6698,9 +7668,11 @@ Clone: [https://github.com/ageitgey/face_recognition.git](https://github.com/age
 
 Created: 03 March 2017
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 47151
+Stars on GitHub: 47156
+
+----
 
 ### [rly0nheart/facebook-downloader](https://github.com/rly0nheart/facebook-downloader)
 
@@ -6716,6 +7688,8 @@ Updated: 23 January 2023
 
 Stars on GitHub: 5
 
+----
+
 ### [bardoczi/facebook-graph-search](https://github.com/bardoczi/facebook-graph-search)
 
 Discovering Facebook Graph Search - keywords and 
@@ -6729,6 +7703,8 @@ Created: 22 March 2018
 Updated: 24 November 2022
 
 Stars on GitHub: 22
+
+----
 
 ### [curosim/facebook-leak-search](https://github.com/curosim/facebook-leak-search)
 
@@ -6744,6 +7720,8 @@ Updated: 26 December 2022
 
 Stars on GitHub: 13
 
+----
+
 ### [deepfakes/faceswap](https://github.com/deepfakes/faceswap)
 
 Deepfakes Software For All
@@ -6754,9 +7732,11 @@ Clone: [https://github.com/deepfakes/faceswap.git](https://github.com/deepfakes/
 
 Created: 19 December 2017
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 43340
+Stars on GitHub: 43343
+
+----
 
 ### [kkoooqq/fakebrowser](https://github.com/kkoooqq/fakebrowser)
 
@@ -6772,6 +7752,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 656
 
+----
+
 ### [joke2k/faker](https://github.com/joke2k/faker)
 
 Faker is a Python package that generates fake data for you.
@@ -6785,6 +7767,8 @@ Created: 12 November 2012
 Updated: 31 January 2023
 
 Stars on GitHub: 15336
+
+----
 
 ### [ngneat/falso](https://github.com/ngneat/falso)
 
@@ -6800,6 +7784,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 2793
 
+----
+
 ### [pielco11/fav-up](https://github.com/pielco11/fav-up)
 
 IP lookup by favicon using Shodan
@@ -6813,6 +7799,8 @@ Created: 27 September 2019
 Updated: 19 January 2023
 
 Stars on GitHub: 831
+
+----
 
 ### [rsms/fb-mac-messenger](https://github.com/rsms/fb-mac-messenger)
 
@@ -6828,6 +7816,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 2879
 
+----
+
 ### [soufianesakhi/feedly-filtering-and-sorting](https://github.com/soufianesakhi/feedly-filtering-and-sorting)
 
 Enhance the feedly website with advanced filtering and sorting capabilities
@@ -6841,6 +7831,8 @@ Created: 11 June 2016
 Updated: 24 January 2023
 
 Stars on GitHub: 94
+
+----
 
 ### [IntelligenceX/fileconversion](https://github.com/IntelligenceX/fileconversion)
 
@@ -6856,6 +7848,8 @@ Updated: 22 January 2023
 
 Stars on GitHub: 41
 
+----
+
 ### [allanrbo/filesremote](https://github.com/allanrbo/filesremote)
 
 An SSH file manager that lets you edit files like they are local
@@ -6869,6 +7863,8 @@ Created: 02 December 2020
 Updated: 31 January 2023
 
 Stars on GitHub: 516
+
+----
 
 ### [mher/flower](https://github.com/mher/flower)
 
@@ -6884,6 +7880,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 5544
 
+----
+
 ### [nore-dev/fman](https://github.com/nore-dev/fman)
 
 TUI File Manager
@@ -6898,6 +7896,8 @@ Updated: 29 January 2023
 
 Stars on GitHub: 245
 
+----
+
 ### [mattermost/focalboard](https://github.com/mattermost/focalboard)
 
 Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
@@ -6908,9 +7908,11 @@ Clone: [https://github.com/mattermost/focalboard.git](https://github.com/matterm
 
 Created: 06 October 2020
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 14217
+Stars on GitHub: 14218
+
+----
 
 ### [fonoster/fonoster](https://github.com/fonoster/fonoster)
 
@@ -6926,6 +7928,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 5484
 
+----
+
 ### [jakecreps/forage](https://github.com/jakecreps/forage)
 
 An OSINT utility to expedite search
@@ -6940,6 +7944,8 @@ Updated: 23 October 2022
 
 Stars on GitHub: 21
 
+----
+
 ### [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 
 A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -6950,9 +7956,11 @@ Clone: [https://github.com/ripienaar/free-for-dev.git](https://github.com/ripien
 
 Created: 18 March 2015
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 66341
+Stars on GitHub: 66348
+
+----
 
 ### [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 
@@ -6964,9 +7972,11 @@ Clone: [https://github.com/EbookFoundation/free-programming-books.git](https://g
 
 Created: 11 October 2013
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 263918
+Stars on GitHub: 264104
+
+----
 
 ### [fresh-standard/fresh-resume-schema](https://github.com/fresh-standard/fresh-resume-schema)
 
@@ -6982,6 +7992,8 @@ Updated: 17 January 2023
 
 Stars on GitHub: 533
 
+----
+
 ### [fresh-standard/fresh-resume-validator](https://github.com/fresh-standard/fresh-resume-validator)
 
 The official validator for FRESH résumés and CVs.
@@ -6995,6 +8007,8 @@ Created: 08 February 2018
 Updated: 06 September 2022
 
 Stars on GitHub: 2
+
+----
 
 ### [fresh-standard/fresh-test-resumes](https://github.com/fresh-standard/fresh-test-resumes)
 
@@ -7010,6 +8024,8 @@ Updated: 06 September 2022
 
 Stars on GitHub: 10
 
+----
+
 ### [fresh-standard/fresh-themes](https://github.com/fresh-standard/fresh-themes)
 
 Multiformat themes and skins for your technical résumé/CV.
@@ -7023,6 +8039,8 @@ Created: 11 September 2015
 Updated: 31 January 2023
 
 Stars on GitHub: 191
+
+----
 
 ### [Correia-jpv/fucking-awesome-incident-response](https://github.com/Correia-jpv/fucking-awesome-incident-response)
 
@@ -7038,6 +8056,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 68
 
+----
+
 ### [ex0dus-0x/fuzzable](https://github.com/ex0dus-0x/fuzzable)
 
 Framework for Automating Fuzzable Target Discovery with Static Analysis. Featured at Black Hat Arsenal USA 2022.
@@ -7052,6 +8072,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 372
 
+----
+
 ### [mikf/gallery-dl](https://github.com/mikf/gallery-dl)
 
 Command-line program to download image galleries and collections from several image hosting sites
@@ -7062,9 +8084,11 @@ Clone: [https://github.com/mikf/gallery-dl.git](https://github.com/mikf/gallery-
 
 Created: 12 October 2014
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 6665
+Stars on GitHub: 6666
+
+----
 
 ### [ericyd/gdrive-copy](https://github.com/ericyd/gdrive-copy)
 
@@ -7080,6 +8104,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 1455
 
+----
+
 ### [GNOME/geary](https://github.com/GNOME/geary)
 
 Read-only mirror of https://gitlab.gnome.org/GNOME/geary
@@ -7093,6 +8119,8 @@ Created: 18 November 2013
 Updated: 22 December 2022
 
 Stars on GitHub: 348
+
+----
 
 ### [SteelPangolin/genderize](https://github.com/SteelPangolin/genderize)
 
@@ -7108,6 +8136,8 @@ Updated: 01 January 2023
 
 Stars on GitHub: 68
 
+----
+
 ### [bellingcat/geoclustering](https://github.com/bellingcat/geoclustering)
 
 📍 command-line tool for clustering geolocations.
@@ -7121,6 +8151,8 @@ Created: 29 June 2022
 Updated: 21 January 2023
 
 Stars on GitHub: 12
+
+----
 
 ### [IntelTakes/geolocatethis](https://github.com/IntelTakes/geolocatethis)
 
@@ -7136,6 +8168,8 @@ Updated: 24 January 2023
 
 Stars on GitHub: 43
 
+----
+
 ### [giswqs/geospatial-data-catalogs](https://github.com/giswqs/geospatial-data-catalogs)
 
 A list of open geospatial datasets available on AWS, Earth Engine, Planetary Computer, NASA CMR, and STAC Index
@@ -7149,6 +8183,8 @@ Created: 22 December 2022
 Updated: 31 January 2023
 
 Stars on GitHub: 352
+
+----
 
 ### [GONZOsint/geowifi](https://github.com/GONZOsint/geowifi)
 
@@ -7164,6 +8200,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 551
 
+----
+
 ### [SeifElsallamy/gip](https://github.com/SeifElsallamy/gip)
 
 Google IP Search Engine
@@ -7177,6 +8215,8 @@ Created: 29 April 2022
 Updated: 11 January 2023
 
 Stars on GitHub: 85
+
+----
 
 ### [joshuatz/git-date-extractor](https://github.com/joshuatz/git-date-extractor)
 
@@ -7192,6 +8232,8 @@ Updated: 22 December 2022
 
 Stars on GitHub: 22
 
+----
+
 ### [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool)
 
 Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
@@ -7205,6 +8247,8 @@ Created: 21 December 2016
 Updated: 30 January 2023
 
 Stars on GitHub: 1234
+
+----
 
 ### [presslabs/gitfs](https://github.com/presslabs/gitfs)
 
@@ -7220,6 +8264,8 @@ Updated: 27 January 2023
 
 Stars on GitHub: 2339
 
+----
+
 ### [github/github-artifact-exporter](https://github.com/github/github-artifact-exporter)
 
 A set of packages to make exporting artifacts from GitHub easier
@@ -7234,6 +8280,8 @@ Updated: 12 January 2023
 
 Stars on GitHub: 276
 
+----
+
 ### [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
 
 A list of cool features of Git and GitHub.
@@ -7244,9 +8292,11 @@ Clone: [https://github.com/tiimgreen/github-cheat-sheet.git](https://github.com/
 
 Created: 12 April 2014
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 39260
+Stars on GitHub: 39267
+
+----
 
 ### [techgaun/github-dorks](https://github.com/techgaun/github-dorks)
 
@@ -7258,9 +8308,11 @@ Clone: [https://github.com/techgaun/github-dorks.git](https://github.com/techgau
 
 Created: 11 October 2015
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 2254
+Stars on GitHub: 2256
+
+----
 
 ### [ZYSzys/github-personal-stars](https://github.com/ZYSzys/github-personal-stars)
 
@@ -7276,6 +8328,8 @@ Updated: 13 September 2022
 
 Stars on GitHub: 3
 
+----
+
 ### [AykutSarac/github-rater](https://github.com/AykutSarac/github-rater)
 
 📊 Check your GitHub rating, view results and enhance your profile quality.
@@ -7290,6 +8344,8 @@ Updated: 29 January 2023
 
 Stars on GitHub: 421
 
+----
+
 ### [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 :zap: Dynamically generated stats for your github readmes
@@ -7302,7 +8358,9 @@ Created: 09 July 2020
 
 Updated: 01 February 2023
 
-Stars on GitHub: 51315
+Stars on GitHub: 51330
+
+----
 
 ### [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 
@@ -7314,9 +8372,11 @@ Clone: [https://github.com/DenverCoder1/github-readme-streak-stats.git](https://
 
 Created: 25 October 2020
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 2307
+Stars on GitHub: 2309
+
+----
 
 ### [harshjv/github-repo-size](https://github.com/harshjv/github-repo-size)
 
@@ -7328,9 +8388,11 @@ Clone: [https://github.com/harshjv/github-repo-size.git](https://github.com/hars
 
 Created: 03 August 2016
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 1112
+Stars on GitHub: 1113
+
+----
 
 ### [gwen001/github-search](https://github.com/gwen001/github-search)
 
@@ -7346,6 +8408,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 1115
 
+----
+
 ### [gwen001/github-subdomains](https://github.com/gwen001/github-subdomains)
 
 Find subdomains on GitHub.
@@ -7356,9 +8420,11 @@ Clone: [https://github.com/gwen001/github-subdomains.git](https://github.com/gwe
 
 Created: 24 July 2020
 
-Updated: 29 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 402
+Stars on GitHub: 403
+
+----
 
 ### [willin/github-trending](https://github.com/willin/github-trending)
 
@@ -7374,6 +8440,8 @@ Updated: 30 August 2022
 
 Stars on GitHub: 16
 
+----
+
 ### [dferber90/githubbox](https://github.com/dferber90/githubbox)
 
 🏖 Open any GitHub repo in CodeSandbox by changing the hostname
@@ -7387,6 +8455,8 @@ Created: 20 April 2020
 Updated: 29 January 2023
 
 Stars on GitHub: 545
+
+----
 
 ### [manosim/gitify](https://github.com/manosim/gitify)
 
@@ -7402,6 +8472,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 3894
 
+----
+
 ### [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks)
 
 Protect and discover secrets using Gitleaks 🔑
@@ -7412,9 +8484,11 @@ Clone: [https://github.com/zricethezav/gitleaks.git](https://github.com/zricethe
 
 Created: 27 January 2018
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 11513
+Stars on GitHub: 11516
+
+----
 
 ### [GONZOsint/gitrecon](https://github.com/GONZOsint/gitrecon)
 
@@ -7430,6 +8504,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 218
 
+----
+
 ### [k0kubun/gitstar-ranking](https://github.com/k0kubun/gitstar-ranking)
 
 GitHub star ranking for users, organizations and repositories
@@ -7443,6 +8519,8 @@ Created: 31 December 2014
 Updated: 16 January 2023
 
 Stars on GitHub: 674
+
+----
 
 ### [dwisiswant0/go-dork](https://github.com/dwisiswant0/go-dork)
 
@@ -7458,6 +8536,8 @@ Updated: 27 January 2023
 
 Stars on GitHub: 735
 
+----
+
 ### [SteelPangolin/go-ndbm](https://github.com/SteelPangolin/go-ndbm)
 
 NDBM support for Go. State of the art structured storage for 1986.
@@ -7472,6 +8552,8 @@ Updated: 03 September 2022
 
 Stars on GitHub: 2
 
+----
+
 ### [allinurl/goaccess](https://github.com/allinurl/goaccess)
 
 GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -7482,9 +8564,11 @@ Clone: [https://github.com/allinurl/goaccess.git](https://github.com/allinurl/go
 
 Created: 14 July 2013
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 15719
+Stars on GitHub: 15721
+
+----
 
 ### [bellingcat/gogettr](https://github.com/bellingcat/gogettr)
 
@@ -7500,6 +8584,8 @@ Updated: 21 January 2023
 
 Stars on GitHub: 9
 
+----
+
 ### [maxpoletaev/golang-book](https://github.com/maxpoletaev/golang-book)
 
 An Introduction to programming in Go
@@ -7513,6 +8599,8 @@ Created: 16 November 2014
 Updated: 20 January 2023
 
 Stars on GitHub: 427
+
+----
 
 ### [danielbuechele/goofy](https://github.com/danielbuechele/goofy)
 
@@ -7528,6 +8616,8 @@ Updated: 28 January 2023
 
 Stars on GitHub: 975
 
+----
+
 ### [bellingcat/google-apps-script](https://github.com/bellingcat/google-apps-script)
 
 A collection of handy Google Apps Script code snippets
@@ -7541,6 +8631,8 @@ Created: 08 March 2022
 Updated: 23 January 2023
 
 Stars on GitHub: 11
+
+----
 
 ### [KernelPan1k/google-dork-builder](https://github.com/KernelPan1k/google-dork-builder)
 
@@ -7556,6 +8648,8 @@ Updated: 05 December 2022
 
 Stars on GitHub: 9
 
+----
+
 ### [facundoolano/google-play-scraper](https://github.com/facundoolano/google-play-scraper)
 
 Node.js scraper to get data from Google Play
@@ -7569,6 +8663,8 @@ Created: 07 April 2015
 Updated: 31 January 2023
 
 Stars on GitHub: 1884
+
+----
 
 ### [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api)
 
@@ -7584,6 +8680,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 2322
 
+----
+
 ### [BullsEye0/google_dork_list](https://github.com/BullsEye0/google_dork_list)
 
 Google Dorks | Google helps you to find Vulnerable Websites that Indexed in Google Search Results. Here is the latest collection of Google Dorks. A collection of 13.760 Dorks. Author: Jolanda de Koff
@@ -7597,6 +8695,8 @@ Created: 02 September 2019
 Updated: 26 January 2023
 
 Stars on GitHub: 1163
+
+----
 
 ### [jarun/googler](https://github.com/jarun/googler)
 
@@ -7612,6 +8712,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 5911
 
+----
+
 ### [grothkopp/goosh](https://github.com/grothkopp/goosh)
 
 goosh.org the unofficial google shell
@@ -7625,6 +8727,8 @@ Created: 22 September 2008
 Updated: 07 December 2022
 
 Stars on GitHub: 37
+
+----
 
 ### [tanaikech/goris](https://github.com/tanaikech/goris)
 
@@ -7640,6 +8744,8 @@ Updated: 19 January 2023
 
 Stars on GitHub: 61
 
+----
+
 ### [apify/got-scraping](https://github.com/apify/got-scraping)
 
 HTTP client made for scraping based on got.
@@ -7654,6 +8760,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 196
 
+----
+
 ### [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor)
 
 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
@@ -7664,9 +8772,11 @@ Clone: [https://github.com/graphql-editor/graphql-editor.git](https://github.com
 
 Created: 18 September 2018
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 5756
+Stars on GitHub: 5757
+
+----
 
 ### [cipher387/grep_for_osint](https://github.com/cipher387/grep_for_osint)
 
@@ -7682,6 +8792,8 @@ Updated: 28 January 2023
 
 Stars on GitHub: 56
 
+----
+
 ### [joeyespo/grip](https://github.com/joeyespo/grip)
 
 Preview GitHub README.md files locally before committing them.
@@ -7694,7 +8806,9 @@ Created: 17 November 2012
 
 Updated: 01 February 2023
 
-Stars on GitHub: 5887
+Stars on GitHub: 5888
+
+----
 
 ### [bk138/gromit-mpx](https://github.com/bk138/gromit-mpx)
 
@@ -7710,6 +8824,8 @@ Updated: 28 January 2023
 
 Stars on GitHub: 729
 
+----
+
 ### [1cbf94bc-bc47-42b9-9197-244437fad1e6/gwhois](https://github.com/1cbf94bc-bc47-42b9-9197-244437fad1e6/gwhois)
 
 Look up ownership information on any public Google document
@@ -7723,6 +8839,8 @@ Created: 21 March 2021
 Updated: 04 December 2022
 
 Stars on GitHub: 10
+
+----
 
 ### [gildasio/h2t](https://github.com/gildasio/h2t)
 
@@ -7738,6 +8856,8 @@ Updated: 03 January 2023
 
 Stars on GitHub: 354
 
+----
+
 ### [khast3x/h8mail](https://github.com/khast3x/h8mail)
 
 Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email
@@ -7751,6 +8871,8 @@ Created: 15 June 2018
 Updated: 31 January 2023
 
 Stars on GitHub: 3071
+
+----
 
 ### [vstinner/hachoir](https://github.com/vstinner/hachoir)
 
@@ -7766,6 +8888,8 @@ Updated: 25 January 2023
 
 Stars on GitHub: 517
 
+----
+
 ### [solarrust/hacker-laws](https://github.com/solarrust/hacker-laws)
 
 💻📖 Законы, теории, принципы и модели, которые полезно знать разработчику.
@@ -7780,6 +8904,8 @@ Updated: 29 January 2023
 
 Stars on GitHub: 867
 
+----
+
 ### [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap)
 
 A collection of hacking tools, resources and references to practice ethical hacking.
@@ -7790,9 +8916,11 @@ Clone: [https://github.com/sundowndev/hacker-roadmap.git](https://github.com/sun
 
 Created: 02 April 2018
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
 Stars on GitHub: 10378
+
+----
 
 ### [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)
 
@@ -7806,7 +8934,9 @@ Created: 11 April 2020
 
 Updated: 01 February 2023
 
-Stars on GitHub: 28313
+Stars on GitHub: 28394
+
+----
 
 ### [hakluke/hakrawler](https://github.com/hakluke/hakrawler)
 
@@ -7818,9 +8948,11 @@ Clone: [https://github.com/hakluke/hakrawler.git](https://github.com/hakluke/hak
 
 Created: 15 December 2019
 
-Updated: 29 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 3486
+Stars on GitHub: 3487
+
+----
 
 ### [Te-k/harpoon](https://github.com/Te-k/harpoon)
 
@@ -7836,6 +8968,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 1023
 
+----
+
 ### [chm0dx/hashPlease](https://github.com/chm0dx/hashPlease)
 
 Create hashes for different algorithms from wordlists or dynamically generated from masks in order to practice cracking.
@@ -7849,6 +8983,8 @@ Created: 16 August 2020
 Updated: 06 November 2022
 
 Stars on GitHub: 3
+
+----
 
 ### [cipher387/hashtags_and_keywords_social_media_quick_search](https://github.com/cipher387/hashtags_and_keywords_social_media_quick_search)
 
@@ -7864,6 +9000,8 @@ Updated: 11 January 2023
 
 Stars on GitHub: 22
 
+----
+
 ### [thesourcerer8/hddsuperclone](https://github.com/thesourcerer8/hddsuperclone)
 
 HDDSuperClone, HDDSuperTool
@@ -7878,6 +9016,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 299
 
+----
+
 ### [checkly/headless-recorder](https://github.com/checkly/headless-recorder)
 
 Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script. 
@@ -7888,9 +9028,11 @@ Clone: [https://github.com/checkly/headless-recorder.git](https://github.com/che
 
 Created: 13 August 2018
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
 Stars on GitHub: 14674
+
+----
 
 ### [dstotijn/hetty](https://github.com/dstotijn/hetty)
 
@@ -7906,6 +9048,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 5106
 
+----
+
 ### [sergo-code/hh-ru-auto-resume-raising](https://github.com/sergo-code/hh-ru-auto-resume-raising)
 
 Программа для автоматического подъема резюме на HeadHunter каждые 4 часа. Альтернатива платной услуге Продвижение.LITE от HeadHunter.
@@ -7920,6 +9064,8 @@ Updated: 24 December 2022
 
 Stars on GitHub: 73
 
+----
+
 ### [megadose/holehe](https://github.com/megadose/holehe)
 
 holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
@@ -7930,9 +9076,11 @@ Clone: [https://github.com/megadose/holehe.git](https://github.com/megadose/hole
 
 Created: 25 June 2020
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 4029
+Stars on GitHub: 4034
+
+----
 
 ### [lightswitch05/hosts](https://github.com/lightswitch05/hosts)
 
@@ -7948,6 +9096,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 1137
 
+----
+
 ### [say4n/hotreload](https://github.com/say4n/hotreload)
 
 hot reload your python code!
@@ -7962,6 +9112,8 @@ Updated: 28 January 2023
 
 Stars on GitHub: 315
 
+----
+
 ### [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
 
 A guide to contributing to open source
@@ -7972,9 +9124,11 @@ Clone: [https://github.com/freeCodeCamp/how-to-contribute-to-open-source.git](ht
 
 Created: 25 September 2016
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 7326
+Stars on GitHub: 7328
+
+----
 
 ### [httpcats/http.cat](https://github.com/httpcats/http.cat)
 
@@ -7986,9 +9140,11 @@ Clone: [https://github.com/httpcats/http.cat.git](https://github.com/httpcats/ht
 
 Created: 30 August 2015
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 2077
+Stars on GitHub: 2079
+
+----
 
 ### [nubychan/httpdoser](https://github.com/nubychan/httpdoser)
 
@@ -8004,6 +9160,8 @@ Updated: 25 January 2023
 
 Stars on GitHub: 3
 
+----
+
 ### [devXprite/httpfy](https://github.com/devXprite/httpfy)
 
 A fast and powerful http toolkit that take a list of domains to find active domains and other information such as status-code, title, response-time , server, content-type and many other
@@ -8017,6 +9175,8 @@ Created: 31 July 2022
 Updated: 30 January 2023
 
 Stars on GitHub: 46
+
+----
 
 ### [httptoolkit/httptoolkit-desktop](https://github.com/httptoolkit/httptoolkit-desktop)
 
@@ -8032,6 +9192,8 @@ Updated: 29 January 2023
 
 Stars on GitHub: 467
 
+----
+
 ### [xroche/httrack](https://github.com/xroche/httrack)
 
 HTTrack Website Copier, copy websites to your computer (Official repository)
@@ -8045,6 +9207,8 @@ Created: 14 March 2015
 Updated: 31 January 2023
 
 Stars on GitHub: 2323
+
+----
 
 ### [sickcodes/httrack](https://github.com/sickcodes/httrack)
 
@@ -8060,6 +9224,8 @@ Updated: 07 December 2022
 
 Stars on GitHub: 3
 
+----
+
 ### [huginn/huginn](https://github.com/huginn/huginn)
 
 Create agents that monitor and act on your behalf.  Your agents are standing by!
@@ -8070,9 +9236,11 @@ Clone: [https://github.com/huginn/huginn.git](https://github.com/huginn/huginn.g
 
 Created: 10 March 2013
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 37486
+Stars on GitHub: 37489
+
+----
 
 ### [harshnandwana/hussh](https://github.com/harshnandwana/hussh)
 
@@ -8088,6 +9256,8 @@ Updated: 28 January 2023
 
 Stars on GitHub: 6
 
+----
+
 ### [r-darwish/idnt](https://github.com/r-darwish/idnt)
 
 Batch software uninstall
@@ -8101,6 +9271,8 @@ Created: 30 October 2021
 Updated: 27 January 2023
 
 Stars on GitHub: 90
+
+----
 
 ### [megadose/ignorant](https://github.com/megadose/ignorant)
 
@@ -8116,6 +9288,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 542
 
+----
+
 ### [igraph/igraph](https://github.com/igraph/igraph)
 
 Library for the analysis of networks
@@ -8129,6 +9303,8 @@ Created: 04 March 2013
 Updated: 31 January 2023
 
 Stars on GitHub: 1481
+
+----
 
 ### [ageitgey/image_to_numpy](https://github.com/ageitgey/image_to_numpy)
 
@@ -8144,6 +9320,8 @@ Updated: 29 December 2022
 
 Stars on GitHub: 172
 
+----
+
 ### [rimodas/indeed.com_resumes_scrap](https://github.com/rimodas/indeed.com_resumes_scrap)
 
 None
@@ -8157,6 +9335,8 @@ Created: 06 February 2018
 Updated: 03 September 2022
 
 Stars on GitHub: 2
+
+----
 
 ### [devXprite/infoooze](https://github.com/devXprite/infoooze)
 
@@ -8172,6 +9352,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 272
 
+----
+
 ### [Kong/insomnia](https://github.com/Kong/insomnia)
 
 The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
@@ -8182,9 +9364,11 @@ Clone: [https://github.com/Kong/insomnia.git](https://github.com/Kong/insomnia.g
 
 Created: 23 April 2016
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 26330
+Stars on GitHub: 26333
+
+----
 
 ### [bellingcat/instagram-location-search](https://github.com/bellingcat/instagram-location-search)
 
@@ -8200,6 +9384,8 @@ Updated: 28 January 2023
 
 Stars on GitHub: 335
 
+----
+
 ### [drawrowfly/instagram-scraper](https://github.com/drawrowfly/instagram-scraper)
 
 Instagram Scraper. Scrape useful data/posts from instagram users, hashtag and locations pages. Comments and people who liked specific posts and soon more. No login or API keys are required
@@ -8214,6 +9400,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 397
 
+----
+
 ### [instaloader/instaloader](https://github.com/instaloader/instaloader)
 
 Download pictures (or videos) along with their captions and other metadata from Instagram.
@@ -8224,9 +9412,11 @@ Clone: [https://github.com/instaloader/instaloader.git](https://github.com/insta
 
 Created: 15 June 2016
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 5364
+Stars on GitHub: 5368
+
+----
 
 ### [usablica/intro.js](https://github.com/usablica/intro.js)
 
@@ -8238,9 +9428,11 @@ Clone: [https://github.com/usablica/intro.js.git](https://github.com/usablica/in
 
 Created: 10 March 2013
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 21814
+Stars on GitHub: 21815
+
+----
 
 ### [abhijithb200/investigator](https://github.com/abhijithb200/investigator)
 
@@ -8256,6 +9448,8 @@ Updated: 19 January 2023
 
 Stars on GitHub: 199
 
+----
+
 ### [wilix-team/iohook](https://github.com/wilix-team/iohook)
 
 Node.js global keyboard and mouse listener.
@@ -8269,6 +9463,8 @@ Created: 10 December 2016
 Updated: 29 January 2023
 
 Stars on GitHub: 1007
+
+----
 
 ### [EdJoPaTo/ip-changed-telegram-message](https://github.com/EdJoPaTo/ip-changed-telegram-message)
 
@@ -8284,6 +9480,8 @@ Updated: 31 October 2022
 
 Stars on GitHub: 5
 
+----
+
 ### [noob-hackers/ipdrone](https://github.com/noob-hackers/ipdrone)
 
 Track Location With Live Address And Accuracy In Termux
@@ -8297,6 +9495,8 @@ Created: 13 April 2019
 Updated: 31 January 2023
 
 Stars on GitHub: 1075
+
+----
 
 ### [jasonlong/isometric-contributions](https://github.com/jasonlong/isometric-contributions)
 
@@ -8312,6 +9512,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 3312
 
+----
+
 ### [essandess/isp-data-pollution](https://github.com/essandess/isp-data-pollution)
 
 ISP Data Pollution to Protect Private Browsing History with Obfuscation
@@ -8326,6 +9528,8 @@ Updated: 19 January 2023
 
 Stars on GitHub: 532
 
+----
+
 ### [ivre/ivre](https://github.com/ivre/ivre)
 
 Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligence from your sensors, and much more!
@@ -8336,9 +9540,11 @@ Clone: [https://github.com/ivre/ivre.git](https://github.com/ivre/ivre.git)
 
 Created: 12 September 2014
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 2810
+Stars on GitHub: 2809
+
+----
 
 ### [ins1gn1a/jaBLEs](https://github.com/ins1gn1a/jaBLEs)
 
@@ -8354,6 +9560,8 @@ Updated: 06 September 2022
 
 Stars on GitHub: 3
 
+----
+
 ### [GrehBan/jgram](https://github.com/GrehBan/jgram)
 
 Jgram was created to be able to quickly and conveniently write telegram bots, placing their structure in .json files
@@ -8367,6 +9575,8 @@ Created: 28 June 2022
 Updated: 19 November 2022
 
 Stars on GitHub: 26
+
+----
 
 ### [VickentyZherebov/job_boards_parser_new](https://github.com/VickentyZherebov/job_boards_parser_new)
 
@@ -8382,6 +9592,8 @@ Updated: 08 September 2022
 
 Stars on GitHub: 1
 
+----
+
 ### [stedolan/jq](https://github.com/stedolan/jq)
 
 Command-line JSON processor
@@ -8392,9 +9604,11 @@ Clone: [https://github.com/stedolan/jq.git](https://github.com/stedolan/jq.git)
 
 Created: 18 July 2012
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 24132
+Stars on GitHub: 24134
+
+----
 
 ### [huntflow/json-processor](https://github.com/huntflow/json-processor)
 
@@ -8410,6 +9624,8 @@ Updated: 08 September 2022
 
 Stars on GitHub: 1
 
+----
+
 ### [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)
 
 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
@@ -8420,9 +9636,11 @@ Clone: [https://github.com/AykutSarac/jsoncrack.com.git](https://github.com/Ayku
 
 Created: 30 January 2022
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 21657
+Stars on GitHub: 21674
+
+----
 
 ### [jhy/jsoup](https://github.com/jhy/jsoup)
 
@@ -8434,9 +9652,11 @@ Clone: [https://github.com/jhy/jsoup.git](https://github.com/jhy/jsoup.git)
 
 Created: 19 December 2009
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 9957
+Stars on GitHub: 9958
+
+----
 
 ### [projectdiscovery/katana](https://github.com/projectdiscovery/katana)
 
@@ -8448,9 +9668,11 @@ Clone: [https://github.com/projectdiscovery/katana.git](https://github.com/proje
 
 Created: 02 January 2021
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 5437
+Stars on GitHub: 5439
+
+----
 
 ### [bormaxi8080/knex-extensions](https://github.com/bormaxi8080/knex-extensions)
 
@@ -8466,6 +9688,8 @@ Updated: 30 August 2022
 
 Stars on GitHub: 1
 
+----
+
 ### [lcvvvv/kscan](https://github.com/lcvvvv/kscan)
 
 Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。
@@ -8476,9 +9700,11 @@ Clone: [https://github.com/lcvvvv/kscan.git](https://github.com/lcvvvv/kscan.git
 
 Created: 25 January 2021
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 2534
+Stars on GitHub: 2535
+
+----
 
 ### [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark)
 
@@ -8490,9 +9716,11 @@ Clone: [https://github.com/kubeshark/kubeshark.git](https://github.com/kubeshark
 
 Created: 19 April 2021
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 8221
+Stars on GitHub: 8223
+
+----
 
 ### [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner)
 
@@ -8504,9 +9732,11 @@ Clone: [https://github.com/Sanster/lama-cleaner.git](https://github.com/Sanster/
 
 Created: 15 November 2021
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 7490
+Stars on GitHub: 7498
+
+----
 
 ### [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool)
 
@@ -8518,9 +9748,11 @@ Clone: [https://github.com/languagetool-org/languagetool.git](https://github.com
 
 Created: 08 August 2013
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 8151
+Stars on GitHub: 8153
+
+----
 
 ### [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
 
@@ -8534,7 +9766,9 @@ Created: 18 May 2019
 
 Updated: 01 February 2023
 
-Stars on GitHub: 25517
+Stars on GitHub: 25519
+
+----
 
 ### [librenms/librenms](https://github.com/librenms/librenms)
 
@@ -8550,6 +9784,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 3033
 
+----
+
 ### [jedisct1/libsodium](https://github.com/jedisct1/libsodium)
 
 A modern, portable, easy to use crypto library.
@@ -8560,9 +9796,11 @@ Clone: [https://github.com/jedisct1/libsodium.git](https://github.com/jedisct1/l
 
 Created: 20 January 2013
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 10721
+Stars on GitHub: 10724
+
+----
 
 ### [lima-vm/lima](https://github.com/lima-vm/lima)
 
@@ -8574,9 +9812,11 @@ Clone: [https://github.com/lima-vm/lima.git](https://github.com/lima-vm/lima.git
 
 Created: 14 May 2021
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 10568
+Stars on GitHub: 10572
+
+----
 
 ### [lefayjey/linWinPwn](https://github.com/lefayjey/linWinPwn)
 
@@ -8588,9 +9828,11 @@ Clone: [https://github.com/lefayjey/linWinPwn.git](https://github.com/lefayjey/l
 
 Created: 16 December 2021
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 1080
+Stars on GitHub: 1081
+
+----
 
 ### [LingDong-/linedraw](https://github.com/LingDong-/linedraw)
 
@@ -8602,9 +9844,11 @@ Clone: [https://github.com/LingDong-/linedraw.git](https://github.com/LingDong-/
 
 Created: 31 March 2017
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 649
+Stars on GitHub: 650
+
+----
 
 ### [adamjgrant/link-shortener](https://github.com/adamjgrant/link-shortener)
 
@@ -8620,6 +9864,8 @@ Updated: 10 January 2023
 
 Stars on GitHub: 35
 
+----
+
 ### [tomquirk/linkedin-api](https://github.com/tomquirk/linkedin-api)
 
 👨‍💼Linkedin API for Python
@@ -8633,6 +9879,8 @@ Created: 13 June 2018
 Updated: 31 January 2023
 
 Stars on GitHub: 962
+
+----
 
 ### [joshuatz/linkedin-to-jsonresume](https://github.com/joshuatz/linkedin-to-jsonresume)
 
@@ -8648,6 +9896,8 @@ Updated: 27 January 2023
 
 Stars on GitHub: 146
 
+----
+
 ### [M157q/linkedin2md](https://github.com/M157q/linkedin2md)
 
 (DEPRECATED) Export public LinkedIn profile to Markdown format
@@ -8661,6 +9911,8 @@ Created: 09 December 2015
 Updated: 28 January 2023
 
 Stars on GitHub: 12
+
+----
 
 ### [dominickmalzone/linkedinGroupScraper](https://github.com/dominickmalzone/linkedinGroupScraper)
 
@@ -8676,6 +9928,8 @@ Updated: 03 September 2022
 
 Stars on GitHub: 19
 
+----
+
 ### [joeyism/linkedin_scraper](https://github.com/joeyism/linkedin_scraper)
 
 A library that scrapes Linkedin for user data
@@ -8689,6 +9943,8 @@ Created: 27 October 2017
 Updated: 31 January 2023
 
 Stars on GitHub: 954
+
+----
 
 ### [Daniel31x13/linkwarden](https://github.com/Daniel31x13/linkwarden)
 
@@ -8704,6 +9960,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 513
 
+----
+
 ### [cipher387/list-of-paste-sites-twitter-Ivan30394639](https://github.com/cipher387/list-of-paste-sites-twitter-Ivan30394639)
 
 List of all pastebin.com analogs I know of. They are useful for finding leaked personal data
@@ -8717,6 +9975,8 @@ Created: 05 May 2021
 Updated: 28 January 2023
 
 Stars on GitHub: 15
+
+----
 
 ### [cipher387/list_of_sites_for_court_rulings_search](https://github.com/cipher387/list_of_sites_for_court_rulings_search)
 
@@ -8732,6 +9992,8 @@ Updated: 12 December 2022
 
 Stars on GitHub: 14
 
+----
+
 ### [Noleli/listcopy](https://github.com/Noleli/listcopy)
 
 Twitter List Copy
@@ -8745,6 +10007,8 @@ Created: 20 July 2012
 Updated: 20 December 2022
 
 Stars on GitHub: 118
+
+----
 
 ### [elmsec/lockigest](https://github.com/elmsec/lockigest)
 
@@ -8760,6 +10024,8 @@ Updated: 24 December 2022
 
 Stars on GitHub: 61
 
+----
+
 ### [pahen/madge](https://github.com/pahen/madge)
 
 Create graphs from your CommonJS, AMD or ES6 module dependencies
@@ -8770,9 +10036,11 @@ Clone: [https://github.com/pahen/madge.git](https://github.com/pahen/madge.git)
 
 Created: 20 May 2012
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 6860
+Stars on GitHub: 6862
+
+----
 
 ### [soxoj/maigret](https://github.com/soxoj/maigret)
 
@@ -8784,9 +10052,11 @@ Clone: [https://github.com/soxoj/maigret.git](https://github.com/soxoj/maigret.g
 
 Created: 27 June 2020
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 8013
+Stars on GitHub: 8015
+
+----
 
 ### [chirag04/mail-listener2](https://github.com/chirag04/mail-listener2)
 
@@ -8802,6 +10072,8 @@ Updated: 12 October 2022
 
 Stars on GitHub: 238
 
+----
+
 ### [EPCSHT/mail-listener2](https://github.com/EPCSHT/mail-listener2)
 
 Mail listener library for node.js. Get notification when new email arrived.
@@ -8815,6 +10087,8 @@ Created: 31 August 2021
 Updated: 06 September 2022
 
 Stars on GitHub: 1
+
+----
 
 ### [gr33nm0nk2802/mailMeta](https://github.com/gr33nm0nk2802/mailMeta)
 
@@ -8830,6 +10104,8 @@ Updated: 26 January 2023
 
 Stars on GitHub: 62
 
+----
+
 ### [mailcheck/mailcheck](https://github.com/mailcheck/mailcheck)
 
 Reduce misspelled email addresses in your web apps.
@@ -8843,6 +10119,8 @@ Created: 12 March 2012
 Updated: 29 January 2023
 
 Stars on GitHub: 7936
+
+----
 
 ### [mailcheck/mailcheck-ruby](https://github.com/mailcheck/mailcheck-ruby)
 
@@ -8858,6 +10136,8 @@ Updated: 03 September 2022
 
 Stars on GitHub: 38
 
+----
+
 ### [dreadl0ck/maltego](https://github.com/dreadl0ck/maltego)
 
 Maltego
@@ -8871,6 +10151,8 @@ Created: 30 January 2021
 Updated: 20 November 2022
 
 Stars on GitHub: 4
+
+----
 
 ### [cipher387/maltego-transforms-list](https://github.com/cipher387/maltego-transforms-list)
 
@@ -8886,6 +10168,8 @@ Updated: 20 January 2023
 
 Stars on GitHub: 95
 
+----
+
 ### [MaltegoTech/maltego-trx](https://github.com/MaltegoTech/maltego-trx)
 
 Maltego Transform library for Python
@@ -8899,6 +10183,8 @@ Created: 05 June 2018
 Updated: 29 January 2023
 
 Stars on GitHub: 148
+
+----
 
 ### [EdJoPaTo/markdown-to-standalone-html](https://github.com/EdJoPaTo/markdown-to-standalone-html)
 
@@ -8914,6 +10200,8 @@ Updated: 21 October 2022
 
 Stars on GitHub: 8
 
+----
+
 ### [soxoj/marple](https://github.com/soxoj/marple)
 
 📖 Collect links to profiles by username through search engines and analyze with various plugins
@@ -8927,6 +10215,8 @@ Created: 16 November 2021
 Updated: 29 January 2023
 
 Stars on GitHub: 131
+
+----
 
 ### [sickcodes/masscan](https://github.com/sickcodes/masscan)
 
@@ -8942,6 +10232,8 @@ Updated: 03 September 2022
 
 Stars on GitHub: 2
 
+----
+
 ### [googleworkspace/md2googleslides](https://github.com/googleworkspace/md2googleslides)
 
 Generate Google Slides from markdown
@@ -8952,9 +10244,11 @@ Clone: [https://github.com/googleworkspace/md2googleslides.git](https://github.c
 
 Created: 07 November 2016
 
-Updated: 28 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 4295
+Stars on GitHub: 4294
+
+----
 
 ### [k0kubun/md2key](https://github.com/k0kubun/md2key)
 
@@ -8970,6 +10264,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 943
 
+----
+
 ### [andrebradshaw/meetup-member-scraper](https://github.com/andrebradshaw/meetup-member-scraper)
 
 None
@@ -8983,6 +10279,8 @@ Created: 12 May 2019
 Updated: 03 September 2022
 
 Stars on GitHub: 23
+
+----
 
 ### [ohsusannamarie/meetup_scraper](https://github.com/ohsusannamarie/meetup_scraper)
 
@@ -8998,6 +10296,8 @@ Updated: 03 September 2022
 
 Stars on GitHub: 3
 
+----
+
 ### [bytedance/memory-leak-detector](https://github.com/bytedance/memory-leak-detector)
 
 None
@@ -9011,6 +10311,8 @@ Created: 14 April 2021
 Updated: 31 January 2023
 
 Stars on GitHub: 838
+
+----
 
 ### [travisbrown/memory.lol](https://github.com/travisbrown/memory.lol)
 
@@ -9026,6 +10328,8 @@ Updated: 28 January 2023
 
 Stars on GitHub: 281
 
+----
+
 ### [Ne0nd0g/merlin](https://github.com/Ne0nd0g/merlin)
 
 Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang.
@@ -9039,6 +10343,8 @@ Created: 06 January 2017
 Updated: 31 January 2023
 
 Stars on GitHub: 4196
+
+----
 
 ### [j3ssie/metabigor](https://github.com/j3ssie/metabigor)
 
@@ -9054,6 +10360,8 @@ Updated: 24 January 2023
 
 Stars on GitHub: 824
 
+----
+
 ### [laramies/metagoofil](https://github.com/laramies/metagoofil)
 
 Metadata harvester
@@ -9068,6 +10376,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 811
 
+----
+
 ### [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
 
 Metasploit Framework
@@ -9078,9 +10388,11 @@ Clone: [https://github.com/rapid7/metasploit-framework.git](https://github.com/r
 
 Created: 30 August 2011
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 29336
+Stars on GitHub: 29339
+
+----
 
 ### [rapid7/metasploit-payloads](https://github.com/rapid7/metasploit-payloads)
 
@@ -9096,6 +10408,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 1390
 
+----
+
 ### [rapid7/metasploitable3](https://github.com/rapid7/metasploitable3)
 
 Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.
@@ -9106,9 +10420,11 @@ Clone: [https://github.com/rapid7/metasploitable3.git](https://github.com/rapid7
 
 Created: 29 August 2016
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 3891
+Stars on GitHub: 3892
+
+----
 
 ### [mailhog/mh2](https://github.com/mailhog/mh2)
 
@@ -9124,6 +10440,8 @@ Updated: 22 January 2023
 
 Stars on GitHub: 9
 
+----
+
 ### [mailhog/mhsendmail](https://github.com/mailhog/mhsendmail)
 
 sendmail for MailHog
@@ -9137,6 +10455,8 @@ Created: 20 May 2015
 Updated: 27 January 2023
 
 Stars on GitHub: 222
+
+----
 
 ### [ninoseki/mihari](https://github.com/ninoseki/mihari)
 
@@ -9152,6 +10472,8 @@ Updated: 29 January 2023
 
 Stars on GitHub: 660
 
+----
+
 ### [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis)
 
 Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages. 
@@ -9166,6 +10488,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 3874
 
+----
+
 ### [minbrowser/min](https://github.com/minbrowser/min)
 
 A fast, minimal browser that protects your privacy
@@ -9176,9 +10500,11 @@ Clone: [https://github.com/minbrowser/min.git](https://github.com/minbrowser/min
 
 Created: 31 October 2015
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 6334
+Stars on GitHub: 6335
+
+----
 
 ### [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 
@@ -9192,7 +10518,9 @@ Created: 02 August 2018
 
 Updated: 01 February 2023
 
-Stars on GitHub: 12771
+Stars on GitHub: 12830
+
+----
 
 ### [readevalprint/mini-django](https://github.com/readevalprint/mini-django)
 
@@ -9208,6 +10536,8 @@ Updated: 18 January 2023
 
 Stars on GitHub: 253
 
+----
+
 ### [jedisct1/minisign](https://github.com/jedisct1/minisign)
 
 A dead simple tool to sign files and verify digital signatures.
@@ -9221,6 +10551,8 @@ Created: 07 June 2015
 Updated: 31 January 2023
 
 Stars on GitHub: 1682
+
+----
 
 ### [ninoseki/mitaka](https://github.com/ninoseki/mitaka)
 
@@ -9236,6 +10568,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 963
 
+----
+
 ### [ninoseki/miteru](https://github.com/ninoseki/miteru)
 
 An experimental phishing kit detection tool
@@ -9249,6 +10583,8 @@ Created: 17 September 2018
 Updated: 06 December 2022
 
 Stars on GitHub: 167
+
+----
 
 ### [sagikazarmark/modern-go-application](https://github.com/sagikazarmark/modern-go-application)
 
@@ -9264,6 +10600,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 1466
 
+----
+
 ### [lucasepe/modgv](https://github.com/lucasepe/modgv)
 
 Converts 'go mod graph' output into Graphviz's DOT language
@@ -9278,6 +10616,8 @@ Updated: 18 January 2023
 
 Stars on GitHub: 443
 
+----
+
 ### [modoboa/modoboa](https://github.com/modoboa/modoboa)
 
 Mail hosting made simple
@@ -9288,9 +10628,11 @@ Clone: [https://github.com/modoboa/modoboa.git](https://github.com/modoboa/modob
 
 Created: 16 April 2013
 
-Updated: 30 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 2391
+Stars on GitHub: 2393
+
+----
 
 ### [monicahq/monica](https://github.com/monicahq/monica)
 
@@ -9302,9 +10644,11 @@ Clone: [https://github.com/monicahq/monica.git](https://github.com/monicahq/moni
 
 Created: 17 February 2017
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 18634
+Stars on GitHub: 18635
+
+----
 
 ### [lauripiispanen/most-active-github-users-counter](https://github.com/lauripiispanen/most-active-github-users-counter)
 
@@ -9320,6 +10664,8 @@ Updated: 29 January 2023
 
 Stars on GitHub: 1187
 
+----
+
 ### [dievus/msdorkdump](https://github.com/dievus/msdorkdump)
 
 Google Dork File Finder
@@ -9333,6 +10679,8 @@ Created: 17 January 2022
 Updated: 26 January 2023
 
 Stars on GitHub: 152
+
+----
 
 ### [puzzlepeaches/msprobe](https://github.com/puzzlepeaches/msprobe)
 
@@ -9348,6 +10696,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 217
 
+----
+
 ### [9seconds/mtg](https://github.com/9seconds/mtg)
 
 Highly opinionated MTPROTO proxy for Telegram
@@ -9361,6 +10711,8 @@ Created: 31 May 2018
 Updated: 31 January 2023
 
 Stars on GitHub: 1556
+
+----
 
 ### [720kb/ndm](https://github.com/720kb/ndm)
 
@@ -9376,6 +10728,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 1966
 
+----
+
 ### [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
 
 🖼️  A command-line system information tool written in bash 3.2+
@@ -9386,9 +10740,11 @@ Clone: [https://github.com/dylanaraps/neofetch.git](https://github.com/dylanarap
 
 Created: 30 December 2015
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 17172
+Stars on GitHub: 17173
+
+----
 
 ### [pantyusha/nesca](https://github.com/pantyusha/nesca)
 
@@ -9404,6 +10760,8 @@ Updated: 07 January 2023
 
 Stars on GitHub: 98
 
+----
+
 ### [nestjs/nest](https://github.com/nestjs/nest)
 
 A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
@@ -9414,9 +10772,11 @@ Clone: [https://github.com/nestjs/nest.git](https://github.com/nestjs/nest.git)
 
 Created: 04 February 2017
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 53916
+Stars on GitHub: 53927
+
+----
 
 ### [dreadl0ck/netcap](https://github.com/dreadl0ck/netcap)
 
@@ -9432,6 +10792,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 1592
 
+----
+
 ### [fedeb95/netplot](https://github.com/fedeb95/netplot)
 
 A tool for plotting processes accessing the network
@@ -9445,6 +10807,8 @@ Created: 18 January 2021
 Updated: 09 January 2023
 
 Stars on GitHub: 78
+
+----
 
 ### [juliocesarfort/netscreen-shodan-scanner](https://github.com/juliocesarfort/netscreen-shodan-scanner)
 
@@ -9460,6 +10824,8 @@ Updated: 19 November 2022
 
 Stars on GitHub: 60
 
+----
+
 ### [developers-against-repressions/network-case](https://github.com/developers-against-repressions/network-case)
 
 None
@@ -9473,6 +10839,8 @@ Created: 18 February 2020
 Updated: 13 September 2022
 
 Stars on GitHub: 94
+
+----
 
 ### [amicheh/network_susmaz](https://github.com/amicheh/network_susmaz)
 
@@ -9488,6 +10856,8 @@ Updated: 07 December 2022
 
 Stars on GitHub: 25
 
+----
+
 ### [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io)
 
 ⚙️ NGINX config generator on steroids 💉
@@ -9498,9 +10868,11 @@ Clone: [https://github.com/digitalocean/nginxconfig.io.git](https://github.com/d
 
 Created: 05 January 2018
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 24973
+Stars on GitHub: 24978
+
+----
 
 ### [phantombuster/nickjs](https://github.com/phantombuster/nickjs)
 
@@ -9516,6 +10888,8 @@ Updated: 28 January 2023
 
 Stars on GitHub: 500
 
+----
+
 ### [sullo/nikto](https://github.com/sullo/nikto)
 
 Nikto web server scanner
@@ -9526,9 +10900,11 @@ Clone: [https://github.com/sullo/nikto.git](https://github.com/sullo/nikto.git)
 
 Created: 24 November 2012
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 6414
+Stars on GitHub: 6418
+
+----
 
 ### [nmap/nmap](https://github.com/nmap/nmap)
 
@@ -9540,9 +10916,11 @@ Clone: [https://github.com/nmap/nmap.git](https://github.com/nmap/nmap.git)
 
 Created: 09 March 2012
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 7331
+Stars on GitHub: 7334
+
+----
 
 ### [bormaxi8080/nmap-scanner](https://github.com/bormaxi8080/nmap-scanner)
 
@@ -9558,6 +10936,8 @@ Updated: 30 August 2022
 
 Stars on GitHub: 2
 
+----
+
 ### [vulnersCom/nmap-vulners](https://github.com/vulnersCom/nmap-vulners)
 
 NSE script based on Vulners.com API
@@ -9572,6 +10952,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 2838
 
+----
+
 ### [jarun/nnn](https://github.com/jarun/nnn)
 
 n³ The unorthodox terminal file manager
@@ -9582,9 +10964,11 @@ Clone: [https://github.com/jarun/nnn.git](https://github.com/jarun/nnn.git)
 
 Created: 20 August 2016
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 15738
+Stars on GitHub: 15741
+
+----
 
 ### [vsaravind007/nodeScratchpad](https://github.com/vsaravind007/nodeScratchpad)
 
@@ -9600,6 +10984,8 @@ Updated: 31 December 2022
 
 Stars on GitHub: 106
 
+----
+
 ### [cheatcode/nodejs-server-boilerplate](https://github.com/cheatcode/nodejs-server-boilerplate)
 
 Back-end boilerplate for building web applications, based on Node.js.
@@ -9613,6 +10999,8 @@ Created: 10 February 2021
 Updated: 30 January 2023
 
 Stars on GitHub: 110
+
+----
 
 ### [1tayH/noisy](https://github.com/1tayH/noisy)
 
@@ -9628,6 +11016,8 @@ Updated: 28 January 2023
 
 Stars on GitHub: 1481
 
+----
+
 ### [mikeyy/nonoCAPTCHA](https://github.com/mikeyy/nonoCAPTCHA)
 
 An asynchronized Python library to automate solving ReCAPTCHA v2 using audio
@@ -9641,6 +11031,8 @@ Created: 14 June 2018
 Updated: 29 January 2023
 
 Stars on GitHub: 859
+
+----
 
 ### [VKCOM/noverify](https://github.com/VKCOM/noverify)
 
@@ -9656,6 +11048,8 @@ Updated: 29 January 2023
 
 Stars on GitHub: 625
 
+----
+
 ### [nymtech/nym](https://github.com/nymtech/nym)
 
 Nym provides strong network-level privacy against sophisticated end-to-end attackers, and anonymous transactions using blinded, re-randomizable, decentralized credentials.
@@ -9669,6 +11063,8 @@ Created: 07 January 2020
 Updated: 31 January 2023
 
 Stars on GitHub: 670
+
+----
 
 ### [MarkMindCkm/obsidian-markmind](https://github.com/MarkMindCkm/obsidian-markmind)
 
@@ -9684,6 +11080,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 384
 
+----
+
 ### [lynchjames/obsidian-mind-map](https://github.com/lynchjames/obsidian-mind-map)
 
 An Obsidian plugin for displaying markdown notes as mind maps using Markmap.
@@ -9697,6 +11095,8 @@ Created: 06 December 2020
 Updated: 31 January 2023
 
 Stars on GitHub: 717
+
+----
 
 ### [WebBreacher/obsidian-osint-templates](https://github.com/WebBreacher/obsidian-osint-templates)
 
@@ -9712,6 +11112,8 @@ Updated: 01 February 2023
 
 Stars on GitHub: 129
 
+----
+
 ### [bellingcat/octosuite](https://github.com/bellingcat/octosuite)
 
 Advanced Github OSINT Framework
@@ -9722,9 +11124,11 @@ Clone: [https://github.com/bellingcat/octosuite.git](https://github.com/bellingc
 
 Created: 24 February 2022
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 1116
+Stars on GitHub: 1125
+
+----
 
 ### [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff)
 
@@ -9740,6 +11144,8 @@ Updated: 29 January 2023
 
 Stars on GitHub: 1600
 
+----
+
 ### [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 
 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
@@ -9750,9 +11156,11 @@ Clone: [https://github.com/ohmyzsh/ohmyzsh.git](https://github.com/ohmyzsh/ohmyz
 
 Created: 28 August 2009
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 154830
+Stars on GitHub: 154842
+
+----
 
 ### [OhShINT/ohshint.gitbook.io](https://github.com/OhShINT/ohshint.gitbook.io)
 
@@ -9768,6 +11176,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 327
 
+----
+
 ### [one-plus/one-plus.github.com](https://github.com/one-plus/one-plus.github.com)
 
 None
@@ -9781,6 +11191,8 @@ Created: 06 February 2019
 Updated: 30 August 2022
 
 Stars on GitHub: 2
+
+----
 
 ### [aramperes/onetun](https://github.com/aramperes/onetun)
 
@@ -9796,6 +11208,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 638
 
+----
+
 ### [onionshare/onionshare](https://github.com/onionshare/onionshare)
 
 Securely and anonymously share files, host websites, and chat with friends using the Tor network
@@ -9806,9 +11220,11 @@ Clone: [https://github.com/onionshare/onionshare.git](https://github.com/onionsh
 
 Created: 20 May 2014
 
-Updated: 30 January 2023
+Updated: 01 February 2023
 
 Stars on GitHub: 5492
+
+----
 
 ### [bellingcat/open-questions](https://github.com/bellingcat/open-questions)
 
@@ -9824,6 +11240,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 246
 
+----
+
 ### [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
 
 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -9834,9 +11252,11 @@ Clone: [https://github.com/serhii-londar/open-source-mac-os-apps.git](https://gi
 
 Created: 03 November 2017
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 33954
+Stars on GitHub: 33960
+
+----
 
 ### [rodukov/openNasa](https://github.com/rodukov/openNasa)
 
@@ -9852,6 +11272,8 @@ Updated: 12 November 2022
 
 Stars on GitHub: 18
 
+----
+
 ### [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn)
 
 Client for PPP+SSL VPN tunnel services
@@ -9865,6 +11287,8 @@ Created: 26 January 2015
 Updated: 31 January 2023
 
 Stars on GitHub: 2009
+
+----
 
 ### [atenreiro/opensquat](https://github.com/atenreiro/opensquat)
 
@@ -9880,6 +11304,8 @@ Updated: 24 January 2023
 
 Stars on GitHub: 417
 
+----
+
 ### [openssl/openssl](https://github.com/openssl/openssl)
 
 TLS/SSL and crypto library
@@ -9892,7 +11318,9 @@ Created: 15 January 2013
 
 Updated: 01 February 2023
 
-Stars on GitHub: 20716
+Stars on GitHub: 20722
+
+----
 
 ### [syvaidya/openstego](https://github.com/syvaidya/openstego)
 
@@ -9908,6 +11336,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 795
 
+----
+
 ### [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install)
 
 OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
@@ -9918,9 +11348,11 @@ Clone: [https://github.com/Nyr/openvpn-install.git](https://github.com/Nyr/openv
 
 Created: 14 May 2013
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 16500
+Stars on GitHub: 16504
+
+----
 
 ### [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial)
 
@@ -9932,9 +11364,11 @@ Clone: [https://github.com/cfenollosa/os-tutorial.git](https://github.com/cfenol
 
 Created: 29 September 2014
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 24445
+Stars on GitHub: 24448
+
+----
 
 ### [hippiiee/osgint](https://github.com/hippiiee/osgint)
 
@@ -9950,6 +11384,8 @@ Updated: 24 January 2023
 
 Stars on GitHub: 51
 
+----
+
 ### [pedroaovieira/osint](https://github.com/pedroaovieira/osint)
 
 None
@@ -9963,6 +11399,8 @@ Created: 01 December 2022
 Updated: 21 January 2023
 
 Stars on GitHub: 15
+
+----
 
 ### [soxoj/osint-cli-tool-skeleton](https://github.com/soxoj/osint-cli-tool-skeleton)
 
@@ -9978,6 +11416,8 @@ Updated: 20 January 2023
 
 Stars on GitHub: 37
 
+----
+
 ### [Coordinate-Cat/osint-tools-cli](https://github.com/Coordinate-Cat/osint-tools-cli)
 
 🔴 [Stopping] This is a cli version of the cheat sheet for easy access. It can be navigated without using commands.
@@ -9991,6 +11431,8 @@ Created: 22 December 2021
 Updated: 26 January 2023
 
 Stars on GitHub: 48
+
+----
 
 ### [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection)
 
@@ -10006,6 +11448,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 2896
 
+----
+
 ### [rly0nheart/osinteye](https://github.com/rly0nheart/osinteye)
 
 Username enumeration & reconnaisance suite
@@ -10019,6 +11463,8 @@ Created: 23 November 2021
 Updated: 27 January 2023
 
 Stars on GitHub: 129
+
+----
 
 ### [cipher387/osintmap](https://github.com/cipher387/osintmap)
 
@@ -10034,6 +11480,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 78
 
+----
+
 ### [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus)
 
 A Workflow Engine for Offensive Security
@@ -10044,9 +11492,11 @@ Clone: [https://github.com/j3ssie/osmedeus.git](https://github.com/j3ssie/osmede
 
 Created: 10 November 2018
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 4268
+Stars on GitHub: 4269
+
+----
 
 ### [sickcodes/osx-serial-generator](https://github.com/sickcodes/osx-serial-generator)
 
@@ -10062,6 +11512,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 1406
 
+----
+
 ### [sniptt-official/ots](https://github.com/sniptt-official/ots)
 
 🔐 Share end-to-end encrypted secrets with others via a one-time URL
@@ -10076,6 +11528,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 1632
 
+----
+
 ### [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client)
 
 Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
@@ -10086,9 +11540,11 @@ Clone: [https://github.com/Jigsaw-Code/outline-client.git](https://github.com/Ji
 
 Created: 13 March 2018
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 7409
+Stars on GitHub: 7411
+
+----
 
 ### [neneeen/own-vpn-for-everyone](https://github.com/neneeen/own-vpn-for-everyone)
 
@@ -10104,6 +11560,8 @@ Updated: 26 December 2022
 
 Stars on GitHub: 51
 
+----
+
 ### [rly0nheart/oxdork](https://github.com/rly0nheart/oxdork)
 
 Google dorking tool
@@ -10117,6 +11575,8 @@ Created: 07 June 2021
 Updated: 29 January 2023
 
 Stars on GitHub: 129
+
+----
 
 ### [muan/paint-github](https://github.com/muan/paint-github)
 
@@ -10132,6 +11592,8 @@ Updated: 25 January 2023
 
 Stars on GitHub: 401
 
+----
+
 ### [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)
 
 Papers from the computer science community to read and discuss.
@@ -10142,9 +11604,11 @@ Clone: [https://github.com/papers-we-love/papers-we-love.git](https://github.com
 
 Created: 15 December 2013
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 69290
+Stars on GitHub: 69302
+
+----
 
 ### [szorfein/paranoid-ninja](https://github.com/szorfein/paranoid-ninja)
 
@@ -10160,6 +11624,8 @@ Updated: 16 November 2022
 
 Stars on GitHub: 100
 
+----
+
 ### [r1chardj0n3s/parse](https://github.com/r1chardj0n3s/parse)
 
 Parse strings using a specification based on the Python format() syntax.
@@ -10174,6 +11640,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 1507
 
+----
+
 ### [Scille/parsec-cloud](https://github.com/Scille/parsec-cloud)
 
 Open source Dropbox-like file sharing with full client encryption !
@@ -10184,9 +11652,11 @@ Clone: [https://github.com/Scille/parsec-cloud.git](https://github.com/Scille/pa
 
 Created: 08 September 2016
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 208
+Stars on GitHub: 209
+
+----
 
 ### [cipher387/passengers_lists_and_migrants_records](https://github.com/cipher387/passengers_lists_and_migrants_records)
 
@@ -10202,6 +11672,8 @@ Updated: 19 January 2023
 
 Stars on GitHub: 8
 
+----
+
 ### [cipher387/pastebinsearchengines](https://github.com/cipher387/pastebinsearchengines)
 
 5 Google Custom Search Engines for searching in 48 pastebin sites
@@ -10215,6 +11687,8 @@ Created: 10 July 2021
 Updated: 11 January 2023
 
 Stars on GitHub: 43
+
+----
 
 ### [d-Rickyy-b/pastepwn](https://github.com/d-Rickyy-b/pastepwn)
 
@@ -10230,6 +11704,8 @@ Updated: 25 January 2023
 
 Stars on GitHub: 109
 
+----
+
 ### [PastVu/pastvu](https://github.com/PastVu/pastvu)
 
 PastVu — online platform for gathering, clarifying, attribution, and discussing retro photos.
@@ -10243,6 +11719,8 @@ Created: 30 March 2012
 Updated: 31 January 2023
 
 Stars on GitHub: 67
+
+----
 
 ### [aleksandr-oliferuk/pcap2squid](https://github.com/aleksandr-oliferuk/pcap2squid)
 
@@ -10258,6 +11736,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 85
 
+----
+
 ### [mozilla/pdf.js](https://github.com/mozilla/pdf.js)
 
 PDF Reader in JavaScript
@@ -10268,9 +11748,11 @@ Clone: [https://github.com/mozilla/pdf.js.git](https://github.com/mozilla/pdf.js
 
 Created: 26 April 2011
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 41241
+Stars on GitHub: 41246
+
+----
 
 ### [hpdeifel/pdfgrep](https://github.com/hpdeifel/pdfgrep)
 
@@ -10286,6 +11768,8 @@ Updated: 11 January 2023
 
 Stars on GitHub: 38
 
+----
+
 ### [RIAEvangelist/peacenotwar](https://github.com/RIAEvangelist/peacenotwar)
 
 None
@@ -10299,6 +11783,8 @@ Created: 08 March 2022
 Updated: 17 December 2022
 
 Stars on GitHub: 155
+
+----
 
 ### [chm0dx/peepedIn](https://github.com/chm0dx/peepedIn)
 
@@ -10314,6 +11800,8 @@ Updated: 02 December 2022
 
 Stars on GitHub: 21
 
+----
+
 ### [pereval-team/pereval-server](https://github.com/pereval-team/pereval-server)
 
 The Pereval server: a set of OSINT & misc related web-services
@@ -10327,6 +11815,8 @@ Created: 28 March 2017
 Updated: 22 December 2022
 
 Stars on GitHub: 30
+
+----
 
 ### [sosedoff/pgweb](https://github.com/sosedoff/pgweb)
 
@@ -10342,6 +11832,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 7647
 
+----
+
 ### [s41r4j/phomber](https://github.com/s41r4j/phomber)
 
 Phomber is infomation grathering tool that reverse search phone numbers and get their details, written in python3.
@@ -10356,6 +11848,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 125
 
+----
+
 ### [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga)
 
 Information gathering framework for phone numbers
@@ -10366,9 +11860,11 @@ Clone: [https://github.com/sundowndev/phoneinfoga.git](https://github.com/sundow
 
 Created: 25 October 2018
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 9068
+Stars on GitHub: 9071
+
+----
 
 ### [cipher387/phonenumberqueryconstructor](https://github.com/cipher387/phonenumberqueryconstructor)
 
@@ -10384,6 +11880,8 @@ Updated: 07 December 2022
 
 Stars on GitHub: 10
 
+----
+
 ### [Gictorbit/photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux)
 
 Photoshop CC v19  installer for Gnu/Linux
@@ -10397,6 +11895,8 @@ Created: 13 February 2020
 Updated: 31 January 2023
 
 Stars on GitHub: 3721
+
+----
 
 ### [sickcodes/photoshopCClinux](https://github.com/sickcodes/photoshopCClinux)
 
@@ -10412,6 +11912,8 @@ Updated: 14 December 2022
 
 Stars on GitHub: 4
 
+----
+
 ### [enemy-submarine/pidrila](https://github.com/enemy-submarine/pidrila)
 
 Python Interactive Deepweb-oriented Rapid Intelligent Link Analyzer
@@ -10425,6 +11927,8 @@ Created: 08 November 2020
 Updated: 11 January 2023
 
 Stars on GitHub: 181
+
+----
 
 ### [agermanidis/pigeon](https://github.com/agermanidis/pigeon)
 
@@ -10440,6 +11944,8 @@ Updated: 25 January 2023
 
 Stars on GitHub: 652
 
+----
+
 ### [PipeWire/pipewire](https://github.com/PipeWire/pipewire)
 
 Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)
@@ -10454,6 +11960,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 1517
 
+----
+
 ### [microsoft/playwright](https://github.com/microsoft/playwright)
 
 Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
@@ -10464,9 +11972,11 @@ Clone: [https://github.com/microsoft/playwright.git](https://github.com/microsof
 
 Created: 15 November 2019
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 47250
+Stars on GitHub: 47270
+
+----
 
 ### [polynote/polynote](https://github.com/polynote/polynote)
 
@@ -10482,6 +11992,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 4390
 
+----
+
 ### [postalserver/postal](https://github.com/postalserver/postal)
 
 ✉️ A fully featured open source mail delivery platform for incoming & outgoing e-mail
@@ -10492,9 +12004,11 @@ Clone: [https://github.com/postalserver/postal.git](https://github.com/postalser
 
 Created: 19 April 2017
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 12362
+Stars on GitHub: 12361
+
+----
 
 ### [elceef/ppdeep](https://github.com/elceef/ppdeep)
 
@@ -10510,6 +12024,8 @@ Updated: 04 January 2023
 
 Stars on GitHub: 23
 
+----
+
 ### [frenchbread/private-ip](https://github.com/frenchbread/private-ip)
 
 Check if IP address is private.
@@ -10523,6 +12039,8 @@ Created: 02 August 2016
 Updated: 17 January 2023
 
 Stars on GitHub: 26
+
+----
 
 ### [datamade/probablepeople](https://github.com/datamade/probablepeople)
 
@@ -10538,6 +12056,8 @@ Updated: 17 January 2023
 
 Stars on GitHub: 549
 
+----
+
 ### [1cbf94bc-bc47-42b9-9197-244437fad1e6/protondate](https://github.com/1cbf94bc-bc47-42b9-9197-244437fad1e6/protondate)
 
 Protondate is a Go based CLI application that returns the potential signup date for a given protonmail email address.
@@ -10551,6 +12071,8 @@ Created: 06 April 2021
 Updated: 04 December 2022
 
 Stars on GitHub: 10
+
+----
 
 ### [apify/proxy-chain](https://github.com/apify/proxy-chain)
 
@@ -10566,6 +12088,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 614
 
+----
+
 ### [bluet/proxybroker2](https://github.com/bluet/proxybroker2)
 
 The New (auto rotate) Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :performing_arts:
@@ -10579,6 +12103,8 @@ Created: 27 April 2020
 Updated: 31 January 2023
 
 Stars on GitHub: 346
+
+----
 
 ### [t3l3machus/psudohash](https://github.com/t3l3machus/psudohash)
 
@@ -10594,6 +12120,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 448
 
+----
+
 ### [public-apis/public-apis](https://github.com/public-apis/public-apis)
 
 A collective list of free APIs
@@ -10604,9 +12132,11 @@ Clone: [https://github.com/public-apis/public-apis.git](https://github.com/publi
 
 Created: 20 March 2016
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 226378
+Stars on GitHub: 226414
+
+----
 
 ### [juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports)
 
@@ -10622,6 +12152,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 6847
 
+----
+
 ### [cipher387/public_transport_maps](https://github.com/cipher387/public_transport_maps)
 
 Collection of online public transport maps
@@ -10636,6 +12168,8 @@ Updated: 21 December 2022
 
 Stars on GitHub: 5
 
+----
+
 ### [adamian98/pulse](https://github.com/adamian98/pulse)
 
 PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
@@ -10646,9 +12180,11 @@ Clone: [https://github.com/adamian98/pulse.git](https://github.com/adamian98/pul
 
 Created: 20 May 2020
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 7125
+Stars on GitHub: 7128
+
+----
 
 ### [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
 
@@ -10660,9 +12196,11 @@ Clone: [https://github.com/puppeteer/puppeteer.git](https://github.com/puppeteer
 
 Created: 09 May 2017
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 81687
+Stars on GitHub: 81691
+
+----
 
 ### [Nickersoft/push.js](https://github.com/Nickersoft/push.js)
 
@@ -10678,6 +12216,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 8666
 
+----
+
 ### [punk-security/pwnspoof](https://github.com/punk-security/pwnspoof)
 
 Pwnspoof repository
@@ -10691,6 +12231,8 @@ Created: 25 July 2021
 Updated: 20 January 2023
 
 Stars on GitHub: 234
+
+----
 
 ### [tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)
 
@@ -10706,6 +12248,8 @@ Updated: 01 February 2023
 
 Stars on GitHub: 5116
 
+----
+
 ### [Te-k/pybinaryedge](https://github.com/Te-k/pybinaryedge)
 
 Python 3 Wrapper for the BinaryEdge API https://www.binaryedge.io/
@@ -10719,6 +12263,8 @@ Created: 22 November 2018
 Updated: 19 November 2022
 
 Stars on GitHub: 18
+
+----
 
 ### [machine1337/pycrypt](https://github.com/machine1337/pycrypt)
 
@@ -10734,6 +12280,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 181
 
+----
+
 ### [huntflow/pyexchange](https://github.com/huntflow/pyexchange)
 
 Python wrapper for Microsoft Exchange
@@ -10747,6 +12295,8 @@ Created: 13 December 2016
 Updated: 08 September 2022
 
 Stars on GitHub: 1
+
+----
 
 ### [ubergrape/pyexchange](https://github.com/ubergrape/pyexchange)
 
@@ -10762,6 +12312,8 @@ Updated: 08 September 2022
 
 Stars on GitHub: 5
 
+----
+
 ### [mailcheck/pymailcheck](https://github.com/mailcheck/pymailcheck)
 
 Python port of mailcheck.js
@@ -10775,6 +12327,8 @@ Created: 22 November 2015
 Updated: 22 December 2022
 
 Stars on GitHub: 16
+
+----
 
 ### [cloudamqp/python-amqp-example](https://github.com/cloudamqp/python-amqp-example)
 
@@ -10790,6 +12344,8 @@ Updated: 24 September 2022
 
 Stars on GitHub: 15
 
+----
+
 ### [GeneralMills/pytrends](https://github.com/GeneralMills/pytrends)
 
 Pseudo API for Google Trends 
@@ -10804,6 +12360,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 2629
 
+----
+
 ### [pytube/pytube](https://github.com/pytube/pytube)
 
 A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
@@ -10814,9 +12372,11 @@ Clone: [https://github.com/pytube/pytube.git](https://github.com/pytube/pytube.g
 
 Created: 18 March 2012
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 7983
+Stars on GitHub: 7982
+
+----
 
 ### [rajatomar788/pywebcopy](https://github.com/rajatomar788/pywebcopy)
 
@@ -10832,6 +12392,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 359
 
+----
+
 ### [GONZOsint/pywhatcms](https://github.com/GONZOsint/pywhatcms)
 
 Unofficial WhatCMS API package
@@ -10846,6 +12408,8 @@ Updated: 27 November 2022
 
 Stars on GitHub: 42
 
+----
+
 ### [qdrant/qdrant](https://github.com/qdrant/qdrant)
 
 Qdrant - Vector Search Engine and Database for the next generation of AI applications. Also available in the cloud https://qdrant.to/cloud
@@ -10856,9 +12420,11 @@ Clone: [https://github.com/qdrant/qdrant.git](https://github.com/qdrant/qdrant.g
 
 Created: 30 May 2020
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 3854
+Stars on GitHub: 3860
+
+----
 
 ### [qemu/qemu](https://github.com/qemu/qemu)
 
@@ -10870,9 +12436,11 @@ Clone: [https://github.com/qemu/qemu.git](https://github.com/qemu/qemu.git)
 
 Created: 11 August 2012
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 7338
+Stars on GitHub: 7341
+
+----
 
 ### [bormaxi8080/qr-bruteforce](https://github.com/bormaxi8080/qr-bruteforce)
 
@@ -10888,6 +12456,8 @@ Updated: 30 August 2022
 
 Stars on GitHub: 1
 
+----
+
 ### [nkr413/qrcode-encrypt](https://github.com/nkr413/qrcode-encrypt)
 
 QR code with encrypted content
@@ -10901,6 +12471,8 @@ Created: 01 May 2022
 Updated: 25 December 2022
 
 Stars on GitHub: 31
+
+----
 
 ### [oryon-osint/querytool](https://github.com/oryon-osint/querytool)
 
@@ -10916,6 +12488,8 @@ Updated: 29 January 2023
 
 Stars on GitHub: 144
 
+----
+
 ### [andrebradshaw/quick_LI](https://github.com/andrebradshaw/quick_LI)
 
 custom LinkedIn Search
@@ -10929,6 +12503,8 @@ Created: 04 June 2018
 Updated: 03 September 2022
 
 Stars on GitHub: 10
+
+----
 
 ### [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)
 
@@ -10944,6 +12520,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 5725
 
+----
+
 ### [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui)
 
 A Flutter frontend for quickget and quickemu.
@@ -10957,6 +12535,8 @@ Created: 28 October 2021
 Updated: 30 January 2023
 
 Stars on GitHub: 543
+
+----
 
 ### [bellingcat/quitobaquito](https://github.com/bellingcat/quitobaquito)
 
@@ -10972,6 +12552,8 @@ Updated: 30 August 2022
 
 Stars on GitHub: 12
 
+----
+
 ### [terkelg/ramme](https://github.com/terkelg/ramme)
 
 Unofficial Instagram Desktop App.
@@ -10985,6 +12567,8 @@ Created: 21 August 2016
 Updated: 30 January 2023
 
 Stars on GitHub: 3326
+
+----
 
 ### [ohsusannamarie/random-LinkedIn-tools](https://github.com/ohsusannamarie/random-LinkedIn-tools)
 
@@ -11000,6 +12584,8 @@ Updated: 03 September 2022
 
 Stars on GitHub: 5
 
+----
+
 ### [hamza07-w/raymond](https://github.com/hamza07-w/raymond)
 
 Rayomd is a gathering information Framework for pentesters and bug bounty hunters
@@ -11013,6 +12599,8 @@ Created: 14 September 2021
 Updated: 27 January 2023
 
 Stars on GitHub: 26
+
+----
 
 ### [yurijmikhalevich/rclip](https://github.com/yurijmikhalevich/rclip)
 
@@ -11028,6 +12616,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 403
 
+----
+
 ### [markerikson/react-redux-links](https://github.com/markerikson/react-redux-links)
 
 Curated tutorial and resource links I've collected on React, Redux, ES6, and more
@@ -11038,9 +12628,11 @@ Clone: [https://github.com/markerikson/react-redux-links.git](https://github.com
 
 Created: 22 January 2016
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 22069
+Stars on GitHub: 22068
+
+----
 
 ### [0xacb/recollapse](https://github.com/0xacb/recollapse)
 
@@ -11052,9 +12644,11 @@ Clone: [https://github.com/0xacb/recollapse.git](https://github.com/0xacb/recoll
 
 Created: 13 November 2022
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 343
+Stars on GitHub: 344
+
+----
 
 ### [lanmaster53/recon-ng](https://github.com/lanmaster53/recon-ng)
 
@@ -11070,6 +12664,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 2447
 
+----
+
 ### [six2dez/reconftw](https://github.com/six2dez/reconftw)
 
 reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
@@ -11080,9 +12676,11 @@ Clone: [https://github.com/six2dez/reconftw.git](https://github.com/six2dez/reco
 
 Created: 30 December 2020
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 3638
+Stars on GitHub: 3641
+
+----
 
 ### [cmushroom/redis-pro](https://github.com/cmushroom/redis-pro)
 
@@ -11094,9 +12692,11 @@ Clone: [https://github.com/cmushroom/redis-pro.git](https://github.com/cmushroom
 
 Created: 19 January 2021
 
-Updated: 30 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 591
+Stars on GitHub: 590
+
+----
 
 ### [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com)
 
@@ -11108,9 +12708,11 @@ Clone: [https://github.com/aykutkardas/regexlearn.com.git](https://github.com/ay
 
 Created: 28 August 2021
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 2535
+Stars on GitHub: 2536
+
+----
 
 ### [psf/requests-html](https://github.com/psf/requests-html)
 
@@ -11122,9 +12724,11 @@ Clone: [https://github.com/psf/requests-html.git](https://github.com/psf/request
 
 Created: 24 February 2018
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 12923
+Stars on GitHub: 12924
+
+----
 
 ### [Nutlope/restorePhotos](https://github.com/Nutlope/restorePhotos)
 
@@ -11136,9 +12740,11 @@ Clone: [https://github.com/Nutlope/restorePhotos.git](https://github.com/Nutlope
 
 Created: 08 January 2023
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 1557
+Stars on GitHub: 1601
+
+----
 
 ### [alexjdevman/resume-parser](https://github.com/alexjdevman/resume-parser)
 
@@ -11154,6 +12760,8 @@ Updated: 08 September 2022
 
 Stars on GitHub: 1
 
+----
+
 ### [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema)
 
 JSON-Schema is used here to define and validate our proposed resume json
@@ -11167,6 +12775,8 @@ Created: 20 June 2014
 Updated: 31 January 2023
 
 Stars on GitHub: 1808
+
+----
 
 ### [RetireJS/retire.js](https://github.com/RetireJS/retire.js)
 
@@ -11182,6 +12792,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 3195
 
+----
+
 ### [invl/retry](https://github.com/invl/retry)
 
 easy to use retry decorator in python
@@ -11196,6 +12808,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 576
 
+----
+
 ### [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike)
 
 Chrome extension to return youtube dislikes
@@ -11206,9 +12820,11 @@ Clone: [https://github.com/Anarios/return-youtube-dislike.git](https://github.co
 
 Created: 15 November 2021
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 10676
+Stars on GitHub: 10678
+
+----
 
 ### [xiph/rnnoise](https://github.com/xiph/rnnoise)
 
@@ -11224,6 +12840,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 2876
 
+----
+
 ### [diego3g/rocketredis](https://github.com/diego3g/rocketredis)
 
 A beautiful Redis GUI :fire: (under development)
@@ -11237,6 +12855,8 @@ Created: 30 June 2020
 Updated: 31 January 2023
 
 Stars on GitHub: 1866
+
+----
 
 ### [tgscan/ru-osint-infosec-map](https://github.com/tgscan/ru-osint-infosec-map)
 
@@ -11252,6 +12872,8 @@ Updated: 03 December 2022
 
 Stars on GitHub: 21
 
+----
+
 ### [jakecreps/ruby](https://github.com/jakecreps/ruby)
 
 A Rumble, BitChute, and YouTube scraper
@@ -11266,6 +12888,8 @@ Updated: 22 December 2022
 
 Stars on GitHub: 29
 
+----
+
 ### [pbatard/rufus](https://github.com/pbatard/rufus)
 
 The Reliable USB Formatting Utility
@@ -11278,7 +12902,9 @@ Created: 19 November 2011
 
 Updated: 01 February 2023
 
-Stars on GitHub: 21547
+Stars on GitHub: 21552
+
+----
 
 ### [zquestz/s](https://github.com/zquestz/s)
 
@@ -11294,6 +12920,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 2081
 
+----
+
 ### [SharonBrizinov/s3viewer](https://github.com/SharonBrizinov/s3viewer)
 
 Storage Explorer - Publicly open storage viewer (Amazon S3 Bucket, Azure Blob, FTP server, HTTP Index Of/)
@@ -11307,6 +12935,8 @@ Created: 08 January 2021
 Updated: 30 January 2023
 
 Stars on GitHub: 385
+
+----
 
 ### [peak/s5cmd](https://github.com/peak/s5cmd)
 
@@ -11322,6 +12952,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 1473
 
+----
+
 ### [bellingcat/sar-interference-tracker](https://github.com/bellingcat/sar-interference-tracker)
 
 A Google Earth Engine tool for identifying satellite radar interference.
@@ -11335,6 +12967,8 @@ Created: 08 February 2022
 Updated: 21 January 2023
 
 Stars on GitHub: 417
+
+----
 
 ### [pawlaczyk/sarenka](https://github.com/pawlaczyk/sarenka)
 
@@ -11350,6 +12984,8 @@ Updated: 21 January 2023
 
 Stars on GitHub: 520
 
+----
+
 ### [hktalent/scan4all](https://github.com/hktalent/scan4all)
 
 Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
@@ -11360,9 +12996,11 @@ Clone: [https://github.com/hktalent/scan4all.git](https://github.com/hktalent/sc
 
 Created: 20 June 2022
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 3383
+Stars on GitHub: 3384
+
+----
 
 ### [digital-ghost/scanlab](https://github.com/digital-ghost/scanlab)
 
@@ -11378,6 +13016,8 @@ Updated: 04 September 2022
 
 Stars on GitHub: 20
 
+----
+
 ### [pantyusha/scanlab](https://github.com/pantyusha/scanlab)
 
 Build a search engine from nmap XML files
@@ -11391,6 +13031,8 @@ Created: 28 March 2017
 Updated: 30 August 2022
 
 Stars on GitHub: 3
+
+----
 
 ### [edoardottt/scilla](https://github.com/edoardottt/scilla)
 
@@ -11406,6 +13048,8 @@ Updated: 29 January 2023
 
 Stars on GitHub: 551
 
+----
+
 ### [dougy147/scitopdf](https://github.com/dougy147/scitopdf)
 
 bash script to quickly fetch, download and open scientific papers from Sci-Hub's database. 
@@ -11419,6 +13063,8 @@ Created: 05 January 2020
 Updated: 23 January 2023
 
 Stars on GitHub: 115
+
+----
 
 ### [snekbeater/scrambpy](https://github.com/snekbeater/scrambpy)
 
@@ -11434,6 +13080,8 @@ Updated: 13 January 2023
 
 Stars on GitHub: 48
 
+----
+
 ### [linkedtales/scrapedin](https://github.com/linkedtales/scrapedin)
 
 LinkedIn Scraper (currently working 2020)
@@ -11448,6 +13096,8 @@ Updated: 25 January 2023
 
 Stars on GitHub: 551
 
+----
+
 ### [scrapy/scrapy](https://github.com/scrapy/scrapy)
 
 Scrapy, a fast high-level web crawling & scraping framework for Python.
@@ -11460,7 +13110,9 @@ Created: 22 February 2010
 
 Updated: 01 February 2023
 
-Stars on GitHub: 45900
+Stars on GitHub: 45987
+
+----
 
 ### [geekan/scrapy-examples](https://github.com/geekan/scrapy-examples)
 
@@ -11472,9 +13124,11 @@ Clone: [https://github.com/geekan/scrapy-examples.git](https://github.com/geekan
 
 Created: 11 January 2014
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 2931
+Stars on GitHub: 2932
+
+----
 
 ### [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
 
@@ -11486,9 +13140,11 @@ Clone: [https://github.com/Genymobile/scrcpy.git](https://github.com/Genymobile/
 
 Created: 21 November 2017
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 76049
+Stars on GitHub: 76067
+
+----
 
 ### [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity)
 
@@ -11500,9 +13156,11 @@ Clone: [https://github.com/alyssaxuu/screenity.git](https://github.com/alyssaxuu
 
 Created: 01 November 2020
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 7936
+Stars on GitHub: 7937
+
+----
 
 ### [searxng/searxng](https://github.com/searxng/searxng)
 
@@ -11514,9 +13172,11 @@ Clone: [https://github.com/searxng/searxng.git](https://github.com/searxng/searx
 
 Created: 12 April 2021
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 3983
+Stars on GitHub: 3985
+
+----
 
 ### [punk-security/secret-magpie-cli](https://github.com/punk-security/secret-magpie-cli)
 
@@ -11532,6 +13192,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 130
 
+----
+
 ### [quirrel-dev/secure-e2ee](https://github.com/quirrel-dev/secure-e2ee)
 
 Secure end-to-end-encryption for Node.js.
@@ -11545,6 +13207,8 @@ Created: 08 October 2020
 Updated: 10 January 2023
 
 Stars on GitHub: 24
+
+----
 
 ### [sergo-code/seleniumwire-binance-auth](https://github.com/sergo-code/seleniumwire-binance-auth)
 
@@ -11560,6 +13224,8 @@ Updated: 04 October 2022
 
 Stars on GitHub: 1
 
+----
+
 ### [koalaman/shellcheck](https://github.com/koalaman/shellcheck)
 
 ShellCheck, a static analysis tool for shell scripts
@@ -11570,9 +13236,11 @@ Clone: [https://github.com/koalaman/shellcheck.git](https://github.com/koalaman/
 
 Created: 17 November 2012
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 31271
+Stars on GitHub: 31274
+
+----
 
 ### [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
 
@@ -11584,9 +13252,11 @@ Clone: [https://github.com/sherlock-project/sherlock.git](https://github.com/she
 
 Created: 24 December 2018
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 38857
+Stars on GitHub: 38858
+
+----
 
 ### [GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq)
 
@@ -11602,6 +13272,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 2118
 
+----
+
 ### [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit)
 
 Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
@@ -11615,6 +13287,8 @@ Created: 06 September 2019
 Updated: 31 January 2023
 
 Stars on GitHub: 3623
+
+----
 
 ### [achillean/shodan-python](https://github.com/achillean/shodan-python)
 
@@ -11630,6 +13304,24 @@ Updated: 31 January 2023
 
 Stars on GitHub: 2112
 
+----
+
+### [utkusen/shotlooter](https://github.com/utkusen/shotlooter)
+
+a recon tool that finds sensitive data inside the screenshots uploaded to prnt.sc
+
+Url: [https://github.com/utkusen/shotlooter](https://github.com/utkusen/shotlooter)
+
+Clone: [https://github.com/utkusen/shotlooter.git](https://github.com/utkusen/shotlooter.git)
+
+Created: 18 May 2020
+
+Updated: 01 February 2023
+
+Stars on GitHub: 584
+
+----
+
 ### [PartialVolume/shredos.x86_64](https://github.com/PartialVolume/shredos.x86_64)
 
 Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe
@@ -11640,9 +13332,11 @@ Clone: [https://github.com/PartialVolume/shredos.x86_64.git](https://github.com/
 
 Created: 12 April 2020
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
 Stars on GitHub: 569
+
+----
 
 ### [fitztrev/shuttle](https://github.com/fitztrev/shuttle)
 
@@ -11654,9 +13348,11 @@ Clone: [https://github.com/fitztrev/shuttle.git](https://github.com/fitztrev/shu
 
 Created: 11 July 2013
 
-Updated: 30 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 4512
+Stars on GitHub: 4513
+
+----
 
 ### [simdjson/simdjson](https://github.com/simdjson/simdjson)
 
@@ -11672,6 +13368,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 16446
 
+----
+
 ### [bormaxi8080/simple-pe-infector](https://github.com/bormaxi8080/simple-pe-infector)
 
 Simple Pe Infector
@@ -11685,6 +13383,8 @@ Created: 03 February 2022
 Updated: 04 September 2022
 
 Stars on GitHub: 1
+
+----
 
 ### [Zarcolio/sitedorks](https://github.com/Zarcolio/sitedorks)
 
@@ -11700,6 +13400,8 @@ Updated: 27 January 2023
 
 Stars on GitHub: 559
 
+----
+
 ### [mohan3d/slideshare-go](https://github.com/mohan3d/slideshare-go)
 
 API-less slideshare downloader in golang.
@@ -11713,6 +13415,8 @@ Created: 06 November 2018
 Updated: 30 August 2022
 
 Stars on GitHub: 6
+
+----
 
 ### [punk-security/smbeagle](https://github.com/punk-security/smbeagle)
 
@@ -11728,6 +13432,8 @@ Updated: 27 January 2023
 
 Stars on GitHub: 566
 
+----
+
 ### [privatenumber/snap-tweet](https://github.com/privatenumber/snap-tweet)
 
 Snap a screenshot of a tweet 📸
@@ -11741,6 +13447,8 @@ Created: 04 May 2021
 Updated: 29 January 2023
 
 Stars on GitHub: 298
+
+----
 
 ### [snooppr/snoop](https://github.com/snooppr/snoop)
 
@@ -11756,6 +13464,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 1737
 
+----
+
 ### [bellingcat/snscrape](https://github.com/bellingcat/snscrape)
 
 A social networking service scraper in Python
@@ -11769,6 +13479,8 @@ Created: 14 October 2020
 Updated: 31 January 2023
 
 Stars on GitHub: 235
+
+----
 
 ### [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer)
 
@@ -11784,6 +13496,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 9702
 
+----
+
 ### [utkusen/socialhunter](https://github.com/utkusen/socialhunter)
 
 crawls the website and finds broken social media links that can be hijacked
@@ -11794,9 +13508,11 @@ Clone: [https://github.com/utkusen/socialhunter.git](https://github.com/utkusen/
 
 Created: 09 April 2022
 
-Updated: 28 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 395
+Stars on GitHub: 396
+
+----
 
 ### [iojw/socialscan](https://github.com/iojw/socialscan)
 
@@ -11812,6 +13528,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 1052
 
+----
+
 ### [socketio/socket.io](https://github.com/socketio/socket.io)
 
 Realtime application framework (Node.JS server)
@@ -11822,9 +13540,11 @@ Clone: [https://github.com/socketio/socket.io.git](https://github.com/socketio/s
 
 Created: 11 March 2010
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 57523
+Stars on GitHub: 57526
+
+----
 
 ### [Double2Sky/socks5_list](https://github.com/Double2Sky/socks5_list)
 
@@ -11840,6 +13560,8 @@ Updated: 30 August 2022
 
 Stars on GitHub: 4
 
+----
+
 ### [ZYSzys/sort-github-stars-size](https://github.com/ZYSzys/sort-github-stars-size)
 
 :sparkles: Sort your personal starred repos by repo's size.
@@ -11853,6 +13575,8 @@ Created: 15 August 2018
 Updated: 13 September 2022
 
 Stars on GitHub: 5
+
+----
 
 ### [sowdust/sowdust.github.io](https://github.com/sowdust/sowdust.github.io)
 
@@ -11868,6 +13592,8 @@ Updated: 12 November 2022
 
 Stars on GitHub: 87
 
+----
+
 ### [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot)
 
 SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
@@ -11878,9 +13604,11 @@ Clone: [https://github.com/smicallef/spiderfoot.git](https://github.com/smicalle
 
 Created: 28 April 2012
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 9075
+Stars on GitHub: 9079
+
+----
 
 ### [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio)
 
@@ -11892,9 +13620,11 @@ Clone: [https://github.com/pawelsalawa/sqlitestudio.git](https://github.com/pawe
 
 Created: 11 January 2018
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 3221
+Stars on GitHub: 3222
+
+----
 
 ### [sickcodes/sqlmap](https://github.com/sickcodes/sqlmap)
 
@@ -11910,6 +13640,8 @@ Updated: 03 September 2022
 
 Stars on GitHub: 2
 
+----
+
 ### [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap)
 
 Automatic SQL injection and database takeover tool
@@ -11920,9 +13652,11 @@ Clone: [https://github.com/sqlmapproject/sqlmap.git](https://github.com/sqlmappr
 
 Created: 26 June 2012
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 25930
+Stars on GitHub: 25931
+
+----
 
 ### [pwnesia/ssb](https://github.com/pwnesia/ssb)
 
@@ -11934,9 +13668,11 @@ Clone: [https://github.com/pwnesia/ssb.git](https://github.com/pwnesia/ssb.git)
 
 Created: 04 December 2020
 
-Updated: 30 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 1016
+Stars on GitHub: 1015
+
+----
 
 ### [invl/sshcfg](https://github.com/invl/sshcfg)
 
@@ -11952,6 +13688,8 @@ Updated: 27 October 2022
 
 Stars on GitHub: 5
 
+----
+
 ### [vaniacer/sshto](https://github.com/vaniacer/sshto)
 
 Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports.
@@ -11966,6 +13704,8 @@ Updated: 29 January 2023
 
 Stars on GitHub: 440
 
+----
+
 ### [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle)
 
 Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
@@ -11976,9 +13716,11 @@ Clone: [https://github.com/sshuttle/sshuttle.git](https://github.com/sshuttle/ss
 
 Created: 15 September 2014
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 9523
+Stars on GitHub: 9525
+
+----
 
 ### [salaheldinaz/stateofosint](https://github.com/salaheldinaz/stateofosint)
 
@@ -11994,6 +13736,8 @@ Updated: 31 August 2022
 
 Stars on GitHub: 3
 
+----
+
 ### [novitae/sterraxcyl](https://github.com/novitae/sterraxcyl)
 
 Instagram OSINT tool to export and analyse followers | following with their details
@@ -12007,6 +13751,8 @@ Created: 28 September 2021
 Updated: 30 January 2023
 
 Stars on GitHub: 329
+
+----
 
 ### [storj/storj](https://github.com/storj/storj)
 
@@ -12022,6 +13768,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 2621
 
+----
+
 ### [streamlink/streamlink](https://github.com/streamlink/streamlink)
 
 Streamlink is a CLI utility which pipes video streams from various services into a video player
@@ -12032,9 +13780,11 @@ Clone: [https://github.com/streamlink/streamlink.git](https://github.com/streaml
 
 Created: 16 September 2016
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 8335
+Stars on GitHub: 8336
+
+----
 
 ### [inket/stts](https://github.com/inket/stts)
 
@@ -12050,6 +13800,8 @@ Updated: 24 January 2023
 
 Stars on GitHub: 476
 
+----
+
 ### [markowanga/stweet](https://github.com/markowanga/stweet)
 
 Advanced python library to scrap Twitter (tweets, users) from unofficial API
@@ -12060,9 +13812,11 @@ Clone: [https://github.com/markowanga/stweet.git](https://github.com/markowanga/
 
 Created: 16 November 2020
 
-Updated: 30 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 297
+Stars on GitHub: 299
+
+----
 
 ### [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder)
 
@@ -12074,9 +13828,11 @@ Clone: [https://github.com/projectdiscovery/subfinder.git](https://github.com/pr
 
 Created: 31 March 2018
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 6869
+Stars on GitHub: 6874
+
+----
 
 ### [supabase/supabase](https://github.com/supabase/supabase)
 
@@ -12090,7 +13846,9 @@ Created: 12 October 2019
 
 Updated: 01 February 2023
 
-Stars on GitHub: 44832
+Stars on GitHub: 44847
+
+----
 
 ### [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
 
@@ -12104,7 +13862,9 @@ Created: 09 December 2021
 
 Updated: 01 February 2023
 
-Stars on GitHub: 17379
+Stars on GitHub: 17394
+
+----
 
 ### [fulldecent/system-bus-radio](https://github.com/fulldecent/system-bus-radio)
 
@@ -12120,6 +13880,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 6028
 
+----
+
 ### [hakandundar34coding/system-monitoring-center](https://github.com/hakandundar34coding/system-monitoring-center)
 
 Multi-featured system monitor
@@ -12130,9 +13892,11 @@ Clone: [https://github.com/hakandundar34coding/system-monitoring-center.git](htt
 
 Created: 22 October 2021
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 661
+Stars on GitHub: 662
+
+----
 
 ### [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer)
 
@@ -12144,9 +13908,11 @@ Clone: [https://github.com/winsiderss/systeminformer.git](https://github.com/win
 
 Created: 01 February 2016
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 8458
+Stars on GitHub: 8461
+
+----
 
 ### [m4ll0k/takeover](https://github.com/m4ll0k/takeover)
 
@@ -12162,6 +13928,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 840
 
+----
+
 ### [edoardottt/takeover](https://github.com/edoardottt/takeover)
 
 Sub-Domain TakeOver Vulnerability Scanner (edoardottt fork)
@@ -12175,6 +13943,8 @@ Created: 22 March 2021
 Updated: 09 November 2022
 
 Stars on GitHub: 11
+
+----
 
 ### [elcuervo/tangalanga](https://github.com/elcuervo/tangalanga)
 
@@ -12190,6 +13960,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 268
 
+----
+
 ### [m8sec/taser](https://github.com/m8sec/taser)
 
 Python resource library for creating security related tooling
@@ -12204,6 +13976,8 @@ Updated: 27 January 2023
 
 Stars on GitHub: 79
 
+----
+
 ### [go-task/task](https://github.com/go-task/task)
 
 A task runner / simpler Make alternative written in Go
@@ -12214,9 +13988,11 @@ Clone: [https://github.com/go-task/task.git](https://github.com/go-task/task.git
 
 Created: 27 February 2017
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 6769
+Stars on GitHub: 6773
+
+----
 
 ### [taskiq-python/taskiq](https://github.com/taskiq-python/taskiq)
 
@@ -12232,6 +14008,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 80
 
+----
+
 ### [sharovatov/teamlead](https://github.com/sharovatov/teamlead)
 
 Pragmatic humanist's thoughts on sociotechnical systems.
@@ -12245,6 +14023,8 @@ Created: 23 February 2021
 Updated: 31 January 2023
 
 Stars on GitHub: 805
+
+----
 
 ### [yilbegan/telefuck](https://github.com/yilbegan/telefuck)
 
@@ -12260,6 +14040,8 @@ Updated: 13 September 2022
 
 Stars on GitHub: 13
 
+----
+
 ### [mautrix/telegram](https://github.com/mautrix/telegram)
 
 A Matrix-Telegram hybrid puppeting/relaybot bridge
@@ -12270,9 +14052,11 @@ Clone: [https://github.com/mautrix/telegram.git](https://github.com/mautrix/tele
 
 Created: 12 November 2017
 
-Updated: 30 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 937
+Stars on GitHub: 938
+
+----
 
 ### [pushshift/telegram](https://github.com/pushshift/telegram)
 
@@ -12288,6 +14072,8 @@ Updated: 22 January 2023
 
 Stars on GitHub: 76
 
+----
+
 ### [soxoj/telegram-bot-dumper](https://github.com/soxoj/telegram-bot-dumper)
 
 🔪 Dumper & ripper for Telegram bots by token
@@ -12301,6 +14087,8 @@ Created: 31 May 2019
 Updated: 30 January 2023
 
 Stars on GitHub: 77
+
+----
 
 ### [EdJoPaTo/telegram-chat-record-bot](https://github.com/EdJoPaTo/telegram-chat-record-bot)
 
@@ -12316,6 +14104,8 @@ Updated: 13 September 2022
 
 Stars on GitHub: 7
 
+----
+
 ### [S0Ulle33/telegram-message-cleaner](https://github.com/S0Ulle33/telegram-message-cleaner)
 
 Telegram Tool that can show stats of your messages from group chats or delete these messages. 
@@ -12329,6 +14119,8 @@ Created: 17 November 2018
 Updated: 30 November 2022
 
 Stars on GitHub: 18
+
+----
 
 ### [tejado/telegram-nearby-map](https://github.com/tejado/telegram-nearby-map)
 
@@ -12344,6 +14136,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 480
 
+----
+
 ### [bellingcat/telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker)
 
 This script lets you check whether a specific phone number is connected to a Telegram account.
@@ -12357,6 +14151,8 @@ Created: 17 February 2021
 Updated: 27 January 2023
 
 Stars on GitHub: 374
+
+----
 
 ### [bret99/telegram_scan](https://github.com/bret99/telegram_scan)
 
@@ -12372,6 +14168,8 @@ Updated: 17 December 2022
 
 Stars on GitHub: 71
 
+----
+
 ### [maprox/telegrembo](https://github.com/maprox/telegrembo)
 
 Telegram bot with AMQP processing
@@ -12386,6 +14184,8 @@ Updated: 21 September 2022
 
 Stars on GitHub: 9
 
+----
+
 ### [kitabisa/teler](https://github.com/kitabisa/teler)
 
 Real-time HTTP Intrusion Detection
@@ -12396,9 +14196,11 @@ Clone: [https://github.com/kitabisa/teler.git](https://github.com/kitabisa/teler
 
 Created: 21 July 2020
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 2181
+Stars on GitHub: 2182
+
+----
 
 ### [pielco11/telescan](https://github.com/pielco11/telescan)
 
@@ -12414,6 +14216,8 @@ Updated: 20 January 2023
 
 Stars on GitHub: 132
 
+----
+
 ### [thenurhabib/tenssens](https://github.com/thenurhabib/tenssens)
 
 Tenssens framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources.
@@ -12428,6 +14232,8 @@ Updated: 28 January 2023
 
 Stars on GitHub: 32
 
+----
+
 ### [termux/termux-app](https://github.com/termux/termux-app)
 
 Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -12440,7 +14246,9 @@ Created: 23 October 2015
 
 Updated: 01 February 2023
 
-Stars on GitHub: 19019
+Stars on GitHub: 19022
+
+----
 
 ### [xadhrit/terra](https://github.com/xadhrit/terra)
 
@@ -12456,6 +14264,8 @@ Updated: 29 January 2023
 
 Stars on GitHub: 234
 
+----
+
 ### [deanmalmgren/textract](https://github.com/deanmalmgren/textract)
 
 extract text from any document. no muss. no fuss.
@@ -12469,6 +14279,8 @@ Created: 03 July 2014
 Updated: 31 January 2023
 
 Stars on GitHub: 3398
+
+----
 
 ### [mxssl/tg-captcha-bot](https://github.com/mxssl/tg-captcha-bot)
 
@@ -12484,6 +14296,8 @@ Updated: 26 January 2023
 
 Stars on GitHub: 207
 
+----
+
 ### [tgcallsjs/tgcalls](https://github.com/tgcallsjs/tgcalls)
 
 A JavaScript library for interacting with the Telegram group voice calls API.
@@ -12498,6 +14312,8 @@ Updated: 09 December 2022
 
 Stars on GitHub: 42
 
+----
+
 ### [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 
 Master the command line, in one page
@@ -12510,7 +14326,9 @@ Created: 20 May 2015
 
 Updated: 01 February 2023
 
-Stars on GitHub: 127779
+Stars on GitHub: 127815
+
+----
 
 ### [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
@@ -12522,9 +14340,11 @@ Clone: [https://github.com/trimstray/the-book-of-secret-knowledge.git](https://g
 
 Created: 23 June 2018
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 88345
+Stars on GitHub: 88376
+
+----
 
 ### [eth0izzle/the-endorser](https://github.com/eth0izzle/the-endorser)
 
@@ -12540,6 +14360,8 @@ Updated: 25 January 2023
 
 Stars on GitHub: 306
 
+----
+
 ### [salaheldinaz/the-kringle-secrets-book](https://github.com/salaheldinaz/the-kringle-secrets-book)
 
 The full solution for 2018 SANS holiday hack challenges.
@@ -12553,6 +14375,8 @@ Created: 21 March 2019
 Updated: 31 August 2022
 
 Stars on GitHub: 4
+
+----
 
 ### [laramies/theHarvester](https://github.com/laramies/theHarvester)
 
@@ -12568,6 +14392,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 7989
 
+----
+
 ### [rly0nheart/thedevilseye](https://github.com/rly0nheart/thedevilseye)
 
 The Devils Eye is an OSINT tool that extracts onion links and descriptions that match with the users query from the Darkweb, without requiring the use for Tor. 
@@ -12582,6 +14408,8 @@ Updated: 29 January 2023
 
 Stars on GitHub: 142
 
+----
+
 ### [nvbn/thefuck](https://github.com/nvbn/thefuck)
 
 Magnificent app which corrects your previous console command.
@@ -12592,9 +14420,11 @@ Clone: [https://github.com/nvbn/thefuck.git](https://github.com/nvbn/thefuck.git
 
 Created: 08 April 2015
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 75515
+Stars on GitHub: 75516
+
+----
 
 ### [Anon-Planet/thgtoa](https://github.com/Anon-Planet/thgtoa)
 
@@ -12610,6 +14440,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 161
 
+----
+
 ### [rly0nheart/thorndyke](https://github.com/rly0nheart/thorndyke)
 
 Lightweight username enumeration tool that checks the availability of a specified username on over 200 websites.
@@ -12623,6 +14455,8 @@ Created: 17 October 2021
 Updated: 28 January 2023
 
 Stars on GitHub: 20
+
+----
 
 ### [bormaxi8080/threader3000](https://github.com/bormaxi8080/threader3000)
 
@@ -12638,6 +14472,8 @@ Updated: 30 August 2022
 
 Stars on GitHub: 1
 
+----
+
 ### [pushshift/tiktok](https://github.com/pushshift/tiktok)
 
 Module to access TikTok Private API
@@ -12651,6 +14487,8 @@ Created: 31 October 2019
 Updated: 15 January 2023
 
 Stars on GitHub: 41
+
+----
 
 ### [bellingcat/tiktok-hashtag-analysis](https://github.com/bellingcat/tiktok-hashtag-analysis)
 
@@ -12666,6 +14504,8 @@ Updated: 23 January 2023
 
 Stars on GitHub: 147
 
+----
+
 ### [drawrowfly/tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper)
 
 TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
@@ -12676,9 +14516,11 @@ Clone: [https://github.com/drawrowfly/tiktok-scraper.git](https://github.com/dra
 
 Created: 23 October 2019
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 3301
+Stars on GitHub: 3302
+
+----
 
 ### [bellingcat/tiktok-timestamp](https://github.com/bellingcat/tiktok-timestamp)
 
@@ -12694,6 +14536,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 33
 
+----
+
 ### [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
 
 📚 Collaborative cheatsheets for console commands
@@ -12704,9 +14548,11 @@ Clone: [https://github.com/tldr-pages/tldr.git](https://github.com/tldr-pages/tl
 
 Created: 08 December 2013
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 42900
+Stars on GitHub: 42905
+
+----
 
 ### [sdushantha/tmpmail](https://github.com/sdushantha/tmpmail)
 
@@ -12722,6 +14568,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 3101
 
+----
+
 ### [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users)
 
 Check your ranking in GitHub! Don't forget to star ⭐ this repository.
@@ -12735,6 +14583,8 @@ Created: 03 June 2021
 Updated: 31 January 2023
 
 Stars on GitHub: 2134
+
+----
 
 ### [drego85/tosint](https://github.com/drego85/tosint)
 
@@ -12750,6 +14600,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 20
 
+----
+
 ### [megadose/toutatis](https://github.com/megadose/toutatis)
 
 Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more
@@ -12763,6 +14615,8 @@ Created: 03 February 2020
 Updated: 31 January 2023
 
 Stars on GitHub: 1016
+
+----
 
 ### [Tanmay-Tiwaricyber/tphisher](https://github.com/Tanmay-Tiwaricyber/tphisher)
 
@@ -12778,6 +14632,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 67
 
+----
+
 ### [epinna/tplmap](https://github.com/epinna/tplmap)
 
 Server-Side Template Injection and Code Injection Detection and Exploitation Tool
@@ -12792,6 +14648,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 3168
 
+----
+
 ### [ritz078/transform](https://github.com/ritz078/transform)
 
 A polyglot web converter.
@@ -12802,9 +14660,11 @@ Clone: [https://github.com/ritz078/transform.git](https://github.com/ritz078/tra
 
 Created: 15 June 2017
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 4574
+Stars on GitHub: 4575
+
+----
 
 ### [Animenosekai/translate](https://github.com/Animenosekai/translate)
 
@@ -12816,9 +14676,11 @@ Clone: [https://github.com/Animenosekai/translate.git](https://github.com/Animen
 
 Created: 01 February 2021
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 355
+Stars on GitHub: 356
+
+----
 
 ### [UlionTse/translators](https://github.com/UlionTse/translators)
 
@@ -12834,6 +14696,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 945
 
+----
+
 ### [jofpin/trape](https://github.com/jofpin/trape)
 
 People tracker on the Internet: OSINT analysis and research tool by Jose Pino
@@ -12844,9 +14708,11 @@ Clone: [https://github.com/jofpin/trape.git](https://github.com/jofpin/trape.git
 
 Created: 31 October 2017
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 7362
+Stars on GitHub: 7363
+
+----
 
 ### [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
 
@@ -12858,9 +14724,11 @@ Clone: [https://github.com/aquasecurity/trivy.git](https://github.com/aquasecuri
 
 Created: 11 April 2019
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 15959
+Stars on GitHub: 15966
+
+----
 
 ### [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
 
@@ -12872,9 +14740,11 @@ Clone: [https://github.com/trufflesecurity/trufflehog.git](https://github.com/tr
 
 Created: 31 December 2016
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 10302
+Stars on GitHub: 10312
+
+----
 
 ### [bellingcat/truthbrush](https://github.com/bellingcat/truthbrush)
 
@@ -12890,6 +14760,8 @@ Updated: 21 January 2023
 
 Stars on GitHub: 6
 
+----
+
 ### [helviojunior/turbosearch](https://github.com/helviojunior/turbosearch)
 
 The most powerfull Web Content Scanner
@@ -12903,6 +14775,8 @@ Created: 17 July 2018
 Updated: 06 January 2023
 
 Stars on GitHub: 101
+
+----
 
 ### [humandecoded/twayback](https://github.com/humandecoded/twayback)
 
@@ -12918,6 +14792,8 @@ Updated: 27 January 2023
 
 Stars on GitHub: 127
 
+----
+
 ### [markowanga/tweet-id-scrapper](https://github.com/markowanga/tweet-id-scrapper)
 
 The service based on Selenium and Kotlin to scrap tweets by their ids
@@ -12931,6 +14807,8 @@ Created: 12 September 2020
 Updated: 28 January 2023
 
 Stars on GitHub: 3
+
+----
 
 ### [jakecreps/twint](https://github.com/jakecreps/twint)
 
@@ -12946,6 +14824,8 @@ Updated: 31 August 2022
 
 Stars on GitHub: 1
 
+----
+
 ### [twintproject/twint](https://github.com/twintproject/twint)
 
 An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
@@ -12956,9 +14836,11 @@ Clone: [https://github.com/twintproject/twint.git](https://github.com/twintproje
 
 Created: 10 June 2017
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 14324
+Stars on GitHub: 14326
+
+----
 
 ### [markowanga/twint-distributed](https://github.com/markowanga/twint-distributed)
 
@@ -12974,6 +14856,8 @@ Updated: 28 January 2023
 
 Stars on GitHub: 10
 
+----
+
 ### [timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser)
 
 Python code to parse a Twitter archive and output in various ways
@@ -12987,6 +14871,8 @@ Created: 09 November 2022
 Updated: 31 January 2023
 
 Stars on GitHub: 2223
+
+----
 
 ### [bellingcat/twitter-geocode-searches](https://github.com/bellingcat/twitter-geocode-searches)
 
@@ -13002,6 +14888,8 @@ Updated: 28 December 2022
 
 Stars on GitHub: 20
 
+----
+
 ### [ericyd/twittier](https://github.com/ericyd/twittier)
 
 Twittier: Next-gen social interface. CLI for Twitter
@@ -13015,6 +14903,8 @@ Created: 08 November 2021
 Updated: 24 January 2023
 
 Stars on GitHub: 4
+
+----
 
 ### [m3n0sd0n4ld/uDork](https://github.com/m3n0sd0n4ld/uDork)
 
@@ -13030,6 +14920,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 683
 
+----
+
 ### [hugoahosta/udp_port_scan_icmp_side_channel](https://github.com/hugoahosta/udp_port_scan_icmp_side_channel)
 
 Scripts for performing a UDP port scan using the ICMP rate limit counter vulnerability presented in the paper about the SadDNS attack
@@ -13044,6 +14936,8 @@ Updated: 31 August 2022
 
 Stars on GitHub: 3
 
+----
+
 ### [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)
 
 Google Chromium, sans integration with Google
@@ -13054,9 +14948,11 @@ Clone: [https://github.com/ungoogled-software/ungoogled-chromium.git](https://gi
 
 Created: 12 June 2015
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 15944
+Stars on GitHub: 15946
+
+----
 
 ### [sergey-scat/unicaps](https://github.com/sergey-scat/unicaps)
 
@@ -13072,6 +14968,8 @@ Updated: 27 January 2023
 
 Stars on GitHub: 122
 
+----
+
 ### [Rolstenhouse/unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis)
 
 A collection of unofficial apis. Designed to inspire your next Friday night hack
@@ -13085,6 +14983,8 @@ Created: 02 May 2020
 Updated: 30 January 2023
 
 Stars on GitHub: 2462
+
+----
 
 ### [BishopFox/unredacter](https://github.com/BishopFox/unredacter)
 
@@ -13100,6 +15000,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 6885
 
+----
+
 ### [LGUG2Z/unsubscan](https://github.com/LGUG2Z/unsubscan)
 
 A tool to help you find unsubscribe links in your emails
@@ -13113,6 +15015,8 @@ Created: 18 June 2022
 Updated: 23 January 2023
 
 Stars on GitHub: 228
+
+----
 
 ### [WebBreacher/untappdScraper](https://github.com/WebBreacher/untappdScraper)
 
@@ -13128,6 +15032,8 @@ Updated: 12 January 2023
 
 Stars on GitHub: 128
 
+----
+
 ### [upscayl/upscayl](https://github.com/upscayl/upscayl)
 
 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
@@ -13140,7 +15046,9 @@ Created: 30 July 2022
 
 Updated: 01 February 2023
 
-Stars on GitHub: 9184
+Stars on GitHub: 9188
+
+----
 
 ### [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 
@@ -13154,7 +15062,9 @@ Created: 03 July 2021
 
 Updated: 01 February 2023
 
-Stars on GitHub: 28908
+Stars on GitHub: 28930
+
+----
 
 ### [dadowl/uptimer](https://github.com/dadowl/uptimer)
 
@@ -13170,6 +15080,8 @@ Updated: 06 November 2022
 
 Stars on GitHub: 24
 
+----
+
 ### [utkusen/urlhunter](https://github.com/utkusen/urlhunter)
 
 a recon tool that allows searching on URLs that are exposed via shortener services
@@ -13183,6 +15095,8 @@ Created: 21 November 2020
 Updated: 31 January 2023
 
 Stars on GitHub: 1314
+
+----
 
 ### [soxoj/username-generation-guide](https://github.com/soxoj/username-generation-guide)
 
@@ -13198,6 +15112,8 @@ Updated: 19 January 2023
 
 Stars on GitHub: 82
 
+----
+
 ### [xo/usql](https://github.com/xo/usql)
 
 Universal command-line interface for SQL databases
@@ -13208,9 +15124,11 @@ Clone: [https://github.com/xo/usql.git](https://github.com/xo/usql.git)
 
 Created: 02 March 2017
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 7820
+Stars on GitHub: 7822
+
+----
 
 ### [ninoseki/uzen](https://github.com/ninoseki/uzen)
 
@@ -13226,6 +15144,8 @@ Updated: 10 January 2023
 
 Stars on GitHub: 84
 
+----
+
 ### [hashicorp/vagrant](https://github.com/hashicorp/vagrant)
 
 Vagrant is a tool for building and distributing development environments.
@@ -13239,6 +15159,8 @@ Created: 21 January 2010
 Updated: 31 January 2023
 
 Stars on GitHub: 24889
+
+----
 
 ### [lanayotech/vagrant-manager](https://github.com/lanayotech/vagrant-manager)
 
@@ -13254,6 +15176,8 @@ Updated: 27 January 2023
 
 Stars on GitHub: 1878
 
+----
+
 ### [errata-ai/vale](https://github.com/errata-ai/vale)
 
 :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
@@ -13268,6 +15192,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 2897
 
+----
+
 ### [roottusk/vapi](https://github.com/roottusk/vapi)
 
 vAPI is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios through Exercises.
@@ -13278,9 +15204,11 @@ Clone: [https://github.com/roottusk/vapi.git](https://github.com/roottusk/vapi.g
 
 Created: 06 September 2020
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 862
+Stars on GitHub: 863
+
+----
 
 ### [tsenart/vegeta](https://github.com/tsenart/vegeta)
 
@@ -13292,9 +15220,11 @@ Clone: [https://github.com/tsenart/vegeta.git](https://github.com/tsenart/vegeta
 
 Created: 13 August 2013
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 20715
+Stars on GitHub: 20719
+
+----
 
 ### [cipher387/venicle_number_search_toolbox](https://github.com/cipher387/venicle_number_search_toolbox)
 
@@ -13310,6 +15240,8 @@ Updated: 09 November 2022
 
 Stars on GitHub: 10
 
+----
+
 ### [umair9747/vichiti](https://github.com/umair9747/vichiti)
 
 An OSINT focused tool made with Nodejs!
@@ -13324,6 +15256,8 @@ Updated: 10 January 2023
 
 Stars on GitHub: 59
 
+----
+
 ### [saulpw/visidata](https://github.com/saulpw/visidata)
 
 A terminal spreadsheet multitool for discovering and arranging data
@@ -13334,9 +15268,11 @@ Clone: [https://github.com/saulpw/visidata.git](https://github.com/saulpw/visida
 
 Created: 27 October 2016
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 6300
+Stars on GitHub: 6301
+
+----
 
 ### [bellingcat/vk-url-scraper](https://github.com/bellingcat/vk-url-scraper)
 
@@ -13352,6 +15288,8 @@ Updated: 24 January 2023
 
 Stars on GitHub: 21
 
+----
+
 ### [alphacep/vosk-api](https://github.com/alphacep/vosk-api)
 
 Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
@@ -13366,6 +15304,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 5111
 
+----
+
 ### [scipag/vulscan](https://github.com/scipag/vulscan)
 
 Advanced vulnerability scanning with Nmap NSE
@@ -13376,9 +15316,11 @@ Clone: [https://github.com/scipag/vulscan.git](https://github.com/scipag/vulscan
 
 Created: 10 March 2017
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 2798
+Stars on GitHub: 2799
+
+----
 
 ### [blunderbuss-wctf/wacker](https://github.com/blunderbuss-wctf/wacker)
 
@@ -13394,6 +15336,8 @@ Updated: 22 January 2023
 
 Stars on GitHub: 208
 
+----
+
 ### [aydinnyunus/wallet-tracker](https://github.com/aydinnyunus/wallet-tracker)
 
 Detect real scammers with Wallet-Tracker CLI from anywhere.
@@ -13408,6 +15352,8 @@ Updated: 26 January 2023
 
 Stars on GitHub: 64
 
+----
+
 ### [wapiti-scanner/wapiti](https://github.com/wapiti-scanner/wapiti)
 
 Web vulnerability scanner written in Python3
@@ -13418,9 +15364,11 @@ Clone: [https://github.com/wapiti-scanner/wapiti.git](https://github.com/wapiti-
 
 Created: 06 June 2020
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 528
+Stars on GitHub: 529
+
+----
 
 ### [wappalyzer/wappalyzer](https://github.com/wappalyzer/wappalyzer)
 
@@ -13436,6 +15384,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 7953
 
+----
+
 ### [containrrr/watchtower](https://github.com/containrrr/watchtower)
 
 A process for automating Docker container base image updates. 
@@ -13446,9 +15396,11 @@ Clone: [https://github.com/containrrr/watchtower.git](https://github.com/contain
 
 Created: 13 July 2015
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 12759
+Stars on GitHub: 12766
+
+----
 
 ### [asmirnou/watsor](https://github.com/asmirnou/watsor)
 
@@ -13464,6 +15416,8 @@ Updated: 07 January 2023
 
 Stars on GitHub: 214
 
+----
+
 ### [lorenzoromani1983/wayback-keyword-search](https://github.com/lorenzoromani1983/wayback-keyword-search)
 
 A quick and dirty but useful tool to download each text/html page from the wayback machine for a specific domain and search for keywords within the saved content
@@ -13478,6 +15432,8 @@ Updated: 02 December 2022
 
 Stars on GitHub: 58
 
+----
+
 ### [wazuh/wazuh](https://github.com/wazuh/wazuh)
 
 Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
@@ -13488,9 +15444,11 @@ Clone: [https://github.com/wazuh/wazuh.git](https://github.com/wazuh/wazuh.git)
 
 Created: 11 August 2015
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 5505
+Stars on GitHub: 5509
+
+----
 
 ### [dessant/web-archives](https://github.com/dessant/web-archives)
 
@@ -13506,6 +15464,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 724
 
+----
+
 ### [r4bin/web-eyes](https://github.com/r4bin/web-eyes)
 
 OSINT tools for website research
@@ -13519,6 +15479,8 @@ Created: 13 January 2022
 Updated: 10 November 2022
 
 Stars on GitHub: 8
+
+----
 
 ### [mattdood/web_scraping_example](https://github.com/mattdood/web_scraping_example)
 
@@ -13534,6 +15496,8 @@ Updated: 11 November 2022
 
 Stars on GitHub: 26
 
+----
+
 ### [jashandeep-sohi/webcam-filters](https://github.com/jashandeep-sohi/webcam-filters)
 
 Add filters (background blur, etc) to your webcam on Linux.
@@ -13544,9 +15508,11 @@ Clone: [https://github.com/jashandeep-sohi/webcam-filters.git](https://github.co
 
 Created: 07 August 2021
 
-Updated: 14 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 481
+Stars on GitHub: 482
+
+----
 
 ### [EdJoPaTo/website-changed-bot](https://github.com/EdJoPaTo/website-changed-bot)
 
@@ -13562,6 +15528,8 @@ Updated: 28 January 2023
 
 Stars on GitHub: 6
 
+----
+
 ### [EdJoPaTo/website-stalker](https://github.com/EdJoPaTo/website-stalker)
 
 Track changes on websites via git
@@ -13575,6 +15543,8 @@ Created: 14 May 2021
 Updated: 27 January 2023
 
 Stars on GitHub: 19
+
+----
 
 ### [SpiritFour/whatsanalyze](https://github.com/SpiritFour/whatsanalyze)
 
@@ -13590,6 +15560,8 @@ Updated: 22 January 2023
 
 Stars on GitHub: 43
 
+----
+
 ### [bormaxi8080/whatsapp-verifier](https://github.com/bormaxi8080/whatsapp-verifier)
 
 Check if a phone number(s) exists on WhatsApp
@@ -13603,6 +15575,8 @@ Created: 23 December 2021
 Updated: 27 November 2022
 
 Stars on GitHub: 4
+
+----
 
 ### [utkusen/wholeaked](https://github.com/utkusen/wholeaked)
 
@@ -13618,6 +15592,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 755
 
+----
+
 ### [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search)
 
 A self-hosted, ad-free, privacy-respecting metasearch engine
@@ -13628,9 +15604,11 @@ Clone: [https://github.com/benbusby/whoogle-search.git](https://github.com/benbu
 
 Created: 21 January 2020
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 6988
+Stars on GitHub: 6989
+
+----
 
 ### [bndw/wifi-card](https://github.com/bndw/wifi-card)
 
@@ -13642,9 +15620,11 @@ Clone: [https://github.com/bndw/wifi-card.git](https://github.com/bndw/wifi-card
 
 Created: 30 May 2020
 
-Updated: 30 January 2023
+Updated: 01 February 2023
 
 Stars on GitHub: 6175
+
+----
 
 ### [willc/willc-scripts](https://github.com/willc/willc-scripts)
 
@@ -13660,6 +15640,8 @@ Updated: 03 September 2022
 
 Stars on GitHub: 5
 
+----
+
 ### [wireshark/wireshark](https://github.com/wireshark/wireshark)
 
 Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. GitHub won't let us disable pull requests. ☞ THEY WILL BE IGNORED HERE ☜ Please upload them at GitLab.
@@ -13670,9 +15652,11 @@ Clone: [https://github.com/wireshark/wireshark.git](https://github.com/wireshark
 
 Created: 29 June 2014
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 5170
+Stars on GitHub: 5172
+
+----
 
 ### [altilunium/wistalk](https://github.com/altilunium/wistalk)
 
@@ -13688,6 +15672,8 @@ Updated: 22 November 2022
 
 Stars on GitHub: 19
 
+----
+
 ### [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf)
 
 Convert HTML to PDF using Webkit (QtWebKit)
@@ -13702,6 +15688,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 12994
 
+----
+
 ### [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan)
 
 WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites.
@@ -13712,9 +15700,11 @@ Clone: [https://github.com/wpscanteam/wpscan.git](https://github.com/wpscanteam/
 
 Created: 11 July 2012
 
-Updated: 30 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 7261
+Stars on GitHub: 7262
+
+----
 
 ### [blacklanternsecurity/writehat](https://github.com/blacklanternsecurity/writehat)
 
@@ -13730,6 +15720,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 996
 
+----
+
 ### [tenox7/wrp](https://github.com/tenox7/wrp)
 
 Web Rendering Proxy: Use vintage, historical, legacy browsers on modern web
@@ -13743,6 +15735,8 @@ Created: 24 January 2016
 Updated: 29 January 2023
 
 Stars on GitHub: 809
+
+----
 
 ### [mackyle/xar](https://github.com/mackyle/xar)
 
@@ -13758,6 +15752,8 @@ Updated: 10 January 2023
 
 Stars on GitHub: 132
 
+----
+
 ### [Malfrats/xeuledoc](https://github.com/Malfrats/xeuledoc)
 
 Fetch information about a public Google document.
@@ -13771,6 +15767,8 @@ Created: 20 March 2021
 Updated: 28 January 2023
 
 Stars on GitHub: 663
+
+----
 
 ### [xodio/xod](https://github.com/xodio/xod)
 
@@ -13786,6 +15784,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 817
 
+----
+
 ### [gnosygnu/xowa](https://github.com/gnosygnu/xowa)
 
 xowa offline wiki application
@@ -13799,6 +15799,8 @@ Created: 30 June 2014
 Updated: 21 January 2023
 
 Stars on GitHub: 328
+
+----
 
 ### [opsdisk/yagooglesearch](https://github.com/opsdisk/yagooglesearch)
 
@@ -13814,6 +15816,8 @@ Updated: 21 January 2023
 
 Stars on GitHub: 123
 
+----
+
 ### [kutoga/yapsl](https://github.com/kutoga/yapsl)
 
 Yet another python sms library
@@ -13828,6 +15832,8 @@ Updated: 27 January 2023
 
 Stars on GitHub: 89
 
+----
+
 ### [Owez/yark](https://github.com/Owez/yark)
 
 YouTube archiving made simple.
@@ -13838,9 +15844,11 @@ Clone: [https://github.com/Owez/yark.git](https://github.com/Owez/yark.git)
 
 Created: 16 August 2022
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 1545
+Stars on GitHub: 1548
+
+----
 
 ### [ultralytics/yolov5](https://github.com/ultralytics/yolov5)
 
@@ -13852,9 +15860,11 @@ Clone: [https://github.com/ultralytics/yolov5.git](https://github.com/ultralytic
 
 Created: 18 May 2020
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 34878
+Stars on GitHub: 34889
+
+----
 
 ### [soimort/you-get](https://github.com/soimort/you-get)
 
@@ -13866,9 +15876,11 @@ Clone: [https://github.com/soimort/you-get.git](https://github.com/soimort/you-g
 
 Created: 20 August 2012
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 46582
+Stars on GitHub: 46589
+
+----
 
 ### [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
 
@@ -13880,9 +15892,11 @@ Clone: [https://github.com/ytdl-org/youtube-dl.git](https://github.com/ytdl-org/
 
 Created: 31 October 2010
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 116983
+Stars on GitHub: 116994
+
+----
 
 ### [C4T4P1LL4/youtube-dorks](https://github.com/C4T4P1LL4/youtube-dorks)
 
@@ -13898,6 +15912,8 @@ Updated: 15 November 2022
 
 Stars on GitHub: 8
 
+----
+
 ### [ris58h/youtube-timestamps](https://github.com/ris58h/youtube-timestamps)
 
 Web extension that shows timestamps from YouTube comments on timeline.
@@ -13912,6 +15928,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 61
 
+----
+
 ### [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api)
 
 This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require a headless browser, like other selenium based solutions do!
@@ -13922,9 +15940,11 @@ Clone: [https://github.com/jdepoix/youtube-transcript-api.git](https://github.co
 
 Created: 20 April 2018
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 1054
+Stars on GitHub: 1056
+
+----
 
 ### [dmn001/youtube_channel_archiver](https://github.com/dmn001/youtube_channel_archiver)
 
@@ -13940,6 +15960,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 352
 
+----
+
 ### [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 A youtube-dl fork with additional features and fixes
@@ -13950,9 +15972,11 @@ Clone: [https://github.com/yt-dlp/yt-dlp.git](https://github.com/yt-dlp/yt-dlp.g
 
 Created: 26 October 2020
 
-Updated: 31 January 2023
+Updated: 01 February 2023
 
-Stars on GitHub: 38623
+Stars on GitHub: 38642
+
+----
 
 ### [lettapp/ytcs](https://github.com/lettapp/ytcs)
 
@@ -13968,6 +15992,8 @@ Updated: 30 January 2023
 
 Stars on GitHub: 24
 
+----
+
 ### [sharatsachin/ytplaylist-len](https://github.com/sharatsachin/ytplaylist-len)
 
 A small web app to get the lengths of playlists on YouTube
@@ -13981,6 +16007,8 @@ Created: 26 March 2020
 Updated: 30 January 2023
 
 Stars on GitHub: 586
+
+----
 
 ### [bol-van/zapret](https://github.com/bol-van/zapret)
 
@@ -13996,6 +16024,8 @@ Updated: 31 January 2023
 
 Stars on GitHub: 2046
 
+----
+
 ### [Earth-Online/zoomeye-api](https://github.com/Earth-Online/zoomeye-api)
 
 zoomeye-api
@@ -14009,6 +16039,8 @@ Created: 18 January 2019
 Updated: 19 November 2022
 
 Stars on GitHub: 1
+
+----
 
 ### [adcar/zoomeye-search](https://github.com/adcar/zoomeye-search)
 
@@ -14024,6 +16056,8 @@ Updated: 07 January 2023
 
 Stars on GitHub: 31
 
+----
+
 ### [mhogomchungu/zuluCrypt](https://github.com/mhogomchungu/zuluCrypt)
 
 zuluCrypt is a front end to cryptsetup and tcplay and it allows easy management of encrypted block devices
@@ -14037,4 +16071,6 @@ Created: 05 June 2013
 Updated: 31 January 2023
 
 Stars on GitHub: 406
+
+----
 
