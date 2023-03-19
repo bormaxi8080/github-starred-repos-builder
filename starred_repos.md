@@ -4,9 +4,9 @@ This document generated automatically, see https://github.com/bormaxi8080/github
 
 (c) @bormaxi8080, 2023
 
-Created at: 2023-03-10
+Created at: 2023-03-19
 
-Starred repositories count: 1072
+Starred repositories count: 1079
 
 ----
 
@@ -20,9 +20,9 @@ Clone: [https://github.com/30-seconds/30-seconds-of-code.git](https://github.com
 
 Created: 29 November 2017
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 108416
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -36,9 +36,9 @@ Clone: [https://github.com/30-seconds/30-seconds-of-git.git](https://github.com/
 
 Created: 01 April 2021
 
-Updated: 10 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 268
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -54,7 +54,7 @@ Created: 28 May 2020
 
 Updated: 05 March 2023
 
-Stars on GitHub: 140
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -68,9 +68,9 @@ Clone: [https://github.com/30-seconds/30-seconds-of-interviews.git](https://gith
 
 Created: 07 April 2018
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 11209
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -84,9 +84,9 @@ Clone: [https://github.com/30-seconds/30-seconds-of-python.git](https://github.c
 
 Created: 08 January 2018
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 8703
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -100,9 +100,9 @@ Clone: [https://github.com/leonardomso/33-js-concepts.git](https://github.com/le
 
 Created: 04 September 2018
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 55344
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -118,7 +118,7 @@ Created: 23 September 2022
 
 Updated: 09 March 2023
 
-Stars on GitHub: 30
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -132,9 +132,9 @@ Clone: [https://github.com/Loskir/50-lines.git](https://github.com/Loskir/50-lin
 
 Created: 26 April 2020
 
-Updated: 09 March 2023
+Updated: 11 March 2023
 
-Stars on GitHub: 67
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -148,9 +148,9 @@ Clone: [https://github.com/MichaelCade/90DaysOfDevOps.git](https://github.com/Mi
 
 Created: 26 December 2021
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 21765
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -164,9 +164,9 @@ Clone: [https://github.com/google/AFL.git](https://github.com/google/AFL.git)
 
 Created: 25 July 2019
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 3059
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -180,9 +180,9 @@ Clone: [https://github.com/D3Ext/AORT.git](https://github.com/D3Ext/AORT.git)
 
 Created: 24 June 2022
 
-Updated: 09 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 606
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -196,9 +196,9 @@ Clone: [https://github.com/cipher387/API-s-for-OSINT.git](https://github.com/cip
 
 Created: 29 October 2021
 
-Updated: 09 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 636
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -212,9 +212,9 @@ Clone: [https://github.com/Anof-cyber/APTRS.git](https://github.com/Anof-cyber/A
 
 Created: 28 October 2022
 
-Updated: 08 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 618
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -228,9 +228,9 @@ Clone: [https://github.com/ine-labs/AWSGoat.git](https://github.com/ine-labs/AWS
 
 Created: 13 July 2022
 
-Updated: 07 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 1202
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -244,9 +244,9 @@ Clone: [https://github.com/ClearURLs/Addon.git](https://github.com/ClearURLs/Add
 
 Created: 04 August 2017
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 3466
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -260,9 +260,9 @@ Clone: [https://github.com/cipher387/Advanced-search-operators-list.git](https:/
 
 Created: 21 September 2021
 
-Updated: 08 March 2023
+Updated: 11 March 2023
 
-Stars on GitHub: 178
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -278,7 +278,7 @@ Created: 26 November 2022
 
 Updated: 16 January 2023
 
-Stars on GitHub: 2
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -292,9 +292,9 @@ Clone: [https://github.com/arxhr007/Aliens_eye.git](https://github.com/arxhr007/
 
 Created: 22 September 2021
 
-Updated: 05 March 2023
+Updated: 14 March 2023
 
-Stars on GitHub: 101
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -308,9 +308,9 @@ Clone: [https://github.com/OWASP/Amass.git](https://github.com/OWASP/Amass.git)
 
 Created: 10 July 2018
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 8913
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -324,9 +324,9 @@ Clone: [https://github.com/Josue87/AnalyticsRelationships.git](https://github.co
 
 Created: 15 May 2021
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 171
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -340,9 +340,9 @@ Clone: [https://github.com/urbanadventurer/Android-PIN-Bruteforce.git](https://g
 
 Created: 18 August 2020
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 2893
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -356,9 +356,9 @@ Clone: [https://github.com/AnonymousMessenger/AnonymousMessenger.git](https://gi
 
 Created: 13 January 2021
 
-Updated: 18 February 2023
+Updated: 11 March 2023
 
-Stars on GitHub: 45
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -372,9 +372,9 @@ Clone: [https://github.com/iBotPeaches/Apktool.git](https://github.com/iBotPeach
 
 Created: 19 March 2012
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 15863
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -388,9 +388,9 @@ Clone: [https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX.git](https://gith
 
 Created: 15 August 2021
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 1492
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -406,7 +406,7 @@ Created: 28 April 2020
 
 Updated: 26 February 2023
 
-Stars on GitHub: 122
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -420,9 +420,9 @@ Clone: [https://github.com/Hack-with-Github/Awesome-Hacking.git](https://github.
 
 Created: 30 March 2016
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 62360
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -436,9 +436,9 @@ Clone: [https://github.com/AndrewRathbun/Awesome-KAPE.git](https://github.com/An
 
 Created: 23 August 2021
 
-Updated: 05 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 100
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -452,9 +452,9 @@ Clone: [https://github.com/luong-komorebi/Awesome-Linux-Software.git](https://gi
 
 Created: 06 August 2016
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 18921
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -470,7 +470,7 @@ Created: 06 May 2018
 
 Updated: 02 March 2023
 
-Stars on GitHub: 165
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -484,9 +484,9 @@ Clone: [https://github.com/Hack-with-Github/Awesome-Security-Gists.git](https://
 
 Created: 10 August 2017
 
-Updated: 07 March 2023
+Updated: 13 March 2023
 
-Stars on GitHub: 803
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -500,9 +500,9 @@ Clone: [https://github.com/sirredbeard/Awesome-WSL.git](https://github.com/sirre
 
 Created: 19 May 2018
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 4447
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -516,9 +516,9 @@ Clone: [https://github.com/Anugrahsr/Awesome-web3-Security.git](https://github.c
 
 Created: 05 June 2022
 
-Updated: 08 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 818
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -532,9 +532,9 @@ Clone: [https://github.com/darkquasar/AzureHunter.git](https://github.com/darkqu
 
 Created: 09 September 2021
 
-Updated: 08 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 659
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -548,9 +548,9 @@ Clone: [https://github.com/bablosoft/BAS.git](https://github.com/bablosoft/BAS.g
 
 Created: 16 May 2016
 
-Updated: 08 March 2023
+Updated: 12 March 2023
 
-Stars on GitHub: 355
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -566,7 +566,7 @@ Created: 19 January 2022
 
 Updated: 03 March 2023
 
-Stars on GitHub: 15
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -582,7 +582,7 @@ Created: 25 May 2022
 
 Updated: 08 March 2023
 
-Stars on GitHub: 77
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -596,9 +596,9 @@ Clone: [https://github.com/Bafomet666/Bigbro.git](https://github.com/Bafomet666/
 
 Created: 09 October 2020
 
-Updated: 05 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 102
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -614,7 +614,7 @@ Created: 27 July 2022
 
 Updated: 06 March 2023
 
-Stars on GitHub: 551
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -628,9 +628,9 @@ Clone: [https://github.com/IvanMathy/Boop.git](https://github.com/IvanMathy/Boop
 
 Created: 27 January 2019
 
-Updated: 08 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 3178
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -644,9 +644,9 @@ Clone: [https://github.com/fingerprintjs/BotD.git](https://github.com/fingerprin
 
 Created: 10 March 2021
 
-Updated: 08 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 539
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -660,9 +660,9 @@ Clone: [https://github.com/odedshimon/BruteShark.git](https://github.com/odedshi
 
 Created: 16 February 2020
 
-Updated: 10 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 2664
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -676,9 +676,9 @@ Clone: [https://github.com/TheAlgorithms/C-Plus-Plus.git](https://github.com/The
 
 Created: 16 July 2016
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 23545
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -692,9 +692,9 @@ Clone: [https://github.com/gzc/CLRS.git](https://github.com/gzc/CLRS.git)
 
 Created: 03 December 2013
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 8923
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -708,9 +708,9 @@ Clone: [https://github.com/1njected/CMLoot.git](https://github.com/1njected/CMLo
 
 Created: 02 June 2022
 
-Updated: 23 February 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 72
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -724,9 +724,9 @@ Clone: [https://github.com/dionach/CMSmap.git](https://github.com/dionach/CMSmap
 
 Created: 20 September 2018
 
-Updated: 05 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 781
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -740,9 +740,9 @@ Clone: [https://github.com/CScorza/CORPINT-Corporate-Intelligence.git](https://g
 
 Created: 10 October 2022
 
-Updated: 08 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 34
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -756,9 +756,9 @@ Clone: [https://github.com/TheTumultuousUnicornOfDarkness/CPU-X.git](https://git
 
 Created: 21 September 2014
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 1569
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -774,7 +774,7 @@ Created: 24 October 2018
 
 Updated: 07 March 2023
 
-Stars on GitHub: 113
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -790,7 +790,7 @@ Created: 18 February 2018
 
 Updated: 24 December 2022
 
-Stars on GitHub: 62
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -806,7 +806,7 @@ Created: 09 September 2015
 
 Updated: 06 February 2023
 
-Stars on GitHub: 16
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -820,9 +820,25 @@ Clone: [https://github.com/mathis2001/Cert4Recon.git](https://github.com/mathis2
 
 Created: 30 May 2022
 
-Updated: 08 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 12
+<img src="star.png" height="32" alt="Stars on GitHub"/>
+
+----
+
+### [password123456/CertVerify](https://github.com/password123456/CertVerify)
+
+A scanner that files with compromised or untrusted code signing certificates written in python.
+
+Url: [https://github.com/password123456/CertVerify](https://github.com/password123456/CertVerify)
+
+Clone: [https://github.com/password123456/CertVerify.git](https://github.com/password123456/CertVerify.git)
+
+Created: 06 March 2023
+
+Updated: 18 March 2023
+
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -836,9 +852,9 @@ Clone: [https://github.com/lvwzhen/ChatGPT-Matrix-Style.git](https://github.com/
 
 Created: 09 December 2022
 
-Updated: 09 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 72
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -854,7 +870,7 @@ Created: 24 July 2016
 
 Updated: 10 March 2023
 
-Stars on GitHub: 57
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -868,9 +884,9 @@ Clone: [https://github.com/Ciphey/Ciphey.git](https://github.com/Ciphey/Ciphey.g
 
 Created: 16 July 2019
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 11665
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -884,9 +900,9 @@ Clone: [https://github.com/0xsha/CloudBrute.git](https://github.com/0xsha/CloudB
 
 Created: 09 September 2020
 
-Updated: 08 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 643
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -902,7 +918,7 @@ Created: 28 January 2022
 
 Updated: 19 November 2022
 
-Stars on GitHub: 1
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -918,7 +934,7 @@ Created: 17 May 2018
 
 Updated: 03 March 2023
 
-Stars on GitHub: 410
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -934,7 +950,7 @@ Created: 28 December 2021
 
 Updated: 19 January 2023
 
-Stars on GitHub: 39
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -950,7 +966,7 @@ Created: 25 June 2018
 
 Updated: 28 February 2023
 
-Stars on GitHub: 182
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -966,7 +982,7 @@ Created: 27 September 2016
 
 Updated: 06 September 2022
 
-Stars on GitHub: 2
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -980,9 +996,9 @@ Clone: [https://github.com/exadel-inc/CompreFace.git](https://github.com/exadel-
 
 Created: 06 July 2020
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 2730
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -996,9 +1012,9 @@ Clone: [https://github.com/andkret/Cookbook.git](https://github.com/andkret/Cook
 
 Created: 10 March 2019
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 11627
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1012,9 +1028,9 @@ Clone: [https://github.com/D4Vinci/Cr3dOv3r.git](https://github.com/D4Vinci/Cr3d
 
 Created: 13 November 2017
 
-Updated: 06 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 1856
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1030,7 +1046,23 @@ Created: 05 December 2021
 
 Updated: 05 March 2023
 
-Stars on GitHub: 17
+<img src="star.png" height="32" alt="Stars on GitHub"/>
+
+----
+
+### [nicholasaleks/CrackQL](https://github.com/nicholasaleks/CrackQL)
+
+CrackQL is a GraphQL password brute-force and fuzzing utility.
+
+Url: [https://github.com/nicholasaleks/CrackQL](https://github.com/nicholasaleks/CrackQL)
+
+Clone: [https://github.com/nicholasaleks/CrackQL.git](https://github.com/nicholasaleks/CrackQL.git)
+
+Created: 30 June 2022
+
+Updated: 14 March 2023
+
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1044,9 +1076,9 @@ Clone: [https://github.com/krdsploit/Credit-OSINT.git](https://github.com/krdspl
 
 Created: 28 July 2022
 
-Updated: 03 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 38
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1060,9 +1092,9 @@ Clone: [https://github.com/m8sec/CrossLinked.git](https://github.com/m8sec/Cross
 
 Created: 16 May 2019
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 719
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1078,7 +1110,7 @@ Created: 14 March 2020
 
 Updated: 14 December 2022
 
-Stars on GitHub: 4
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1092,9 +1124,9 @@ Clone: [https://github.com/gchq/CyberChef.git](https://github.com/gchq/CyberChef
 
 Created: 28 November 2016
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 20456
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1108,9 +1140,9 @@ Clone: [https://github.com/Nickyie/Cybersecurity-Resources.git](https://github.c
 
 Created: 28 July 2022
 
-Updated: 08 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 1838
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1124,9 +1156,9 @@ Clone: [https://github.com/micro-joan/D4TA-HUNTER.git](https://github.com/micro-
 
 Created: 24 October 2022
 
-Updated: 10 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 69
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1142,7 +1174,7 @@ Created: 11 March 2020
 
 Updated: 31 August 2022
 
-Stars on GitHub: 7
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1156,9 +1188,9 @@ Clone: [https://github.com/AndrewRathbun/DFIRMindMaps.git](https://github.com/An
 
 Created: 28 August 2021
 
-Updated: 05 March 2023
+Updated: 13 March 2023
 
-Stars on GitHub: 422
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1174,7 +1206,7 @@ Created: 16 July 2021
 
 Updated: 20 February 2023
 
-Stars on GitHub: 49
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1188,9 +1220,9 @@ Clone: [https://github.com/D3Ext/DFShell.git](https://github.com/D3Ext/DFShell.g
 
 Created: 20 July 2022
 
-Updated: 06 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 83
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1206,7 +1238,7 @@ Created: 18 April 2021
 
 Updated: 23 February 2023
 
-Stars on GitHub: 549
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1222,7 +1254,7 @@ Created: 21 October 2020
 
 Updated: 09 March 2023
 
-Stars on GitHub: 162
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1238,7 +1270,7 @@ Created: 12 May 2019
 
 Updated: 03 March 2023
 
-Stars on GitHub: 25
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1252,9 +1284,25 @@ Clone: [https://github.com/khuyentran1401/Data-science.git](https://github.com/k
 
 Created: 17 July 2020
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 3509
+<img src="star.png" height="32" alt="Stars on GitHub"/>
+
+----
+
+### [Drew-Alleman/DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon)
+
+ Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Secuirty Numbers and More From Text
+
+Url: [https://github.com/Drew-Alleman/DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon)
+
+Clone: [https://github.com/Drew-Alleman/DataSurgeon.git](https://github.com/Drew-Alleman/DataSurgeon.git)
+
+Created: 26 February 2023
+
+Updated: 18 March 2023
+
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1268,9 +1316,9 @@ Clone: [https://github.com/iperov/DeepFaceLab.git](https://github.com/iperov/Dee
 
 Created: 04 June 2018
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 37804
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1284,9 +1332,9 @@ Clone: [https://github.com/beurtschipper/Depix.git](https://github.com/beurtschi
 
 Created: 06 December 2020
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 23296
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1300,9 +1348,9 @@ Clone: [https://github.com/horsicq/Detect-It-Easy.git](https://github.com/horsic
 
 Created: 01 June 2014
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 4780
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1316,9 +1364,9 @@ Clone: [https://github.com/DevUtilsApp/DevUtils-app.git](https://github.com/DevU
 
 Created: 27 September 2020
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 3729
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1332,9 +1380,25 @@ Clone: [https://github.com/AnLoMinus/Diablo.git](https://github.com/AnLoMinus/Di
 
 Created: 20 May 2022
 
-Updated: 06 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 139
+<img src="star.png" height="32" alt="Stars on GitHub"/>
+
+----
+
+### [AdonsIzaguirre/DirRunner](https://github.com/AdonsIzaguirre/DirRunner)
+
+Enumeration & fingerprint tool
+
+Url: [https://github.com/AdonsIzaguirre/DirRunner](https://github.com/AdonsIzaguirre/DirRunner)
+
+Clone: [https://github.com/AdonsIzaguirre/DirRunner.git](https://github.com/AdonsIzaguirre/DirRunner.git)
+
+Created: 16 February 2023
+
+Updated: 18 March 2023
+
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1348,9 +1412,9 @@ Clone: [https://github.com/AstraaDev/Discord-All-Tools-In-One.git](https://githu
 
 Created: 02 September 2021
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 543
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1364,9 +1428,9 @@ Clone: [https://github.com/AstraaDev/Discord-Token-Grabber.git](https://github.c
 
 Created: 29 July 2021
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 115
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1380,9 +1444,9 @@ Clone: [https://github.com/AstraaDev/Discord-Token-Grabber-V2.git](https://githu
 
 Created: 09 June 2022
 
-Updated: 26 February 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 69
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1396,9 +1460,9 @@ Clone: [https://github.com/Ginsberg5150/Discord-and-Telegram-OSINT-references.gi
 
 Created: 08 September 2022
 
-Updated: 15 January 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 67
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1412,9 +1476,9 @@ Clone: [https://github.com/sickcodes/Docker-OSX.git](https://github.com/sickcode
 
 Created: 04 June 2020
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 29277
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1428,9 +1492,9 @@ Clone: [https://github.com/sickcodes/Docker-eyeOS.git](https://github.com/sickco
 
 Created: 01 October 2020
 
-Updated: 03 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 670
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1446,7 +1510,7 @@ Created: 16 October 2018
 
 Updated: 24 February 2023
 
-Stars on GitHub: 44
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1460,9 +1524,9 @@ Clone: [https://github.com/cipher387/Dorks-collections-list.git](https://github.
 
 Created: 19 September 2021
 
-Updated: 07 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 1290
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1476,9 +1540,9 @@ Clone: [https://github.com/Dragon-Userbot/Dragon-Userbot.git](https://github.com
 
 Created: 16 June 2020
 
-Updated: 09 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 182
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1494,7 +1558,7 @@ Created: 06 April 2022
 
 Updated: 02 February 2023
 
-Stars on GitHub: 80
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1510,7 +1574,7 @@ Created: 17 May 2021
 
 Updated: 24 February 2023
 
-Stars on GitHub: 42
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1524,9 +1588,9 @@ Clone: [https://github.com/securing/DumpsterDiver.git](https://github.com/securi
 
 Created: 27 May 2018
 
-Updated: 10 March 2023
+Updated: 14 March 2023
 
-Stars on GitHub: 822
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1542,7 +1606,7 @@ Created: 06 July 2021
 
 Updated: 20 January 2023
 
-Stars on GitHub: 14
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1556,9 +1620,9 @@ Clone: [https://github.com/ThoughtfulDev/EagleEye.git](https://github.com/Though
 
 Created: 17 February 2018
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 3415
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1572,9 +1636,9 @@ Clone: [https://github.com/UKPLab/EasyNMT.git](https://github.com/UKPLab/EasyNMT
 
 Created: 19 January 2021
 
-Updated: 06 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 791
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1590,7 +1654,7 @@ Created: 26 September 2021
 
 Updated: 02 January 2023
 
-Stars on GitHub: 9
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1604,9 +1668,9 @@ Clone: [https://github.com/keraattin/EmailAnalyzer.git](https://github.com/keraa
 
 Created: 25 November 2022
 
-Updated: 04 March 2023
+Updated: 12 March 2023
 
-Stars on GitHub: 149
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1620,9 +1684,9 @@ Clone: [https://github.com/maldevel/EmailHarvester.git](https://github.com/malde
 
 Created: 16 April 2016
 
-Updated: 07 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 656
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1636,9 +1700,9 @@ Clone: [https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools.git](https://gi
 
 Created: 23 April 2020
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 928
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1654,7 +1718,7 @@ Created: 18 October 2020
 
 Updated: 04 September 2022
 
-Stars on GitHub: 2
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1670,7 +1734,7 @@ Created: 26 July 2016
 
 Updated: 10 March 2023
 
-Stars on GitHub: 31
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1684,9 +1748,9 @@ Clone: [https://github.com/PeterWang512/FALdetector.git](https://github.com/Pete
 
 Created: 13 June 2019
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 1468
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1700,9 +1764,9 @@ Clone: [https://github.com/tg-bomze/Face-Depixelizer.git](https://github.com/tg-
 
 Created: 19 June 2020
 
-Updated: 24 February 2023
+Updated: 11 March 2023
 
-Stars on GitHub: 1993
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1716,9 +1780,9 @@ Clone: [https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan.git](https://githu
 
 Created: 05 May 2020
 
-Updated: 08 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 743
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1734,7 +1798,7 @@ Created: 03 September 2018
 
 Updated: 22 January 2023
 
-Stars on GitHub: 54
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1748,9 +1812,9 @@ Clone: [https://github.com/Hack-with-Github/Free-Security-eBooks.git](https://gi
 
 Created: 21 April 2016
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 3665
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1764,9 +1828,9 @@ Clone: [https://github.com/optiv/Freeze.git](https://github.com/optiv/Freeze.git
 
 Created: 21 September 2022
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 1144
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1782,7 +1846,7 @@ Created: 25 November 2017
 
 Updated: 08 September 2022
 
-Stars on GitHub: 1
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1796,9 +1860,9 @@ Clone: [https://github.com/TencentARC/GFPGAN.git](https://github.com/TencentARC/
 
 Created: 19 March 2021
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 27133
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1812,9 +1876,9 @@ Clone: [https://github.com/mxrch/GHunt.git](https://github.com/mxrch/GHunt.git)
 
 Created: 02 October 2020
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 13421
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1828,9 +1892,9 @@ Clone: [https://github.com/Alb-310/Geogramint.git](https://github.com/Alb-310/Ge
 
 Created: 16 July 2022
 
-Updated: 07 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 205
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1844,9 +1908,9 @@ Clone: [https://github.com/mathis2001/GitDiscloser.git](https://github.com/mathi
 
 Created: 31 May 2022
 
-Updated: 30 August 2022
+Updated: 16 March 2023
 
-Stars on GitHub: 1
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1860,9 +1924,9 @@ Clone: [https://github.com/mxrch/GitFive.git](https://github.com/mxrch/GitFive.g
 
 Created: 05 October 2022
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 554
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1878,7 +1942,7 @@ Created: 21 March 2019
 
 Updated: 20 January 2023
 
-Stars on GitHub: 28
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1892,9 +1956,9 @@ Clone: [https://github.com/git-up/GitUp.git](https://github.com/git-up/GitUp.git
 
 Created: 13 August 2015
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 10756
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1910,7 +1974,7 @@ Created: 24 April 2018
 
 Updated: 08 September 2022
 
-Stars on GitHub: 25
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1926,7 +1990,7 @@ Created: 28 September 2019
 
 Updated: 15 January 2023
 
-Stars on GitHub: 34
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1940,9 +2004,9 @@ Clone: [https://github.com/TheAlgorithms/Go.git](https://github.com/TheAlgorithm
 
 Created: 20 August 2016
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 12204
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1958,7 +2022,7 @@ Created: 26 August 2021
 
 Updated: 10 March 2023
 
-Stars on GitHub: 46
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1974,7 +2038,7 @@ Created: 08 April 2021
 
 Updated: 21 February 2023
 
-Stars on GitHub: 20
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -1988,9 +2052,9 @@ Clone: [https://github.com/GoesToEleven/GolangTraining.git](https://github.com/G
 
 Created: 09 August 2015
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 8808
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2004,9 +2068,9 @@ Clone: [https://github.com/m3n0sd0n4ld/GooFuzz.git](https://github.com/m3n0sd0n4
 
 Created: 17 June 2022
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 773
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2020,9 +2084,9 @@ Clone: [https://github.com/ValdikSS/GoodbyeDPI.git](https://github.com/ValdikSS/
 
 Created: 16 May 2017
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 8368
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2036,9 +2100,9 @@ Clone: [https://github.com/chriskiehl/Gooey.git](https://github.com/chriskiehl/G
 
 Created: 01 January 2014
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 17373
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2052,9 +2116,9 @@ Clone: [https://github.com/HASH1da1/Gotanda.git](https://github.com/HASH1da1/Got
 
 Created: 18 April 2019
 
-Updated: 09 February 2023
+Updated: 10 March 2023
 
-Stars on GitHub: 155
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2068,25 +2132,9 @@ Clone: [https://github.com/SadeghHayeri/GreenTunnel.git](https://github.com/Sade
 
 Created: 15 March 2019
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 3254
-
-----
-
-### [ByDog3r/GvngSearch](https://github.com/ByDog3r/GvngSearch)
-
-𝕲𝖛𝖓𝖌𝕾𝖊𝖆𝖗𝖈𝖍; OSINT TOOL that allows you to obtain information for a target [ < Person | Website > ].
-
-Url: [https://github.com/ByDog3r/GvngSearch](https://github.com/ByDog3r/GvngSearch)
-
-Clone: [https://github.com/ByDog3r/GvngSearch.git](https://github.com/ByDog3r/GvngSearch.git)
-
-Created: 16 September 2020
-
-Updated: 26 February 2023
-
-Stars on GitHub: 50
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2100,9 +2148,9 @@ Clone: [https://github.com/ayltai/Hack-Scribd-Unblurer.git](https://github.com/a
 
 Created: 22 February 2014
 
-Updated: 10 February 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 96
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2116,9 +2164,9 @@ Clone: [https://github.com/hacksalot/HackMyResume.git](https://github.com/hacksa
 
 Created: 24 September 2015
 
-Updated: 08 March 2023
+Updated: 14 March 2023
 
-Stars on GitHub: 9145
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2134,7 +2182,7 @@ Created: 09 January 2014
 
 Updated: 05 March 2023
 
-Stars on GitHub: 506
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2148,9 +2196,9 @@ Clone: [https://github.com/HavocFramework/Havoc.git](https://github.com/HavocFra
 
 Created: 11 September 2022
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 3875
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2166,7 +2214,7 @@ Created: 06 July 2018
 
 Updated: 10 January 2023
 
-Stars on GitHub: 18
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2182,7 +2230,7 @@ Created: 13 February 2019
 
 Updated: 10 March 2023
 
-Stars on GitHub: 59
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2196,9 +2244,9 @@ Clone: [https://github.com/CoolerVoid/HiddenWall.git](https://github.com/CoolerV
 
 Created: 20 April 2019
 
-Updated: 27 February 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 408
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2214,7 +2262,7 @@ Created: 14 August 2021
 
 Updated: 29 January 2023
 
-Stars on GitHub: 65
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2228,9 +2276,9 @@ Clone: [https://github.com/KathanP19/HowToHunt.git](https://github.com/KathanP19
 
 Created: 29 August 2020
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 4814
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2246,7 +2294,7 @@ Created: 03 November 2020
 
 Updated: 21 September 2022
 
-Stars on GitHub: 4
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2260,9 +2308,9 @@ Clone: [https://github.com/Divested-Mobile/Hypatia.git](https://github.com/Dives
 
 Created: 02 June 2020
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 174
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2278,7 +2326,7 @@ Created: 12 July 2020
 
 Updated: 08 September 2022
 
-Stars on GitHub: 1
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2292,15 +2340,15 @@ Clone: [https://github.com/bradjasper/ImportJSON.git](https://github.com/bradjas
 
 Created: 14 November 2012
 
-Updated: 09 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 1956
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
 ### [code-for-charity/ImprovedTube-for-YouTube](https://github.com/code-for-charity/ImprovedTube-for-YouTube)
 
-YouTube Extension: Enrich your experience & content [🧰80+LeanFeatures][📌Longest-standing: 10+years][👨‍👩‍👧‍👧Please make Docu./HowTo's][⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪⋮}(Player Repeat Screenshot[Hide "related video distraction]Always expand video Description [Playback speed][Video Quality codec electricity][Player Size Full Tab]Theme Customization)
+YouTube Extension: Enrich your experience & content [🧰80+Lean Features][📌Longest-standing since 2012][Please👨‍👩‍👧‍👧make Docum./HowTo's][⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪⋮}(Player Repeat Screenshot[Hide 'related video distraction]Always expand video Description [Playback speed][Video Quality codec electricity][Player Size Full Tab]Theme Customizatio
 
 Url: [https://github.com/code-for-charity/ImprovedTube-for-YouTube](https://github.com/code-for-charity/ImprovedTube-for-YouTube)
 
@@ -2308,9 +2356,9 @@ Clone: [https://github.com/code-for-charity/ImprovedTube-for-YouTube.git](https:
 
 Created: 02 March 2018
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 2449
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2324,9 +2372,9 @@ Clone: [https://github.com/m4ll0k/Infoga.git](https://github.com/m4ll0k/Infoga.g
 
 Created: 15 September 2017
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 1833
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2342,7 +2390,7 @@ Created: 09 July 2017
 
 Updated: 19 November 2022
 
-Stars on GitHub: 4
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2358,7 +2406,7 @@ Created: 16 July 2019
 
 Updated: 31 August 2022
 
-Stars on GitHub: 1
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2372,9 +2420,9 @@ Clone: [https://github.com/igdownloader/InstagramDownloader.git](https://github.
 
 Created: 20 February 2019
 
-Updated: 06 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 610
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2390,7 +2438,7 @@ Created: 19 April 2022
 
 Updated: 27 January 2023
 
-Stars on GitHub: 6
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2406,7 +2454,7 @@ Created: 21 February 2019
 
 Updated: 25 February 2023
 
-Stars on GitHub: 35
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2420,9 +2468,9 @@ Clone: [https://github.com/intelowlproject/IntelOwl.git](https://github.com/inte
 
 Created: 31 December 2019
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 2634
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2436,9 +2484,9 @@ Clone: [https://github.com/TheAlgorithms/JavaScript.git](https://github.com/TheA
 
 Created: 13 July 2017
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 25641
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2454,7 +2502,7 @@ Created: 12 March 2021
 
 Updated: 08 September 2022
 
-Stars on GitHub: 2
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2468,9 +2516,9 @@ Clone: [https://github.com/EricZimmerman/KapeFiles.git](https://github.com/EricZ
 
 Created: 09 October 2018
 
-Updated: 07 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 443
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2484,9 +2532,9 @@ Clone: [https://github.com/MaximeBeasse/KeyDecoder.git](https://github.com/Maxim
 
 Created: 30 June 2020
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 2625
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2500,9 +2548,9 @@ Clone: [https://github.com/shatyuka/Killergram.git](https://github.com/shatyuka/
 
 Created: 09 November 2021
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 533
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2516,9 +2564,9 @@ Clone: [https://github.com/4w4k3/KnockMail.git](https://github.com/4w4k3/KnockMa
 
 Created: 29 May 2017
 
-Updated: 08 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 251
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2534,7 +2582,7 @@ Created: 28 November 2017
 
 Updated: 09 March 2023
 
-Stars on GitHub: 122
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2550,7 +2598,7 @@ Created: 20 November 2020
 
 Updated: 24 February 2023
 
-Stars on GitHub: 127
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2564,9 +2612,9 @@ Clone: [https://github.com/RoyalIcing/Lantern.git](https://github.com/RoyalIcing
 
 Created: 16 August 2015
 
-Updated: 05 March 2023
+Updated: 12 March 2023
 
-Stars on GitHub: 200
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2580,9 +2628,9 @@ Clone: [https://github.com/woj-ciech/LeakLooker.git](https://github.com/woj-ciec
 
 Created: 08 January 2019
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 1212
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2596,9 +2644,25 @@ Clone: [https://github.com/PlaytikaOSS/Leaktopus.git](https://github.com/Playtik
 
 Created: 24 June 2022
 
-Updated: 06 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 23
+<img src="star.png" height="32" alt="Stars on GitHub"/>
+
+----
+
+### [GerbenJavado/LinkFinder](https://github.com/GerbenJavado/LinkFinder)
+
+A python script that finds endpoints in JavaScript files
+
+Url: [https://github.com/GerbenJavado/LinkFinder](https://github.com/GerbenJavado/LinkFinder)
+
+Clone: [https://github.com/GerbenJavado/LinkFinder.git](https://github.com/GerbenJavado/LinkFinder.git)
+
+Created: 09 June 2017
+
+Updated: 19 March 2023
+
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2612,9 +2676,9 @@ Clone: [https://github.com/vysecurity/LinkedInt.git](https://github.com/vysecuri
 
 Created: 08 March 2018
 
-Updated: 06 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 912
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2628,9 +2692,9 @@ Clone: [https://github.com/SimonSchubert/LinuxCommandLibrary.git](https://github
 
 Created: 19 June 2014
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 330
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2646,7 +2710,7 @@ Created: 13 December 2021
 
 Updated: 17 October 2022
 
-Stars on GitHub: 40
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2660,9 +2724,9 @@ Clone: [https://github.com/Neo23x0/Loki.git](https://github.com/Neo23x0/Loki.git
 
 Created: 18 January 2015
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 2784
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2676,9 +2740,9 @@ Clone: [https://github.com/objective-see/LuLu.git](https://github.com/objective-
 
 Created: 10 September 2017
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 7574
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2692,9 +2756,9 @@ Clone: [https://github.com/Roznoshchik/Lurnby.git](https://github.com/Roznoshchi
 
 Created: 03 May 2020
 
-Updated: 07 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 660
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2708,9 +2772,9 @@ Clone: [https://github.com/emqx/MQTTX.git](https://github.com/emqx/MQTTX.git)
 
 Created: 24 May 2019
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 2495
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2724,9 +2788,9 @@ Clone: [https://github.com/mailhog/MailHog.git](https://github.com/mailhog/MailH
 
 Created: 16 April 2014
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 11668
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2742,7 +2806,7 @@ Created: 12 December 2015
 
 Updated: 08 September 2022
 
-Stars on GitHub: 2
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2758,7 +2822,7 @@ Created: 24 December 2014
 
 Updated: 08 September 2022
 
-Stars on GitHub: 19
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2774,7 +2838,7 @@ Created: 24 December 2014
 
 Updated: 25 October 2022
 
-Stars on GitHub: 54
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2790,7 +2854,7 @@ Created: 01 March 2020
 
 Updated: 30 August 2022
 
-Stars on GitHub: 2
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2804,9 +2868,9 @@ Clone: [https://github.com/vxunderground/MalwareSourceCode.git](https://github.c
 
 Created: 10 October 2020
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 12411
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2820,9 +2884,9 @@ Clone: [https://github.com/optiv/Mangle.git](https://github.com/optiv/Mangle.git
 
 Created: 21 June 2022
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 985
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2836,9 +2900,9 @@ Clone: [https://github.com/flightlessmango/MangoHud.git](https://github.com/flig
 
 Created: 28 January 2020
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 4527
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2852,9 +2916,9 @@ Clone: [https://github.com/goabstract/Marketing-for-Engineers.git](https://githu
 
 Created: 19 April 2017
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 12352
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2870,7 +2934,7 @@ Created: 10 March 2020
 
 Updated: 03 September 2022
 
-Stars on GitHub: 1
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2884,9 +2948,9 @@ Clone: [https://github.com/saeeddhqan/Maryam.git](https://github.com/saeeddhqan/
 
 Created: 13 October 2019
 
-Updated: 09 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 756
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2902,7 +2966,7 @@ Created: 01 November 2020
 
 Updated: 30 August 2022
 
-Stars on GitHub: 1
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2916,9 +2980,9 @@ Clone: [https://github.com/C3n7ral051nt4g3ncy/Masto.git](https://github.com/C3n7
 
 Created: 07 November 2022
 
-Updated: 08 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 164
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2934,7 +2998,7 @@ Created: 05 March 2017
 
 Updated: 10 February 2023
 
-Stars on GitHub: 115
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2948,9 +3012,9 @@ Clone: [https://github.com/imran-parray/Mind-Maps.git](https://github.com/imran-
 
 Created: 20 August 2020
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 1707
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2964,9 +3028,9 @@ Clone: [https://github.com/mikaku/Monitorix.git](https://github.com/mikaku/Monit
 
 Created: 22 October 2012
 
-Updated: 10 March 2023
+Updated: 14 March 2023
 
-Stars on GitHub: 1017
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2980,9 +3044,9 @@ Clone: [https://github.com/AzizKpln/Moriarty-Project.git](https://github.com/Azi
 
 Created: 08 May 2020
 
-Updated: 10 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 1013
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -2996,9 +3060,9 @@ Clone: [https://github.com/SeaDve/Mousai.git](https://github.com/SeaDve/Mousai.g
 
 Created: 29 March 2021
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 703
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3012,9 +3076,9 @@ Clone: [https://github.com/Lucksi/Mr.Holmes.git](https://github.com/Lucksi/Mr.Ho
 
 Created: 23 June 2021
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 641
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3030,7 +3094,7 @@ Created: 17 January 2018
 
 Updated: 10 January 2023
 
-Stars on GitHub: 23
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3044,9 +3108,9 @@ Clone: [https://github.com/GONZOsint/Namechk.git](https://github.com/GONZOsint/N
 
 Created: 06 June 2018
 
-Updated: 31 January 2023
+Updated: 12 March 2023
 
-Stars on GitHub: 509
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3062,7 +3126,7 @@ Created: 17 July 2020
 
 Updated: 22 February 2023
 
-Stars on GitHub: 13
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3076,9 +3140,9 @@ Clone: [https://github.com/eth0izzle/Needl.git](https://github.com/eth0izzle/Nee
 
 Created: 14 November 2016
 
-Updated: 08 March 2023
+Updated: 14 March 2023
 
-Stars on GitHub: 447
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3092,9 +3156,9 @@ Clone: [https://github.com/itaymigdal/Nimbo-C2.git](https://github.com/itaymigda
 
 Created: 08 October 2022
 
-Updated: 06 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 122
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3110,7 +3174,7 @@ Created: 08 September 2021
 
 Updated: 04 September 2022
 
-Stars on GitHub: 6
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3126,7 +3190,7 @@ Created: 17 July 2021
 
 Updated: 19 January 2023
 
-Stars on GitHub: 12
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3140,9 +3204,9 @@ Clone: [https://github.com/sinwindie/OSINT.git](https://github.com/sinwindie/OSI
 
 Created: 15 June 2019
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 1986
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3158,7 +3222,7 @@ Created: 03 June 2022
 
 Updated: 24 February 2023
 
-Stars on GitHub: 56
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3174,7 +3238,7 @@ Created: 15 November 2021
 
 Updated: 30 August 2022
 
-Stars on GitHub: 3
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3188,9 +3252,9 @@ Clone: [https://github.com/Dutchosintguy/OSINT-Discord-resources.git](https://gi
 
 Created: 06 January 2021
 
-Updated: 19 February 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 180
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3204,9 +3268,9 @@ Clone: [https://github.com/lockfale/OSINT-Framework.git](https://github.com/lock
 
 Created: 19 December 2015
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 5014
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3222,7 +3286,7 @@ Created: 03 November 2021
 
 Updated: 21 February 2023
 
-Stars on GitHub: 47
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3236,9 +3300,9 @@ Clone: [https://github.com/Malfrats/OSINT-Map.git](https://github.com/Malfrats/O
 
 Created: 13 March 2022
 
-Updated: 10 March 2023
+Updated: 12 March 2023
 
-Stars on GitHub: 278
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3254,7 +3318,7 @@ Created: 15 January 2021
 
 Updated: 06 March 2023
 
-Stars on GitHub: 352
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3270,7 +3334,7 @@ Created: 26 April 2021
 
 Updated: 16 October 2022
 
-Stars on GitHub: 18
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3284,9 +3348,9 @@ Clone: [https://github.com/SharadKumar97/OSINT-SPY.git](https://github.com/Shara
 
 Created: 02 August 2017
 
-Updated: 07 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 811
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3302,7 +3366,7 @@ Created: 11 September 2021
 
 Updated: 31 January 2023
 
-Stars on GitHub: 97
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3318,7 +3382,7 @@ Created: 25 October 2021
 
 Updated: 30 August 2022
 
-Stars on GitHub: 2
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3332,9 +3396,9 @@ Clone: [https://github.com/willc/OSINT-flowcharts.git](https://github.com/willc/
 
 Created: 24 January 2019
 
-Updated: 10 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 27
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3350,7 +3414,7 @@ Created: 13 November 2021
 
 Updated: 13 February 2023
 
-Stars on GitHub: 13
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3366,7 +3430,7 @@ Created: 25 December 2020
 
 Updated: 31 August 2022
 
-Stars on GitHub: 6
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3380,9 +3444,9 @@ Clone: [https://github.com/Ph055a/OSINT_Collection.git](https://github.com/Ph055
 
 Created: 26 February 2018
 
-Updated: 09 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 1432
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3396,9 +3460,9 @@ Clone: [https://github.com/C3n7ral051nt4g3ncy/OSINT_Inception-links.git](https:/
 
 Created: 29 August 2022
 
-Updated: 10 March 2023
+Updated: 14 March 2023
 
-Stars on GitHub: 103
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3414,23 +3478,7 @@ Created: 27 May 2020
 
 Updated: 29 December 2022
 
-Stars on GitHub: 7
-
-----
-
-### [blaCCkHatHacEEkr/OSINT_TIPS](https://github.com/blaCCkHatHacEEkr/OSINT_TIPS)
-
-OSINT 
-
-Url: [https://github.com/blaCCkHatHacEEkr/OSINT_TIPS](https://github.com/blaCCkHatHacEEkr/OSINT_TIPS)
-
-Clone: [https://github.com/blaCCkHatHacEEkr/OSINT_TIPS.git](https://github.com/blaCCkHatHacEEkr/OSINT_TIPS.git)
-
-Created: 04 November 2019
-
-Updated: 23 February 2023
-
-Stars on GitHub: 568
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3444,9 +3492,9 @@ Clone: [https://github.com/IVMachiavelli/OSINT_Team_Links.git](https://github.co
 
 Created: 17 January 2017
 
-Updated: 22 February 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 485
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3460,9 +3508,9 @@ Clone: [https://github.com/Double2Sky/OffenOsint.git](https://github.com/Double2
 
 Created: 09 January 2021
 
-Updated: 27 February 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 143
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3476,9 +3524,9 @@ Clone: [https://github.com/D4Vinci/One-Lin3r.git](https://github.com/D4Vinci/One
 
 Created: 14 January 2018
 
-Updated: 07 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 1534
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3492,9 +3540,9 @@ Clone: [https://github.com/megadose/OnionSearch.git](https://github.com/megadose
 
 Created: 18 March 2020
 
-Updated: 10 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 754
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3510,7 +3558,7 @@ Created: 12 December 2018
 
 Updated: 26 February 2023
 
-Stars on GitHub: 18
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3524,9 +3572,9 @@ Clone: [https://github.com/Datalux/Osintgram.git](https://github.com/Datalux/Osi
 
 Created: 07 June 2019
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 6299
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3540,9 +3588,9 @@ Clone: [https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE.git](https://github
 
 Created: 28 June 2019
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 11961
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3556,9 +3604,9 @@ Clone: [https://github.com/TheSpeedX/PROXY-List.git](https://github.com/TheSpeed
 
 Created: 22 September 2018
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 1563
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3572,9 +3620,9 @@ Clone: [https://github.com/xHak9x/PYcrypt.git](https://github.com/xHak9x/PYcrypt
 
 Created: 21 July 2018
 
-Updated: 24 February 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 55
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3588,9 +3636,9 @@ Clone: [https://github.com/s0md3v/Parth.git](https://github.com/s0md3v/Parth.git
 
 Created: 19 August 2020
 
-Updated: 07 March 2023
+Updated: 11 March 2023
 
-Stars on GitHub: 468
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3604,9 +3652,9 @@ Clone: [https://github.com/Viralmaniar/Passhunt.git](https://github.com/Viralman
 
 Created: 14 January 2018
 
-Updated: 03 March 2023
+Updated: 11 March 2023
 
-Stars on GitHub: 1104
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3622,7 +3670,7 @@ Created: 14 July 2014
 
 Updated: 04 September 2022
 
-Stars on GitHub: 67
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3636,9 +3684,9 @@ Clone: [https://github.com/peazip/PeaZip.git](https://github.com/peazip/PeaZip.g
 
 Created: 13 November 2010
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 2634
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3654,7 +3702,7 @@ Created: 12 October 2016
 
 Updated: 03 February 2023
 
-Stars on GitHub: 31
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3668,9 +3716,9 @@ Clone: [https://github.com/s0md3v/Photon.git](https://github.com/s0md3v/Photon.g
 
 Created: 30 March 2018
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 9455
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3684,9 +3732,9 @@ Clone: [https://github.com/HACKERALERT/Picocrypt.git](https://github.com/HACKERA
 
 Created: 18 February 2021
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 1163
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3702,7 +3750,7 @@ Created: 06 February 2021
 
 Updated: 13 September 2022
 
-Stars on GitHub: 2
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3716,9 +3764,9 @@ Clone: [https://github.com/TheYoke/PngBin.git](https://github.com/TheYoke/PngBin
 
 Created: 04 December 2020
 
-Updated: 09 March 2023
+Updated: 13 March 2023
 
-Stars on GitHub: 101
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3732,9 +3780,9 @@ Clone: [https://github.com/PowerShell/PowerShell.git](https://github.com/PowerSh
 
 Created: 13 January 2016
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 37480
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3748,9 +3796,9 @@ Clone: [https://github.com/krlvm/PowerTunnel.git](https://github.com/krlvm/Power
 
 Created: 25 October 2019
 
-Updated: 10 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 667
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3764,9 +3812,9 @@ Clone: [https://github.com/krlvm/PowerTunnel-Android.git](https://github.com/krl
 
 Created: 07 March 2020
 
-Updated: 09 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 674
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3782,7 +3830,7 @@ Created: 29 April 2016
 
 Updated: 20 February 2023
 
-Stars on GitHub: 719
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3796,9 +3844,9 @@ Clone: [https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesi
 
 Created: 14 January 2013
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 25384
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3812,9 +3860,9 @@ Clone: [https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence.git](https://gith
 
 Created: 09 June 2022
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 76
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3830,7 +3878,7 @@ Created: 27 August 2021
 
 Updated: 11 January 2023
 
-Stars on GitHub: 3
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3846,7 +3894,7 @@ Created: 30 December 2015
 
 Updated: 24 February 2023
 
-Stars on GitHub: 31
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3862,7 +3910,7 @@ Created: 04 June 2018
 
 Updated: 06 September 2022
 
-Stars on GitHub: 2
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3876,9 +3924,9 @@ Clone: [https://github.com/D4Vinci/PyFlooder.git](https://github.com/D4Vinci/PyF
 
 Created: 07 August 2016
 
-Updated: 01 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 317
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3892,9 +3940,9 @@ Clone: [https://github.com/cool-RR/PySnooper.git](https://github.com/cool-RR/PyS
 
 Created: 18 April 2019
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 15709
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3908,9 +3956,9 @@ Clone: [https://github.com/TheAlgorithms/Python.git](https://github.com/TheAlgor
 
 Created: 16 July 2016
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 154994
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3926,7 +3974,7 @@ Created: 06 September 2022
 
 Updated: 03 March 2023
 
-Stars on GitHub: 32
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3940,9 +3988,9 @@ Clone: [https://github.com/zhiwehu/Python-programming-exercises.git](https://git
 
 Created: 14 June 2012
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 22762
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3958,7 +4006,7 @@ Created: 25 September 2021
 
 Updated: 08 September 2022
 
-Stars on GitHub: 2
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3972,9 +4020,9 @@ Clone: [https://github.com/gokulapap/Reconator.git](https://github.com/gokulapap
 
 Created: 21 September 2021
 
-Updated: 03 March 2023
+Updated: 12 March 2023
 
-Stars on GitHub: 332
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -3988,9 +4036,9 @@ Clone: [https://github.com/Cog-Creators/Red-DiscordBot.git](https://github.com/C
 
 Created: 02 January 2016
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 3794
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4004,9 +4052,9 @@ Clone: [https://github.com/CyberSecurityUP/Red-Team-Management.git](https://gith
 
 Created: 14 August 2022
 
-Updated: 10 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 300
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4020,9 +4068,9 @@ Clone: [https://github.com/infosecn1nja/Red-Teaming-Toolkit.git](https://github.
 
 Created: 26 April 2018
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 7284
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4038,7 +4086,7 @@ Created: 03 July 2022
 
 Updated: 11 February 2023
 
-Stars on GitHub: 136
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4052,9 +4100,9 @@ Clone: [https://github.com/RedisInsight/RedisDesktopManager.git](https://github.
 
 Created: 05 August 2013
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 21572
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4070,7 +4118,7 @@ Created: 18 June 2022
 
 Updated: 16 February 2023
 
-Stars on GitHub: 135
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4084,9 +4132,9 @@ Clone: [https://github.com/nastyox/Repo-Roster.git](https://github.com/nastyox/R
 
 Created: 27 October 2020
 
-Updated: 22 February 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 241
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4102,7 +4150,7 @@ Created: 06 October 2019
 
 Updated: 12 January 2023
 
-Stars on GitHub: 48
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4116,9 +4164,9 @@ Clone: [https://github.com/tanaikech/ResumableUploadForGoogleDrive_js.git](https
 
 Created: 11 October 2019
 
-Updated: 06 February 2023
+Updated: 11 March 2023
 
-Stars on GitHub: 70
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4134,7 +4182,7 @@ Created: 06 July 2014
 
 Updated: 07 February 2023
 
-Stars on GitHub: 153
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4148,9 +4196,9 @@ Clone: [https://github.com/RustScan/RustScan.git](https://github.com/RustScan/Ru
 
 Created: 11 July 2020
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 9461
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4164,9 +4212,9 @@ Clone: [https://github.com/IntelligenceX/SDK.git](https://github.com/Intelligenc
 
 Created: 10 December 2018
 
-Updated: 07 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 297
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4180,9 +4228,9 @@ Clone: [https://github.com/termuxhackers-id/SIGIT.git](https://github.com/termux
 
 Created: 21 April 2021
 
-Updated: 08 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 458
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4196,9 +4244,9 @@ Clone: [https://github.com/Viralmaniar/SMWYG-Show-Me-What-You-Got.git](https://g
 
 Created: 07 November 2018
 
-Updated: 03 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 286
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4212,9 +4260,9 @@ Clone: [https://github.com/ShivamRai2003/SQL-Injection-Google-Dork-List.git](htt
 
 Created: 13 July 2021
 
-Updated: 21 February 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 14
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4228,9 +4276,9 @@ Clone: [https://github.com/blackhatethicalhacking/SQLMutant.git](https://github.
 
 Created: 16 February 2023
 
-Updated: 06 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 23
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4244,9 +4292,9 @@ Clone: [https://github.com/eslam3kl/SQLiDetector.git](https://github.com/eslam3k
 
 Created: 27 July 2022
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 431
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4260,9 +4308,9 @@ Clone: [https://github.com/vladko312/SSTImap.git](https://github.com/vladko312/S
 
 Created: 15 June 2022
 
-Updated: 09 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 300
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4278,7 +4326,7 @@ Created: 26 May 2022
 
 Updated: 03 November 2022
 
-Stars on GitHub: 32
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4294,7 +4342,7 @@ Created: 10 May 2018
 
 Updated: 28 December 2022
 
-Stars on GitHub: 81
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4308,9 +4356,9 @@ Clone: [https://github.com/vivami/SauronEye.git](https://github.com/vivami/Sauro
 
 Created: 03 August 2019
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 560
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4326,7 +4374,7 @@ Created: 01 February 2023
 
 Updated: 10 March 2023
 
-Stars on GitHub: 31
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4340,9 +4388,9 @@ Clone: [https://github.com/matamorphosis/Scrummage.git](https://github.com/matam
 
 Created: 10 April 2019
 
-Updated: 05 March 2023
+Updated: 13 March 2023
 
-Stars on GitHub: 418
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4356,9 +4404,9 @@ Clone: [https://github.com/HashPals/Search-That-Hash.git](https://github.com/Has
 
 Created: 30 August 2020
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 1107
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4372,9 +4420,25 @@ Clone: [https://github.com/m4ll0k/SecretFinder.git](https://github.com/m4ll0k/Se
 
 Created: 08 June 2020
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 1335
+<img src="star.png" height="32" alt="Stars on GitHub"/>
+
+----
+
+### [blackhatethicalhacking/SecretOpt1c](https://github.com/blackhatethicalhacking/SecretOpt1c)
+
+SecretOpt1c is a Red Team tool that helps uncover sensitive information in websites using ACTIVE and PASSIVE Techniques for Superior Accuracy!
+
+Url: [https://github.com/blackhatethicalhacking/SecretOpt1c](https://github.com/blackhatethicalhacking/SecretOpt1c)
+
+Clone: [https://github.com/blackhatethicalhacking/SecretOpt1c.git](https://github.com/blackhatethicalhacking/SecretOpt1c.git)
+
+Created: 12 February 2023
+
+Updated: 17 March 2023
+
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4388,9 +4452,9 @@ Clone: [https://github.com/deepfence/SecretScanner.git](https://github.com/deepf
 
 Created: 22 August 2020
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 2196
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4404,9 +4468,9 @@ Clone: [https://github.com/SecurityRAT/SecurityRAT.git](https://github.com/Secur
 
 Created: 02 May 2016
 
-Updated: 08 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 150
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4422,7 +4486,7 @@ Created: 06 November 2019
 
 Updated: 03 September 2022
 
-Stars on GitHub: 11
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4436,9 +4500,9 @@ Clone: [https://github.com/JakeWnuk/SickNerd.git](https://github.com/JakeWnuk/Si
 
 Created: 27 January 2022
 
-Updated: 18 January 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 22
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4452,9 +4516,9 @@ Clone: [https://github.com/x13a/Silence.git](https://github.com/x13a/Silence.git
 
 Created: 11 June 2021
 
-Updated: 06 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 173
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4468,9 +4532,9 @@ Clone: [https://github.com/vdrmota/Social-Media-and-Contact-Info-Extractor.git](
 
 Created: 29 May 2019
 
-Updated: 08 March 2023
+Updated: 12 March 2023
 
-Stars on GitHub: 58
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4486,7 +4550,7 @@ Created: 25 July 2022
 
 Updated: 19 January 2023
 
-Stars on GitHub: 10
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4500,9 +4564,9 @@ Clone: [https://github.com/r-spacex/SpaceX-API.git](https://github.com/r-spacex/
 
 Created: 19 June 2017
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 9746
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4516,9 +4580,9 @@ Clone: [https://github.com/xvzc/SpoofDPI.git](https://github.com/xvzc/SpoofDPI.g
 
 Created: 26 December 2021
 
-Updated: 09 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 258
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4532,9 +4596,9 @@ Clone: [https://github.com/BeetleChunks/SpoolSploit.git](https://github.com/Beet
 
 Created: 07 July 2021
 
-Updated: 06 March 2023
+Updated: 13 March 2023
 
-Stars on GitHub: 462
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4548,9 +4612,9 @@ Clone: [https://github.com/oguzhaninan/Stacer.git](https://github.com/oguzhanina
 
 Created: 06 November 2016
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 8279
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4564,9 +4628,9 @@ Clone: [https://github.com/CScorza/StegoIntelligence.git](https://github.com/CSc
 
 Created: 28 January 2023
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 29
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4580,9 +4644,9 @@ Clone: [https://github.com/bing0o/SubEnum.git](https://github.com/bing0o/SubEnum
 
 Created: 07 April 2020
 
-Updated: 08 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 164
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4596,9 +4660,9 @@ Clone: [https://github.com/r4wd3r/Suborner.git](https://github.com/r4wd3r/Suborn
 
 Created: 26 April 2022
 
-Updated: 09 March 2023
+Updated: 13 March 2023
 
-Stars on GitHub: 398
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4612,9 +4676,9 @@ Clone: [https://github.com/fuzz-security/SuperWordlist.git](https://github.com/f
 
 Created: 06 June 2020
 
-Updated: 08 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 1304
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4628,9 +4692,9 @@ Clone: [https://github.com/TablePlus/TablePlus.git](https://github.com/TablePlus
 
 Created: 13 June 2017
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 2921
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4644,9 +4708,9 @@ Clone: [https://github.com/zqtay/Telegram-Message-Analyzer.git](https://github.c
 
 Created: 31 December 2018
 
-Updated: 20 January 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 26
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4660,9 +4724,9 @@ Clone: [https://github.com/Forichok/TelegramOnlineSpy.git](https://github.com/Fo
 
 Created: 06 November 2019
 
-Updated: 10 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 194
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4678,7 +4742,7 @@ Created: 28 December 2022
 
 Updated: 13 January 2023
 
-Stars on GitHub: 6
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4694,7 +4758,7 @@ Created: 07 February 2022
 
 Updated: 17 February 2023
 
-Stars on GitHub: 46
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4710,7 +4774,7 @@ Created: 28 March 2022
 
 Updated: 22 February 2023
 
-Stars on GitHub: 74
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4724,9 +4788,9 @@ Clone: [https://github.com/blackhatethicalhacking/TerminatorZ.git](https://githu
 
 Created: 31 January 2023
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 52
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4740,9 +4804,9 @@ Clone: [https://github.com/RajSolai/TextSnatcher.git](https://github.com/RajSola
 
 Created: 15 July 2021
 
-Updated: 09 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 416
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4758,7 +4822,7 @@ Created: 25 September 2022
 
 Updated: 10 December 2022
 
-Stars on GitHub: 14
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4772,9 +4836,9 @@ Clone: [https://github.com/champmq/TheScrapper.git](https://github.com/champmq/T
 
 Created: 07 May 2021
 
-Updated: 08 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 122
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4788,9 +4852,9 @@ Clone: [https://github.com/SobrioRiot/The_spy_job.git](https://github.com/Sobrio
 
 Created: 05 November 2022
 
-Updated: 01 February 2023
+Updated: 12 March 2023
 
-Stars on GitHub: 7
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4804,9 +4868,9 @@ Clone: [https://github.com/davidteather/TikTok-Api.git](https://github.com/david
 
 Created: 26 May 2019
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 3066
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4822,7 +4886,7 @@ Created: 11 August 2021
 
 Updated: 23 October 2022
 
-Stars on GitHub: 7
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4836,9 +4900,9 @@ Clone: [https://github.com/DedSecInside/TorBot.git](https://github.com/DedSecIns
 
 Created: 17 May 2017
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 1884
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4852,9 +4916,9 @@ Clone: [https://github.com/vitaminncpp/TouchDroid.git](https://github.com/vitami
 
 Created: 20 January 2022
 
-Updated: 09 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 93
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4868,9 +4932,9 @@ Clone: [https://github.com/initzerCreations/Tracgram.git](https://github.com/ini
 
 Created: 11 January 2023
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 101
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4886,7 +4950,7 @@ Created: 04 January 2020
 
 Updated: 06 February 2023
 
-Stars on GitHub: 36
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4902,7 +4966,7 @@ Created: 05 August 2012
 
 Updated: 03 September 2022
 
-Stars on GitHub: 1
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4916,9 +4980,9 @@ Clone: [https://github.com/utmapp/UTM.git](https://github.com/utmapp/UTM.git)
 
 Created: 12 April 2019
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 18260
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4932,9 +4996,9 @@ Clone: [https://github.com/harismuneer/Ultimate-Facebook-Scraper.git](https://gi
 
 Created: 22 August 2018
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 2526
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4950,7 +5014,7 @@ Created: 13 July 2022
 
 Updated: 30 August 2022
 
-Stars on GitHub: 1
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4966,7 +5030,7 @@ Created: 27 June 2022
 
 Updated: 05 February 2023
 
-Stars on GitHub: 19
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4980,9 +5044,9 @@ Clone: [https://github.com/ventoy/Ventoy.git](https://github.com/ventoy/Ventoy.g
 
 Created: 10 March 2020
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 46216
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -4996,9 +5060,9 @@ Clone: [https://github.com/veracrypt/VeraCrypt.git](https://github.com/veracrypt
 
 Created: 08 November 2014
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 4811
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5012,9 +5076,9 @@ Clone: [https://github.com/t3l3machus/Villain.git](https://github.com/t3l3machus
 
 Created: 25 October 2022
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 2579
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5028,9 +5092,9 @@ Clone: [https://github.com/LeFroid/Viper-Browser.git](https://github.com/LeFroid
 
 Created: 31 October 2017
 
-Updated: 07 March 2023
+Updated: 11 March 2023
 
-Stars on GitHub: 171
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5046,7 +5110,7 @@ Created: 08 April 2021
 
 Updated: 03 September 2022
 
-Stars on GitHub: 4
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5062,7 +5126,7 @@ Created: 20 November 2021
 
 Updated: 03 March 2023
 
-Stars on GitHub: 26
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5076,9 +5140,9 @@ Clone: [https://github.com/Kozea/WeasyPrint.git](https://github.com/Kozea/WeasyP
 
 Created: 09 August 2011
 
-Updated: 10 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 5561
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5092,9 +5156,9 @@ Clone: [https://github.com/H-M-H/Weylus.git](https://github.com/H-M-H/Weylus.git
 
 Created: 01 May 2020
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 4730
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5110,7 +5174,7 @@ Created: 19 March 2018
 
 Updated: 28 February 2023
 
-Stars on GitHub: 232
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5124,9 +5188,9 @@ Clone: [https://github.com/TheSpeedX/WhatScraper.git](https://github.com/TheSpee
 
 Created: 17 October 2019
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 158
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5140,9 +5204,9 @@ Clone: [https://github.com/urbanadventurer/WhatWeb.git](https://github.com/urban
 
 Created: 30 September 2010
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 4397
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5156,9 +5220,9 @@ Clone: [https://github.com/WebBreacher/WhatsMyName.git](https://github.com/WebBr
 
 Created: 02 October 2015
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 1150
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5174,7 +5238,7 @@ Created: 28 May 2019
 
 Updated: 30 August 2022
 
-Stars on GitHub: 1
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5188,9 +5252,9 @@ Clone: [https://github.com/JoseHenriqueSiqueira/Whatsapp_Instagram_Messanger_Cha
 
 Created: 05 February 2023
 
-Updated: 08 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 52
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5204,9 +5268,9 @@ Clone: [https://github.com/rootm0s/WinPwnage.git](https://github.com/rootm0s/Win
 
 Created: 08 April 2018
 
-Updated: 10 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 2421
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5220,9 +5284,9 @@ Clone: [https://github.com/Hack-with-Github/Windows.git](https://github.com/Hack
 
 Created: 26 July 2016
 
-Updated: 09 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 1195
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5236,9 +5300,9 @@ Clone: [https://github.com/GetStream/Winds.git](https://github.com/GetStream/Win
 
 Created: 19 September 2016
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 8750
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5252,15 +5316,15 @@ Clone: [https://github.com/blackhatethicalhacking/XSSRocket.git](https://github.
 
 Created: 24 January 2023
 
-Updated: 10 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 31
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
 ### [l4rm4nd/XingDumper](https://github.com/l4rm4nd/XingDumper)
 
-Python3 script to dump employee information from XING API
+Python 3 script to dump company employees from XING API
 
 Url: [https://github.com/l4rm4nd/XingDumper](https://github.com/l4rm4nd/XingDumper)
 
@@ -5268,9 +5332,9 @@ Clone: [https://github.com/l4rm4nd/XingDumper.git](https://github.com/l4rm4nd/Xi
 
 Created: 12 November 2021
 
-Updated: 27 February 2023
+Updated: 14 March 2023
 
-Stars on GitHub: 15
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5284,9 +5348,9 @@ Clone: [https://github.com/Uncommon/Xit.git](https://github.com/Uncommon/Xit.git
 
 Created: 28 June 2011
 
-Updated: 04 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 917
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5300,9 +5364,9 @@ Clone: [https://github.com/HowToFind-bot/YaSeeker.git](https://github.com/HowToF
 
 Created: 30 January 2021
 
-Updated: 06 March 2023
+Updated: 11 March 2023
 
-Stars on GitHub: 117
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5316,9 +5380,9 @@ Clone: [https://github.com/DrakenWan/Yale3.git](https://github.com/DrakenWan/Yal
 
 Created: 04 December 2021
 
-Updated: 09 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 35
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5332,9 +5396,9 @@ Clone: [https://github.com/s0md3v/Zen.git](https://github.com/s0md3v/Zen.git)
 
 Created: 15 October 2018
 
-Updated: 10 March 2023
+Updated: 13 March 2023
 
-Stars on GitHub: 476
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5348,9 +5412,9 @@ Clone: [https://github.com/Yariya/Zmap-ProxyScanner.git](https://github.com/Yari
 
 Created: 26 August 2022
 
-Updated: 10 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 139
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5366,7 +5430,7 @@ Created: 17 July 2017
 
 Updated: 15 February 2023
 
-Stars on GitHub: 27
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5380,9 +5444,9 @@ Clone: [https://github.com/knownsec/ZoomEye-python.git](https://github.com/known
 
 Created: 20 May 2016
 
-Updated: 08 March 2023
+Updated: 13 March 2023
 
-Stars on GitHub: 437
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5396,9 +5460,9 @@ Clone: [https://github.com/hamedA2/Zydra.git](https://github.com/hamedA2/Zydra.g
 
 Created: 02 June 2019
 
-Updated: 09 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 354
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5412,9 +5476,9 @@ Clone: [https://github.com/aaarghhh/a_TON_of_privacy.git](https://github.com/aaa
 
 Created: 28 January 2023
 
-Updated: 25 February 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 25
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5428,9 +5492,9 @@ Clone: [https://github.com/nektos/act.git](https://github.com/nektos/act.git)
 
 Created: 02 January 2019
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 35914
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5446,7 +5510,7 @@ Created: 31 October 2017
 
 Updated: 27 February 2023
 
-Stars on GitHub: 95
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5462,7 +5526,7 @@ Created: 17 June 2019
 
 Updated: 16 February 2023
 
-Stars on GitHub: 12
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5476,9 +5540,9 @@ Clone: [https://github.com/ukanth/afwall.git](https://github.com/ukanth/afwall.g
 
 Created: 27 October 2012
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 2362
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5492,9 +5556,9 @@ Clone: [https://github.com/ahmia/ahmia-site.git](https://github.com/ahmia/ahmia-
 
 Created: 23 May 2016
 
-Updated: 07 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 275
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5508,9 +5572,9 @@ Clone: [https://github.com/aiogram/aiogram.git](https://github.com/aiogram/aiogr
 
 Created: 18 November 2017
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 3426
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5524,9 +5588,9 @@ Clone: [https://github.com/Forden/aiogram-bot-template.git](https://github.com/F
 
 Created: 05 April 2020
 
-Updated: 09 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 252
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5540,9 +5604,9 @@ Clone: [https://github.com/mahenzon/aiogram-lessons.git](https://github.com/mahe
 
 Created: 13 January 2018
 
-Updated: 09 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 247
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5556,9 +5620,9 @@ Clone: [https://github.com/mendel5/alternative-front-ends.git](https://github.co
 
 Created: 10 April 2020
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 3674
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5574,7 +5638,7 @@ Created: 28 January 2020
 
 Updated: 24 December 2022
 
-Stars on GitHub: 40
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5588,9 +5652,25 @@ Clone: [https://github.com/scrapehero-code/amazon-scraper.git](https://github.co
 
 Created: 20 April 2020
 
-Updated: 05 March 2023
+Updated: 10 March 2023
 
-Stars on GitHub: 197
+<img src="star.png" height="32" alt="Stars on GitHub"/>
+
+----
+
+### [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
+
+Amnezia VPN Client (Desktop+Mobile)
+
+Url: [https://github.com/amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
+
+Clone: [https://github.com/amnezia-vpn/amnezia-client.git](https://github.com/amnezia-vpn/amnezia-client.git)
+
+Created: 22 November 2020
+
+Updated: 18 March 2023
+
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5604,9 +5684,9 @@ Clone: [https://github.com/plausible/analytics.git](https://github.com/plausible
 
 Created: 04 December 2018
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 14145
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5620,9 +5700,9 @@ Clone: [https://github.com/BootBoi/android-app.git](https://github.com/BootBoi/a
 
 Created: 15 February 2021
 
-Updated: 03 March 2023
+Updated: 14 March 2023
 
-Stars on GitHub: 78
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5636,9 +5716,9 @@ Clone: [https://github.com/anonaddy/anonaddy.git](https://github.com/anonaddy/an
 
 Created: 21 June 2019
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 2183
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5652,9 +5732,9 @@ Clone: [https://github.com/ansible/ansible.git](https://github.com/ansible/ansib
 
 Created: 06 March 2012
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 56541
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5668,9 +5748,9 @@ Clone: [https://github.com/antlr/antlr4.git](https://github.com/antlr/antlr4.git
 
 Created: 04 February 2010
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 14015
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5686,7 +5766,7 @@ Created: 09 April 2017
 
 Updated: 08 September 2022
 
-Stars on GitHub: 30
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5700,9 +5780,9 @@ Clone: [https://github.com/pushshift/api.git](https://github.com/pushshift/api.g
 
 Created: 17 August 2017
 
-Updated: 10 March 2023
+Updated: 13 March 2023
 
-Stars on GitHub: 1118
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5718,7 +5798,7 @@ Created: 10 May 2017
 
 Updated: 01 March 2023
 
-Stars on GitHub: 36
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5734,7 +5814,7 @@ Created: 18 June 2019
 
 Updated: 05 September 2022
 
-Stars on GitHub: 1
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5748,9 +5828,25 @@ Clone: [https://github.com/dwisiswant0/apkleaks.git](https://github.com/dwisiswa
 
 Created: 29 May 2020
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 3648
+<img src="star.png" height="32" alt="Stars on GitHub"/>
+
+----
+
+### [michenriksen/aquatone](https://github.com/michenriksen/aquatone)
+
+A Tool for Domain Flyovers
+
+Url: [https://github.com/michenriksen/aquatone](https://github.com/michenriksen/aquatone)
+
+Clone: [https://github.com/michenriksen/aquatone.git](https://github.com/michenriksen/aquatone.git)
+
+Created: 19 November 2015
+
+Updated: 18 March 2023
+
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5766,7 +5862,7 @@ Created: 15 October 2016
 
 Updated: 06 March 2023
 
-Stars on GitHub: 48
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5780,9 +5876,9 @@ Clone: [https://github.com/tomnomnom/assetfinder.git](https://github.com/tomnomn
 
 Created: 23 June 2019
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 2297
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5796,9 +5892,9 @@ Clone: [https://github.com/hibiken/asynq.git](https://github.com/hibiken/asynq.g
 
 Created: 15 November 2019
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 5539
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5812,9 +5908,9 @@ Clone: [https://github.com/bellingcat/auto-archiver.git](https://github.com/bell
 
 Created: 15 January 2021
 
-Updated: 10 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 337
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5828,9 +5924,9 @@ Clone: [https://github.com/withfig/autocomplete.git](https://github.com/withfig/
 
 Created: 29 September 2020
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 21624
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5844,9 +5940,9 @@ Clone: [https://github.com/AutomaApp/automa.git](https://github.com/AutomaApp/au
 
 Created: 02 October 2021
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 6508
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5862,7 +5958,7 @@ Created: 13 May 2015
 
 Updated: 04 September 2022
 
-Stars on GitHub: 1
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5878,7 +5974,7 @@ Created: 28 July 2021
 
 Updated: 19 November 2022
 
-Stars on GitHub: 4
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5892,9 +5988,9 @@ Clone: [https://github.com/bayandin/awesome-awesomeness.git](https://github.com/
 
 Created: 08 July 2014
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 29914
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5908,9 +6004,9 @@ Clone: [https://github.com/ZYSzys/awesome-captcha.git](https://github.com/ZYSzys
 
 Created: 11 February 2018
 
-Updated: 08 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 961
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5924,9 +6020,9 @@ Clone: [https://github.com/thehappydinoa/awesome-censys-queries.git](https://git
 
 Created: 16 August 2022
 
-Updated: 01 March 2023
+Updated: 14 March 2023
 
-Stars on GitHub: 128
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5940,9 +6036,9 @@ Clone: [https://github.com/BruceDone/awesome-crawler.git](https://github.com/Bru
 
 Created: 10 October 2016
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 5441
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5956,9 +6052,9 @@ Clone: [https://github.com/paralax/awesome-cybersecurity-internships.git](https:
 
 Created: 04 March 2018
 
-Updated: 07 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 424
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5972,9 +6068,9 @@ Clone: [https://github.com/neutraltone/awesome-development-jobs.git](https://git
 
 Created: 24 July 2016
 
-Updated: 09 March 2023
+Updated: 11 March 2023
 
-Stars on GitHub: 189
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -5988,9 +6084,9 @@ Clone: [https://github.com/edoardottt/awesome-hacker-search-engines.git](https:/
 
 Created: 20 June 2022
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 4481
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6004,9 +6100,9 @@ Clone: [https://github.com/paralax/awesome-honeypots.git](https://github.com/par
 
 Created: 18 June 2015
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 6784
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6022,7 +6118,7 @@ Created: 11 November 2018
 
 Updated: 04 March 2023
 
-Stars on GitHub: 186
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6036,9 +6132,9 @@ Clone: [https://github.com/DopplerHQ/awesome-interview-questions.git](https://gi
 
 Created: 28 November 2015
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 53976
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6052,9 +6148,9 @@ Clone: [https://github.com/dwisiswant0/awesome-oneliner-bugbounty.git](https://g
 
 Created: 17 August 2020
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 1911
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6068,9 +6164,9 @@ Clone: [https://github.com/CaledoniaProject/awesome-opensource-security.git](htt
 
 Created: 23 February 2018
 
-Updated: 25 February 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 375
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6084,9 +6180,9 @@ Clone: [https://github.com/jivoi/awesome-osint.git](https://github.com/jivoi/awe
 
 Created: 30 November 2016
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 11864
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6102,7 +6198,7 @@ Created: 07 February 2021
 
 Updated: 03 March 2023
 
-Stars on GitHub: 50
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6116,9 +6212,9 @@ Clone: [https://github.com/enaqx/awesome-pentest.git](https://github.com/enaqx/a
 
 Created: 03 August 2014
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 18014
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6132,9 +6228,9 @@ Clone: [https://github.com/awesomedata/awesome-public-datasets.git](https://gith
 
 Created: 20 November 2014
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 53263
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6148,9 +6244,9 @@ Clone: [https://github.com/vinta/awesome-python.git](https://github.com/vinta/aw
 
 Created: 27 June 2014
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 159387
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6164,9 +6260,9 @@ Clone: [https://github.com/junnplus/awesome-python-books.git](https://github.com
 
 Created: 10 April 2016
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 3558
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6182,7 +6278,7 @@ Created: 19 June 2018
 
 Updated: 06 March 2023
 
-Stars on GitHub: 396
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6196,9 +6292,9 @@ Clone: [https://github.com/awesome-selfhosted/awesome-selfhosted.git](https://gi
 
 Created: 01 June 2015
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 123286
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6212,9 +6308,9 @@ Clone: [https://github.com/kr-stn/awesome-sentinel.git](https://github.com/kr-st
 
 Created: 21 October 2016
 
-Updated: 10 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 468
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6228,9 +6324,9 @@ Clone: [https://github.com/jakejarvis/awesome-shodan-queries.git](https://github
 
 Created: 25 April 2019
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 3947
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6244,9 +6340,9 @@ Clone: [https://github.com/giuliacassara/awesome-social-engineering.git](https:/
 
 Created: 12 May 2017
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 1863
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6260,9 +6356,9 @@ Clone: [https://github.com/uraimo/awesome-software-patreons.git](https://github.
 
 Created: 17 May 2018
 
-Updated: 01 March 2023
+Updated: 11 March 2023
 
-Stars on GitHub: 450
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6276,9 +6372,9 @@ Clone: [https://github.com/maguowei/awesome-stars.git](https://github.com/maguow
 
 Created: 24 July 2016
 
-Updated: 04 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 328
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6292,9 +6388,9 @@ Clone: [https://github.com/neutraltone/awesome-stock-resources.git](https://gith
 
 Created: 31 October 2015
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 11396
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6310,7 +6406,7 @@ Created: 05 June 2021
 
 Updated: 07 March 2023
 
-Stars on GitHub: 20
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6326,7 +6422,7 @@ Created: 16 June 2017
 
 Updated: 09 March 2023
 
-Stars on GitHub: 7
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6340,9 +6436,9 @@ Clone: [https://github.com/lorien/awesome-web-scraping.git](https://github.com/l
 
 Created: 12 August 2015
 
-Updated: 09 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 5694
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6356,9 +6452,9 @@ Clone: [https://github.com/qazbnm456/awesome-web-security.git](https://github.co
 
 Created: 29 January 2017
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 9460
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6374,7 +6470,7 @@ Created: 28 February 2022
 
 Updated: 03 March 2023
 
-Stars on GitHub: 68
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6390,7 +6486,7 @@ Created: 24 September 2016
 
 Updated: 01 February 2023
 
-Stars on GitHub: 1
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6406,7 +6502,7 @@ Created: 24 September 2011
 
 Updated: 16 February 2023
 
-Stars on GitHub: 195
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6420,9 +6516,9 @@ Clone: [https://github.com/vinifmor/bauh.git](https://github.com/vinifmor/bauh.g
 
 Created: 12 August 2019
 
-Updated: 08 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 679
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6436,9 +6532,9 @@ Clone: [https://github.com/dmw94/bazzellpy.git](https://github.com/dmw94/bazzell
 
 Created: 16 August 2022
 
-Updated: 03 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 45
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6452,9 +6548,9 @@ Clone: [https://github.com/blacklanternsecurity/bbot.git](https://github.com/bla
 
 Created: 12 March 2022
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 1844
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6468,9 +6564,9 @@ Clone: [https://github.com/mat/besticon.git](https://github.com/mat/besticon.git
 
 Created: 30 January 2015
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 625
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6484,9 +6580,9 @@ Clone: [https://github.com/andylvua/bibaandboba.git](https://github.com/andylvua
 
 Created: 08 July 2022
 
-Updated: 07 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 116
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6500,9 +6596,9 @@ Clone: [https://github.com/minimaxir/big-list-of-naughty-strings.git](https://gi
 
 Created: 08 August 2015
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 44634
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6518,7 +6614,7 @@ Created: 21 October 2019
 
 Updated: 19 November 2022
 
-Stars on GitHub: 6
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6534,7 +6630,7 @@ Created: 09 October 2016
 
 Updated: 29 January 2023
 
-Stars on GitHub: 402
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6548,9 +6644,9 @@ Clone: [https://github.com/p1ngul1n0/blackbird.git](https://github.com/p1ngul1n0
 
 Created: 06 May 2022
 
-Updated: 10 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 1524
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6564,9 +6660,9 @@ Clone: [https://github.com/darkhz/bluetuith.git](https://github.com/darkhz/bluet
 
 Created: 08 July 2022
 
-Updated: 08 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 259
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6582,7 +6678,7 @@ Created: 15 December 2021
 
 Updated: 04 December 2022
 
-Stars on GitHub: 2
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6596,9 +6692,9 @@ Clone: [https://github.com/EdOverflow/bugbounty-cheatsheet.git](https://github.c
 
 Created: 13 July 2017
 
-Updated: 08 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 4832
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6612,9 +6708,9 @@ Clone: [https://github.com/codecrafters-io/build-your-own-x.git](https://github.
 
 Created: 09 May 2018
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 192576
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6630,7 +6726,7 @@ Created: 10 May 2022
 
 Updated: 06 February 2023
 
-Stars on GitHub: 8
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6646,7 +6742,7 @@ Created: 12 May 2020
 
 Updated: 03 September 2022
 
-Stars on GitHub: 4
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6660,9 +6756,9 @@ Clone: [https://github.com/burlesco/burlesco.git](https://github.com/burlesco/bu
 
 Created: 25 April 2016
 
-Updated: 08 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 807
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6676,9 +6772,9 @@ Clone: [https://github.com/dessant/buster.git](https://github.com/dessant/buster
 
 Created: 18 November 2018
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 5720
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6692,9 +6788,25 @@ Clone: [https://github.com/malwaredllc/byob.git](https://github.com/malwaredllc/
 
 Created: 18 December 2017
 
-Updated: 09 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 8203
+<img src="star.png" height="32" alt="Stars on GitHub"/>
+
+----
+
+### [laluka/bypass-url-parser](https://github.com/laluka/bypass-url-parser)
+
+bypass-url-parser
+
+Url: [https://github.com/laluka/bypass-url-parser](https://github.com/laluka/bypass-url-parser)
+
+Clone: [https://github.com/laluka/bypass-url-parser.git](https://github.com/laluka/bypass-url-parser.git)
+
+Created: 29 October 2021
+
+Updated: 18 March 2023
+
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6708,9 +6820,9 @@ Clone: [https://github.com/C3n7ral051nt4g3ncy/cURL_for_OSINT.git](https://github
 
 Created: 23 August 2022
 
-Updated: 08 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 149
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6724,9 +6836,9 @@ Clone: [https://github.com/josh-richardson/cadmus.git](https://github.com/josh-r
 
 Created: 28 June 2020
 
-Updated: 09 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 2069
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6740,9 +6852,9 @@ Clone: [https://github.com/indianajson/can-i-take-over-dns.git](https://github.c
 
 Created: 31 May 2021
 
-Updated: 08 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 589
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6756,9 +6868,9 @@ Clone: [https://github.com/sindresorhus/caprine.git](https://github.com/sindreso
 
 Created: 16 September 2015
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 6587
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6772,9 +6884,9 @@ Clone: [https://github.com/fathyb/carbonyl.git](https://github.com/fathyb/carbon
 
 Created: 20 January 2023
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 11564
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6790,7 +6902,7 @@ Created: 18 September 2019
 
 Updated: 05 March 2023
 
-Stars on GitHub: 1300
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6804,9 +6916,9 @@ Clone: [https://github.com/leandromoreira/cdn-up-and-running.git](https://github
 
 Created: 23 December 2021
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 2190
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6820,9 +6932,9 @@ Clone: [https://github.com/celery/celery.git](https://github.com/celery/celery.g
 
 Created: 24 April 2009
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 21081
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6838,7 +6950,7 @@ Created: 10 March 2017
 
 Updated: 05 October 2022
 
-Stars on GitHub: 8
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6854,7 +6966,7 @@ Created: 24 October 2017
 
 Updated: 13 December 2022
 
-Stars on GitHub: 45
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6868,9 +6980,9 @@ Clone: [https://github.com/dwisiswant0/cf-check.git](https://github.com/dwisiswa
 
 Created: 02 June 2020
 
-Updated: 08 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 201
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6884,9 +6996,9 @@ Clone: [https://github.com/xenova/chat-downloader.git](https://github.com/xenova
 
 Created: 24 July 2020
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 655
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6900,9 +7012,25 @@ Clone: [https://github.com/altryne/chatGPT-telegram-bot.git](https://github.com/
 
 Created: 02 December 2022
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 1506
+<img src="star.png" height="32" alt="Stars on GitHub"/>
+
+----
+
+### [TakSec/chatgpt-prompts-bug-bounty](https://github.com/TakSec/chatgpt-prompts-bug-bounty)
+
+ChatGPT Prompts for Bug Bounty & Pentesting
+
+Url: [https://github.com/TakSec/chatgpt-prompts-bug-bounty](https://github.com/TakSec/chatgpt-prompts-bug-bounty)
+
+Clone: [https://github.com/TakSec/chatgpt-prompts-bug-bounty.git](https://github.com/TakSec/chatgpt-prompts-bug-bounty.git)
+
+Created: 11 March 2023
+
+Updated: 19 March 2023
+
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6916,9 +7044,9 @@ Clone: [https://github.com/mpociot/chatgpt-vscode.git](https://github.com/mpocio
 
 Created: 03 December 2022
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 3684
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6932,9 +7060,9 @@ Clone: [https://github.com/chubin/cheat.sh.git](https://github.com/chubin/cheat.
 
 Created: 07 May 2017
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 34845
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6948,9 +7076,9 @@ Clone: [https://github.com/reacherhq/check-if-email-exists.git](https://github.c
 
 Created: 25 April 2017
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 3715
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6964,9 +7092,9 @@ Clone: [https://github.com/esrlabs/chipmunk.git](https://github.com/esrlabs/chip
 
 Created: 13 November 2017
 
-Updated: 07 March 2023
+Updated: 14 March 2023
 
-Stars on GitHub: 401
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6980,9 +7108,9 @@ Clone: [https://github.com/Mayowa-Ojo/chmod-cli.git](https://github.com/Mayowa-O
 
 Created: 17 December 2021
 
-Updated: 07 March 2023
+Updated: 11 March 2023
 
-Stars on GitHub: 155
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -6996,9 +7124,9 @@ Clone: [https://github.com/paulmillr/chokidar.git](https://github.com/paulmillr/
 
 Created: 20 April 2012
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 9762
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7014,7 +7142,7 @@ Created: 30 December 2021
 
 Updated: 19 February 2023
 
-Stars on GitHub: 17
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7030,7 +7158,7 @@ Created: 25 July 2021
 
 Updated: 22 February 2023
 
-Stars on GitHub: 21
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7046,7 +7174,7 @@ Created: 30 July 2021
 
 Updated: 19 February 2023
 
-Stars on GitHub: 32
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7060,9 +7188,9 @@ Clone: [https://github.com/Ph33rr/cirrusgo.git](https://github.com/Ph33rr/cirrus
 
 Created: 03 July 2022
 
-Updated: 22 February 2023
+Updated: 14 March 2023
 
-Stars on GitHub: 68
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7076,9 +7204,9 @@ Clone: [https://github.com/DopplerHQ/cli.git](https://github.com/DopplerHQ/cli.g
 
 Created: 04 October 2019
 
-Updated: 06 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 156
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7094,7 +7222,7 @@ Created: 04 August 2021
 
 Updated: 17 February 2023
 
-Stars on GitHub: 43
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7110,7 +7238,7 @@ Created: 14 May 2021
 
 Updated: 29 January 2023
 
-Stars on GitHub: 46
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7124,9 +7252,9 @@ Clone: [https://github.com/cipher387/code-understanding-tools.git](https://githu
 
 Created: 30 March 2022
 
-Updated: 29 January 2023
+Updated: 11 March 2023
 
-Stars on GitHub: 77
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7142,7 +7270,7 @@ Created: 15 July 2021
 
 Updated: 10 March 2023
 
-Stars on GitHub: 18
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7156,9 +7284,9 @@ Clone: [https://github.com/codewars/codewars.com.git](https://github.com/codewar
 
 Created: 29 August 2014
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 1977
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7174,7 +7302,7 @@ Created: 20 August 2021
 
 Updated: 19 February 2023
 
-Stars on GitHub: 7
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7188,9 +7316,9 @@ Clone: [https://github.com/metacall/core.git](https://github.com/metacall/core.g
 
 Created: 26 December 2018
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 1246
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7206,7 +7334,7 @@ Created: 28 June 2016
 
 Updated: 29 September 2022
 
-Stars on GitHub: 166
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7220,9 +7348,9 @@ Clone: [https://github.com/TheNewNormal/coreos-osx.git](https://github.com/TheNe
 
 Created: 21 March 2014
 
-Updated: 28 January 2023
+Updated: 12 March 2023
 
-Stars on GitHub: 389
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7238,7 +7366,7 @@ Created: 18 August 2021
 
 Updated: 19 February 2023
 
-Stars on GitHub: 11
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7252,9 +7380,9 @@ Clone: [https://github.com/soxoj/counter-osint-guide-ru.git](https://github.com/
 
 Created: 15 December 2020
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 201
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7268,9 +7396,9 @@ Clone: [https://github.com/apify/crawlee.git](https://github.com/apify/crawlee.g
 
 Created: 26 August 2016
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 7786
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7284,9 +7412,9 @@ Clone: [https://github.com/dwisiswant0/crlfuzz.git](https://github.com/dwisiswan
 
 Created: 12 August 2020
 
-Updated: 09 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 952
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7302,7 +7430,7 @@ Created: 03 October 2015
 
 Updated: 06 September 2022
 
-Stars on GitHub: 24
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7318,7 +7446,7 @@ Created: 16 May 2015
 
 Updated: 03 March 2023
 
-Stars on GitHub: 37
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7332,9 +7460,9 @@ Clone: [https://github.com/cupcakearmy/cryptgeon.git](https://github.com/cupcake
 
 Created: 01 May 2021
 
-Updated: 08 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 483
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7350,7 +7478,7 @@ Created: 04 September 2018
 
 Updated: 25 February 2023
 
-Stars on GitHub: 446
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7364,9 +7492,9 @@ Clone: [https://github.com/bcicen/ctop.git](https://github.com/bcicen/ctop.git)
 
 Created: 27 December 2016
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 14030
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7380,9 +7508,9 @@ Clone: [https://github.com/iterate-ch/cyberduck.git](https://github.com/iterate-
 
 Created: 20 January 2017
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 2288
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7398,7 +7526,7 @@ Created: 23 October 2022
 
 Updated: 01 March 2023
 
-Stars on GitHub: 237
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7412,9 +7540,9 @@ Clone: [https://github.com/qarmin/czkawka.git](https://github.com/qarmin/czkawka
 
 Created: 01 September 2020
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 9762
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7430,7 +7558,7 @@ Created: 11 September 2020
 
 Updated: 01 March 2023
 
-Stars on GitHub: 236
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7444,9 +7572,9 @@ Clone: [https://github.com/MauriceNino/dashdot.git](https://github.com/MauriceNi
 
 Created: 29 October 2021
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 1157
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7462,7 +7590,7 @@ Created: 16 February 2022
 
 Updated: 08 January 2023
 
-Stars on GitHub: 21
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7476,9 +7604,9 @@ Clone: [https://github.com/dbeaver/dbeaver.git](https://github.com/dbeaver/dbeav
 
 Created: 21 October 2015
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 30935
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7492,9 +7620,9 @@ Clone: [https://github.com/deepware/deepfake-scanner.git](https://github.com/dee
 
 Created: 03 February 2021
 
-Updated: 09 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 116
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7508,25 +7636,9 @@ Clone: [https://github.com/tycrek/degoogle.git](https://github.com/tycrek/degoog
 
 Created: 10 June 2019
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 6643
-
-----
-
-### [amnezia-vpn/desktop-client](https://github.com/amnezia-vpn/desktop-client)
-
-Amnezia VPN Client (Desktop+Mobile)
-
-Url: [https://github.com/amnezia-vpn/desktop-client](https://github.com/amnezia-vpn/desktop-client)
-
-Clone: [https://github.com/amnezia-vpn/desktop-client.git](https://github.com/amnezia-vpn/desktop-client.git)
-
-Created: 22 November 2020
-
-Updated: 10 March 2023
-
-Stars on GitHub: 759
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7540,9 +7652,9 @@ Clone: [https://github.com/bregman-arie/devops-exercises.git](https://github.com
 
 Created: 03 October 2019
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 41237
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7556,9 +7668,9 @@ Clone: [https://github.com/Swfuse/devops-interview.git](https://github.com/Swfus
 
 Created: 08 August 2022
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 344
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7574,7 +7686,7 @@ Created: 29 November 2019
 
 Updated: 13 September 2022
 
-Stars on GitHub: 211
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7588,9 +7700,9 @@ Clone: [https://github.com/quackduck/devzat.git](https://github.com/quackduck/de
 
 Created: 04 April 2021
 
-Updated: 09 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 1426
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7604,9 +7716,9 @@ Clone: [https://github.com/brxken128/dexios.git](https://github.com/brxken128/de
 
 Created: 01 May 2022
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 175
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7620,9 +7732,9 @@ Clone: [https://github.com/mingrammer/diagrams.git](https://github.com/mingramme
 
 Created: 02 February 2020
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 28268
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7636,9 +7748,9 @@ Clone: [https://github.com/dialect-app/dialect.git](https://github.com/dialect-a
 
 Created: 24 July 2020
 
-Updated: 06 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 498
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7654,7 +7766,7 @@ Created: 21 February 2019
 
 Updated: 31 January 2023
 
-Stars on GitHub: 207
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7670,7 +7782,7 @@ Created: 12 April 2021
 
 Updated: 30 August 2022
 
-Stars on GitHub: 8
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7684,9 +7796,9 @@ Clone: [https://github.com/leebaird/discover.git](https://github.com/leebaird/di
 
 Created: 28 October 2013
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 2952
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7700,9 +7812,9 @@ Clone: [https://github.com/imsnif/diskonaut.git](https://github.com/imsnif/disko
 
 Created: 22 February 2020
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 1657
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7716,9 +7828,9 @@ Clone: [https://github.com/vitalik/django-ninja.git](https://github.com/vitalik/
 
 Created: 19 May 2020
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 4133
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7734,7 +7846,7 @@ Created: 25 August 2009
 
 Updated: 13 February 2023
 
-Stars on GitHub: 84
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7750,7 +7862,7 @@ Created: 22 February 2022
 
 Updated: 20 December 2022
 
-Stars on GitHub: 31
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7764,9 +7876,9 @@ Clone: [https://github.com/punk-security/dnsReaper.git](https://github.com/punk-
 
 Created: 19 July 2022
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 1612
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7780,9 +7892,9 @@ Clone: [https://github.com/elceef/dnstwist.git](https://github.com/elceef/dnstwi
 
 Created: 11 June 2015
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 3804
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7798,7 +7910,7 @@ Created: 01 April 2020
 
 Updated: 05 March 2023
 
-Stars on GitHub: 45
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7814,7 +7926,7 @@ Created: 07 August 2021
 
 Updated: 03 September 2022
 
-Stars on GitHub: 2
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7828,9 +7940,9 @@ Clone: [https://github.com/dolthub/dolt.git](https://github.com/dolthub/dolt.git
 
 Created: 24 July 2019
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 14369
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7846,7 +7958,7 @@ Created: 15 August 2021
 
 Updated: 25 February 2023
 
-Stars on GitHub: 26
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7860,9 +7972,9 @@ Clone: [https://github.com/tb0hdan/domains.git](https://github.com/tb0hdan/domai
 
 Created: 12 January 2020
 
-Updated: 09 March 2023
+Updated: 14 March 2023
 
-Stars on GitHub: 453
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7876,9 +7988,9 @@ Clone: [https://github.com/six2dez/dorks_hunter.git](https://github.com/six2dez/
 
 Created: 03 August 2022
 
-Updated: 03 March 2023
+Updated: 13 March 2023
 
-Stars on GitHub: 151
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7892,9 +8004,9 @@ Clone: [https://github.com/R4yGM/dorkscout.git](https://github.com/R4yGM/dorksco
 
 Created: 30 July 2021
 
-Updated: 22 February 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 194
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7908,9 +8020,9 @@ Clone: [https://github.com/jgraph/drawio.git](https://github.com/jgraph/drawio.g
 
 Created: 06 September 2016
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 33466
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7926,7 +8038,7 @@ Created: 11 January 2012
 
 Updated: 28 January 2023
 
-Stars on GitHub: 535
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7940,9 +8052,9 @@ Clone: [https://github.com/man-group/dtale.git](https://github.com/man-group/dta
 
 Created: 15 July 2019
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 3931
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7958,7 +8070,7 @@ Created: 05 January 2021
 
 Updated: 09 March 2023
 
-Stars on GitHub: 21
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7972,9 +8084,9 @@ Clone: [https://github.com/jpylypiw/easywall.git](https://github.com/jpylypiw/ea
 
 Created: 10 February 2017
 
-Updated: 07 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 453
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -7988,9 +8100,9 @@ Clone: [https://github.com/gojue/ecapture.git](https://github.com/gojue/ecapture
 
 Created: 13 March 2022
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 6220
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8006,7 +8118,7 @@ Created: 03 August 2020
 
 Updated: 09 March 2023
 
-Stars on GitHub: 354
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8020,9 +8132,9 @@ Clone: [https://github.com/martinvigo/email2phonenumber.git](https://github.com/
 
 Created: 17 March 2019
 
-Updated: 08 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 1217
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8038,7 +8150,7 @@ Created: 18 April 2019
 
 Updated: 30 August 2022
 
-Stars on GitHub: 5
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8054,7 +8166,7 @@ Created: 15 December 2021
 
 Updated: 30 August 2022
 
-Stars on GitHub: 5
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8068,9 +8180,9 @@ Clone: [https://github.com/ninoseki/eml_analyzer.git](https://github.com/ninosek
 
 Created: 20 June 2020
 
-Updated: 03 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 173
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8084,9 +8196,9 @@ Clone: [https://github.com/SpacehuhnTech/esp8266_deauther.git](https://github.co
 
 Created: 07 January 2017
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 11382
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8100,9 +8212,9 @@ Clone: [https://github.com/balena-io/etcher.git](https://github.com/balena-io/et
 
 Created: 27 October 2015
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 25057
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8116,9 +8228,9 @@ Clone: [https://github.com/eventmachine/eventmachine.git](https://github.com/eve
 
 Created: 17 August 2008
 
-Updated: 07 March 2023
+Updated: 11 March 2023
 
-Stars on GitHub: 4212
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8134,7 +8246,7 @@ Created: 30 October 2014
 
 Updated: 02 March 2023
 
-Stars on GitHub: 5014
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8148,9 +8260,9 @@ Clone: [https://github.com/cloud-native-go/examples.git](https://github.com/clou
 
 Created: 07 March 2020
 
-Updated: 07 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 259
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8166,7 +8278,7 @@ Created: 30 July 2022
 
 Updated: 01 March 2023
 
-Stars on GitHub: 310
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8180,9 +8292,9 @@ Clone: [https://github.com/Exodus-Privacy/exodus-android-app.git](https://github
 
 Created: 25 February 2018
 
-Updated: 09 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 315
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8198,7 +8310,7 @@ Created: 11 August 2019
 
 Updated: 09 November 2022
 
-Stars on GitHub: 50
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8214,7 +8326,7 @@ Created: 15 February 2022
 
 Updated: 31 August 2022
 
-Stars on GitHub: 2
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8228,9 +8340,9 @@ Clone: [https://github.com/oarriaga/face_classification.git](https://github.com/
 
 Created: 09 February 2017
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 5346
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8244,9 +8356,9 @@ Clone: [https://github.com/ageitgey/face_recognition.git](https://github.com/age
 
 Created: 03 March 2017
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 47528
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8262,7 +8374,7 @@ Created: 07 July 2022
 
 Updated: 05 February 2023
 
-Stars on GitHub: 2
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8278,7 +8390,7 @@ Created: 21 September 2022
 
 Updated: 24 February 2023
 
-Stars on GitHub: 6
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8294,7 +8406,7 @@ Created: 22 March 2018
 
 Updated: 24 November 2022
 
-Stars on GitHub: 22
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8310,7 +8422,7 @@ Created: 16 April 2022
 
 Updated: 09 February 2023
 
-Stars on GitHub: 15
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8324,9 +8436,9 @@ Clone: [https://github.com/deepfakes/faceswap.git](https://github.com/deepfakes/
 
 Created: 19 December 2017
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 43919
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8340,9 +8452,9 @@ Clone: [https://github.com/kkoooqq/fakebrowser.git](https://github.com/kkoooqq/f
 
 Created: 08 October 2021
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 699
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8356,9 +8468,9 @@ Clone: [https://github.com/joke2k/faker.git](https://github.com/joke2k/faker.git
 
 Created: 12 November 2012
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 15492
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8372,9 +8484,9 @@ Clone: [https://github.com/ngneat/falso.git](https://github.com/ngneat/falso.git
 
 Created: 08 January 2022
 
-Updated: 09 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 2828
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8388,9 +8500,9 @@ Clone: [https://github.com/pielco11/fav-up.git](https://github.com/pielco11/fav-
 
 Created: 27 September 2019
 
-Updated: 09 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 898
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8406,7 +8518,7 @@ Created: 07 September 2022
 
 Updated: 05 February 2023
 
-Stars on GitHub: 1
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8422,7 +8534,7 @@ Created: 08 April 2015
 
 Updated: 15 February 2023
 
-Stars on GitHub: 2878
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8438,7 +8550,7 @@ Created: 11 June 2016
 
 Updated: 08 March 2023
 
-Stars on GitHub: 98
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8454,7 +8566,7 @@ Created: 29 October 2019
 
 Updated: 22 February 2023
 
-Stars on GitHub: 42
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8468,9 +8580,9 @@ Clone: [https://github.com/allanrbo/filesremote.git](https://github.com/allanrbo
 
 Created: 02 December 2020
 
-Updated: 03 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 521
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8484,9 +8596,9 @@ Clone: [https://github.com/mher/flower.git](https://github.com/mher/flower.git)
 
 Created: 08 July 2012
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 5586
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8500,9 +8612,9 @@ Clone: [https://github.com/nore-dev/fman.git](https://github.com/nore-dev/fman.g
 
 Created: 13 September 2022
 
-Updated: 07 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 248
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8516,9 +8628,9 @@ Clone: [https://github.com/mattermost/focalboard.git](https://github.com/matterm
 
 Created: 06 October 2020
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 14608
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8532,9 +8644,9 @@ Clone: [https://github.com/fonoster/fonoster.git](https://github.com/fonoster/fo
 
 Created: 04 February 2018
 
-Updated: 09 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 5513
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8550,7 +8662,7 @@ Created: 16 January 2021
 
 Updated: 23 October 2022
 
-Stars on GitHub: 21
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8564,9 +8676,9 @@ Clone: [https://github.com/ripienaar/free-for-dev.git](https://github.com/ripien
 
 Created: 18 March 2015
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 67450
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8580,9 +8692,9 @@ Clone: [https://github.com/EbookFoundation/free-programming-books.git](https://g
 
 Created: 11 October 2013
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 270143
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8598,7 +8710,7 @@ Created: 19 November 2015
 
 Updated: 09 March 2023
 
-Stars on GitHub: 536
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8614,7 +8726,7 @@ Created: 08 February 2018
 
 Updated: 06 September 2022
 
-Stars on GitHub: 2
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8630,7 +8742,7 @@ Created: 04 January 2016
 
 Updated: 06 September 2022
 
-Stars on GitHub: 10
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8646,7 +8758,7 @@ Created: 11 September 2015
 
 Updated: 08 March 2023
 
-Stars on GitHub: 191
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8660,9 +8772,9 @@ Clone: [https://github.com/Correia-jpv/fucking-awesome-incident-response.git](ht
 
 Created: 04 August 2022
 
-Updated: 07 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 72
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8676,9 +8788,9 @@ Clone: [https://github.com/ex0dus-0x/fuzzable.git](https://github.com/ex0dus-0x/
 
 Created: 16 May 2021
 
-Updated: 05 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 379
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8692,9 +8804,9 @@ Clone: [https://github.com/mikf/gallery-dl.git](https://github.com/mikf/gallery-
 
 Created: 12 October 2014
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 6928
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8708,9 +8820,9 @@ Clone: [https://github.com/ericyd/gdrive-copy.git](https://github.com/ericyd/gdr
 
 Created: 01 November 2015
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 1469
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8726,7 +8838,7 @@ Created: 18 November 2013
 
 Updated: 03 March 2023
 
-Stars on GitHub: 351
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8740,9 +8852,9 @@ Clone: [https://github.com/SteelPangolin/genderize.git](https://github.com/Steel
 
 Created: 16 March 2014
 
-Updated: 01 January 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 68
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8758,7 +8870,7 @@ Created: 29 June 2022
 
 Updated: 21 January 2023
 
-Stars on GitHub: 12
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8774,7 +8886,7 @@ Created: 07 May 2018
 
 Updated: 24 January 2023
 
-Stars on GitHub: 43
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8788,9 +8900,9 @@ Clone: [https://github.com/giswqs/geospatial-data-catalogs.git](https://github.c
 
 Created: 22 December 2022
 
-Updated: 07 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 374
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8804,9 +8916,9 @@ Clone: [https://github.com/GONZOsint/geowifi.git](https://github.com/GONZOsint/g
 
 Created: 05 February 2022
 
-Updated: 09 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 628
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8822,7 +8934,7 @@ Created: 29 April 2022
 
 Updated: 11 January 2023
 
-Stars on GitHub: 85
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8838,7 +8950,7 @@ Created: 14 September 2019
 
 Updated: 23 February 2023
 
-Stars on GitHub: 23
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8852,9 +8964,9 @@ Clone: [https://github.com/MitMaro/git-interactive-rebase-tool.git](https://gith
 
 Created: 21 December 2016
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 1249
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8870,7 +8982,7 @@ Created: 08 September 2022
 
 Updated: 05 February 2023
 
-Stars on GitHub: 1
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8886,7 +8998,7 @@ Created: 29 February 2020
 
 Updated: 14 February 2023
 
-Stars on GitHub: 57
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8900,9 +9012,9 @@ Clone: [https://github.com/presslabs/gitfs.git](https://github.com/presslabs/git
 
 Created: 30 June 2014
 
-Updated: 08 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 2347
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8918,7 +9030,7 @@ Created: 03 September 2020
 
 Updated: 09 March 2023
 
-Stars on GitHub: 275
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8932,9 +9044,9 @@ Clone: [https://github.com/tiimgreen/github-cheat-sheet.git](https://github.com/
 
 Created: 12 April 2014
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 40044
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8948,9 +9060,9 @@ Clone: [https://github.com/techgaun/github-dorks.git](https://github.com/techgau
 
 Created: 11 October 2015
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 2304
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8966,7 +9078,7 @@ Created: 12 August 2018
 
 Updated: 04 March 2023
 
-Stars on GitHub: 4
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8980,9 +9092,9 @@ Clone: [https://github.com/vn7n24fzkq/github-profile-summary-cards.git](https://
 
 Created: 01 September 2020
 
-Updated: 10 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 1707
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -8996,9 +9108,9 @@ Clone: [https://github.com/AykutSarac/github-rater.git](https://github.com/Aykut
 
 Created: 26 July 2021
 
-Updated: 08 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 434
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9012,9 +9124,9 @@ Clone: [https://github.com/anuraghazra/github-readme-stats.git](https://github.c
 
 Created: 09 July 2020
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 52781
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9028,9 +9140,9 @@ Clone: [https://github.com/DenverCoder1/github-readme-streak-stats.git](https://
 
 Created: 25 October 2020
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 2480
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9044,9 +9156,9 @@ Clone: [https://github.com/harshjv/github-repo-size.git](https://github.com/hars
 
 Created: 03 August 2016
 
-Updated: 07 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 1124
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9060,9 +9172,9 @@ Clone: [https://github.com/gwen001/github-search.git](https://github.com/gwen001
 
 Created: 06 September 2016
 
-Updated: 09 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 1128
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9078,7 +9190,7 @@ Created: 31 January 2023
 
 Updated: 05 February 2023
 
-Stars on GitHub: 1
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9094,7 +9206,7 @@ Created: 09 September 2022
 
 Updated: 05 February 2023
 
-Stars on GitHub: 1
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9108,9 +9220,9 @@ Clone: [https://github.com/gwen001/github-subdomains.git](https://github.com/gwe
 
 Created: 24 July 2020
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 416
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9126,7 +9238,7 @@ Created: 24 April 2018
 
 Updated: 06 March 2023
 
-Stars on GitHub: 18
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9140,9 +9252,9 @@ Clone: [https://github.com/dferber90/githubbox.git](https://github.com/dferber90
 
 Created: 20 April 2020
 
-Updated: 07 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 551
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9156,9 +9268,9 @@ Clone: [https://github.com/manosim/gitify.git](https://github.com/manosim/gitify
 
 Created: 21 May 2015
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 3924
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9172,9 +9284,9 @@ Clone: [https://github.com/gitleaks/gitleaks.git](https://github.com/gitleaks/gi
 
 Created: 27 January 2018
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 11830
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9190,7 +9302,7 @@ Created: 19 March 2021
 
 Updated: 28 February 2023
 
-Stars on GitHub: 222
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9204,9 +9316,9 @@ Clone: [https://github.com/k0kubun/gitstar-ranking.git](https://github.com/k0kub
 
 Created: 31 December 2014
 
-Updated: 07 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 675
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9220,9 +9332,9 @@ Clone: [https://github.com/dwisiswant0/go-dork.git](https://github.com/dwisiswan
 
 Created: 13 July 2020
 
-Updated: 09 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 761
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9238,7 +9350,7 @@ Created: 08 August 2015
 
 Updated: 03 September 2022
 
-Stars on GitHub: 2
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9252,9 +9364,9 @@ Clone: [https://github.com/allinurl/goaccess.git](https://github.com/allinurl/go
 
 Created: 14 July 2013
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 15891
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9270,7 +9382,7 @@ Created: 15 April 2022
 
 Updated: 21 January 2023
 
-Stars on GitHub: 9
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9286,7 +9398,7 @@ Created: 16 November 2014
 
 Updated: 12 February 2023
 
-Stars on GitHub: 429
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9302,7 +9414,7 @@ Created: 27 March 2015
 
 Updated: 05 March 2023
 
-Stars on GitHub: 974
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9318,7 +9430,7 @@ Created: 08 March 2022
 
 Updated: 23 January 2023
 
-Stars on GitHub: 11
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9334,7 +9446,7 @@ Created: 02 May 2019
 
 Updated: 05 December 2022
 
-Stars on GitHub: 9
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9348,9 +9460,9 @@ Clone: [https://github.com/facundoolano/google-play-scraper.git](https://github.
 
 Created: 07 April 2015
 
-Updated: 10 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 1908
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9364,9 +9476,9 @@ Clone: [https://github.com/matheuss/google-translate-api.git](https://github.com
 
 Created: 11 May 2016
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 2362
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9380,9 +9492,9 @@ Clone: [https://github.com/BullsEye0/google_dork_list.git](https://github.com/Bu
 
 Created: 02 September 2019
 
-Updated: 07 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 1178
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9396,9 +9508,9 @@ Clone: [https://github.com/jarun/googler.git](https://github.com/jarun/googler.g
 
 Created: 16 August 2015
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 5920
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9414,7 +9526,7 @@ Created: 22 September 2008
 
 Updated: 07 December 2022
 
-Stars on GitHub: 37
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9428,9 +9540,9 @@ Clone: [https://github.com/tanaikech/goris.git](https://github.com/tanaikech/gor
 
 Created: 26 April 2017
 
-Updated: 27 February 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 62
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9444,9 +9556,9 @@ Clone: [https://github.com/apify/got-scraping.git](https://github.com/apify/got-
 
 Created: 02 March 2021
 
-Updated: 10 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 217
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9460,9 +9572,9 @@ Clone: [https://github.com/graphql-editor/graphql-editor.git](https://github.com
 
 Created: 18 September 2018
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 5776
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9476,9 +9588,9 @@ Clone: [https://github.com/cipher387/grep_for_osint.git](https://github.com/ciph
 
 Created: 01 August 2021
 
-Updated: 10 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 59
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9492,9 +9604,9 @@ Clone: [https://github.com/joeyespo/grip.git](https://github.com/joeyespo/grip.g
 
 Created: 17 November 2012
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 5941
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9508,9 +9620,9 @@ Clone: [https://github.com/bk138/gromit-mpx.git](https://github.com/bk138/gromit
 
 Created: 12 August 2013
 
-Updated: 07 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 744
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9524,9 +9636,9 @@ Clone: [https://github.com/gildasio/h2t.git](https://github.com/gildasio/h2t.git
 
 Created: 07 March 2019
 
-Updated: 05 February 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 353
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9540,9 +9652,9 @@ Clone: [https://github.com/khast3x/h8mail.git](https://github.com/khast3x/h8mail
 
 Created: 15 June 2018
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 3161
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9558,7 +9670,7 @@ Created: 01 October 2016
 
 Updated: 05 March 2023
 
-Stars on GitHub: 522
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9572,9 +9684,9 @@ Clone: [https://github.com/solarrust/hacker-laws.git](https://github.com/solarru
 
 Created: 26 May 2019
 
-Updated: 08 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 873
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9588,9 +9700,9 @@ Clone: [https://github.com/sundowndev/hacker-roadmap.git](https://github.com/sun
 
 Created: 02 April 2018
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 10585
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9604,9 +9716,9 @@ Clone: [https://github.com/Z4nzu/hackingtool.git](https://github.com/Z4nzu/hacki
 
 Created: 11 April 2020
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 29052
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9620,9 +9732,9 @@ Clone: [https://github.com/hakluke/hakrawler.git](https://github.com/hakluke/hak
 
 Created: 15 December 2019
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 3545
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9636,9 +9748,9 @@ Clone: [https://github.com/Te-k/harpoon.git](https://github.com/Te-k/harpoon.git
 
 Created: 25 September 2017
 
-Updated: 05 March 2023
+Updated: 13 March 2023
 
-Stars on GitHub: 1035
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9654,7 +9766,7 @@ Created: 16 August 2020
 
 Updated: 06 November 2022
 
-Stars on GitHub: 3
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9670,7 +9782,7 @@ Created: 25 July 2021
 
 Updated: 10 March 2023
 
-Stars on GitHub: 23
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9684,9 +9796,9 @@ Clone: [https://github.com/thesourcerer8/hddsuperclone.git](https://github.com/t
 
 Created: 13 August 2022
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 302
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9700,9 +9812,9 @@ Clone: [https://github.com/checkly/headless-recorder.git](https://github.com/che
 
 Created: 13 August 2018
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 14705
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9716,9 +9828,9 @@ Clone: [https://github.com/dstotijn/hetty.git](https://github.com/dstotijn/hetty
 
 Created: 17 November 2019
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 5151
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9732,9 +9844,9 @@ Clone: [https://github.com/sergo-code/hh-ru-auto-resume-raising.git](https://git
 
 Created: 13 September 2022
 
-Updated: 03 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 78
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9748,9 +9860,9 @@ Clone: [https://github.com/megadose/holehe.git](https://github.com/megadose/hole
 
 Created: 25 June 2020
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 4328
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9764,9 +9876,9 @@ Clone: [https://github.com/lightswitch05/hosts.git](https://github.com/lightswit
 
 Created: 10 May 2018
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 1189
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9782,7 +9894,7 @@ Created: 11 June 2020
 
 Updated: 13 February 2023
 
-Stars on GitHub: 317
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9796,9 +9908,9 @@ Clone: [https://github.com/freeCodeCamp/how-to-contribute-to-open-source.git](ht
 
 Created: 25 September 2016
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 7435
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9812,9 +9924,9 @@ Clone: [https://github.com/httpcats/http.cat.git](https://github.com/httpcats/ht
 
 Created: 30 August 2015
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 2130
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9830,7 +9942,7 @@ Created: 24 April 2019
 
 Updated: 25 January 2023
 
-Stars on GitHub: 3
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9844,9 +9956,9 @@ Clone: [https://github.com/devXprite/httpfy.git](https://github.com/devXprite/ht
 
 Created: 31 July 2022
 
-Updated: 30 January 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 46
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9860,9 +9972,9 @@ Clone: [https://github.com/httptoolkit/httptoolkit-desktop.git](https://github.c
 
 Created: 26 November 2018
 
-Updated: 08 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 476
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9876,9 +9988,9 @@ Clone: [https://github.com/xroche/httrack.git](https://github.com/xroche/httrack
 
 Created: 14 March 2015
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 2374
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9894,7 +10006,7 @@ Created: 17 September 2021
 
 Updated: 07 December 2022
 
-Stars on GitHub: 3
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9908,9 +10020,9 @@ Clone: [https://github.com/huginn/huginn.git](https://github.com/huginn/huginn.g
 
 Created: 10 March 2013
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 37808
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9926,7 +10038,7 @@ Created: 03 June 2021
 
 Updated: 28 January 2023
 
-Stars on GitHub: 6
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9940,9 +10052,9 @@ Clone: [https://github.com/r-darwish/idnt.git](https://github.com/r-darwish/idnt
 
 Created: 30 October 2021
 
-Updated: 27 January 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 90
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9956,9 +10068,9 @@ Clone: [https://github.com/megadose/ignorant.git](https://github.com/megadose/ig
 
 Created: 24 March 2021
 
-Updated: 09 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 566
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9972,9 +10084,9 @@ Clone: [https://github.com/igraph/igraph.git](https://github.com/igraph/igraph.g
 
 Created: 04 March 2013
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 1497
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -9990,7 +10102,7 @@ Created: 09 October 2019
 
 Updated: 06 March 2023
 
-Stars on GitHub: 174
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10006,7 +10118,7 @@ Created: 06 February 2018
 
 Updated: 03 September 2022
 
-Stars on GitHub: 2
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10020,9 +10132,9 @@ Clone: [https://github.com/devXprite/infoooze.git](https://github.com/devXprite/
 
 Created: 24 February 2022
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 294
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10036,9 +10148,9 @@ Clone: [https://github.com/Kong/insomnia.git](https://github.com/Kong/insomnia.g
 
 Created: 23 April 2016
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 27013
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10052,9 +10164,9 @@ Clone: [https://github.com/bellingcat/instagram-location-search.git](https://git
 
 Created: 09 December 2020
 
-Updated: 08 March 2023
+Updated: 14 March 2023
 
-Stars on GitHub: 344
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10068,9 +10180,9 @@ Clone: [https://github.com/drawrowfly/instagram-scraper.git](https://github.com/
 
 Created: 18 March 2019
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 408
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10084,9 +10196,9 @@ Clone: [https://github.com/instaloader/instaloader.git](https://github.com/insta
 
 Created: 15 June 2016
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 5553
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10100,9 +10212,9 @@ Clone: [https://github.com/usablica/intro.js.git](https://github.com/usablica/in
 
 Created: 10 March 2013
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 21907
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10116,9 +10228,9 @@ Clone: [https://github.com/abhijithb200/investigator.git](https://github.com/abh
 
 Created: 30 July 2021
 
-Updated: 09 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 201
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10132,9 +10244,9 @@ Clone: [https://github.com/wilix-team/iohook.git](https://github.com/wilix-team/
 
 Created: 10 December 2016
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 1016
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10150,7 +10262,7 @@ Created: 05 June 2021
 
 Updated: 31 October 2022
 
-Stars on GitHub: 5
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10164,9 +10276,9 @@ Clone: [https://github.com/noob-hackers/ipdrone.git](https://github.com/noob-hac
 
 Created: 13 April 2019
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 1100
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10180,9 +10292,9 @@ Clone: [https://github.com/jasonlong/isometric-contributions.git](https://github
 
 Created: 26 March 2014
 
-Updated: 09 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 3322
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10196,9 +10308,9 @@ Clone: [https://github.com/essandess/isp-data-pollution.git](https://github.com/
 
 Created: 25 March 2017
 
-Updated: 19 January 2023
+Updated: 14 March 2023
 
-Stars on GitHub: 532
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10212,9 +10324,9 @@ Clone: [https://github.com/ivre/ivre.git](https://github.com/ivre/ivre.git)
 
 Created: 12 September 2014
 
-Updated: 09 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 2857
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10230,7 +10342,7 @@ Created: 29 March 2020
 
 Updated: 06 September 2022
 
-Stars on GitHub: 3
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10244,9 +10356,9 @@ Clone: [https://github.com/jmespath/jmespath.py.git](https://github.com/jmespath
 
 Created: 19 February 2013
 
-Updated: 06 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 1772
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10262,7 +10374,7 @@ Created: 10 May 2022
 
 Updated: 08 September 2022
 
-Stars on GitHub: 1
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10276,9 +10388,9 @@ Clone: [https://github.com/stedolan/jq.git](https://github.com/stedolan/jq.git)
 
 Created: 18 July 2012
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 24434
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10294,13 +10406,13 @@ Created: 25 February 2020
 
 Updated: 08 September 2022
 
-Stars on GitHub: 1
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
 ### [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)
 
-🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
+⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
 
 Url: [https://github.com/AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)
 
@@ -10308,9 +10420,9 @@ Clone: [https://github.com/AykutSarac/jsoncrack.com.git](https://github.com/Ayku
 
 Created: 30 January 2022
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 22118
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10324,9 +10436,9 @@ Clone: [https://github.com/jhy/jsoup.git](https://github.com/jhy/jsoup.git)
 
 Created: 19 December 2009
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 10019
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10340,9 +10452,9 @@ Clone: [https://github.com/projectdiscovery/katana.git](https://github.com/proje
 
 Created: 02 January 2021
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 5800
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10358,7 +10470,7 @@ Created: 16 December 2021
 
 Updated: 30 August 2022
 
-Stars on GitHub: 1
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10372,15 +10484,15 @@ Clone: [https://github.com/lcvvvv/kscan.git](https://github.com/lcvvvv/kscan.git
 
 Created: 25 January 2021
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 2640
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
 ### [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark)
 
-The API traffic viewer for Kubernetes providing real-time, protocol-aware visibility into Kubernetes’ internal network, capturing, dissecting and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Think TCPDump and Wireshark re-invented for Kubernetes
+The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters.. Think TCPDump and Wireshark re-invented for Kubernetes
 
 Url: [https://github.com/kubeshark/kubeshark](https://github.com/kubeshark/kubeshark)
 
@@ -10388,9 +10500,9 @@ Clone: [https://github.com/kubeshark/kubeshark.git](https://github.com/kubeshark
 
 Created: 19 April 2021
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 8445
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10404,9 +10516,9 @@ Clone: [https://github.com/Sanster/lama-cleaner.git](https://github.com/Sanster/
 
 Created: 15 November 2021
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 8460
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10420,9 +10532,9 @@ Clone: [https://github.com/languagetool-org/languagetool.git](https://github.com
 
 Created: 08 August 2013
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 8322
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10436,9 +10548,9 @@ Clone: [https://github.com/jesseduffield/lazydocker.git](https://github.com/jess
 
 Created: 18 May 2019
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 25841
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10452,9 +10564,9 @@ Clone: [https://github.com/librenms/librenms.git](https://github.com/librenms/li
 
 Created: 28 October 2013
 
-Updated: 10 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 3089
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10468,9 +10580,9 @@ Clone: [https://github.com/jedisct1/libsodium.git](https://github.com/jedisct1/l
 
 Created: 20 January 2013
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 10805
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10484,9 +10596,9 @@ Clone: [https://github.com/lima-vm/lima.git](https://github.com/lima-vm/lima.git
 
 Created: 14 May 2021
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 10881
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10500,9 +10612,9 @@ Clone: [https://github.com/lefayjey/linWinPwn.git](https://github.com/lefayjey/l
 
 Created: 16 December 2021
 
-Updated: 10 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 1163
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10516,9 +10628,9 @@ Clone: [https://github.com/LingDong-/linedraw.git](https://github.com/LingDong-/
 
 Created: 31 March 2017
 
-Updated: 04 March 2023
+Updated: 14 March 2023
 
-Stars on GitHub: 664
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10534,7 +10646,7 @@ Created: 23 February 2022
 
 Updated: 10 January 2023
 
-Stars on GitHub: 35
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10548,9 +10660,9 @@ Clone: [https://github.com/tomquirk/linkedin-api.git](https://github.com/tomquir
 
 Created: 13 June 2018
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 1005
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10564,9 +10676,9 @@ Clone: [https://github.com/joshuatz/linkedin-to-jsonresume.git](https://github.c
 
 Created: 16 May 2019
 
-Updated: 07 March 2023
+Updated: 13 March 2023
 
-Stars on GitHub: 153
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10582,7 +10694,7 @@ Created: 09 December 2015
 
 Updated: 28 January 2023
 
-Stars on GitHub: 12
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10598,7 +10710,7 @@ Created: 20 April 2017
 
 Updated: 03 September 2022
 
-Stars on GitHub: 19
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10612,9 +10724,9 @@ Clone: [https://github.com/joeyism/linkedin_scraper.git](https://github.com/joey
 
 Created: 27 October 2017
 
-Updated: 09 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 996
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10628,9 +10740,9 @@ Clone: [https://github.com/Daniel31x13/linkwarden.git](https://github.com/Daniel
 
 Created: 09 April 2022
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 537
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10646,7 +10758,7 @@ Created: 05 May 2021
 
 Updated: 28 January 2023
 
-Stars on GitHub: 15
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10662,7 +10774,7 @@ Created: 21 June 2021
 
 Updated: 19 February 2023
 
-Stars on GitHub: 15
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10678,7 +10790,7 @@ Created: 20 July 2012
 
 Updated: 26 February 2023
 
-Stars on GitHub: 117
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10692,9 +10804,9 @@ Clone: [https://github.com/paulirish/lite-youtube-embed.git](https://github.com/
 
 Created: 03 November 2019
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 4562
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10710,7 +10822,7 @@ Created: 13 July 2020
 
 Updated: 26 February 2023
 
-Stars on GitHub: 60
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10724,9 +10836,9 @@ Clone: [https://github.com/logseq/logseq.git](https://github.com/logseq/logseq.g
 
 Created: 23 May 2020
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 20937
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10740,9 +10852,9 @@ Clone: [https://github.com/pahen/madge.git](https://github.com/pahen/madge.git)
 
 Created: 20 May 2012
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 7114
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10756,9 +10868,9 @@ Clone: [https://github.com/soxoj/maigret.git](https://github.com/soxoj/maigret.g
 
 Created: 27 June 2020
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 8195
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10772,9 +10884,9 @@ Clone: [https://github.com/chirag04/mail-listener2.git](https://github.com/chira
 
 Created: 04 October 2013
 
-Updated: 04 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 239
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10790,7 +10902,7 @@ Created: 31 August 2021
 
 Updated: 06 September 2022
 
-Stars on GitHub: 1
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10806,7 +10918,7 @@ Created: 24 June 2021
 
 Updated: 26 January 2023
 
-Stars on GitHub: 62
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10820,9 +10932,9 @@ Clone: [https://github.com/sj26/mailcatcher.git](https://github.com/sj26/mailcat
 
 Created: 25 October 2010
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 5882
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10836,9 +10948,9 @@ Clone: [https://github.com/mailcheck/mailcheck.git](https://github.com/mailcheck
 
 Created: 12 March 2012
 
-Updated: 08 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 7941
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10854,7 +10966,7 @@ Created: 19 February 2013
 
 Updated: 03 September 2022
 
-Stars on GitHub: 38
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10870,7 +10982,7 @@ Created: 30 January 2021
 
 Updated: 20 November 2022
 
-Stars on GitHub: 4
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10884,9 +10996,9 @@ Clone: [https://github.com/cipher387/maltego-transforms-list.git](https://github
 
 Created: 01 February 2022
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 115
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10902,7 +11014,7 @@ Created: 05 June 2018
 
 Updated: 07 March 2023
 
-Stars on GitHub: 155
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10918,7 +11030,7 @@ Created: 26 April 2021
 
 Updated: 21 October 2022
 
-Stars on GitHub: 8
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10932,9 +11044,9 @@ Clone: [https://github.com/soxoj/marple.git](https://github.com/soxoj/marple.git
 
 Created: 16 November 2021
 
-Updated: 09 March 2023
+Updated: 14 March 2023
 
-Stars on GitHub: 134
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10950,7 +11062,7 @@ Created: 31 March 2022
 
 Updated: 03 September 2022
 
-Stars on GitHub: 2
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10964,9 +11076,9 @@ Clone: [https://github.com/googleworkspace/md2googleslides.git](https://github.c
 
 Created: 07 November 2016
 
-Updated: 09 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 4302
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10980,9 +11092,9 @@ Clone: [https://github.com/k0kubun/md2key.git](https://github.com/k0kubun/md2key
 
 Created: 06 August 2015
 
-Updated: 06 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 946
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -10998,7 +11110,7 @@ Created: 12 May 2019
 
 Updated: 03 September 2022
 
-Stars on GitHub: 23
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11014,7 +11126,7 @@ Created: 03 June 2018
 
 Updated: 03 September 2022
 
-Stars on GitHub: 3
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11028,9 +11140,9 @@ Clone: [https://github.com/bytedance/memory-leak-detector.git](https://github.co
 
 Created: 14 April 2021
 
-Updated: 10 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 867
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11044,9 +11156,9 @@ Clone: [https://github.com/travisbrown/memory.lol.git](https://github.com/travis
 
 Created: 16 June 2022
 
-Updated: 07 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 289
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11060,9 +11172,9 @@ Clone: [https://github.com/Ne0nd0g/merlin.git](https://github.com/Ne0nd0g/merlin
 
 Created: 06 January 2017
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 4259
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11076,9 +11188,9 @@ Clone: [https://github.com/j3ssie/metabigor.git](https://github.com/j3ssie/metab
 
 Created: 24 May 2019
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 842
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11092,9 +11204,9 @@ Clone: [https://github.com/laramies/metagoofil.git](https://github.com/laramies/
 
 Created: 13 August 2015
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 821
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11108,9 +11220,9 @@ Clone: [https://github.com/rapid7/metasploit-framework.git](https://github.com/r
 
 Created: 30 August 2011
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 29671
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11124,9 +11236,9 @@ Clone: [https://github.com/rapid7/metasploit-payloads.git](https://github.com/ra
 
 Created: 03 April 2014
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 1417
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11140,9 +11252,9 @@ Clone: [https://github.com/rapid7/metasploitable3.git](https://github.com/rapid7
 
 Created: 29 August 2016
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 3946
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11158,7 +11270,7 @@ Created: 10 January 2017
 
 Updated: 22 January 2023
 
-Stars on GitHub: 9
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11172,9 +11284,9 @@ Clone: [https://github.com/mailhog/mhsendmail.git](https://github.com/mailhog/mh
 
 Created: 20 May 2015
 
-Updated: 02 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 226
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11188,9 +11300,9 @@ Clone: [https://github.com/ninoseki/mihari.git](https://github.com/ninoseki/miha
 
 Created: 15 April 2019
 
-Updated: 10 March 2023
+Updated: 12 March 2023
 
-Stars on GitHub: 685
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11204,9 +11316,9 @@ Clone: [https://github.com/lk-geimfari/mimesis.git](https://github.com/lk-geimfa
 
 Created: 09 September 2016
 
-Updated: 09 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 3917
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11220,15 +11332,15 @@ Clone: [https://github.com/minbrowser/min.git](https://github.com/minbrowser/min
 
 Created: 31 October 2015
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 6420
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
 ### [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 
-An emerging platform to help developers build #AI solutions
+A low-code Machine Learning platform to help developers build #AI solutions
 
 Url: [https://github.com/mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 
@@ -11236,9 +11348,9 @@ Clone: [https://github.com/mindsdb/mindsdb.git](https://github.com/mindsdb/minds
 
 Created: 02 August 2018
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 14134
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11254,7 +11366,7 @@ Created: 06 May 2011
 
 Updated: 18 January 2023
 
-Stars on GitHub: 253
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11268,9 +11380,9 @@ Clone: [https://github.com/jedisct1/minisign.git](https://github.com/jedisct1/mi
 
 Created: 07 June 2015
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 1699
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11284,9 +11396,9 @@ Clone: [https://github.com/ninoseki/mitaka.git](https://github.com/ninoseki/mita
 
 Created: 09 February 2018
 
-Updated: 05 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 992
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11302,7 +11414,7 @@ Created: 17 September 2018
 
 Updated: 04 February 2023
 
-Stars on GitHub: 169
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11316,9 +11428,9 @@ Clone: [https://github.com/sagikazarmark/modern-go-application.git](https://gith
 
 Created: 14 September 2018
 
-Updated: 08 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 1500
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11332,9 +11444,9 @@ Clone: [https://github.com/lucasepe/modgv.git](https://github.com/lucasepe/modgv
 
 Created: 12 September 2020
 
-Updated: 27 February 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 445
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11348,9 +11460,9 @@ Clone: [https://github.com/modoboa/modoboa.git](https://github.com/modoboa/modob
 
 Created: 16 April 2013
 
-Updated: 10 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 2442
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11364,9 +11476,9 @@ Clone: [https://github.com/monicahq/monica.git](https://github.com/monicahq/moni
 
 Created: 17 February 2017
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 18791
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11380,9 +11492,9 @@ Clone: [https://github.com/lauripiispanen/most-active-github-users-counter.git](
 
 Created: 06 May 2017
 
-Updated: 09 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 1212
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11396,9 +11508,9 @@ Clone: [https://github.com/dievus/msdorkdump.git](https://github.com/dievus/msdo
 
 Created: 17 January 2022
 
-Updated: 19 February 2023
+Updated: 10 March 2023
 
-Stars on GitHub: 154
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11414,7 +11526,7 @@ Created: 07 February 2022
 
 Updated: 23 February 2023
 
-Stars on GitHub: 225
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11428,9 +11540,9 @@ Clone: [https://github.com/9seconds/mtg.git](https://github.com/9seconds/mtg.git
 
 Created: 31 May 2018
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 1592
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11444,9 +11556,9 @@ Clone: [https://github.com/720kb/ndm.git](https://github.com/720kb/ndm.git)
 
 Created: 16 November 2016
 
-Updated: 10 March 2023
+Updated: 13 March 2023
 
-Stars on GitHub: 1971
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11460,9 +11572,9 @@ Clone: [https://github.com/dylanaraps/neofetch.git](https://github.com/dylanarap
 
 Created: 30 December 2015
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 17504
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11478,7 +11590,7 @@ Created: 12 March 2017
 
 Updated: 09 March 2023
 
-Stars on GitHub: 102
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11492,9 +11604,9 @@ Clone: [https://github.com/nestjs/nest.git](https://github.com/nestjs/nest.git)
 
 Created: 04 February 2017
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 54940
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11510,7 +11622,7 @@ Created: 28 November 2018
 
 Updated: 10 March 2023
 
-Stars on GitHub: 1592
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11526,7 +11638,7 @@ Created: 18 January 2021
 
 Updated: 09 January 2023
 
-Stars on GitHub: 78
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11542,7 +11654,7 @@ Created: 21 December 2015
 
 Updated: 19 November 2022
 
-Stars on GitHub: 60
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11558,7 +11670,7 @@ Created: 18 February 2020
 
 Updated: 13 September 2022
 
-Stars on GitHub: 94
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11572,9 +11684,9 @@ Clone: [https://github.com/digitalocean/nginxconfig.io.git](https://github.com/d
 
 Created: 05 January 2018
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 25350
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11590,7 +11702,7 @@ Created: 16 December 2016
 
 Updated: 28 January 2023
 
-Stars on GitHub: 500
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11604,9 +11716,9 @@ Clone: [https://github.com/sullo/nikto.git](https://github.com/sullo/nikto.git)
 
 Created: 24 November 2012
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 6514
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11620,9 +11732,9 @@ Clone: [https://github.com/nmap/nmap.git](https://github.com/nmap/nmap.git)
 
 Created: 09 March 2012
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 7481
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11638,7 +11750,7 @@ Created: 08 January 2022
 
 Updated: 30 August 2022
 
-Stars on GitHub: 2
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11652,9 +11764,9 @@ Clone: [https://github.com/vulnersCom/nmap-vulners.git](https://github.com/vulne
 
 Created: 19 December 2017
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 2875
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11668,9 +11780,9 @@ Clone: [https://github.com/jarun/nnn.git](https://github.com/jarun/nnn.git)
 
 Created: 20 August 2016
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 15943
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11686,7 +11798,7 @@ Created: 23 March 2018
 
 Updated: 09 February 2023
 
-Stars on GitHub: 105
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11700,9 +11812,9 @@ Clone: [https://github.com/cheatcode/nodejs-server-boilerplate.git](https://gith
 
 Created: 10 February 2021
 
-Updated: 04 February 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 111
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11716,9 +11828,9 @@ Clone: [https://github.com/1tayH/noisy.git](https://github.com/1tayH/noisy.git)
 
 Created: 29 June 2018
 
-Updated: 10 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 1497
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11734,7 +11846,7 @@ Created: 14 June 2018
 
 Updated: 03 March 2023
 
-Stars on GitHub: 858
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11748,9 +11860,9 @@ Clone: [https://github.com/VKCOM/noverify.git](https://github.com/VKCOM/noverify
 
 Created: 22 February 2019
 
-Updated: 10 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 631
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11764,15 +11876,15 @@ Clone: [https://github.com/nymtech/nym.git](https://github.com/nymtech/nym.git)
 
 Created: 07 January 2020
 
-Updated: 08 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 705
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
 ### [Yakitrak/obsidian-cli](https://github.com/Yakitrak/obsidian-cli)
 
-This CLI tool will let you interact with the Obsidian using the terminal. You are able to open, search, create and edit files.
+This CLI tool will let you interact with Obsidian using the terminal. You are able to open, search, create and edit files.
 
 Url: [https://github.com/Yakitrak/obsidian-cli](https://github.com/Yakitrak/obsidian-cli)
 
@@ -11780,9 +11892,9 @@ Clone: [https://github.com/Yakitrak/obsidian-cli.git](https://github.com/Yakitra
 
 Created: 14 January 2023
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 41
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11796,9 +11908,9 @@ Clone: [https://github.com/MarkMindCkm/obsidian-markmind.git](https://github.com
 
 Created: 18 August 2021
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 418
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11812,9 +11924,9 @@ Clone: [https://github.com/lynchjames/obsidian-mind-map.git](https://github.com/
 
 Created: 06 December 2020
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 743
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11828,9 +11940,9 @@ Clone: [https://github.com/WebBreacher/obsidian-osint-templates.git](https://git
 
 Created: 15 February 2022
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 143
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11844,9 +11956,9 @@ Clone: [https://github.com/bellingcat/octosuite.git](https://github.com/bellingc
 
 Created: 24 February 2022
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 1369
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11860,9 +11972,9 @@ Clone: [https://github.com/dmtrKovalenko/odiff.git](https://github.com/dmtrKoval
 
 Created: 04 November 2020
 
-Updated: 07 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 1619
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11876,9 +11988,9 @@ Clone: [https://github.com/ohmyzsh/ohmyzsh.git](https://github.com/ohmyzsh/ohmyz
 
 Created: 28 August 2009
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 156251
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11892,9 +12004,9 @@ Clone: [https://github.com/OhShINT/ohshint.gitbook.io.git](https://github.com/Oh
 
 Created: 25 October 2021
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 347
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11910,7 +12022,7 @@ Created: 06 February 2019
 
 Updated: 30 August 2022
 
-Stars on GitHub: 2
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11926,7 +12038,7 @@ Created: 10 October 2021
 
 Updated: 09 March 2023
 
-Stars on GitHub: 648
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11940,9 +12052,9 @@ Clone: [https://github.com/onionshare/onionshare.git](https://github.com/onionsh
 
 Created: 20 May 2014
 
-Updated: 08 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 5532
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11956,9 +12068,9 @@ Clone: [https://github.com/bellingcat/open-questions.git](https://github.com/bel
 
 Created: 09 February 2021
 
-Updated: 06 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 254
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11972,9 +12084,9 @@ Clone: [https://github.com/serhii-londar/open-source-mac-os-apps.git](https://gi
 
 Created: 03 November 2017
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 34447
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -11990,7 +12102,7 @@ Created: 28 March 2022
 
 Updated: 12 November 2022
 
-Stars on GitHub: 18
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12004,9 +12116,9 @@ Clone: [https://github.com/adrienverge/openfortivpn.git](https://github.com/adri
 
 Created: 26 January 2015
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 2052
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12020,9 +12132,9 @@ Clone: [https://github.com/atenreiro/opensquat.git](https://github.com/atenreiro
 
 Created: 04 May 2020
 
-Updated: 09 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 430
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12036,9 +12148,9 @@ Clone: [https://github.com/openssl/openssl.git](https://github.com/openssl/opens
 
 Created: 15 January 2013
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 21107
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12052,9 +12164,9 @@ Clone: [https://github.com/syvaidya/openstego.git](https://github.com/syvaidya/o
 
 Created: 29 May 2015
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 813
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12068,9 +12180,9 @@ Clone: [https://github.com/Nyr/openvpn-install.git](https://github.com/Nyr/openv
 
 Created: 14 May 2013
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 16718
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12084,9 +12196,9 @@ Clone: [https://github.com/cfenollosa/os-tutorial.git](https://github.com/cfenol
 
 Created: 29 September 2014
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 24626
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12102,7 +12214,7 @@ Created: 21 August 2022
 
 Updated: 07 March 2023
 
-Stars on GitHub: 52
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12118,7 +12230,7 @@ Created: 01 December 2022
 
 Updated: 08 March 2023
 
-Stars on GitHub: 17
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12134,7 +12246,7 @@ Created: 04 December 2021
 
 Updated: 21 February 2023
 
-Stars on GitHub: 38
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12148,9 +12260,9 @@ Clone: [https://github.com/HowToFind-bot/osint-tools.git](https://github.com/How
 
 Created: 04 August 2020
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 480
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12164,9 +12276,9 @@ Clone: [https://github.com/Coordinate-Cat/osint-tools-cli.git](https://github.co
 
 Created: 22 December 2021
 
-Updated: 08 February 2023
+Updated: 11 March 2023
 
-Stars on GitHub: 49
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12180,9 +12292,9 @@ Clone: [https://github.com/cipher387/osint_stuff_tool_collection.git](https://gi
 
 Created: 08 June 2021
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 3063
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12196,9 +12308,9 @@ Clone: [https://github.com/rly0nheart/osinteye.git](https://github.com/rly0nhear
 
 Created: 23 November 2021
 
-Updated: 22 February 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 131
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12214,7 +12326,7 @@ Created: 06 October 2021
 
 Updated: 06 March 2023
 
-Stars on GitHub: 83
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12228,9 +12340,9 @@ Clone: [https://github.com/j3ssie/osmedeus.git](https://github.com/j3ssie/osmede
 
 Created: 10 November 2018
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 4329
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12244,9 +12356,9 @@ Clone: [https://github.com/sickcodes/osx-serial-generator.git](https://github.co
 
 Created: 05 March 2021
 
-Updated: 09 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 1414
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12260,9 +12372,9 @@ Clone: [https://github.com/sniptt-official/ots.git](https://github.com/sniptt-of
 
 Created: 15 July 2021
 
-Updated: 08 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 1645
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12276,9 +12388,9 @@ Clone: [https://github.com/Jigsaw-Code/outline-client.git](https://github.com/Ji
 
 Created: 13 March 2018
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 7479
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12294,7 +12406,7 @@ Created: 30 December 2019
 
 Updated: 26 December 2022
 
-Stars on GitHub: 51
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12308,9 +12420,9 @@ Clone: [https://github.com/rly0nheart/oxdork.git](https://github.com/rly0nheart/
 
 Created: 07 June 2021
 
-Updated: 27 February 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 135
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12324,9 +12436,9 @@ Clone: [https://github.com/muan/paint-github.git](https://github.com/muan/paint-
 
 Created: 12 November 2019
 
-Updated: 07 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 402
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12340,9 +12452,9 @@ Clone: [https://github.com/papers-we-love/papers-we-love.git](https://github.com
 
 Created: 15 December 2013
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 70286
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12356,9 +12468,9 @@ Clone: [https://github.com/szorfein/paranoid-ninja.git](https://github.com/szorf
 
 Created: 13 January 2019
 
-Updated: 10 March 2023
+Updated: 11 March 2023
 
-Stars on GitHub: 100
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12372,9 +12484,9 @@ Clone: [https://github.com/r1chardj0n3s/parse.git](https://github.com/r1chardj0n
 
 Created: 17 November 2011
 
-Updated: 08 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 1521
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12388,9 +12500,9 @@ Clone: [https://github.com/Scille/parsec-cloud.git](https://github.com/Scille/pa
 
 Created: 08 September 2016
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 211
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12406,7 +12518,7 @@ Created: 27 August 2021
 
 Updated: 19 February 2023
 
-Stars on GitHub: 9
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12422,7 +12534,7 @@ Created: 10 July 2021
 
 Updated: 10 March 2023
 
-Stars on GitHub: 44
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12438,7 +12550,7 @@ Created: 05 September 2018
 
 Updated: 01 March 2023
 
-Stars on GitHub: 110
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12452,9 +12564,9 @@ Clone: [https://github.com/PastVu/pastvu.git](https://github.com/PastVu/pastvu.g
 
 Created: 30 March 2012
 
-Updated: 24 February 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 68
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12470,7 +12582,7 @@ Created: 06 January 2022
 
 Updated: 18 February 2023
 
-Stars on GitHub: 87
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12484,9 +12596,9 @@ Clone: [https://github.com/mozilla/pdf.js.git](https://github.com/mozilla/pdf.js
 
 Created: 26 April 2011
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 41632
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12500,25 +12612,9 @@ Clone: [https://github.com/hpdeifel/pdfgrep.git](https://github.com/hpdeifel/pdf
 
 Created: 14 June 2019
 
-Updated: 11 January 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 38
-
-----
-
-### [RIAEvangelist/peacenotwar](https://github.com/RIAEvangelist/peacenotwar)
-
-None
-
-Url: [https://github.com/RIAEvangelist/peacenotwar](https://github.com/RIAEvangelist/peacenotwar)
-
-Clone: [https://github.com/RIAEvangelist/peacenotwar.git](https://github.com/RIAEvangelist/peacenotwar.git)
-
-Created: 08 March 2022
-
-Updated: 17 December 2022
-
-Stars on GitHub: 155
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12534,7 +12630,7 @@ Created: 04 November 2022
 
 Updated: 13 February 2023
 
-Stars on GitHub: 22
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12550,7 +12646,7 @@ Created: 28 March 2017
 
 Updated: 26 February 2023
 
-Stars on GitHub: 29
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12564,9 +12660,9 @@ Clone: [https://github.com/sosedoff/pgweb.git](https://github.com/sosedoff/pgweb
 
 Created: 09 October 2014
 
-Updated: 09 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 7751
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12582,7 +12678,7 @@ Created: 25 August 2021
 
 Updated: 05 March 2023
 
-Stars on GitHub: 133
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12596,9 +12692,9 @@ Clone: [https://github.com/sundowndev/phoneinfoga.git](https://github.com/sundow
 
 Created: 25 October 2018
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 9305
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12614,7 +12710,7 @@ Created: 21 December 2021
 
 Updated: 19 February 2023
 
-Stars on GitHub: 11
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12628,9 +12724,9 @@ Clone: [https://github.com/Gictorbit/photoshopCClinux.git](https://github.com/Gi
 
 Created: 13 February 2020
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 3761
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12646,7 +12742,7 @@ Created: 01 January 2021
 
 Updated: 14 February 2023
 
-Stars on GitHub: 6
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12662,7 +12758,7 @@ Created: 08 November 2020
 
 Updated: 19 February 2023
 
-Stars on GitHub: 183
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12676,9 +12772,9 @@ Clone: [https://github.com/agermanidis/pigeon.git](https://github.com/agermanidi
 
 Created: 05 September 2017
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 679
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12692,9 +12788,9 @@ Clone: [https://github.com/PipeWire/pipewire.git](https://github.com/PipeWire/pi
 
 Created: 29 May 2017
 
-Updated: 07 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 1532
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12708,9 +12804,9 @@ Clone: [https://github.com/microsoft/playwright.git](https://github.com/microsof
 
 Created: 15 November 2019
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 48466
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12724,9 +12820,9 @@ Clone: [https://github.com/polynote/polynote.git](https://github.com/polynote/po
 
 Created: 12 January 2019
 
-Updated: 08 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 4403
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12740,9 +12836,9 @@ Clone: [https://github.com/postalserver/postal.git](https://github.com/postalser
 
 Created: 19 April 2017
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 12455
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12758,7 +12854,7 @@ Created: 03 May 2020
 
 Updated: 16 February 2023
 
-Stars on GitHub: 24
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12774,7 +12870,7 @@ Created: 02 August 2016
 
 Updated: 17 January 2023
 
-Stars on GitHub: 26
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12788,9 +12884,9 @@ Clone: [https://github.com/datamade/probablepeople.git](https://github.com/datam
 
 Created: 06 November 2014
 
-Updated: 06 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 551
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12804,9 +12900,9 @@ Clone: [https://github.com/apify/proxy-chain.git](https://github.com/apify/proxy
 
 Created: 06 November 2017
 
-Updated: 08 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 632
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12820,9 +12916,9 @@ Clone: [https://github.com/bluet/proxybroker2.git](https://github.com/bluet/prox
 
 Created: 27 April 2020
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 372
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12836,9 +12932,9 @@ Clone: [https://github.com/t3l3machus/psudohash.git](https://github.com/t3l3mach
 
 Created: 29 June 2022
 
-Updated: 08 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 513
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12852,9 +12948,9 @@ Clone: [https://github.com/public-api-lists/public-api-lists.git](https://github
 
 Created: 05 January 2020
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 6261
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12868,9 +12964,9 @@ Clone: [https://github.com/VNAPNIC/public-apis.git](https://github.com/VNAPNIC/p
 
 Created: 25 March 2020
 
-Updated: 08 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 115
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12884,9 +12980,9 @@ Clone: [https://github.com/public-apis/public-apis.git](https://github.com/publi
 
 Created: 20 March 2016
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 230351
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12900,9 +12996,9 @@ Clone: [https://github.com/juliocesarfort/public-pentesting-reports.git](https:/
 
 Created: 05 August 2016
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 7044
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12918,7 +13014,7 @@ Created: 28 August 2021
 
 Updated: 21 December 2022
 
-Stars on GitHub: 5
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12932,9 +13028,9 @@ Clone: [https://github.com/adamian98/pulse.git](https://github.com/adamian98/pul
 
 Created: 20 May 2020
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 7190
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12948,9 +13044,9 @@ Clone: [https://github.com/puppeteer/puppeteer.git](https://github.com/puppeteer
 
 Created: 09 May 2017
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 82212
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12964,9 +13060,9 @@ Clone: [https://github.com/Nickersoft/push.js.git](https://github.com/Nickersoft
 
 Created: 20 July 2015
 
-Updated: 08 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 8675
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12980,9 +13076,9 @@ Clone: [https://github.com/punk-security/pwnspoof.git](https://github.com/punk-s
 
 Created: 25 July 2021
 
-Updated: 10 March 2023
+Updated: 13 March 2023
 
-Stars on GitHub: 233
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -12996,9 +13092,9 @@ Clone: [https://github.com/tyiannak/pyAudioAnalysis.git](https://github.com/tyia
 
 Created: 27 August 2014
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 5176
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13014,7 +13110,7 @@ Created: 22 November 2018
 
 Updated: 19 November 2022
 
-Stars on GitHub: 18
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13028,9 +13124,9 @@ Clone: [https://github.com/machine1337/pycrypt.git](https://github.com/machine13
 
 Created: 10 September 2022
 
-Updated: 10 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 200
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13046,7 +13142,7 @@ Created: 13 December 2016
 
 Updated: 08 September 2022
 
-Stars on GitHub: 1
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13062,7 +13158,7 @@ Created: 07 September 2016
 
 Updated: 08 September 2022
 
-Stars on GitHub: 5
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13078,7 +13174,7 @@ Created: 22 November 2015
 
 Updated: 22 December 2022
 
-Stars on GitHub: 16
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13094,7 +13190,7 @@ Created: 27 March 2012
 
 Updated: 24 September 2022
 
-Stars on GitHub: 15
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13108,9 +13204,9 @@ Clone: [https://github.com/GeneralMills/pytrends.git](https://github.com/General
 
 Created: 08 October 2014
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 2655
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13124,9 +13220,9 @@ Clone: [https://github.com/pytube/pytube.git](https://github.com/pytube/pytube.g
 
 Created: 18 March 2012
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 8106
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13142,7 +13238,7 @@ Created: 23 July 2018
 
 Updated: 09 March 2023
 
-Stars on GitHub: 371
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13158,7 +13254,7 @@ Created: 16 April 2019
 
 Updated: 27 November 2022
 
-Stars on GitHub: 42
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13172,9 +13268,9 @@ Clone: [https://github.com/qdrant/qdrant.git](https://github.com/qdrant/qdrant.g
 
 Created: 30 May 2020
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 4762
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13188,9 +13284,9 @@ Clone: [https://github.com/qemu/qemu.git](https://github.com/qemu/qemu.git)
 
 Created: 11 August 2012
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 7516
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13206,7 +13302,7 @@ Created: 16 December 2021
 
 Updated: 30 August 2022
 
-Stars on GitHub: 1
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13222,7 +13318,7 @@ Created: 01 May 2022
 
 Updated: 27 February 2023
 
-Stars on GitHub: 32
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13238,7 +13334,7 @@ Created: 06 September 2020
 
 Updated: 05 March 2023
 
-Stars on GitHub: 149
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13254,7 +13350,7 @@ Created: 04 June 2018
 
 Updated: 03 September 2022
 
-Stars on GitHub: 10
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13268,9 +13364,9 @@ Clone: [https://github.com/quickemu-project/quickemu.git](https://github.com/qui
 
 Created: 15 March 2020
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 5849
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13284,9 +13380,9 @@ Clone: [https://github.com/quickemu-project/quickgui.git](https://github.com/qui
 
 Created: 28 October 2021
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 558
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13302,7 +13398,7 @@ Created: 19 September 2020
 
 Updated: 30 August 2022
 
-Stars on GitHub: 12
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13316,9 +13412,9 @@ Clone: [https://github.com/terkelg/ramme.git](https://github.com/terkelg/ramme.g
 
 Created: 21 August 2016
 
-Updated: 10 March 2023
+Updated: 13 March 2023
 
-Stars on GitHub: 3328
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13334,7 +13430,7 @@ Created: 16 August 2018
 
 Updated: 03 September 2022
 
-Stars on GitHub: 5
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13348,9 +13444,9 @@ Clone: [https://github.com/hamza07-w/raymond.git](https://github.com/hamza07-w/r
 
 Created: 14 September 2021
 
-Updated: 01 March 2023
+Updated: 12 March 2023
 
-Stars on GitHub: 27
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13364,9 +13460,9 @@ Clone: [https://github.com/yurijmikhalevich/rclip.git](https://github.com/yurijm
 
 Created: 04 June 2021
 
-Updated: 06 March 2023
+Updated: 14 March 2023
 
-Stars on GitHub: 413
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13380,9 +13476,9 @@ Clone: [https://github.com/markerikson/react-redux-links.git](https://github.com
 
 Created: 22 January 2016
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 22141
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13396,9 +13492,9 @@ Clone: [https://github.com/0xacb/recollapse.git](https://github.com/0xacb/recoll
 
 Created: 13 November 2022
 
-Updated: 09 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 462
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13412,9 +13508,9 @@ Clone: [https://github.com/lanmaster53/recon-ng.git](https://github.com/lanmaste
 
 Created: 28 March 2019
 
-Updated: 08 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 2507
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13428,9 +13524,9 @@ Clone: [https://github.com/six2dez/reconftw.git](https://github.com/six2dez/reco
 
 Created: 30 December 2020
 
-Updated: 09 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 3859
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13444,9 +13540,9 @@ Clone: [https://github.com/cmushroom/redis-pro.git](https://github.com/cmushroom
 
 Created: 19 January 2021
 
-Updated: 07 March 2023
+Updated: 14 March 2023
 
-Stars on GitHub: 593
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13460,9 +13556,9 @@ Clone: [https://github.com/aykutkardas/regexlearn.com.git](https://github.com/ay
 
 Created: 28 August 2021
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 2592
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13476,9 +13572,9 @@ Clone: [https://github.com/danielgatis/rembg.git](https://github.com/danielgatis
 
 Created: 10 August 2020
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 8701
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13492,9 +13588,9 @@ Clone: [https://github.com/psf/requests-html.git](https://github.com/psf/request
 
 Created: 24 February 2018
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 12990
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13508,9 +13604,9 @@ Clone: [https://github.com/Nutlope/restorePhotos.git](https://github.com/Nutlope
 
 Created: 08 January 2023
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 2529
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13526,7 +13622,7 @@ Created: 09 April 2019
 
 Updated: 08 September 2022
 
-Stars on GitHub: 1
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13540,9 +13636,9 @@ Clone: [https://github.com/jsonresume/resume-schema.git](https://github.com/json
 
 Created: 20 June 2014
 
-Updated: 09 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 1834
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13556,9 +13652,9 @@ Clone: [https://github.com/RetireJS/retire.js.git](https://github.com/RetireJS/r
 
 Created: 30 August 2013
 
-Updated: 08 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 3221
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13572,9 +13668,9 @@ Clone: [https://github.com/invl/retry.git](https://github.com/invl/retry.git)
 
 Created: 21 May 2014
 
-Updated: 09 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 589
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13588,9 +13684,9 @@ Clone: [https://github.com/Anarios/return-youtube-dislike.git](https://github.co
 
 Created: 15 November 2021
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 10806
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13604,9 +13700,9 @@ Clone: [https://github.com/xiph/rnnoise.git](https://github.com/xiph/rnnoise.git
 
 Created: 03 August 2017
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 2931
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13620,9 +13716,9 @@ Clone: [https://github.com/diego3g/rocketredis.git](https://github.com/diego3g/r
 
 Created: 30 June 2020
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 1865
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13636,9 +13732,9 @@ Clone: [https://github.com/rosenpass/rosenpass.git](https://github.com/rosenpass
 
 Created: 23 February 2023
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 571
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13654,7 +13750,7 @@ Created: 05 December 2021
 
 Updated: 10 March 2023
 
-Stars on GitHub: 23
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13670,7 +13766,7 @@ Created: 22 May 2022
 
 Updated: 09 March 2023
 
-Stars on GitHub: 30
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13684,9 +13780,9 @@ Clone: [https://github.com/pbatard/rufus.git](https://github.com/pbatard/rufus.g
 
 Created: 19 November 2011
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 21977
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13700,9 +13796,9 @@ Clone: [https://github.com/rustdesk/rustdesk.git](https://github.com/rustdesk/ru
 
 Created: 28 September 2020
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 39175
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13716,9 +13812,9 @@ Clone: [https://github.com/zquestz/s.git](https://github.com/zquestz/s.git)
 
 Created: 24 January 2016
 
-Updated: 09 March 2023
+Updated: 11 March 2023
 
-Stars on GitHub: 2097
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13732,9 +13828,9 @@ Clone: [https://github.com/Eilonh/s3crets_scanner.git](https://github.com/Eilonh
 
 Created: 27 October 2022
 
-Updated: 06 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 536
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13748,9 +13844,9 @@ Clone: [https://github.com/SharonBrizinov/s3viewer.git](https://github.com/Sharo
 
 Created: 08 January 2021
 
-Updated: 04 March 2023
+Updated: 13 March 2023
 
-Stars on GitHub: 389
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13764,9 +13860,9 @@ Clone: [https://github.com/peak/s5cmd.git](https://github.com/peak/s5cmd.git)
 
 Created: 16 November 2016
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 1526
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13780,9 +13876,9 @@ Clone: [https://github.com/bellingcat/sar-interference-tracker.git](https://gith
 
 Created: 08 February 2022
 
-Updated: 10 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 421
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13796,9 +13892,9 @@ Clone: [https://github.com/pawlaczyk/sarenka.git](https://github.com/pawlaczyk/s
 
 Created: 21 January 2020
 
-Updated: 03 March 2023
+Updated: 14 March 2023
 
-Stars on GitHub: 543
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13812,9 +13908,9 @@ Clone: [https://github.com/hktalent/scan4all.git](https://github.com/hktalent/sc
 
 Created: 20 June 2022
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 3457
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13830,7 +13926,7 @@ Created: 24 March 2014
 
 Updated: 04 September 2022
 
-Stars on GitHub: 20
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13846,7 +13942,7 @@ Created: 28 March 2017
 
 Updated: 30 August 2022
 
-Stars on GitHub: 3
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13860,9 +13956,9 @@ Clone: [https://github.com/edoardottt/scilla.git](https://github.com/edoardottt/
 
 Created: 26 September 2020
 
-Updated: 08 March 2023
+Updated: 12 March 2023
 
-Stars on GitHub: 566
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13876,9 +13972,9 @@ Clone: [https://github.com/dougy147/scitopdf.git](https://github.com/dougy147/sc
 
 Created: 05 January 2020
 
-Updated: 09 March 2023
+Updated: 12 March 2023
 
-Stars on GitHub: 122
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13894,7 +13990,7 @@ Created: 09 January 2022
 
 Updated: 20 February 2023
 
-Stars on GitHub: 49
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13910,7 +14006,7 @@ Created: 31 December 2018
 
 Updated: 08 March 2023
 
-Stars on GitHub: 556
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13924,9 +14020,9 @@ Clone: [https://github.com/scrapy/scrapy.git](https://github.com/scrapy/scrapy.g
 
 Created: 22 February 2010
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 46414
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13940,9 +14036,9 @@ Clone: [https://github.com/geekan/scrapy-examples.git](https://github.com/geekan
 
 Created: 11 January 2014
 
-Updated: 25 February 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 2942
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13956,9 +14052,9 @@ Clone: [https://github.com/Genymobile/scrcpy.git](https://github.com/Genymobile/
 
 Created: 21 November 2017
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 77671
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13972,9 +14068,9 @@ Clone: [https://github.com/alyssaxuu/screenity.git](https://github.com/alyssaxuu
 
 Created: 01 November 2020
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 8024
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -13988,9 +14084,9 @@ Clone: [https://github.com/searxng/searxng.git](https://github.com/searxng/searx
 
 Created: 12 April 2021
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 4241
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14006,7 +14102,7 @@ Created: 10 May 2022
 
 Updated: 08 March 2023
 
-Stars on GitHub: 136
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14022,7 +14118,7 @@ Created: 08 October 2020
 
 Updated: 10 January 2023
 
-Stars on GitHub: 24
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14036,9 +14132,9 @@ Clone: [https://github.com/seekr-osint/seekr.git](https://github.com/seekr-osint
 
 Created: 06 December 2022
 
-Updated: 08 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 26
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14054,7 +14150,7 @@ Created: 11 September 2022
 
 Updated: 04 October 2022
 
-Stars on GitHub: 1
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14068,9 +14164,9 @@ Clone: [https://github.com/returntocorp/semgrep.git](https://github.com/returnto
 
 Created: 13 December 2019
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 7860
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14084,9 +14180,9 @@ Clone: [https://github.com/koalaman/shellcheck.git](https://github.com/koalaman/
 
 Created: 17 November 2012
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 31621
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14100,9 +14196,9 @@ Clone: [https://github.com/sherlock-project/sherlock.git](https://github.com/she
 
 Created: 24 December 2018
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 39543
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14116,9 +14212,9 @@ Clone: [https://github.com/GuidoBartoli/sherloq.git](https://github.com/GuidoBar
 
 Created: 24 June 2017
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 2164
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14132,9 +14228,9 @@ Clone: [https://github.com/eth0izzle/shhgit.git](https://github.com/eth0izzle/sh
 
 Created: 06 September 2019
 
-Updated: 10 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 3656
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14148,9 +14244,9 @@ Clone: [https://github.com/achillean/shodan-python.git](https://github.com/achil
 
 Created: 07 September 2010
 
-Updated: 10 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 2137
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14164,9 +14260,9 @@ Clone: [https://github.com/utkusen/shotlooter.git](https://github.com/utkusen/sh
 
 Created: 18 May 2020
 
-Updated: 05 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 584
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14180,9 +14276,9 @@ Clone: [https://github.com/PartialVolume/shredos.x86_64.git](https://github.com/
 
 Created: 12 April 2020
 
-Updated: 09 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 608
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14196,9 +14292,9 @@ Clone: [https://github.com/fitztrev/shuttle.git](https://github.com/fitztrev/shu
 
 Created: 11 July 2013
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 4516
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14212,9 +14308,9 @@ Clone: [https://github.com/simdjson/simdjson.git](https://github.com/simdjson/si
 
 Created: 23 March 2018
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 16658
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14230,7 +14326,7 @@ Created: 03 February 2022
 
 Updated: 04 September 2022
 
-Stars on GitHub: 1
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14244,9 +14340,9 @@ Clone: [https://github.com/Zarcolio/sitedorks.git](https://github.com/Zarcolio/s
 
 Created: 18 April 2020
 
-Updated: 08 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 572
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14262,7 +14358,7 @@ Created: 06 November 2018
 
 Updated: 30 August 2022
 
-Stars on GitHub: 6
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14276,9 +14372,9 @@ Clone: [https://github.com/punk-security/smbeagle.git](https://github.com/punk-s
 
 Created: 31 May 2021
 
-Updated: 06 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 580
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14292,9 +14388,9 @@ Clone: [https://github.com/privatenumber/snap-tweet.git](https://github.com/priv
 
 Created: 04 May 2021
 
-Updated: 05 March 2023
+Updated: 12 March 2023
 
-Stars on GitHub: 305
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14308,9 +14404,9 @@ Clone: [https://github.com/snooppr/snoop.git](https://github.com/snooppr/snoop.g
 
 Created: 14 February 2020
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 1810
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14324,9 +14420,9 @@ Clone: [https://github.com/JustAnotherArchivist/snscrape.git](https://github.com
 
 Created: 09 September 2018
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 2922
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14342,7 +14438,7 @@ Created: 14 October 2020
 
 Updated: 05 March 2023
 
-Stars on GitHub: 236
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14356,9 +14452,9 @@ Clone: [https://github.com/qeeqbox/social-analyzer.git](https://github.com/qeeqb
 
 Created: 30 November 2020
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 9823
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14374,7 +14470,7 @@ Created: 09 April 2022
 
 Updated: 02 March 2023
 
-Stars on GitHub: 403
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14388,9 +14484,9 @@ Clone: [https://github.com/iojw/socialscan.git](https://github.com/iojw/socialsc
 
 Created: 17 February 2019
 
-Updated: 10 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 1082
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14404,9 +14500,9 @@ Clone: [https://github.com/soxoj/socid-extractor.git](https://github.com/soxoj/s
 
 Created: 17 November 2019
 
-Updated: 09 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 405
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14420,9 +14516,9 @@ Clone: [https://github.com/socketio/socket.io.git](https://github.com/socketio/s
 
 Created: 11 March 2010
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 57780
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14438,7 +14534,7 @@ Created: 05 October 2021
 
 Updated: 30 August 2022
 
-Stars on GitHub: 4
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14454,7 +14550,7 @@ Created: 15 August 2018
 
 Updated: 04 March 2023
 
-Stars on GitHub: 6
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14470,7 +14566,7 @@ Created: 10 June 2019
 
 Updated: 06 February 2023
 
-Stars on GitHub: 88
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14484,9 +14580,9 @@ Clone: [https://github.com/smicallef/spiderfoot.git](https://github.com/smicalle
 
 Created: 28 April 2012
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 9289
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14500,9 +14596,9 @@ Clone: [https://github.com/pawelsalawa/sqlitestudio.git](https://github.com/pawe
 
 Created: 11 January 2018
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 3332
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14518,7 +14614,7 @@ Created: 22 September 2021
 
 Updated: 03 September 2022
 
-Stars on GitHub: 2
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14532,9 +14628,9 @@ Clone: [https://github.com/sqlmapproject/sqlmap.git](https://github.com/sqlmappr
 
 Created: 26 June 2012
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 26337
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14548,9 +14644,9 @@ Clone: [https://github.com/pwnesia/ssb.git](https://github.com/pwnesia/ssb.git)
 
 Created: 04 December 2020
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 1041
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14566,7 +14662,7 @@ Created: 04 August 2022
 
 Updated: 01 February 2023
 
-Stars on GitHub: 8
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14582,7 +14678,7 @@ Created: 14 November 2013
 
 Updated: 27 October 2022
 
-Stars on GitHub: 5
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14596,9 +14692,9 @@ Clone: [https://github.com/vaniacer/sshto.git](https://github.com/vaniacer/sshto
 
 Created: 16 November 2017
 
-Updated: 04 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 450
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14612,9 +14708,9 @@ Clone: [https://github.com/sshuttle/sshuttle.git](https://github.com/sshuttle/ss
 
 Created: 15 September 2014
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 9677
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14628,9 +14724,9 @@ Clone: [https://github.com/maguowei/starred.git](https://github.com/maguowei/sta
 
 Created: 16 June 2016
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 1224
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14646,7 +14742,7 @@ Created: 05 February 2021
 
 Updated: 31 August 2022
 
-Stars on GitHub: 3
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14660,9 +14756,9 @@ Clone: [https://github.com/novitae/sterraxcyl.git](https://github.com/novitae/st
 
 Created: 28 September 2021
 
-Updated: 08 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 344
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14676,9 +14772,9 @@ Clone: [https://github.com/storj/storj.git](https://github.com/storj/storj.git)
 
 Created: 04 April 2018
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 2644
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14692,9 +14788,9 @@ Clone: [https://github.com/streamlink/streamlink.git](https://github.com/streaml
 
 Created: 16 September 2016
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 8450
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14710,7 +14806,7 @@ Created: 07 November 2016
 
 Updated: 09 March 2023
 
-Stars on GitHub: 475
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14724,15 +14820,15 @@ Clone: [https://github.com/markowanga/stweet.git](https://github.com/markowanga/
 
 Created: 16 November 2020
 
-Updated: 09 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 338
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
 ### [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder)
 
-Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
+Fast passive subdomain enumeration tool.
 
 Url: [https://github.com/projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder)
 
@@ -14740,9 +14836,9 @@ Clone: [https://github.com/projectdiscovery/subfinder.git](https://github.com/pr
 
 Created: 31 March 2018
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 7130
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14756,9 +14852,9 @@ Clone: [https://github.com/LukaSikic/subzy.git](https://github.com/LukaSikic/sub
 
 Created: 01 March 2019
 
-Updated: 08 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 637
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14772,9 +14868,9 @@ Clone: [https://github.com/supabase/supabase.git](https://github.com/supabase/su
 
 Created: 12 October 2019
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 46656
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14788,9 +14884,9 @@ Clone: [https://github.com/surrealdb/surrealdb.git](https://github.com/surrealdb
 
 Created: 09 December 2021
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 18647
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14804,9 +14900,9 @@ Clone: [https://github.com/fulldecent/system-bus-radio.git](https://github.com/f
 
 Created: 29 February 2016
 
-Updated: 09 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 6033
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14820,9 +14916,9 @@ Clone: [https://github.com/hakandundar34coding/system-monitoring-center.git](htt
 
 Created: 22 October 2021
 
-Updated: 07 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 679
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14836,9 +14932,9 @@ Clone: [https://github.com/winsiderss/systeminformer.git](https://github.com/win
 
 Created: 01 February 2016
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 8585
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14852,9 +14948,9 @@ Clone: [https://github.com/m4ll0k/takeover.git](https://github.com/m4ll0k/takeov
 
 Created: 08 June 2018
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 863
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14870,7 +14966,7 @@ Created: 22 March 2021
 
 Updated: 09 November 2022
 
-Stars on GitHub: 11
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14886,7 +14982,7 @@ Created: 28 May 2020
 
 Updated: 30 January 2023
 
-Stars on GitHub: 268
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14902,7 +14998,7 @@ Created: 03 August 2020
 
 Updated: 27 January 2023
 
-Stars on GitHub: 79
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14916,9 +15012,9 @@ Clone: [https://github.com/go-task/task.git](https://github.com/go-task/task.git
 
 Created: 27 February 2017
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 7068
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14932,9 +15028,9 @@ Clone: [https://github.com/taskiq-python/taskiq.git](https://github.com/taskiq-p
 
 Created: 17 July 2022
 
-Updated: 10 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 85
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14948,9 +15044,9 @@ Clone: [https://github.com/sharovatov/teamlead.git](https://github.com/sharovato
 
 Created: 23 February 2021
 
-Updated: 09 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 819
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14966,7 +15062,7 @@ Created: 28 July 2021
 
 Updated: 13 September 2022
 
-Stars on GitHub: 13
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14980,9 +15076,9 @@ Clone: [https://github.com/mautrix/telegram.git](https://github.com/mautrix/tele
 
 Created: 12 November 2017
 
-Updated: 07 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 964
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -14998,7 +15094,7 @@ Created: 13 August 2019
 
 Updated: 22 January 2023
 
-Stars on GitHub: 76
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15014,7 +15110,7 @@ Created: 31 May 2019
 
 Updated: 04 March 2023
 
-Stars on GitHub: 82
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15030,7 +15126,7 @@ Created: 05 November 2019
 
 Updated: 13 September 2022
 
-Stars on GitHub: 7
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15046,7 +15142,7 @@ Created: 17 November 2018
 
 Updated: 23 February 2023
 
-Stars on GitHub: 19
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15060,9 +15156,9 @@ Clone: [https://github.com/tejado/telegram-nearby-map.git](https://github.com/te
 
 Created: 14 January 2021
 
-Updated: 10 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 503
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15076,9 +15172,9 @@ Clone: [https://github.com/bellingcat/telegram-phone-number-checker.git](https:/
 
 Created: 17 February 2021
 
-Updated: 28 February 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 382
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15092,9 +15188,9 @@ Clone: [https://github.com/estebanpdl/telegram-tracker.git](https://github.com/e
 
 Created: 06 April 2022
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 95
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15110,7 +15206,7 @@ Created: 03 December 2021
 
 Updated: 05 March 2023
 
-Stars on GitHub: 71
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15126,7 +15222,7 @@ Created: 14 April 2016
 
 Updated: 21 September 2022
 
-Stars on GitHub: 9
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15140,9 +15236,9 @@ Clone: [https://github.com/kitabisa/teler.git](https://github.com/kitabisa/teler
 
 Created: 21 July 2020
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 2281
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15156,9 +15252,9 @@ Clone: [https://github.com/pielco11/telescan.git](https://github.com/pielco11/te
 
 Created: 25 February 2019
 
-Updated: 09 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 138
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15174,7 +15270,7 @@ Created: 09 January 2022
 
 Updated: 07 March 2023
 
-Stars on GitHub: 34
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15188,9 +15284,9 @@ Clone: [https://github.com/termux/termux-app.git](https://github.com/termux/term
 
 Created: 23 October 2015
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 19904
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15204,9 +15300,9 @@ Clone: [https://github.com/xadhrit/terra.git](https://github.com/xadhrit/terra.g
 
 Created: 05 May 2021
 
-Updated: 08 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 248
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15220,9 +15316,9 @@ Clone: [https://github.com/deanmalmgren/textract.git](https://github.com/deanmal
 
 Created: 03 July 2014
 
-Updated: 10 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 3419
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15236,9 +15332,9 @@ Clone: [https://github.com/mxssl/tg-captcha-bot.git](https://github.com/mxssl/tg
 
 Created: 10 June 2018
 
-Updated: 09 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 213
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15254,7 +15350,7 @@ Created: 05 February 2021
 
 Updated: 02 March 2023
 
-Stars on GitHub: 43
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15268,9 +15364,9 @@ Clone: [https://github.com/jlevy/the-art-of-command-line.git](https://github.com
 
 Created: 20 May 2015
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 132325
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15284,9 +15380,9 @@ Clone: [https://github.com/trimstray/the-book-of-secret-knowledge.git](https://g
 
 Created: 23 June 2018
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 91925
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15302,7 +15398,7 @@ Created: 24 November 2017
 
 Updated: 27 February 2023
 
-Stars on GitHub: 307
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15318,7 +15414,7 @@ Created: 21 March 2019
 
 Updated: 31 August 2022
 
-Stars on GitHub: 4
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15332,9 +15428,9 @@ Clone: [https://github.com/laramies/theHarvester.git](https://github.com/laramie
 
 Created: 01 January 2011
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 8194
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15350,7 +15446,7 @@ Created: 01 September 2021
 
 Updated: 03 March 2023
 
-Stars on GitHub: 145
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15364,9 +15460,9 @@ Clone: [https://github.com/nvbn/thefuck.git](https://github.com/nvbn/thefuck.git
 
 Created: 08 April 2015
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 76127
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15380,9 +15476,9 @@ Clone: [https://github.com/Anon-Planet/thgtoa.git](https://github.com/Anon-Plane
 
 Created: 06 May 2022
 
-Updated: 09 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 174
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15398,7 +15494,7 @@ Created: 17 October 2021
 
 Updated: 19 February 2023
 
-Stars on GitHub: 21
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15414,7 +15510,7 @@ Created: 05 July 2022
 
 Updated: 30 August 2022
 
-Stars on GitHub: 1
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15430,7 +15526,7 @@ Created: 31 October 2019
 
 Updated: 15 January 2023
 
-Stars on GitHub: 41
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15444,9 +15540,9 @@ Clone: [https://github.com/bellingcat/tiktok-hashtag-analysis.git](https://githu
 
 Created: 11 August 2021
 
-Updated: 02 March 2023
+Updated: 11 March 2023
 
-Stars on GitHub: 154
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15460,9 +15556,9 @@ Clone: [https://github.com/drawrowfly/tiktok-scraper.git](https://github.com/dra
 
 Created: 23 October 2019
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 3397
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15478,7 +15574,7 @@ Created: 10 September 2020
 
 Updated: 02 February 2023
 
-Stars on GitHub: 34
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15492,9 +15588,9 @@ Clone: [https://github.com/tldr-pages/tldr.git](https://github.com/tldr-pages/tl
 
 Created: 08 December 2013
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 43388
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15508,9 +15604,9 @@ Clone: [https://github.com/sdushantha/tmpmail.git](https://github.com/sdushantha
 
 Created: 13 September 2020
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 3120
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15524,9 +15620,9 @@ Clone: [https://github.com/gayanvoice/top-github-users.git](https://github.com/g
 
 Created: 03 June 2021
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 2218
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15542,7 +15638,7 @@ Created: 18 August 2022
 
 Updated: 28 February 2023
 
-Stars on GitHub: 62
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15558,7 +15654,7 @@ Created: 26 July 2021
 
 Updated: 23 February 2023
 
-Stars on GitHub: 21
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15572,9 +15668,9 @@ Clone: [https://github.com/megadose/toutatis.git](https://github.com/megadose/to
 
 Created: 03 February 2020
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 1056
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15590,7 +15686,7 @@ Created: 29 March 2022
 
 Updated: 05 February 2023
 
-Stars on GitHub: 68
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15604,9 +15700,9 @@ Clone: [https://github.com/epinna/tplmap.git](https://github.com/epinna/tplmap.g
 
 Created: 06 July 2016
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 3215
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15620,9 +15716,9 @@ Clone: [https://github.com/ritz078/transform.git](https://github.com/ritz078/tra
 
 Created: 15 June 2017
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 4866
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15636,9 +15732,9 @@ Clone: [https://github.com/Animenosekai/translate.git](https://github.com/Animen
 
 Created: 01 February 2021
 
-Updated: 06 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 373
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15652,9 +15748,9 @@ Clone: [https://github.com/UlionTse/translators.git](https://github.com/UlionTse
 
 Created: 09 October 2017
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 988
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15668,9 +15764,9 @@ Clone: [https://github.com/jofpin/trape.git](https://github.com/jofpin/trape.git
 
 Created: 31 October 2017
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 7416
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15684,9 +15780,9 @@ Clone: [https://github.com/aquasecurity/trivy.git](https://github.com/aquasecuri
 
 Created: 11 April 2019
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 16523
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15700,9 +15796,9 @@ Clone: [https://github.com/trufflesecurity/trufflehog.git](https://github.com/tr
 
 Created: 31 December 2016
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 10599
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15718,7 +15814,7 @@ Created: 23 May 2022
 
 Updated: 21 January 2023
 
-Stars on GitHub: 6
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15732,9 +15828,9 @@ Clone: [https://github.com/helviojunior/turbosearch.git](https://github.com/helv
 
 Created: 17 July 2018
 
-Updated: 08 March 2023
+Updated: 13 March 2023
 
-Stars on GitHub: 102
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15748,9 +15844,9 @@ Clone: [https://github.com/humandecoded/twayback.git](https://github.com/humande
 
 Created: 01 February 2022
 
-Updated: 09 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 130
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15766,7 +15862,7 @@ Created: 12 September 2020
 
 Updated: 28 January 2023
 
-Stars on GitHub: 3
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15782,7 +15878,7 @@ Created: 15 August 2022
 
 Updated: 10 March 2023
 
-Stars on GitHub: 2
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15796,9 +15892,9 @@ Clone: [https://github.com/twintproject/twint.git](https://github.com/twintproje
 
 Created: 10 June 2017
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 14486
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15814,7 +15910,7 @@ Created: 26 March 2020
 
 Updated: 28 January 2023
 
-Stars on GitHub: 10
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15828,9 +15924,9 @@ Clone: [https://github.com/timhutton/twitter-archive-parser.git](https://github.
 
 Created: 09 November 2022
 
-Updated: 09 March 2023
+Updated: 14 March 2023
 
-Stars on GitHub: 2266
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15846,7 +15942,7 @@ Created: 19 May 2021
 
 Updated: 28 December 2022
 
-Stars on GitHub: 20
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15862,7 +15958,7 @@ Created: 08 November 2021
 
 Updated: 24 January 2023
 
-Stars on GitHub: 4
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15876,9 +15972,9 @@ Clone: [https://github.com/m3n0sd0n4ld/uDork.git](https://github.com/m3n0sd0n4ld
 
 Created: 09 September 2019
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 690
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15892,9 +15988,9 @@ Clone: [https://github.com/ua-parser/uap-python.git](https://github.com/ua-parse
 
 Created: 09 November 2014
 
-Updated: 09 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 482
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15908,9 +16004,9 @@ Clone: [https://github.com/dhn/udon.git](https://github.com/dhn/udon.git)
 
 Created: 06 January 2023
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 105
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15926,7 +16022,7 @@ Created: 21 January 2021
 
 Updated: 31 August 2022
 
-Stars on GitHub: 3
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15940,9 +16036,9 @@ Clone: [https://github.com/ungoogled-software/ungoogled-chromium.git](https://gi
 
 Created: 12 June 2015
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 16197
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15956,9 +16052,9 @@ Clone: [https://github.com/sergey-scat/unicaps.git](https://github.com/sergey-sc
 
 Created: 17 July 2020
 
-Updated: 28 February 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 126
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15972,9 +16068,9 @@ Clone: [https://github.com/catspace-dev/unicheckbot.git](https://github.com/cats
 
 Created: 02 January 2021
 
-Updated: 26 February 2023
+Updated: 13 March 2023
 
-Stars on GitHub: 45
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -15990,7 +16086,7 @@ Created: 02 May 2020
 
 Updated: 08 March 2023
 
-Stars on GitHub: 2477
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16004,9 +16100,9 @@ Clone: [https://github.com/BishopFox/unredacter.git](https://github.com/BishopFo
 
 Created: 22 October 2021
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 6931
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16022,7 +16118,7 @@ Created: 18 June 2022
 
 Updated: 06 March 2023
 
-Stars on GitHub: 228
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16038,7 +16134,7 @@ Created: 26 October 2016
 
 Updated: 01 February 2023
 
-Stars on GitHub: 127
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16052,9 +16148,9 @@ Clone: [https://github.com/upscayl/upscayl.git](https://github.com/upscayl/upsca
 
 Created: 30 July 2022
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 9918
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16068,9 +16164,9 @@ Clone: [https://github.com/louislam/uptime-kuma.git](https://github.com/louislam
 
 Created: 03 July 2021
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 30622
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16084,9 +16180,9 @@ Clone: [https://github.com/dadowl/uptimer.git](https://github.com/dadowl/uptimer
 
 Created: 26 May 2022
 
-Updated: 06 November 2022
+Updated: 12 March 2023
 
-Stars on GitHub: 24
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16100,9 +16196,9 @@ Clone: [https://github.com/utkusen/urlhunter.git](https://github.com/utkusen/url
 
 Created: 21 November 2020
 
-Updated: 07 March 2023
+Updated: 12 March 2023
 
-Stars on GitHub: 1318
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16116,9 +16212,9 @@ Clone: [https://github.com/soxoj/username-generation-guide.git](https://github.c
 
 Created: 05 December 2021
 
-Updated: 10 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 86
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16132,9 +16228,9 @@ Clone: [https://github.com/xo/usql.git](https://github.com/xo/usql.git)
 
 Created: 02 March 2017
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 7886
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16150,7 +16246,7 @@ Created: 17 February 2020
 
 Updated: 05 March 2023
 
-Stars on GitHub: 85
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16164,9 +16260,9 @@ Clone: [https://github.com/hashicorp/vagrant.git](https://github.com/hashicorp/v
 
 Created: 21 January 2010
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 24998
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16182,7 +16278,7 @@ Created: 14 April 2014
 
 Updated: 07 March 2023
 
-Stars on GitHub: 1880
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16196,9 +16292,9 @@ Clone: [https://github.com/errata-ai/vale.git](https://github.com/errata-ai/vale
 
 Created: 05 February 2017
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 2964
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16212,9 +16308,9 @@ Clone: [https://github.com/roottusk/vapi.git](https://github.com/roottusk/vapi.g
 
 Created: 06 September 2020
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 891
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16228,9 +16324,9 @@ Clone: [https://github.com/tsenart/vegeta.git](https://github.com/tsenart/vegeta
 
 Created: 13 August 2013
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 20936
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16246,7 +16342,7 @@ Created: 16 August 2021
 
 Updated: 09 November 2022
 
-Stars on GitHub: 10
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16262,7 +16358,7 @@ Created: 26 May 2021
 
 Updated: 03 February 2023
 
-Stars on GitHub: 60
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16276,9 +16372,9 @@ Clone: [https://github.com/saulpw/visidata.git](https://github.com/saulpw/visida
 
 Created: 27 October 2016
 
-Updated: 09 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 6414
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16294,7 +16390,7 @@ Created: 17 June 2022
 
 Updated: 24 January 2023
 
-Stars on GitHub: 21
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16308,9 +16404,9 @@ Clone: [https://github.com/alphacep/vosk-api.git](https://github.com/alphacep/vo
 
 Created: 03 September 2019
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 5285
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16324,9 +16420,9 @@ Clone: [https://github.com/scipag/vulscan.git](https://github.com/scipag/vulscan
 
 Created: 10 March 2017
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 2845
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16340,9 +16436,9 @@ Clone: [https://github.com/aleixrodriala/wa-tunnel.git](https://github.com/aleix
 
 Created: 12 November 2022
 
-Updated: 04 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 1706
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16356,9 +16452,9 @@ Clone: [https://github.com/blunderbuss-wctf/wacker.git](https://github.com/blund
 
 Created: 13 August 2020
 
-Updated: 09 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 215
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16372,9 +16468,9 @@ Clone: [https://github.com/aydinnyunus/wallet-tracker.git](https://github.com/ay
 
 Created: 23 June 2022
 
-Updated: 09 March 2023
+Updated: 16 March 2023
 
-Stars on GitHub: 68
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16388,9 +16484,9 @@ Clone: [https://github.com/wapiti-scanner/wapiti.git](https://github.com/wapiti-
 
 Created: 06 June 2020
 
-Updated: 07 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 573
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16404,9 +16500,9 @@ Clone: [https://github.com/wappalyzer/wappalyzer.git](https://github.com/wappaly
 
 Created: 12 February 2010
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 8031
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16420,9 +16516,9 @@ Clone: [https://github.com/containrrr/watchtower.git](https://github.com/contain
 
 Created: 13 July 2015
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 13194
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16436,9 +16532,9 @@ Clone: [https://github.com/asmirnou/watsor.git](https://github.com/asmirnou/wats
 
 Created: 20 June 2020
 
-Updated: 06 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 215
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16452,9 +16548,25 @@ Clone: [https://github.com/lorenzoromani1983/wayback-keyword-search.git](https:/
 
 Created: 30 October 2021
 
-Updated: 02 December 2022
+Updated: 18 March 2023
 
-Stars on GitHub: 58
+<img src="star.png" height="32" alt="Stars on GitHub"/>
+
+----
+
+### [jsvine/waybackpack](https://github.com/jsvine/waybackpack)
+
+Download the entire Wayback Machine archive for a given URL.
+
+Url: [https://github.com/jsvine/waybackpack](https://github.com/jsvine/waybackpack)
+
+Clone: [https://github.com/jsvine/waybackpack.git](https://github.com/jsvine/waybackpack.git)
+
+Created: 11 April 2016
+
+Updated: 18 March 2023
+
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16468,9 +16580,9 @@ Clone: [https://github.com/wazuh/wazuh.git](https://github.com/wazuh/wazuh.git)
 
 Created: 11 August 2015
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 5699
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16484,9 +16596,9 @@ Clone: [https://github.com/dessant/web-archives.git](https://github.com/dessant/
 
 Created: 02 August 2017
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 762
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16502,7 +16614,7 @@ Created: 16 January 2019
 
 Updated: 06 March 2023
 
-Stars on GitHub: 31
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16518,7 +16630,7 @@ Created: 13 January 2022
 
 Updated: 04 February 2023
 
-Stars on GitHub: 11
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16534,7 +16646,7 @@ Created: 12 June 2020
 
 Updated: 11 November 2022
 
-Stars on GitHub: 26
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16548,9 +16660,9 @@ Clone: [https://github.com/jashandeep-sohi/webcam-filters.git](https://github.co
 
 Created: 07 August 2021
 
-Updated: 09 March 2023
+Updated: 11 March 2023
 
-Stars on GitHub: 496
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16566,7 +16678,7 @@ Created: 18 March 2016
 
 Updated: 20 February 2023
 
-Stars on GitHub: 87
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16582,7 +16694,7 @@ Created: 15 July 2018
 
 Updated: 28 January 2023
 
-Stars on GitHub: 6
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16598,7 +16710,7 @@ Created: 14 May 2021
 
 Updated: 09 March 2023
 
-Stars on GitHub: 20
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16614,7 +16726,7 @@ Created: 15 February 2021
 
 Updated: 07 March 2023
 
-Stars on GitHub: 45
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16630,7 +16742,7 @@ Created: 23 December 2021
 
 Updated: 27 November 2022
 
-Stars on GitHub: 4
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16644,9 +16756,9 @@ Clone: [https://github.com/utkusen/wholeaked.git](https://github.com/utkusen/who
 
 Created: 26 January 2022
 
-Updated: 10 March 2023
+Updated: 12 March 2023
 
-Stars on GitHub: 774
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16660,9 +16772,9 @@ Clone: [https://github.com/benbusby/whoogle-search.git](https://github.com/benbu
 
 Created: 21 January 2020
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 7123
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16678,7 +16790,7 @@ Created: 16 January 2017
 
 Updated: 06 February 2023
 
-Stars on GitHub: 5
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16692,9 +16804,9 @@ Clone: [https://github.com/bndw/wifi-card.git](https://github.com/bndw/wifi-card
 
 Created: 30 May 2020
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 6195
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16708,9 +16820,9 @@ Clone: [https://github.com/willc/willc-scripts.git](https://github.com/willc/wil
 
 Created: 09 September 2017
 
-Updated: 05 March 2023
+Updated: 14 March 2023
 
-Stars on GitHub: 6
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16724,9 +16836,9 @@ Clone: [https://github.com/wireshark/wireshark.git](https://github.com/wireshark
 
 Created: 29 June 2014
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 5296
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16742,7 +16854,7 @@ Created: 20 March 2021
 
 Updated: 19 February 2023
 
-Stars on GitHub: 20
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16756,15 +16868,15 @@ Clone: [https://github.com/wkhtmltopdf/wkhtmltopdf.git](https://github.com/wkhtm
 
 Created: 07 August 2009
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 13063
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
 ### [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan)
 
-WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites.
+WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com
 
 Url: [https://github.com/wpscanteam/wpscan](https://github.com/wpscanteam/wpscan)
 
@@ -16772,9 +16884,9 @@ Clone: [https://github.com/wpscanteam/wpscan.git](https://github.com/wpscanteam/
 
 Created: 11 July 2012
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 7373
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16788,9 +16900,9 @@ Clone: [https://github.com/blacklanternsecurity/writehat.git](https://github.com
 
 Created: 30 November 2020
 
-Updated: 08 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 1024
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16804,9 +16916,9 @@ Clone: [https://github.com/tenox7/wrp.git](https://github.com/tenox7/wrp.git)
 
 Created: 24 January 2016
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 840
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16820,9 +16932,9 @@ Clone: [https://github.com/mackyle/xar.git](https://github.com/mackyle/xar.git)
 
 Created: 18 September 2012
 
-Updated: 10 January 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 132
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16836,9 +16948,9 @@ Clone: [https://github.com/Malfrats/xeuledoc.git](https://github.com/Malfrats/xe
 
 Created: 20 March 2021
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 664
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16852,9 +16964,9 @@ Clone: [https://github.com/xodio/xod.git](https://github.com/xodio/xod.git)
 
 Created: 05 August 2015
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 825
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16870,7 +16982,7 @@ Created: 30 June 2014
 
 Updated: 04 March 2023
 
-Stars on GitHub: 336
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16886,7 +16998,7 @@ Created: 26 August 2021
 
 Updated: 09 March 2023
 
-Stars on GitHub: 136
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16900,9 +17012,9 @@ Clone: [https://github.com/kutoga/yapsl.git](https://github.com/kutoga/yapsl.git
 
 Created: 20 November 2022
 
-Updated: 10 March 2023
+Updated: 15 March 2023
 
-Stars on GitHub: 90
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16916,9 +17028,9 @@ Clone: [https://github.com/Owez/yark.git](https://github.com/Owez/yark.git)
 
 Created: 16 August 2022
 
-Updated: 09 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 1678
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16932,9 +17044,9 @@ Clone: [https://github.com/aio-libs/yarl.git](https://github.com/aio-libs/yarl.g
 
 Created: 02 August 2016
 
-Updated: 09 March 2023
+Updated: 14 March 2023
 
-Stars on GitHub: 919
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16948,9 +17060,9 @@ Clone: [https://github.com/ultralytics/yolov5.git](https://github.com/ultralytic
 
 Created: 18 May 2020
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 36085
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16964,9 +17076,9 @@ Clone: [https://github.com/soimort/you-get.git](https://github.com/soimort/you-g
 
 Created: 20 August 2012
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 46831
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16980,9 +17092,9 @@ Clone: [https://github.com/ytdl-org/youtube-dl.git](https://github.com/ytdl-org/
 
 Created: 31 October 2010
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 118580
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -16998,7 +17110,7 @@ Created: 03 November 2021
 
 Updated: 15 November 2022
 
-Stars on GitHub: 8
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -17014,7 +17126,7 @@ Created: 23 August 2018
 
 Updated: 08 March 2023
 
-Stars on GitHub: 62
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -17028,9 +17140,9 @@ Clone: [https://github.com/jdepoix/youtube-transcript-api.git](https://github.co
 
 Created: 20 April 2018
 
-Updated: 10 March 2023
+Updated: 17 March 2023
 
-Stars on GitHub: 1141
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -17044,9 +17156,9 @@ Clone: [https://github.com/dmn001/youtube_channel_archiver.git](https://github.c
 
 Created: 19 March 2018
 
-Updated: 02 March 2023
+Updated: 13 March 2023
 
-Stars on GitHub: 353
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -17060,9 +17172,9 @@ Clone: [https://github.com/yt-dlp/yt-dlp.git](https://github.com/yt-dlp/yt-dlp.g
 
 Created: 26 October 2020
 
-Updated: 10 March 2023
+Updated: 19 March 2023
 
-Stars on GitHub: 42487
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -17078,7 +17190,7 @@ Created: 08 April 2020
 
 Updated: 30 January 2023
 
-Stars on GitHub: 24
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -17092,9 +17204,9 @@ Clone: [https://github.com/sharatsachin/ytplaylist-len.git](https://github.com/s
 
 Created: 26 March 2020
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 596
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -17108,9 +17220,9 @@ Clone: [https://github.com/bol-van/zapret.git](https://github.com/bol-van/zapret
 
 Created: 15 February 2016
 
-Updated: 10 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 2067
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -17126,7 +17238,7 @@ Created: 18 January 2019
 
 Updated: 19 November 2022
 
-Stars on GitHub: 1
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -17142,7 +17254,7 @@ Created: 10 July 2017
 
 Updated: 01 February 2023
 
-Stars on GitHub: 32
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
@@ -17156,9 +17268,9 @@ Clone: [https://github.com/mhogomchungu/zuluCrypt.git](https://github.com/mhogom
 
 Created: 05 June 2013
 
-Updated: 09 March 2023
+Updated: 18 March 2023
 
-Stars on GitHub: 413
+<img src="star.png" height="32" alt="Stars on GitHub"/>
 
 ----
 
