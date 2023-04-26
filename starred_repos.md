@@ -4,9 +4,9 @@ This document generated automatically, see https://github.com/bormaxi8080/github
 
 (c) @bormaxi8080, 2023
 
-Created at: 2023-04-21
+Created at: 2023-04-26
 
-Starred repositories count: 1132
+Starred repositories count: 1137
 
 ----
 
@@ -2785,6 +2785,16 @@ Convert any binary data to a PNG image file and vice versa.
 Have you ever faced with the lack of possibility of using NMap? For instance if you have reverse shell as an unprivileged user and there are no useful tools preinstalled? This is a small script which will help you to scan a network if you have nothing.
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/IvanGlinkin/Port-enumeration.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2020--09--15-brightgreen.svg)](https://github.com/IvanGlinkin/Port-enumeration) [![GitHub last commit](https://img.shields.io/github/last-commit/IvanGlinkin/Port-enumeration.svg?color=blue)](https://github.com/IvanGlinkin/Port-enumeration) [![GitHub tags](https://img.shields.io/github/v/tag/IvanGlinkin/Port-enumeration.svg)](https://github.com/IvanGlinkin/Port-enumeration)
+
+----
+
+### [PowerMeUp](https://github.com/ItsCyberAli/PowerMeUp) from [ItsCyberAli](https://github.com/ItsCyberAli)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/ItsCyberAli) [![GitHub stars](https://img.shields.io/github/stars/ItsCyberAli/PowerMeUp.svg?style=social&label=Stars)](https://github.com/ItsCyberAli/PowerMeUp)
+
+A small library of powershell scripts for post exploitation that you may need or use! It is also a custom reverse shell that you can use to add modules of your choice and not be stuck to things you do not need or use!
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/ItsCyberAli/PowerMeUp.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--10--19-brightgreen.svg)](https://github.com/ItsCyberAli/PowerMeUp) [![GitHub last commit](https://img.shields.io/github/last-commit/ItsCyberAli/PowerMeUp.svg?color=blue)](https://github.com/ItsCyberAli/PowerMeUp) [![GitHub tags](https://img.shields.io/github/v/tag/ItsCyberAli/PowerMeUp.svg)](https://github.com/ItsCyberAli/PowerMeUp)
 
 ----
 
@@ -8400,7 +8410,7 @@ A fast, minimal browser that protects your privacy
 
 A low-code Machine Learning platform to help developers build #AI solutions
 
-[![GitHub topics](https://img.shields.io/badge/Topics-artificial–intelligence%2C%20automl%2C%20clickhouse%2C%20explainable–ai%2C%20explainable–ml%2C%20hacktoberfest%2C%20machine–learning%2C%20machine–learning–api%2C%20mariadb%2C%20ml%2C%20mysql%2C%20postgresql%2C%20pytorch%2C%20singlestore%2C%20snowflake-brightgreen.svg)](https://github.com/mindsdb/mindsdb)
+[![GitHub topics](https://img.shields.io/badge/Topics-artificial–intelligence%2C%20automl%2C%20explainable–ai%2C%20explainable–ml%2C%20gpt–4%2C%20hacktoberfest%2C%20huggingface%2C%20machine–learning%2C%20machine–learning–api%2C%20ml%2C%20mysql%2C%20nlp%2C%20openapi%2C%20postgresql%2C%20pytorch-brightgreen.svg)](https://github.com/mindsdb/mindsdb)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/mindsdb/mindsdb.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2018--08--02-brightgreen.svg)](https://github.com/mindsdb/mindsdb) [![GitHub last commit](https://img.shields.io/github/last-commit/mindsdb/mindsdb.svg?color=blue)](https://github.com/mindsdb/mindsdb) [![GitHub tags](https://img.shields.io/github/v/tag/mindsdb/mindsdb.svg)](https://github.com/mindsdb/mindsdb)
 
@@ -9794,6 +9804,18 @@ Python port of mailcheck.js
 
 ----
 
+### [pymeta](https://github.com/m8sec/pymeta) from [m8sec](https://github.com/m8sec)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/m8sec) [![GitHub stars](https://img.shields.io/github/stars/m8sec/pymeta.svg?style=social&label=Stars)](https://github.com/m8sec/pymeta)
+
+Pymeta will search the web for files on a domain to download and extract metadata. This technique can be used to identify: domains, usernames, software/version numbers and naming conventions.
+
+[![GitHub topics](https://img.shields.io/badge/Topics-extract–metadata%2C%20information–disclosure%2C%20metadata%2C%20metadata–extraction%2C%20pentest%2C%20pentest–tool%2C%20python3-brightgreen.svg)](https://github.com/m8sec/pymeta)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/m8sec/pymeta.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2018--04--03-brightgreen.svg)](https://github.com/m8sec/pymeta) [![GitHub last commit](https://img.shields.io/github/last-commit/m8sec/pymeta.svg?color=blue)](https://github.com/m8sec/pymeta) [![GitHub tags](https://img.shields.io/github/v/tag/m8sec/pymeta.svg)](https://github.com/m8sec/pymeta)
+
+----
+
 ### [python-amqp-example](https://github.com/cloudamqp/python-amqp-example) from [cloudamqp](https://github.com/cloudamqp)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/cloudamqp) [![GitHub stars](https://img.shields.io/github/stars/cloudamqp/python-amqp-example.svg?style=social&label=Stars)](https://github.com/cloudamqp/python-amqp-example)
@@ -9866,7 +9888,9 @@ Qdrant - Vector Database for the next generation of AI applications. Also availa
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/qemu) [![GitHub stars](https://img.shields.io/github/stars/qemu/qemu.svg?style=social&label=Stars)](https://github.com/qemu/qemu)
 
-Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
+Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
+
+[![GitHub topics](https://img.shields.io/badge/Topics-emulation%2C%20qemu%2C%20virtualization-brightgreen.svg)](https://github.com/qemu/qemu)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/qemu/qemu.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2012--08--11-brightgreen.svg)](https://github.com/qemu/qemu) [![GitHub last commit](https://img.shields.io/github/last-commit/qemu/qemu.svg?color=blue)](https://github.com/qemu/qemu) [![GitHub tags](https://img.shields.io/github/v/tag/qemu/qemu.svg)](https://github.com/qemu/qemu)
 
@@ -10641,6 +10665,16 @@ Search Google/Bing/Ecosia/DuckDuckGo/Yandex/Yahoo for a search term (dork) with 
 [![GitHub topics](https://img.shields.io/badge/Topics-baidu%2C%20bing%2C%20bugbounty%2C%20bugcrowd%2C%20duckduckgo%2C%20google%2C%20google–dorks%2C%20googledork%2C%20hackerone%2C%20hacking%2C%20infosec%2C%20intigriti%2C%20osint%2C%20python3%2C%20recon%2C%20reconnaissance%2C%20search%2C%20search–engines%2C%20yahoo%2C%20yandex-brightgreen.svg)](https://github.com/Zarcolio/sitedorks)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/Zarcolio/sitedorks.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2020--04--18-brightgreen.svg)](https://github.com/Zarcolio/sitedorks) [![GitHub last commit](https://img.shields.io/github/last-commit/Zarcolio/sitedorks.svg?color=blue)](https://github.com/Zarcolio/sitedorks) [![GitHub tags](https://img.shields.io/github/v/tag/Zarcolio/sitedorks.svg)](https://github.com/Zarcolio/sitedorks)
+
+----
+
+### [sitemapper-nodejs](https://github.com/alentum/sitemapper-nodejs) from [alentum](https://github.com/alentum)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/alentum) [![GitHub stars](https://img.shields.io/github/stars/alentum/sitemapper-nodejs.svg?style=social&label=Stars)](https://github.com/alentum/sitemapper-nodejs)
+
+Source code of Visual Site Mapper Node.js version
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/alentum/sitemapper-nodejs.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2016--12--02-brightgreen.svg)](https://github.com/alentum/sitemapper-nodejs) [![GitHub last commit](https://img.shields.io/github/last-commit/alentum/sitemapper-nodejs.svg?color=blue)](https://github.com/alentum/sitemapper-nodejs) [![GitHub tags](https://img.shields.io/github/v/tag/alentum/sitemapper-nodejs.svg)](https://github.com/alentum/sitemapper-nodejs)
 
 ----
 
@@ -11748,9 +11782,9 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/trufflesecurity) [![GitHub stars](https://img.shields.io/github/stars/trufflesecurity/trufflehog.svg?style=social&label=Stars)](https://github.com/trufflesecurity/trufflehog)
 
-Find credentials all over the place
+Find and verify credentials
 
-[![GitHub topics](https://img.shields.io/badge/Topics-credentials%2C%20devsecops%2C%20dynamic–analysis%2C%20go%2C%20golang%2C%20secret%2C%20security%2C%20security–tools%2C%20trufflehog-brightgreen.svg)](https://github.com/trufflesecurity/trufflehog)
+[![GitHub topics](https://img.shields.io/badge/Topics-credentials%2C%20devsecops%2C%20dynamic–analysis%2C%20go%2C%20golang%2C%20secret%2C%20secrets%2C%20security%2C%20security–tools%2C%20trufflehog%2C%20verification-brightgreen.svg)](https://github.com/trufflesecurity/trufflehog)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/trufflesecurity/trufflehog.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2016--12--31-brightgreen.svg)](https://github.com/trufflesecurity/trufflehog) [![GitHub last commit](https://img.shields.io/github/last-commit/trufflesecurity/trufflehog.svg?color=blue)](https://github.com/trufflesecurity/trufflehog) [![GitHub tags](https://img.shields.io/github/v/tag/trufflesecurity/trufflehog.svg)](https://github.com/trufflesecurity/trufflehog)
 
@@ -11909,6 +11943,18 @@ A simple tool that helps to find assets/domains based on the Google Analytics ID
 Scripts for performing a UDP port scan using the ICMP rate limit counter vulnerability presented in the paper about the SadDNS attack
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/hugoahosta/udp_port_scan_icmp_side_channel.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2021--01--21-brightgreen.svg)](https://github.com/hugoahosta/udp_port_scan_icmp_side_channel) [![GitHub last commit](https://img.shields.io/github/last-commit/hugoahosta/udp_port_scan_icmp_side_channel.svg?color=blue)](https://github.com/hugoahosta/udp_port_scan_icmp_side_channel) [![GitHub tags](https://img.shields.io/github/v/tag/hugoahosta/udp_port_scan_icmp_side_channel.svg)](https://github.com/hugoahosta/udp_port_scan_icmp_side_channel)
+
+----
+
+### [udpx](https://github.com/nullt3r/udpx) from [nullt3r](https://github.com/nullt3r)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/nullt3r) [![GitHub stars](https://img.shields.io/github/stars/nullt3r/udpx.svg?style=social&label=Stars)](https://github.com/nullt3r/udpx)
+
+Fast and lightweight, UDPX is a single-packet UDP scanner written in Go that supports the discovery of over 45 services with the ability to add custom ones. It is easy to use and portable, and can be run on Linux, Mac OS, and Windows. Unlike internet-wide scanners like zgrab2 and zmap, UDPX is designed for portability and ease of use.
+
+[![GitHub topics](https://img.shields.io/badge/Topics-enumeration%2C%20network%2C%20port–scanner%2C%20portscanner%2C%20scanner%2C%20udp%2C%20udp–scanning%2C%20vulnerability–scanners-brightgreen.svg)](https://github.com/nullt3r/udpx)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/nullt3r/udpx.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--11--16-brightgreen.svg)](https://github.com/nullt3r/udpx) [![GitHub last commit](https://img.shields.io/github/last-commit/nullt3r/udpx.svg?color=blue)](https://github.com/nullt3r/udpx) [![GitHub tags](https://img.shields.io/github/v/tag/nullt3r/udpx.svg)](https://github.com/nullt3r/udpx)
 
 ----
 
@@ -12193,6 +12239,18 @@ Scrape VK URLs to fetch info and media - python API or command line tool.
 [![GitHub topics](https://img.shields.io/badge/Topics-media–downloader%2C%20scraper%2C%20vk%2C%20vk–api%2C%20vkontakte-brightgreen.svg)](https://github.com/bellingcat/vk-url-scraper)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/bellingcat/vk-url-scraper.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--06--17-brightgreen.svg)](https://github.com/bellingcat/vk-url-scraper) [![GitHub last commit](https://img.shields.io/github/last-commit/bellingcat/vk-url-scraper.svg?color=blue)](https://github.com/bellingcat/vk-url-scraper) [![GitHub tags](https://img.shields.io/github/v/tag/bellingcat/vk-url-scraper.svg)](https://github.com/bellingcat/vk-url-scraper)
+
+----
+
+### [volatility](https://github.com/volatilityfoundation/volatility) from [volatilityfoundation](https://github.com/volatilityfoundation)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/volatilityfoundation) [![GitHub stars](https://img.shields.io/github/stars/volatilityfoundation/volatility.svg?style=social&label=Stars)](https://github.com/volatilityfoundation/volatility)
+
+An advanced memory forensics framework
+
+[![GitHub topics](https://img.shields.io/badge/Topics-malware%2C%20memory%2C%20python%2C%20ram%2C%20volatility–framework-brightgreen.svg)](https://github.com/volatilityfoundation/volatility)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/volatilityfoundation/volatility.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2014--04--24-brightgreen.svg)](https://github.com/volatilityfoundation/volatility) [![GitHub last commit](https://img.shields.io/github/last-commit/volatilityfoundation/volatility.svg?color=blue)](https://github.com/volatilityfoundation/volatility) [![GitHub tags](https://img.shields.io/github/v/tag/volatilityfoundation/volatility.svg)](https://github.com/volatilityfoundation/volatility)
 
 ----
 
