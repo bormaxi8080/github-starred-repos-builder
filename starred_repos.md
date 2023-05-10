@@ -4,9 +4,9 @@ This document generated automatically, see https://github.com/bormaxi8080/github
 
 (c) @bormaxi8080, 2023
 
-Created at: 2023-05-04
+Created at: 2023-05-10
 
-Starred repositories count: 1149
+Starred repositories count: 1153
 
 ----
 
@@ -14,9 +14,9 @@ Starred repositories count: 1149
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/30-seconds) [![GitHub stars](https://img.shields.io/github/stars/30-seconds/30-seconds-of-code.svg?style=social&label=Stars)](https://github.com/30-seconds/30-seconds-of-code)
 
-Short JavaScript code snippets for all your development needs
+Short code snippets for all your development needs
 
-[![GitHub topics](https://img.shields.io/badge/Topics-awesome–list%2C%20education%2C%20es6–javascript%2C%20javascript%2C%20learn–to–code%2C%20learning–resources%2C%20nodejs%2C%20programming%2C%20snippets%2C%20snippets–collection-brightgreen.svg)](https://github.com/30-seconds/30-seconds-of-code)
+[![GitHub topics](https://img.shields.io/badge/Topics-awesome–list%2C%20css%2C%20education%2C%20es6–javascript%2C%20git%2C%20html%2C%20javascript%2C%20learn–to–code%2C%20learning–resources%2C%20nodejs%2C%20programming%2C%20python%2C%20reactjs%2C%20snippets%2C%20snippets–collection-brightgreen.svg)](https://github.com/30-seconds/30-seconds-of-code)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/30-seconds/30-seconds-of-code.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2017--11--29-brightgreen.svg)](https://github.com/30-seconds/30-seconds-of-code) [![GitHub last commit](https://img.shields.io/github/last-commit/30-seconds/30-seconds-of-code.svg?color=blue)](https://github.com/30-seconds/30-seconds-of-code) [![GitHub tags](https://img.shields.io/github/v/tag/30-seconds/30-seconds-of-code.svg)](https://github.com/30-seconds/30-seconds-of-code)
 
@@ -591,6 +591,8 @@ CMSmap is a python open source CMS scanner that automates the process of detecti
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/CScorza) [![GitHub stars](https://img.shields.io/github/stars/CScorza/CORPINT-Corporate-Intelligence.svg?style=social&label=Stars)](https://github.com/CScorza/CORPINT-Corporate-Intelligence)
 
 CORPINT - Corporate / Business Intelligence
+
+[![GitHub topics](https://img.shields.io/badge/Topics-banking%2C%20business%2C%20business–intelligence%2C%20corpint%2C%20intelligence%2C%20whitepapers-brightgreen.svg)](https://github.com/CScorza/CORPINT-Corporate-Intelligence)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/CScorza/CORPINT-Corporate-Intelligence.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--10--10-brightgreen.svg)](https://github.com/CScorza/CORPINT-Corporate-Intelligence) [![GitHub last commit](https://img.shields.io/github/last-commit/CScorza/CORPINT-Corporate-Intelligence.svg?color=blue)](https://github.com/CScorza/CORPINT-Corporate-Intelligence) [![GitHub tags](https://img.shields.io/github/v/tag/CScorza/CORPINT-Corporate-Intelligence.svg)](https://github.com/CScorza/CORPINT-Corporate-Intelligence)
 
@@ -3528,7 +3530,9 @@ Process the exported Telegram chat history .html and generate a report message c
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/cqcore) [![GitHub stars](https://img.shields.io/github/stars/cqcore/Telegram-OSINT.svg?style=social&label=Stars)](https://github.com/cqcore/Telegram-OSINT)
 
-No project description
+In-depth repository of Telegram OSINT resources covering, tools, techniques & tradecraft.
+
+[![GitHub topics](https://img.shields.io/badge/Topics-osint%2C%20telegram%2C%20telegram–bot-brightgreen.svg)](https://github.com/cqcore/Telegram-OSINT)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/cqcore/Telegram-OSINT.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--04--15-brightgreen.svg)](https://github.com/cqcore/Telegram-OSINT) [![GitHub last commit](https://img.shields.io/github/last-commit/cqcore/Telegram-OSINT.svg?color=blue)](https://github.com/cqcore/Telegram-OSINT) [![GitHub tags](https://img.shields.io/github/v/tag/cqcore/Telegram-OSINT.svg)](https://github.com/cqcore/Telegram-OSINT)
 
@@ -3609,6 +3613,18 @@ How to Copy Text from Images ? Answer is TextSnatcher !. Perform OCR operations 
 A project for storing configuration files, passwords or text files with ChaCha20 encryption and Gzip compression on Telegram servers.
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/fleef-me/TgBackUP.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--09--25-brightgreen.svg)](https://github.com/fleef-me/TgBackUP) [![GitHub last commit](https://img.shields.io/github/last-commit/fleef-me/TgBackUP.svg?color=blue)](https://github.com/fleef-me/TgBackUP) [![GitHub tags](https://img.shields.io/github/v/tag/fleef-me/TgBackUP.svg)](https://github.com/fleef-me/TgBackUP)
+
+----
+
+### [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) from [Moham3dRiahi](https://github.com/Moham3dRiahi)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/Moham3dRiahi) [![GitHub stars](https://img.shields.io/github/stars/Moham3dRiahi/Th3inspector.svg?style=social&label=Stars)](https://github.com/Moham3dRiahi/Th3inspector)
+
+Th3Inspector 🕵️ Best Tool For Information Gathering 🔎
+
+[![GitHub topics](https://img.shields.io/badge/Topics-age–check%2C%20cloudflare%2C%20cms–detector%2C%20credit–card–scaning%2C%20dns–record%2C%20email–validation%2C%20geo–ip%2C%20geoip%2C%20information–gathering%2C%20iplocation%2C%20lookup%2C%20mx–lookup%2C%20port–scanner%2C%20reverse–ip–scan%2C%20reverse–phone–lookup%2C%20subdomain–scanner%2C%20traceroute%2C%20user–agent%2C%20whois%2C%20whois–lookup-brightgreen.svg)](https://github.com/Moham3dRiahi/Th3inspector)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/Moham3dRiahi/Th3inspector.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2018--02--17-brightgreen.svg)](https://github.com/Moham3dRiahi/Th3inspector) [![GitHub last commit](https://img.shields.io/github/last-commit/Moham3dRiahi/Th3inspector.svg?color=blue)](https://github.com/Moham3dRiahi/Th3inspector) [![GitHub tags](https://img.shields.io/github/v/tag/Moham3dRiahi/Th3inspector.svg)](https://github.com/Moham3dRiahi/Th3inspector)
 
 ----
 
@@ -5784,6 +5800,18 @@ A translation app for GNOME.
 
 ----
 
+### [dino](https://github.com/dino/dino) from [dino](https://github.com/dino)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/dino) [![GitHub stars](https://img.shields.io/github/stars/dino/dino.svg?style=social&label=Stars)](https://github.com/dino/dino)
+
+Modern XMPP ("Jabber") Chat Client using GTK+/Vala
+
+[![GitHub topics](https://img.shields.io/badge/Topics-chat%2C%20dino%2C%20gtk%2C%20gtk4%2C%20jabber%2C%20jabber–client%2C%20jingle%2C%20linux–desktop%2C%20messenger%2C%20omemo%2C%20p2p%2C%20vala%2C%20xml%2C%20xmpp%2C%20xmpp–client-brightgreen.svg)](https://github.com/dino/dino)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/dino/dino.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2017--03--02-brightgreen.svg)](https://github.com/dino/dino) [![GitHub last commit](https://img.shields.io/github/last-commit/dino/dino.svg?color=blue)](https://github.com/dino/dino) [![GitHub tags](https://img.shields.io/github/v/tag/dino/dino.svg)](https://github.com/dino/dino)
+
+----
+
 ### [dirscraper](https://github.com/Cillian-Collins/dirscraper) from [Cillian-Collins](https://github.com/Cillian-Collins)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/Cillian-Collins) [![GitHub stars](https://img.shields.io/github/stars/Cillian-Collins/dirscraper.svg?style=social&label=Stars)](https://github.com/Cillian-Collins/dirscraper)
@@ -7776,9 +7804,9 @@ Convert one JSON to another
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/AykutSarac) [![GitHub stars](https://img.shields.io/github/stars/AykutSarac/jsoncrack.com.svg?style=social&label=Stars)](https://github.com/AykutSarac/jsoncrack.com)
 
-⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
+✨ Seamlessly visualize your JSON data instantly into graphs.
 
-[![GitHub topics](https://img.shields.io/badge/Topics-graph%2C%20json%2C%20jsoncrack%2C%20nextjs%2C%20react%2C%20tool%2C%20visualization-brightgreen.svg)](https://github.com/AykutSarac/jsoncrack.com)
+[![GitHub topics](https://img.shields.io/badge/Topics-diagrams%2C%20graph%2C%20json%2C%20nextjs%2C%20productivity%2C%20react%2C%20tool%2C%20visualization-brightgreen.svg)](https://github.com/AykutSarac/jsoncrack.com)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/AykutSarac/jsoncrack.com.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--01--30-brightgreen.svg)](https://github.com/AykutSarac/jsoncrack.com) [![GitHub last commit](https://img.shields.io/github/last-commit/AykutSarac/jsoncrack.com.svg?color=blue)](https://github.com/AykutSarac/jsoncrack.com) [![GitHub tags](https://img.shields.io/github/v/tag/AykutSarac/jsoncrack.com.svg)](https://github.com/AykutSarac/jsoncrack.com)
 
@@ -8462,6 +8490,18 @@ Metasploitable3 is a VM that is built from the ground up with a large amount of 
 
 ----
 
+### [metlo](https://github.com/metlo-labs/metlo) from [metlo-labs](https://github.com/metlo-labs)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/metlo-labs) [![GitHub stars](https://img.shields.io/github/stars/metlo-labs/metlo.svg?style=social&label=Stars)](https://github.com/metlo-labs/metlo)
+
+Metlo is an open-source API security platform.
+
+[![GitHub topics](https://img.shields.io/badge/Topics-api–gateway%2C%20api–pentest%2C%20api–security%2C%20application–security%2C%20aws%2C%20bugbounty%2C%20bugbounty–tools%2C%20cybersecurity%2C%20infosec%2C%20infosectools%2C%20metlo%2C%20monitoring%2C%20pentest%2C%20security%2C%20vulnerabilities%2C%20vulnerability–detection-brightgreen.svg)](https://github.com/metlo-labs/metlo)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/metlo-labs/metlo.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--07--26-brightgreen.svg)](https://github.com/metlo-labs/metlo) [![GitHub last commit](https://img.shields.io/github/last-commit/metlo-labs/metlo.svg?color=blue)](https://github.com/metlo-labs/metlo) [![GitHub tags](https://img.shields.io/github/v/tag/metlo-labs/metlo.svg)](https://github.com/metlo-labs/metlo)
+
+----
+
 ### [mh2](https://github.com/mailhog/mh2) from [mailhog](https://github.com/mailhog)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/mailhog) [![GitHub stars](https://img.shields.io/github/stars/mailhog/mh2.svg?style=social&label=Stars)](https://github.com/mailhog/mh2)
@@ -8940,7 +8980,7 @@ Nym provides strong network-level privacy against sophisticated end-to-end attac
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/Yakitrak) [![GitHub stars](https://img.shields.io/github/stars/Yakitrak/obsidian-cli.svg?style=social&label=Stars)](https://github.com/Yakitrak/obsidian-cli)
 
-This CLI tool will let you interact with Obsidian using the terminal. You are able to open, search, create, update and move notes!
+Interact with Obsidian in the terminal. Open, search, create, update, move and delete notes!
 
 [![GitHub topics](https://img.shields.io/badge/Topics-bash%2C%20cli%2C%20go%2C%20golang%2C%20obsidian%2C%20zsh-brightgreen.svg)](https://github.com/Yakitrak/obsidian-cli)
 
@@ -10444,15 +10484,15 @@ A Google Earth Engine tool for identifying satellite radar interference.
 
 ----
 
-### [sarenka](https://github.com/pawlaczyk/sarenka) from [pawlaczyk](https://github.com/pawlaczyk)
+### [sarenka](https://github.com/KTZgraph/sarenka) from [KTZgraph](https://github.com/KTZgraph)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/pawlaczyk) [![GitHub stars](https://img.shields.io/github/stars/pawlaczyk/sarenka.svg?style=social&label=Stars)](https://github.com/pawlaczyk/sarenka)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/KTZgraph) [![GitHub stars](https://img.shields.io/github/stars/KTZgraph/sarenka.svg?style=social&label=Stars)](https://github.com/KTZgraph/sarenka)
 
 OSINT tool - gets data from services like shodan, censys etc. in one app
 
-[![GitHub topics](https://img.shields.io/badge/Topics-censys–api%2C%20cve%2C%20cve–databases%2C%20cve–search%2C%20cwe%2C%20cwe–search%2C%20django%2C%20django–rest–framework%2C%20docker%2C%20osint%2C%20osint–python%2C%20python3%2C%20react%2C%20react–persist%2C%20react–redux%2C%20react–thunk%2C%20reactjs%2C%20reconnaissance%2C%20scraping–websites%2C%20shodan–api-brightgreen.svg)](https://github.com/pawlaczyk/sarenka)
+[![GitHub topics](https://img.shields.io/badge/Topics-censys–api%2C%20cve%2C%20cve–databases%2C%20cve–search%2C%20cwe%2C%20cwe–search%2C%20django%2C%20django–rest–framework%2C%20docker%2C%20osint%2C%20osint–python%2C%20python3%2C%20react%2C%20react–persist%2C%20react–redux%2C%20react–thunk%2C%20reactjs%2C%20reconnaissance%2C%20scraping–websites%2C%20shodan–api-brightgreen.svg)](https://github.com/KTZgraph/sarenka)
 
-[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/pawlaczyk/sarenka.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2020--01--21-brightgreen.svg)](https://github.com/pawlaczyk/sarenka) [![GitHub last commit](https://img.shields.io/github/last-commit/pawlaczyk/sarenka.svg?color=blue)](https://github.com/pawlaczyk/sarenka) [![GitHub tags](https://img.shields.io/github/v/tag/pawlaczyk/sarenka.svg)](https://github.com/pawlaczyk/sarenka)
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/KTZgraph/sarenka.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2020--01--21-brightgreen.svg)](https://github.com/KTZgraph/sarenka) [![GitHub last commit](https://img.shields.io/github/last-commit/KTZgraph/sarenka.svg?color=blue)](https://github.com/KTZgraph/sarenka) [![GitHub tags](https://img.shields.io/github/v/tag/KTZgraph/sarenka.svg)](https://github.com/KTZgraph/sarenka)
 
 ----
 
@@ -11817,6 +11857,18 @@ Toutatis is a tool that allows you to extract information from instagrams accoun
 [![GitHub topics](https://img.shields.io/badge/Topics-information–gathering%2C%20instagram%2C%20instagram–scraper%2C%20open–source–intelligence%2C%20osint%2C%20osint–tools%2C%20python-brightgreen.svg)](https://github.com/megadose/toutatis)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/megadose/toutatis.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2020--02--03-brightgreen.svg)](https://github.com/megadose/toutatis) [![GitHub last commit](https://img.shields.io/github/last-commit/megadose/toutatis.svg?color=blue)](https://github.com/megadose/toutatis) [![GitHub tags](https://img.shields.io/github/v/tag/megadose/toutatis.svg)](https://github.com/megadose/toutatis)
+
+----
+
+### [toxssin](https://github.com/t3l3machus/toxssin) from [t3l3machus](https://github.com/t3l3machus)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/t3l3machus) [![GitHub stars](https://img.shields.io/github/stars/t3l3machus/toxssin.svg?style=social&label=Stars)](https://github.com/t3l3machus/toxssin)
+
+An XSS exploitation command-line interface and payload generator.
+
+[![GitHub topics](https://img.shields.io/badge/Topics-cross–site–scripting%2C%20exploitation%2C%20hacking%2C%20javascript%2C%20penetration–testing%2C%20pentesting–tools%2C%20python%2C%20web–penetration–testing%2C%20xss%2C%20xss–exploitation%2C%20xss–vulnerability-brightgreen.svg)](https://github.com/t3l3machus/toxssin)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/t3l3machus/toxssin.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--05--08-brightgreen.svg)](https://github.com/t3l3machus/toxssin) [![GitHub last commit](https://img.shields.io/github/last-commit/t3l3machus/toxssin.svg?color=blue)](https://github.com/t3l3machus/toxssin) [![GitHub tags](https://img.shields.io/github/v/tag/t3l3machus/toxssin.svg)](https://github.com/t3l3machus/toxssin)
 
 ----
 
