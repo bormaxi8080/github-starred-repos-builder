@@ -4,9 +4,9 @@ This document generated automatically, see https://github.com/bormaxi8080/github
 
 (c) @bormaxi8080, 2023
 
-Created at: 2023-05-10
+Created at: 2023-05-17
 
-Starred repositories count: 1153
+Starred repositories count: 1161
 
 ----
 
@@ -471,6 +471,18 @@ google dork for search top backlink
 [![GitHub topics](https://img.shields.io/badge/Topics-awesome%2C%20awesome–list%2C%20awesome–readme%2C%20badge%2C%20badges%2C%20collection%2C%20github%2C%20github–pages%2C%20github–profile%2C%20github–profile–readme%2C%20icon%2C%20icons%2C%20markdown%2C%20profile%2C%20readme%2C%20readme–profile%2C%20shield%2C%20shields%2C%20social%2C%20uri-brightgreen.svg)](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/alexandresanlim/Badges4-README.md-Profile.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2020--03--13-brightgreen.svg)](https://github.com/alexandresanlim/Badges4-README.md-Profile) [![GitHub last commit](https://img.shields.io/github/last-commit/alexandresanlim/Badges4-README.md-Profile.svg?color=blue)](https://github.com/alexandresanlim/Badges4-README.md-Profile) [![GitHub tags](https://img.shields.io/github/v/tag/alexandresanlim/Badges4-README.md-Profile.svg)](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+
+----
+
+### [Bashfuscator](https://github.com/Bashfuscator/Bashfuscator) from [Bashfuscator](https://github.com/Bashfuscator)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/Bashfuscator) [![GitHub stars](https://img.shields.io/github/stars/Bashfuscator/Bashfuscator.svg?style=social&label=Stars)](https://github.com/Bashfuscator/Bashfuscator)
+
+A fully configurable and extendable Bash obfuscation framework. This tool is intended to help both red team and blue team.
+
+[![GitHub topics](https://img.shields.io/badge/Topics-bash%2C%20blue–team%2C%20evasion%2C%20incident–response%2C%20infosec%2C%20linux%2C%20linux–shell%2C%20obfuscation%2C%20red–team-brightgreen.svg)](https://github.com/Bashfuscator/Bashfuscator)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/Bashfuscator/Bashfuscator.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2018--08--03-brightgreen.svg)](https://github.com/Bashfuscator/Bashfuscator) [![GitHub last commit](https://img.shields.io/github/last-commit/Bashfuscator/Bashfuscator.svg?color=blue)](https://github.com/Bashfuscator/Bashfuscator) [![GitHub tags](https://img.shields.io/github/v/tag/Bashfuscator/Bashfuscator.svg)](https://github.com/Bashfuscator/Bashfuscator)
 
 ----
 
@@ -1793,6 +1805,16 @@ No project description
 [![GitHub topics](https://img.shields.io/badge/Topics-bash–script%2C%20inploit%2C%20search–engine%2C%20security–scanner%2C%20security–tools%2C%20zoomeye–api-brightgreen.svg)](https://github.com/keerok/InploitEye)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/keerok/InploitEye.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2017--07--09-brightgreen.svg)](https://github.com/keerok/InploitEye) [![GitHub last commit](https://img.shields.io/github/last-commit/keerok/InploitEye.svg?color=blue)](https://github.com/keerok/InploitEye) [![GitHub tags](https://img.shields.io/github/v/tag/keerok/InploitEye.svg)](https://github.com/keerok/InploitEye)
+
+----
+
+### [InstaOSINTbr](https://github.com/DavizinBR/InstaOSINTbr) from [DavizinBR](https://github.com/DavizinBR)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/DavizinBR) [![GitHub stars](https://img.shields.io/github/stars/DavizinBR/InstaOSINTbr.svg?style=social&label=Stars)](https://github.com/DavizinBR/InstaOSINTbr)
+
+investigação de contas no instagram
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/DavizinBR/InstaOSINTbr.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--05--15-brightgreen.svg)](https://github.com/DavizinBR/InstaOSINTbr) [![GitHub last commit](https://img.shields.io/github/last-commit/DavizinBR/InstaOSINTbr.svg?color=blue)](https://github.com/DavizinBR/InstaOSINTbr) [![GitHub tags](https://img.shields.io/github/v/tag/DavizinBR/InstaOSINTbr.svg)](https://github.com/DavizinBR/InstaOSINTbr)
 
 ----
 
@@ -3332,6 +3354,18 @@ SecretFinder - A python script for find sensitive data (apikeys, accesstoken,jwt
 
 ----
 
+### [SecretKeyWords](https://github.com/nsonaniya2010/SecretKeyWords) from [nsonaniya2010](https://github.com/nsonaniya2010)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/nsonaniya2010) [![GitHub stars](https://img.shields.io/github/stars/nsonaniya2010/SecretKeyWords.svg?style=social&label=Stars)](https://github.com/nsonaniya2010/SecretKeyWords)
+
+Secret Keywords patterns - aggregated from different sources.
+
+[![GitHub topics](https://img.shields.io/badge/Topics-infosec%2C%20secret–keys%2C%20secrets%2C%20security–automation%2C%20security–tools-brightgreen.svg)](https://github.com/nsonaniya2010/SecretKeyWords)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/nsonaniya2010/SecretKeyWords.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2018--12--03-brightgreen.svg)](https://github.com/nsonaniya2010/SecretKeyWords) [![GitHub last commit](https://img.shields.io/github/last-commit/nsonaniya2010/SecretKeyWords.svg?color=blue)](https://github.com/nsonaniya2010/SecretKeyWords) [![GitHub tags](https://img.shields.io/github/v/tag/nsonaniya2010/SecretKeyWords.svg)](https://github.com/nsonaniya2010/SecretKeyWords)
+
+----
+
 ### [SecretOpt1c](https://github.com/blackhatethicalhacking/SecretOpt1c) from [blackhatethicalhacking](https://github.com/blackhatethicalhacking)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/blackhatethicalhacking) [![GitHub stars](https://img.shields.io/github/stars/blackhatethicalhacking/SecretOpt1c.svg?style=social&label=Stars)](https://github.com/blackhatethicalhacking/SecretOpt1c)
@@ -3481,6 +3515,18 @@ Strumenti per rilevare ed estrarre informazioni nascoste all'interno di file.
 [![GitHub topics](https://img.shields.io/badge/Topics-algorithm%2C%20audio%2C%20file%2C%20image%2C%20intelligence%2C%20spy%2C%20steganography–algorithms%2C%20stego–image%2C%20stegonography-brightgreen.svg)](https://github.com/CScorza/StegoIntelligence)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/CScorza/StegoIntelligence.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--01--28-brightgreen.svg)](https://github.com/CScorza/StegoIntelligence) [![GitHub last commit](https://img.shields.io/github/last-commit/CScorza/StegoIntelligence.svg?color=blue)](https://github.com/CScorza/StegoIntelligence) [![GitHub tags](https://img.shields.io/github/v/tag/CScorza/StegoIntelligence.svg)](https://github.com/CScorza/StegoIntelligence)
+
+----
+
+### [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer) from [nsonaniya2010](https://github.com/nsonaniya2010)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/nsonaniya2010) [![GitHub stars](https://img.shields.io/github/stars/nsonaniya2010/SubDomainizer.svg?style=social&label=Stars)](https://github.com/nsonaniya2010/SubDomainizer)
+
+A tool to find subdomains and interesting things hidden inside, external Javascript files of page, folder, and Github.
+
+[![GitHub topics](https://img.shields.io/badge/Topics-bug–bounty%2C%20bugbounty%2C%20cloud–storage–services%2C%20external–javascripts%2C%20find–secrets%2C%20find–subdomains%2C%20madeinindia%2C%20python3%2C%20s3–bucket%2C%20s3–buckets%2C%20secretfinder%2C%20secrets%2C%20security%2C%20security–automation%2C%20security–tools%2C%20subdomain–enumeration%2C%20subdomain–scanner-brightgreen.svg)](https://github.com/nsonaniya2010/SubDomainizer)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/nsonaniya2010/SubDomainizer.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2018--11--19-brightgreen.svg)](https://github.com/nsonaniya2010/SubDomainizer) [![GitHub last commit](https://img.shields.io/github/last-commit/nsonaniya2010/SubDomainizer.svg?color=blue)](https://github.com/nsonaniya2010/SubDomainizer) [![GitHub tags](https://img.shields.io/github/v/tag/nsonaniya2010/SubDomainizer.svg)](https://github.com/nsonaniya2010/SubDomainizer)
 
 ----
 
@@ -6172,6 +6218,16 @@ Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.j
 
 ----
 
+### [evilginx2](https://github.com/kgretzky/evilginx2) from [kgretzky](https://github.com/kgretzky)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/kgretzky) [![GitHub stars](https://img.shields.io/github/stars/kgretzky/evilginx2.svg?style=social&label=Stars)](https://github.com/kgretzky/evilginx2)
+
+Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/kgretzky/evilginx2.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2018--07--10-brightgreen.svg)](https://github.com/kgretzky/evilginx2) [![GitHub last commit](https://img.shields.io/github/last-commit/kgretzky/evilginx2.svg?color=blue)](https://github.com/kgretzky/evilginx2) [![GitHub tags](https://img.shields.io/github/v/tag/kgretzky/evilginx2.svg)](https://github.com/kgretzky/evilginx2)
+
+----
+
 ### [examples](https://github.com/cloud-native-go/examples) from [cloud-native-go](https://github.com/cloud-native-go)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/cloud-native-go) [![GitHub stars](https://img.shields.io/github/stars/cloud-native-go/examples.svg?style=social&label=Stars)](https://github.com/cloud-native-go/examples)
@@ -8244,6 +8300,18 @@ Reduce misspelled email addresses in Ruby.
 
 ----
 
+### [mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) from [mailcow](https://github.com/mailcow)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/mailcow) [![GitHub stars](https://img.shields.io/github/stars/mailcow/mailcow-dockerized.svg?style=social&label=Stars)](https://github.com/mailcow/mailcow-dockerized)
+
+mailcow: dockerized - 🐮 + 🐋 = 💕
+
+[![GitHub topics](https://img.shields.io/badge/Topics-acme%2C%20clamav%2C%20docker%2C%20docker–compose%2C%20dovecot%2C%20groupware%2C%20hacktoberfest%2C%20imap%2C%20mail%2C%20mailcow%2C%20mailserver%2C%20olefy%2C%20postfix%2C%20rspamd%2C%20servercow%2C%20smtp%2C%20sogo-brightgreen.svg)](https://github.com/mailcow/mailcow-dockerized)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/mailcow/mailcow-dockerized.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2016--12--09-brightgreen.svg)](https://github.com/mailcow/mailcow-dockerized) [![GitHub last commit](https://img.shields.io/github/last-commit/mailcow/mailcow-dockerized.svg?color=blue)](https://github.com/mailcow/mailcow-dockerized) [![GitHub tags](https://img.shields.io/github/v/tag/mailcow/mailcow-dockerized.svg)](https://github.com/mailcow/mailcow-dockerized)
+
+----
+
 ### [mailtools](https://github.com/aels/mailtools) from [aels](https://github.com/aels)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/aels) [![GitHub stars](https://img.shields.io/github/stars/aels/mailtools.svg?style=social&label=Stars)](https://github.com/aels/mailtools)
@@ -9720,6 +9788,18 @@ A better notebook for Scala (and more)
 
 ----
 
+### [postmaniac](https://github.com/boringthegod/postmaniac) from [boringthegod](https://github.com/boringthegod)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/boringthegod) [![GitHub stars](https://img.shields.io/github/stars/boringthegod/postmaniac.svg?style=social&label=Stars)](https://github.com/boringthegod/postmaniac)
+
+Postman OSINT tool to extract creds, token, username, email & more from Postman Public Workspaces
+
+[![GitHub topics](https://img.shields.io/badge/Topics-osint%2C%20postman-brightgreen.svg)](https://github.com/boringthegod/postmaniac)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/boringthegod/postmaniac.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--05--10-brightgreen.svg)](https://github.com/boringthegod/postmaniac) [![GitHub last commit](https://img.shields.io/github/last-commit/boringthegod/postmaniac.svg?color=blue)](https://github.com/boringthegod/postmaniac) [![GitHub tags](https://img.shields.io/github/v/tag/boringthegod/postmaniac.svg)](https://github.com/boringthegod/postmaniac)
+
+----
+
 ### [ppdeep](https://github.com/elceef/ppdeep) from [elceef](https://github.com/elceef)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/elceef) [![GitHub stars](https://img.shields.io/github/stars/elceef/ppdeep.svg?style=social&label=Stars)](https://github.com/elceef/ppdeep)
@@ -9784,9 +9864,9 @@ The New (auto rotate) Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :perfor
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/t3l3machus) [![GitHub stars](https://img.shields.io/github/stars/t3l3machus/psudohash.svg?style=social&label=Stars)](https://github.com/t3l3machus/psudohash)
 
-Password list generator that focuses on keywords mutated by commonly used password creation patterns
+Generates millions of keyword-based password mutations in seconds.
 
-[![GitHub topics](https://img.shields.io/badge/Topics-brute–force–attacks%2C%20bruteforce%2C%20hacking%2C%20hacking–tool%2C%20open–source%2C%20password–generator%2C%20penetration–testing%2C%20pentesting%2C%20security–tools-brightgreen.svg)](https://github.com/t3l3machus/psudohash)
+[![GitHub topics](https://img.shields.io/badge/Topics-brute–force–attacks%2C%20bruteforce%2C%20hacking%2C%20hacking–tool%2C%20hash–cracking%2C%20open–source%2C%20password–generator%2C%20penetration–testing%2C%20pentesting%2C%20security–tools-brightgreen.svg)](https://github.com/t3l3machus/psudohash)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/t3l3machus/psudohash.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--06--29-brightgreen.svg)](https://github.com/t3l3machus/psudohash) [![GitHub last commit](https://img.shields.io/github/last-commit/t3l3machus/psudohash.svg?color=blue)](https://github.com/t3l3machus/psudohash) [![GitHub tags](https://img.shields.io/github/v/tag/t3l3machus/psudohash.svg)](https://github.com/t3l3machus/psudohash)
 
@@ -10474,6 +10554,18 @@ Parallel S3 and local filesystem execution tool.
 
 ----
 
+### [sanfinder](https://github.com/nsonaniya2010/sanfinder) from [nsonaniya2010](https://github.com/nsonaniya2010)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/nsonaniya2010) [![GitHub stars](https://img.shields.io/github/stars/nsonaniya2010/sanfinder.svg?style=social&label=Stars)](https://github.com/nsonaniya2010/sanfinder)
+
+It finds Subject Alternative Names for a given list of domains
+
+[![GitHub topics](https://img.shields.io/badge/Topics-bug–bounty%2C%20bug–hunting%2C%20bugbounty%2C%20infosec%2C%20madeinindia%2C%20security%2C%20security–tools-brightgreen.svg)](https://github.com/nsonaniya2010/sanfinder)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/nsonaniya2010/sanfinder.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2021--08--21-brightgreen.svg)](https://github.com/nsonaniya2010/sanfinder) [![GitHub last commit](https://img.shields.io/github/last-commit/nsonaniya2010/sanfinder.svg?color=blue)](https://github.com/nsonaniya2010/sanfinder) [![GitHub tags](https://img.shields.io/github/v/tag/nsonaniya2010/sanfinder.svg)](https://github.com/nsonaniya2010/sanfinder)
+
+----
+
 ### [sar-interference-tracker](https://github.com/bellingcat/sar-interference-tracker) from [bellingcat](https://github.com/bellingcat)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/bellingcat) [![GitHub stars](https://img.shields.io/github/stars/bellingcat/sar-interference-tracker.svg?style=social&label=Stars)](https://github.com/bellingcat/sar-interference-tracker)
@@ -10662,7 +10754,7 @@ Secure end-to-end-encryption for Node.js.
 
 A multi-purpose OSINT toolkit with a neat web-interface.
 
-[![GitHub topics](https://img.shields.io/badge/Topics-badgerdb%2C%20email–osint%2C%20github–osint%2C%20golang%2C%20information–gathering%2C%20osint%2C%20osint–tools%2C%20social–engineering%2C%20web–interface-brightgreen.svg)](https://github.com/seekr-osint/seekr)
+[![GitHub topics](https://img.shields.io/badge/Topics-badgerdb%2C%20email–osint%2C%20github–osint%2C%20golang%2C%20information–gathering%2C%20osint%2C%20osint–tools%2C%20social–engineering%2C%20typescript%2C%20web–interface-brightgreen.svg)](https://github.com/seekr-osint/seekr)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/seekr-osint/seekr.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--12--06-brightgreen.svg)](https://github.com/seekr-osint/seekr) [![GitHub last commit](https://img.shields.io/github/last-commit/seekr-osint/seekr.svg?color=blue)](https://github.com/seekr-osint/seekr) [![GitHub tags](https://img.shields.io/github/v/tag/seekr-osint/seekr.svg)](https://github.com/seekr-osint/seekr)
 
