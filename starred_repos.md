@@ -4,9 +4,9 @@ This document generated automatically, see https://github.com/bormaxi8080/github
 
 (c) @bormaxi8080, 2023
 
-Created at: 2023-05-17
+Created at: 2023-05-26
 
-Starred repositories count: 1161
+Starred repositories count: 1172
 
 ----
 
@@ -541,6 +541,18 @@ Bot detection library that runs in the browser. Detects automation tools and fra
 [![GitHub topics](https://img.shields.io/badge/Topics-automation%2C%20bot–detection%2C%20bots%2C%20headless–chrome%2C%20playwright%2C%20puppeteer%2C%20selenium-brightgreen.svg)](https://github.com/fingerprintjs/BotD)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/fingerprintjs/BotD.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2021--03--10-brightgreen.svg)](https://github.com/fingerprintjs/BotD) [![GitHub last commit](https://img.shields.io/github/last-commit/fingerprintjs/BotD.svg?color=blue)](https://github.com/fingerprintjs/BotD) [![GitHub tags](https://img.shields.io/github/v/tag/fingerprintjs/BotD.svg)](https://github.com/fingerprintjs/BotD)
+
+----
+
+### [BruteForceDecryptPDF](https://github.com/CScorza/BruteForceDecryptPDF) from [CScorza](https://github.com/CScorza)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/CScorza) [![GitHub stars](https://img.shields.io/github/stars/CScorza/BruteForceDecryptPDF.svg?style=social&label=Stars)](https://github.com/CScorza/BruteForceDecryptPDF)
+
+Decriptazione di un file PDF con calcolo del Tempo - Hash - Metadati
+
+[![GitHub topics](https://img.shields.io/badge/Topics-decryption%2C%20dictionary%2C%20file%2C%20password%2C%20pdf%2C%20python%2C%20python3-brightgreen.svg)](https://github.com/CScorza/BruteForceDecryptPDF)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/CScorza/BruteForceDecryptPDF.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--05--18-brightgreen.svg)](https://github.com/CScorza/BruteForceDecryptPDF) [![GitHub last commit](https://img.shields.io/github/last-commit/CScorza/BruteForceDecryptPDF.svg?color=blue)](https://github.com/CScorza/BruteForceDecryptPDF) [![GitHub tags](https://img.shields.io/github/v/tag/CScorza/BruteForceDecryptPDF.svg)](https://github.com/CScorza/BruteForceDecryptPDF)
 
 ----
 
@@ -1176,6 +1188,18 @@ Maintained list of OSINT resources specifically for researching domains and IoT 
 
 ----
 
+### [Dome](https://github.com/v4d1/Dome) from [v4d1](https://github.com/v4d1)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/v4d1) [![GitHub stars](https://img.shields.io/github/stars/v4d1/Dome.svg?style=social&label=Stars)](https://github.com/v4d1/Dome)
+
+Dome - Subdomain Enumeration Tool. Fast and reliable python script that makes active and/or passive scan to obtain subdomains and search for open ports. 
+
+[![GitHub topics](https://img.shields.io/badge/Topics-bugbounty%2C%20enumeration%2C%20hacking–tool%2C%20osint%2C%20penetration–testing%2C%20pentesting%2C%20recon%2C%20reconnaissance%2C%20redteam%2C%20redteam–tools%2C%20subdomain%2C%20subdomain–brute%2C%20subdomain–enumeration%2C%20subdomain–finder%2C%20subdomain–scanner-brightgreen.svg)](https://github.com/v4d1/Dome)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/v4d1/Dome.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--02--20-brightgreen.svg)](https://github.com/v4d1/Dome) [![GitHub last commit](https://img.shields.io/github/last-commit/v4d1/Dome.svg?color=blue)](https://github.com/v4d1/Dome) [![GitHub tags](https://img.shields.io/github/v/tag/v4d1/Dome.svg)](https://github.com/v4d1/Dome)
+
+----
+
 ### [Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) from [cipher387](https://github.com/cipher387)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/cipher387) [![GitHub stars](https://img.shields.io/github/stars/cipher387/Dorks-collections-list.svg?style=social&label=Stars)](https://github.com/cipher387/Dorks-collections-list)
@@ -1805,16 +1829,6 @@ No project description
 [![GitHub topics](https://img.shields.io/badge/Topics-bash–script%2C%20inploit%2C%20search–engine%2C%20security–scanner%2C%20security–tools%2C%20zoomeye–api-brightgreen.svg)](https://github.com/keerok/InploitEye)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/keerok/InploitEye.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2017--07--09-brightgreen.svg)](https://github.com/keerok/InploitEye) [![GitHub last commit](https://img.shields.io/github/last-commit/keerok/InploitEye.svg?color=blue)](https://github.com/keerok/InploitEye) [![GitHub tags](https://img.shields.io/github/v/tag/keerok/InploitEye.svg)](https://github.com/keerok/InploitEye)
-
-----
-
-### [InstaOSINTbr](https://github.com/DavizinBR/InstaOSINTbr) from [DavizinBR](https://github.com/DavizinBR)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/DavizinBR) [![GitHub stars](https://img.shields.io/github/stars/DavizinBR/InstaOSINTbr.svg?style=social&label=Stars)](https://github.com/DavizinBR/InstaOSINTbr)
-
-investigação de contas no instagram
-
-[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/DavizinBR/InstaOSINTbr.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--05--15-brightgreen.svg)](https://github.com/DavizinBR/InstaOSINTbr) [![GitHub last commit](https://img.shields.io/github/last-commit/DavizinBR/InstaOSINTbr.svg?color=blue)](https://github.com/DavizinBR/InstaOSINTbr) [![GitHub tags](https://img.shields.io/github/v/tag/DavizinBR/InstaOSINTbr.svg)](https://github.com/DavizinBR/InstaOSINTbr)
 
 ----
 
@@ -2988,6 +3002,18 @@ Never use print for debugging again
 
 ----
 
+### [Pyramid](https://github.com/naksyn/Pyramid) from [naksyn](https://github.com/naksyn)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/naksyn) [![GitHub stars](https://img.shields.io/github/stars/naksyn/Pyramid.svg?style=social&label=Stars)](https://github.com/naksyn/Pyramid)
+
+a tool to help operate in EDRs' blind spots
+
+[![GitHub topics](https://img.shields.io/badge/Topics-edr%2C%20edr–testing%2C%20hacking%2C%20python%2C%20redteam–tools%2C%20redteaming-brightgreen.svg)](https://github.com/naksyn/Pyramid)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/naksyn/Pyramid.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--08--13-brightgreen.svg)](https://github.com/naksyn/Pyramid) [![GitHub last commit](https://img.shields.io/github/last-commit/naksyn/Pyramid.svg?color=blue)](https://github.com/naksyn/Pyramid) [![GitHub tags](https://img.shields.io/github/v/tag/naksyn/Pyramid.svg)](https://github.com/naksyn/Pyramid)
+
+----
+
 ### [Python](https://github.com/TheAlgorithms/Python) from [TheAlgorithms](https://github.com/TheAlgorithms)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/TheAlgorithms) [![GitHub stars](https://img.shields.io/github/stars/TheAlgorithms/Python.svg?style=social&label=Stars)](https://github.com/TheAlgorithms/Python)
@@ -3448,6 +3474,16 @@ Run this scraper for free: https://apify.com/vdrmota/contact-info-scraper
 
 ----
 
+### [SocialOSINTbr](https://github.com/DavizinBR/SocialOSINTbr) from [DavizinBR](https://github.com/DavizinBR)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/DavizinBR) [![GitHub stars](https://img.shields.io/github/stars/DavizinBR/SocialOSINTbr.svg?style=social&label=Stars)](https://github.com/DavizinBR/SocialOSINTbr)
+
+investigação de contas nas redes sociais
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/DavizinBR/SocialOSINTbr.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--05--15-brightgreen.svg)](https://github.com/DavizinBR/SocialOSINTbr) [![GitHub last commit](https://img.shields.io/github/last-commit/DavizinBR/SocialOSINTbr.svg?color=blue)](https://github.com/DavizinBR/SocialOSINTbr) [![GitHub tags](https://img.shields.io/github/v/tag/DavizinBR/SocialOSINTbr.svg)](https://github.com/DavizinBR/SocialOSINTbr)
+
+----
+
 ### [Sock-You](https://github.com/The-Amoghavarsha/Sock-You) from [The-Amoghavarsha](https://github.com/The-Amoghavarsha)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/The-Amoghavarsha) [![GitHub stars](https://img.shields.io/github/stars/The-Amoghavarsha/Sock-You.svg?style=social&label=Stars)](https://github.com/The-Amoghavarsha/Sock-You)
@@ -3550,6 +3586,18 @@ No project description
 
 ----
 
+### [TLDHunt](https://github.com/yuyudhn/TLDHunt) from [yuyudhn](https://github.com/yuyudhn)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/yuyudhn) [![GitHub stars](https://img.shields.io/github/stars/yuyudhn/TLDHunt.svg?style=social&label=Stars)](https://github.com/yuyudhn/TLDHunt)
+
+Domain Availability Checker
+
+[![GitHub topics](https://img.shields.io/badge/Topics-bash%2C%20whois-brightgreen.svg)](https://github.com/yuyudhn/TLDHunt)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/yuyudhn/TLDHunt.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--04--27-brightgreen.svg)](https://github.com/yuyudhn/TLDHunt) [![GitHub last commit](https://img.shields.io/github/last-commit/yuyudhn/TLDHunt.svg?color=blue)](https://github.com/yuyudhn/TLDHunt) [![GitHub tags](https://img.shields.io/github/v/tag/yuyudhn/TLDHunt.svg)](https://github.com/yuyudhn/TLDHunt)
+
+----
+
 ### [TablePlus](https://github.com/TablePlus/TablePlus) from [TablePlus](https://github.com/TablePlus)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/TablePlus) [![GitHub stars](https://img.shields.io/github/stars/TablePlus/TablePlus.svg?style=social&label=Stars)](https://github.com/TablePlus/TablePlus)
@@ -3578,7 +3626,7 @@ Process the exported Telegram chat history .html and generate a report message c
 
 In-depth repository of Telegram OSINT resources covering, tools, techniques & tradecraft.
 
-[![GitHub topics](https://img.shields.io/badge/Topics-osint%2C%20telegram%2C%20telegram–bot-brightgreen.svg)](https://github.com/cqcore/Telegram-OSINT)
+[![GitHub topics](https://img.shields.io/badge/Topics-bot%2C%20osint%2C%20telegram%2C%20telegram–bot-brightgreen.svg)](https://github.com/cqcore/Telegram-OSINT)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/cqcore/Telegram-OSINT.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--04--15-brightgreen.svg)](https://github.com/cqcore/Telegram-OSINT) [![GitHub last commit](https://img.shields.io/github/last-commit/cqcore/Telegram-OSINT.svg?color=blue)](https://github.com/cqcore/Telegram-OSINT) [![GitHub tags](https://img.shields.io/github/v/tag/cqcore/Telegram-OSINT.svg)](https://github.com/cqcore/Telegram-OSINT)
 
@@ -3944,7 +3992,7 @@ Next generation web scanner
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/WebBreacher) [![GitHub stars](https://img.shields.io/github/stars/WebBreacher/WhatsMyName.svg?style=social&label=Stars)](https://github.com/WebBreacher/WhatsMyName)
 
-This repository has the unified data required to perform user enumeration on various websites. Content is in a JSON file and can easily be used in other projects.
+This repository has the JSON file required to perform user enumeration on various websites.
 
 [![GitHub topics](https://img.shields.io/badge/Topics-osint%2C%20python%2C%20socmint%2C%20username%2C%20users-brightgreen.svg)](https://github.com/WebBreacher/WhatsMyName)
 
@@ -4258,9 +4306,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/owasp-amass) [![GitHub stars](https://img.shields.io/github/stars/owasp-amass/amass.svg?style=social&label=Stars)](https://github.com/owasp-amass/amass)
 
-In-depth Attack Surface Mapping and Asset Discovery
+In-depth attack surface mapping and asset discovery
 
-[![GitHub topics](https://img.shields.io/badge/Topics-attack–surfaces%2C%20dns%2C%20enumeration%2C%20go%2C%20information–gathering%2C%20maltego%2C%20network–security%2C%20osint%2C%20osint–reconnaissance%2C%20owasp%2C%20recon%2C%20subdomain-brightgreen.svg)](https://github.com/owasp-amass/amass)
+[![GitHub topics](https://img.shields.io/badge/Topics-attack–surfaces%2C%20dns%2C%20enumeration%2C%20go%2C%20golang%2C%20information–gathering%2C%20maltego%2C%20network–security%2C%20osint%2C%20osint–reconnaissance%2C%20owasp%2C%20recon%2C%20subdomain-brightgreen.svg)](https://github.com/owasp-amass/amass)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/owasp-amass/amass.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2018--07--10-brightgreen.svg)](https://github.com/owasp-amass/amass) [![GitHub last commit](https://img.shields.io/github/last-commit/owasp-amass/amass.svg?color=blue)](https://github.com/owasp-amass/amass) [![GitHub tags](https://img.shields.io/github/v/tag/owasp-amass/amass.svg)](https://github.com/owasp-amass/amass)
 
@@ -4431,6 +4479,18 @@ A Tool for Domain Flyovers
 [![GitHub topics](https://img.shields.io/badge/Topics-chrome–headless%2C%20chromium%2C%20golang%2C%20osint%2C%20reconnaissance%2C%20security-brightgreen.svg)](https://github.com/michenriksen/aquatone)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/michenriksen/aquatone.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2015--11--19-brightgreen.svg)](https://github.com/michenriksen/aquatone) [![GitHub last commit](https://img.shields.io/github/last-commit/michenriksen/aquatone.svg?color=blue)](https://github.com/michenriksen/aquatone) [![GitHub tags](https://img.shields.io/github/v/tag/michenriksen/aquatone.svg)](https://github.com/michenriksen/aquatone)
+
+----
+
+### [arkime](https://github.com/arkime/arkime) from [arkime](https://github.com/arkime)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/arkime) [![GitHub stars](https://img.shields.io/github/stars/arkime/arkime.svg?style=social&label=Stars)](https://github.com/arkime/arkime)
+
+Arkime (formerly Moloch) is an open source, large scale, full packet capturing, indexing, and database system.
+
+[![GitHub topics](https://img.shields.io/badge/Topics-big–data%2C%20c%2C%20javascript%2C%20network–monitoring%2C%20nsm%2C%20packet–capture%2C%20pcap%2C%20security-brightgreen.svg)](https://github.com/arkime/arkime)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/arkime/arkime.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2012--07--06-brightgreen.svg)](https://github.com/arkime/arkime) [![GitHub last commit](https://img.shields.io/github/last-commit/arkime/arkime.svg?color=blue)](https://github.com/arkime/arkime) [![GitHub tags](https://img.shields.io/github/v/tag/arkime/arkime.svg)](https://github.com/arkime/arkime)
 
 ----
 
@@ -5128,6 +5188,16 @@ An open-source post-exploitation framework for students, researchers and develop
 
 ----
 
+### [bypass-403](https://github.com/iamj0ker/bypass-403) from [iamj0ker](https://github.com/iamj0ker)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/iamj0ker) [![GitHub stars](https://img.shields.io/github/stars/iamj0ker/bypass-403.svg?style=social&label=Stars)](https://github.com/iamj0ker/bypass-403)
+
+A simple script just made for self use for bypassing 403
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/iamj0ker/bypass-403.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2020--11--05-brightgreen.svg)](https://github.com/iamj0ker/bypass-403) [![GitHub last commit](https://img.shields.io/github/last-commit/iamj0ker/bypass-403.svg?color=blue)](https://github.com/iamj0ker/bypass-403) [![GitHub tags](https://img.shields.io/github/v/tag/iamj0ker/bypass-403.svg)](https://github.com/iamj0ker/bypass-403)
+
+----
+
 ### [bypass-url-parser](https://github.com/laluka/bypass-url-parser) from [laluka](https://github.com/laluka)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/laluka) [![GitHub stars](https://img.shields.io/github/stars/laluka/bypass-url-parser.svg?style=social&label=Stars)](https://github.com/laluka/bypass-url-parser)
@@ -5203,6 +5273,18 @@ Chromium running inside your terminal
 Открытое письмо специалистов IT-индустрии в защиту фигурантов «московского дела»
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/developers-against-repressions/case-212.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2019--09--18-brightgreen.svg)](https://github.com/developers-against-repressions/case-212) [![GitHub last commit](https://img.shields.io/github/last-commit/developers-against-repressions/case-212.svg?color=blue)](https://github.com/developers-against-repressions/case-212) [![GitHub tags](https://img.shields.io/github/v/tag/developers-against-repressions/case-212.svg)](https://github.com/developers-against-repressions/case-212)
+
+----
+
+### [cbrutekrag](https://github.com/matricali/cbrutekrag) from [matricali](https://github.com/matricali)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/matricali) [![GitHub stars](https://img.shields.io/github/stars/matricali/cbrutekrag.svg?style=social&label=Stars)](https://github.com/matricali/cbrutekrag)
+
+Penetration tests on SSH servers using brute force or dictionary attacks. Written in C.
+
+[![GitHub topics](https://img.shields.io/badge/Topics-brute–force%2C%20c%2C%20command–line–tool%2C%20dictionary–attack%2C%20dictionary–attacks%2C%20ethical–hacking%2C%20honeypot–detector%2C%20libssh%2C%20multithreading%2C%20penetration–testing%2C%20penetration–tests%2C%20pentesting%2C%20port–scanner%2C%20ssh%2C%20ssh–server%2C%20ssh–servers-brightgreen.svg)](https://github.com/matricali/cbrutekrag)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/matricali/cbrutekrag.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2017--12--23-brightgreen.svg)](https://github.com/matricali/cbrutekrag) [![GitHub last commit](https://img.shields.io/github/last-commit/matricali/cbrutekrag.svg?color=blue)](https://github.com/matricali/cbrutekrag) [![GitHub tags](https://img.shields.io/github/v/tag/matricali/cbrutekrag.svg)](https://github.com/matricali/cbrutekrag)
 
 ----
 
@@ -6458,6 +6540,18 @@ Enhance the feedly website with advanced filtering and sorting capabilities
 
 ----
 
+### [fierce](https://github.com/mschwager/fierce) from [mschwager](https://github.com/mschwager)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/mschwager) [![GitHub stars](https://img.shields.io/github/stars/mschwager/fierce.svg?style=social&label=Stars)](https://github.com/mschwager/fierce)
+
+A DNS reconnaissance tool for locating non-contiguous IP space.
+
+[![GitHub topics](https://img.shields.io/badge/Topics-discovered–domains%2C%20dns%2C%20domain%2C%20fierce%2C%20name–server%2C%20reconnaissance%2C%20subdomain%2C%20zone–transfers-brightgreen.svg)](https://github.com/mschwager/fierce)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/mschwager/fierce.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2016--04--26-brightgreen.svg)](https://github.com/mschwager/fierce) [![GitHub last commit](https://img.shields.io/github/last-commit/mschwager/fierce.svg?color=blue)](https://github.com/mschwager/fierce) [![GitHub tags](https://img.shields.io/github/v/tag/mschwager/fierce.svg)](https://github.com/mschwager/fierce)
+
+----
+
 ### [fileconversion](https://github.com/IntelligenceX/fileconversion) from [IntelligenceX](https://github.com/IntelligenceX)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/IntelligenceX) [![GitHub stars](https://img.shields.io/github/stars/IntelligenceX/fileconversion.svg?style=social&label=Stars)](https://github.com/IntelligenceX/fileconversion)
@@ -6984,15 +7078,15 @@ Find subdomains on GitHub.
 
 ----
 
-### [gitify](https://github.com/manosim/gitify) from [manosim](https://github.com/manosim)
+### [gitify](https://github.com/gitify-app/gitify) from [gitify-app](https://github.com/gitify-app)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/manosim) [![GitHub stars](https://img.shields.io/github/stars/manosim/gitify.svg?style=social&label=Stars)](https://github.com/manosim/gitify)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/gitify-app) [![GitHub stars](https://img.shields.io/github/stars/gitify-app/gitify.svg?style=social&label=Stars)](https://github.com/gitify-app/gitify)
 
 GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 
-[![GitHub topics](https://img.shields.io/badge/Topics-electron%2C%20github%2C%20github–api%2C%20gitify%2C%20node%2C%20notifications%2C%20react-brightgreen.svg)](https://github.com/manosim/gitify)
+[![GitHub topics](https://img.shields.io/badge/Topics-electron%2C%20github%2C%20github–api%2C%20gitify%2C%20node%2C%20notifications%2C%20react-brightgreen.svg)](https://github.com/gitify-app/gitify)
 
-[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/manosim/gitify.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2015--05--21-brightgreen.svg)](https://github.com/manosim/gitify) [![GitHub last commit](https://img.shields.io/github/last-commit/manosim/gitify.svg?color=blue)](https://github.com/manosim/gitify) [![GitHub tags](https://img.shields.io/github/v/tag/manosim/gitify.svg)](https://github.com/manosim/gitify)
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/gitify-app/gitify.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2015--05--21-brightgreen.svg)](https://github.com/gitify-app/gitify) [![GitHub last commit](https://img.shields.io/github/last-commit/gitify-app/gitify.svg?color=blue)](https://github.com/gitify-app/gitify) [![GitHub tags](https://img.shields.io/github/v/tag/gitify-app/gitify.svg)](https://github.com/gitify-app/gitify)
 
 ----
 
@@ -8628,7 +8722,7 @@ A fast, minimal browser that protects your privacy
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/mindsdb) [![GitHub stars](https://img.shields.io/github/stars/mindsdb/mindsdb.svg?style=social&label=Stars)](https://github.com/mindsdb/mindsdb)
 
-A low-code Machine Learning platform to help developers build #AI solutions
+MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship AI powered projects to production in a fast and scalable way. 
 
 [![GitHub topics](https://img.shields.io/badge/Topics-artificial–intelligence%2C%20automl%2C%20explainable–ai%2C%20explainable–ml%2C%20gpt–4%2C%20hacktoberfest%2C%20huggingface%2C%20machine–learning%2C%20machine–learning–api%2C%20ml%2C%20mysql%2C%20nlp%2C%20openapi%2C%20postgresql%2C%20pytorch-brightgreen.svg)](https://github.com/mindsdb/mindsdb)
 
@@ -9007,6 +9101,18 @@ Simple random DNS, HTTP/S internet traffic noise generator
 [![GitHub topics](https://img.shields.io/badge/Topics-bot%2C%20dns%2C%20http%2C%20privacy%2C%20privacy–online%2C%20raspberrypi%2C%20traffic–generator%2C%20traffic–inspection-brightgreen.svg)](https://github.com/1tayH/noisy)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/1tayH/noisy.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2018--06--29-brightgreen.svg)](https://github.com/1tayH/noisy) [![GitHub last commit](https://img.shields.io/github/last-commit/1tayH/noisy.svg?color=blue)](https://github.com/1tayH/noisy) [![GitHub tags](https://img.shields.io/github/v/tag/1tayH/noisy.svg)](https://github.com/1tayH/noisy)
+
+----
+
+### [non-typical-OSINT-guide](https://github.com/OffcierCia/non-typical-OSINT-guide) from [OffcierCia](https://github.com/OffcierCia)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/OffcierCia) [![GitHub stars](https://img.shields.io/github/stars/OffcierCia/non-typical-OSINT-guide.svg?style=social&label=Stars)](https://github.com/OffcierCia/non-typical-OSINT-guide)
+
+The most unusual OSINT guide you've ever seen. The repository is intended for bored professionals only. PRs are welcome! 
+
+[![GitHub topics](https://img.shields.io/badge/Topics-awesome–list%2C%20awesome–lists%2C%20en%2C%20geoint%2C%20humint%2C%20investigation%2C%20maltego%2C%20manual%2C%20mindmap%2C%20osint%2C%20osint–reconnaissance%2C%20osint–resources%2C%20osint–tool%2C%20skills-brightgreen.svg)](https://github.com/OffcierCia/non-typical-OSINT-guide)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/OffcierCia/non-typical-OSINT-guide.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--03--24-brightgreen.svg)](https://github.com/OffcierCia/non-typical-OSINT-guide) [![GitHub last commit](https://img.shields.io/github/last-commit/OffcierCia/non-typical-OSINT-guide.svg?color=blue)](https://github.com/OffcierCia/non-typical-OSINT-guide) [![GitHub tags](https://img.shields.io/github/v/tag/OffcierCia/non-typical-OSINT-guide.svg)](https://github.com/OffcierCia/non-typical-OSINT-guide)
 
 ----
 
@@ -9666,9 +9772,9 @@ Cross-platform client for PostgreSQL databases
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/s41r4j) [![GitHub stars](https://img.shields.io/github/stars/s41r4j/phomber.svg?style=social&label=Stars)](https://github.com/s41r4j/phomber)
 
-Phomber is infomation grathering tool that reverse search phone numbers and get their details, written in python3.
+[PH0MBER]: An open source infomation grathering & reconnaissance framework!
 
-[![GitHub topics](https://img.shields.io/badge/Topics-cybersecurity%2C%20golang%2C%20hacker%2C%20hackertools%2C%20hacking%2C%20hacking–tool%2C%20information–gathering%2C%20information–security%2C%20informationgathering%2C%20mechanize%2C%20phomber%2C%20phoneinfoga%2C%20phonenumbers%2C%20python%2C%20python3%2C%20pythonhacking%2C%20pythontools%2C%20reconnaissance%2C%20scripting%2C%20webscraping-brightgreen.svg)](https://github.com/s41r4j/phomber)
+[![GitHub topics](https://img.shields.io/badge/Topics-cybersecurity%2C%20hacker%2C%20hacking%2C%20information–gathering%2C%20information–security%2C%20osint%2C%20phomber%2C%20phonenumbers%2C%20pip%2C%20pypi%2C%20python%2C%20python3%2C%20pythonhacking%2C%20reconnaissance%2C%20reverse–ip–lookup%2C%20reverse–lookups%2C%20reverse–phone–lookup%2C%20scripting-brightgreen.svg)](https://github.com/s41r4j/phomber)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/s41r4j/phomber.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2021--08--25-brightgreen.svg)](https://github.com/s41r4j/phomber) [![GitHub last commit](https://img.shields.io/github/last-commit/s41r4j/phomber.svg?color=blue)](https://github.com/s41r4j/phomber) [![GitHub tags](https://img.shields.io/github/v/tag/s41r4j/phomber.svg)](https://github.com/s41r4j/phomber)
 
@@ -10265,6 +10371,18 @@ Curated tutorial and resource links I've collected on React, Redux, ES6, and mor
 [![GitHub topics](https://img.shields.io/badge/Topics-es6%2C%20javascript%2C%20react%2C%20redux%2C%20webpack-brightgreen.svg)](https://github.com/markerikson/react-redux-links)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/markerikson/react-redux-links.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2016--01--22-brightgreen.svg)](https://github.com/markerikson/react-redux-links) [![GitHub last commit](https://img.shields.io/github/last-commit/markerikson/react-redux-links.svg?color=blue)](https://github.com/markerikson/react-redux-links) [![GitHub tags](https://img.shields.io/github/v/tag/markerikson/react-redux-links.svg)](https://github.com/markerikson/react-redux-links)
+
+----
+
+### [recce](https://github.com/unstabl3/recce) from [unstabl3](https://github.com/unstabl3)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/unstabl3) [![GitHub stars](https://img.shields.io/github/stars/unstabl3/recce.svg?style=social&label=Stars)](https://github.com/unstabl3/recce)
+
+Domain availbility checker
+
+[![GitHub topics](https://img.shields.io/badge/Topics-bugbounty%2C%20domain–discovery%2C%20information–gathering%2C%20information–security%2C%20subdomain–enumeration%2C%20subdomain–scanner-brightgreen.svg)](https://github.com/unstabl3/recce)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/unstabl3/recce.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2019--08--09-brightgreen.svg)](https://github.com/unstabl3/recce) [![GitHub last commit](https://img.shields.io/github/last-commit/unstabl3/recce.svg?color=blue)](https://github.com/unstabl3/recce) [![GitHub tags](https://img.shields.io/github/v/tag/unstabl3/recce.svg)](https://github.com/unstabl3/recce)
 
 ----
 
@@ -12748,13 +12866,13 @@ Track changes on websites via git
 
 ----
 
-### [wg-easy](https://github.com/WeeJeWel/wg-easy) from [WeeJeWel](https://github.com/WeeJeWel)
+### [wg-easy](https://github.com/wg-easy/wg-easy) from [wg-easy](https://github.com/wg-easy)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/WeeJeWel) [![GitHub stars](https://img.shields.io/github/stars/WeeJeWel/wg-easy.svg?style=social&label=Stars)](https://github.com/WeeJeWel/wg-easy)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/wg-easy) [![GitHub stars](https://img.shields.io/github/stars/wg-easy/wg-easy.svg?style=social&label=Stars)](https://github.com/wg-easy/wg-easy)
 
 The easiest way to run WireGuard VPN + Web-based Admin UI.
 
-[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/WeeJeWel/wg-easy.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2021--05--22-brightgreen.svg)](https://github.com/WeeJeWel/wg-easy) [![GitHub last commit](https://img.shields.io/github/last-commit/WeeJeWel/wg-easy.svg?color=blue)](https://github.com/WeeJeWel/wg-easy) [![GitHub tags](https://img.shields.io/github/v/tag/WeeJeWel/wg-easy.svg)](https://github.com/WeeJeWel/wg-easy)
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/wg-easy/wg-easy.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2021--05--22-brightgreen.svg)](https://github.com/wg-easy/wg-easy) [![GitHub last commit](https://img.shields.io/github/last-commit/wg-easy/wg-easy.svg?color=blue)](https://github.com/wg-easy/wg-easy) [![GitHub tags](https://img.shields.io/github/v/tag/wg-easy/wg-easy.svg)](https://github.com/wg-easy/wg-easy)
 
 ----
 
@@ -12976,6 +13094,18 @@ xowa offline wiki application
 
 ----
 
+### [xurlfind3r](https://github.com/hueristiq/xurlfind3r) from [hueristiq](https://github.com/hueristiq)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/hueristiq) [![GitHub stars](https://img.shields.io/github/stars/hueristiq/xurlfind3r.svg?style=social&label=Stars)](https://github.com/hueristiq/xurlfind3r)
+
+A CLI utility to find domain's known URLs passively from AlienVault's Open Threat Exchange, Common Crawl, Github, Intelligence X, URLScan, and the Wayback Machine.
+
+[![GitHub topics](https://img.shields.io/badge/Topics-alienvault%2C%20alienvault–otx%2C%20bug–bounty%2C%20bug–bounty–tools%2C%20common–crawl%2C%20commoncrawl%2C%20contentdiscovery%2C%20ethical–hacking%2C%20ethical–hacking–tools%2C%20osint%2C%20osint–tools%2C%20penetration–testing%2C%20penetration–testing–tools%2C%20reconnaissance%2C%20red–teaming%2C%20red–teaming–tools%2C%20urlscan%2C%20urlscan–io%2C%20waybackmachine%2C%20web–security-brightgreen.svg)](https://github.com/hueristiq/xurlfind3r)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/hueristiq/xurlfind3r.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2021--05--13-brightgreen.svg)](https://github.com/hueristiq/xurlfind3r) [![GitHub last commit](https://img.shields.io/github/last-commit/hueristiq/xurlfind3r.svg?color=blue)](https://github.com/hueristiq/xurlfind3r) [![GitHub tags](https://img.shields.io/github/v/tag/hueristiq/xurlfind3r.svg)](https://github.com/hueristiq/xurlfind3r)
+
+----
+
 ### [yagooglesearch](https://github.com/opsdisk/yagooglesearch) from [opsdisk](https://github.com/opsdisk)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/opsdisk) [![GitHub stars](https://img.shields.io/github/stars/opsdisk/yagooglesearch.svg?style=social&label=Stars)](https://github.com/opsdisk/yagooglesearch)
@@ -13048,7 +13178,7 @@ YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/code-charity) [![GitHub stars](https://img.shields.io/github/stars/code-charity/youtube.svg?style=social&label=Stars)](https://github.com/code-charity/youtube)
 
-YouTube Extension: Enrich your YouTube experience & content [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧docu. /HowTo's]⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪} Youtube Player Repeat Screenshot | Hide youtube distraction related video, youtube ads expand Description Speed-watching Video Quality codec co2 Player Size Full Tab playback custom Theme
+YouTube Extension (Top100): Enrich your experience & content [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧write HowTo's]⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪} Youtube Player Repeat Screenshot | Hide youtube distraction related videos, youtube ads expand Description Speed-watching Video Quality codec co2 Player Size Full Tab playback custom Theme
 
 [![GitHub topics](https://img.shields.io/badge/Topics-chrome–extension%2C%20css%2C%20extension%2C%20firefox–addon%2C%20html5–video%2C%20playback%2C%20playback–speed%2C%20player%2C%20streaming%2C%20subtitles%2C%20video%2C%20webextension%2C%20youtube%2C%20youtube–api%2C%20youtube–channel%2C%20youtube–player%2C%20youtube–playlist%2C%20youtube–video-brightgreen.svg)](https://github.com/code-charity/youtube)
 
