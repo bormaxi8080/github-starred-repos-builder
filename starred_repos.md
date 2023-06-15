@@ -4,9 +4,9 @@ This document generated automatically, see https://github.com/bormaxi8080/github
 
 (c) @bormaxi8080, 2023
 
-Created at: 2023-06-09
+Created at: 2023-06-15
 
-Starred repositories count: 1193
+Starred repositories count: 1195
 
 ----
 
@@ -220,7 +220,7 @@ Bash-скрипт по установке Airflow
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/arxhr007) [![GitHub stars](https://img.shields.io/github/stars/arxhr007/Aliens_eye.svg?style=social&label=Stars)](https://github.com/arxhr007/Aliens_eye)
 
-Social media hunter
+Hunt down 435 social media accounts
 
 [![GitHub topics](https://img.shields.io/badge/Topics-debain%2C%20hack%2C%20hacker%2C%20hacking%2C%20hacking–tool%2C%20hacking–tools%2C%20hackingtool%2C%20information%2C%20information–gathering%2C%20linux%2C%20osint%2C%20python%2C%20python–script%2C%20python3%2C%20termux%2C%20termux–hacking%2C%20termux–tool-brightgreen.svg)](https://github.com/arxhr007/Aliens_eye)
 
@@ -2146,6 +2146,18 @@ Detection of Log4j in memory
 
 ----
 
+### [Logsensor](https://github.com/Mr-Robert0/Logsensor) from [Mr-Robert0](https://github.com/Mr-Robert0)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/Mr-Robert0) [![GitHub stars](https://img.shields.io/github/stars/Mr-Robert0/Logsensor.svg?style=social&label=Stars)](https://github.com/Mr-Robert0/Logsensor)
+
+A Powerful Sensor Tool to discover login panels, and POST Form SQLi Scanning 
+
+[![GitHub topics](https://img.shields.io/badge/Topics-bugbounty%2C%20login%2C%20login–automation%2C%20sql–injection%2C%20sql–injection–exploitation%2C%20sql–injection–post%2C%20sqli%2C%20sqlinjection-brightgreen.svg)](https://github.com/Mr-Robert0/Logsensor)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/Mr-Robert0/Logsensor.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--08--07-brightgreen.svg)](https://github.com/Mr-Robert0/Logsensor) [![GitHub last commit](https://img.shields.io/github/last-commit/Mr-Robert0/Logsensor.svg?color=blue)](https://github.com/Mr-Robert0/Logsensor) [![GitHub tags](https://img.shields.io/github/v/tag/Mr-Robert0/Logsensor.svg)](https://github.com/Mr-Robert0/Logsensor)
+
+----
+
 ### [Loki](https://github.com/Neo23x0/Loki) from [Neo23x0](https://github.com/Neo23x0)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/Neo23x0) [![GitHub stars](https://img.shields.io/github/stars/Neo23x0/Loki.svg?style=social&label=Stars)](https://github.com/Neo23x0/Loki)
@@ -2712,6 +2724,18 @@ Links for the OSINT Team
 
 ----
 
+### [Octopus](https://github.com/mhaskar/Octopus) from [mhaskar](https://github.com/mhaskar)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/mhaskar) [![GitHub stars](https://img.shields.io/github/stars/mhaskar/Octopus.svg?style=social&label=Stars)](https://github.com/mhaskar/Octopus)
+
+Open source pre-operation C2 server based on python and powershell
+
+[![GitHub topics](https://img.shields.io/badge/Topics-c2%2C%20pentesting%2C%20powershell%2C%20python%2C%20redteam%2C%20security-brightgreen.svg)](https://github.com/mhaskar/Octopus)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/mhaskar/Octopus.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2019--08--30-brightgreen.svg)](https://github.com/mhaskar/Octopus) [![GitHub last commit](https://img.shields.io/github/last-commit/mhaskar/Octopus.svg?color=blue)](https://github.com/mhaskar/Octopus) [![GitHub tags](https://img.shields.io/github/v/tag/mhaskar/Octopus.svg)](https://github.com/mhaskar/Octopus)
+
+----
+
 ### [OffenOsint](https://github.com/Double2Sky/OffenOsint) from [Double2Sky](https://github.com/Double2Sky)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/Double2Sky) [![GitHub stars](https://img.shields.io/github/stars/Double2Sky/OffenOsint.svg?style=social&label=Stars)](https://github.com/Double2Sky/OffenOsint)
@@ -3186,7 +3210,7 @@ Automated Recon for Pentesting & Bug Bounty
 
 A multi-function Discord bot
 
-[![GitHub topics](https://img.shields.io/badge/Topics-bot%2C%20chatbot%2C%20discord%2C%20fun%2C%20hacktoberfest%2C%20moderation%2C%20modular%2C%20music%2C%20trivia-brightgreen.svg)](https://github.com/Cog-Creators/Red-DiscordBot)
+[![GitHub topics](https://img.shields.io/badge/Topics-bot%2C%20chatbot%2C%20discord%2C%20discord–bot%2C%20fun%2C%20hacktoberfest%2C%20moderation%2C%20modular%2C%20music%2C%20python%2C%20trivia-brightgreen.svg)](https://github.com/Cog-Creators/Red-DiscordBot)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/Cog-Creators/Red-DiscordBot.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2016--01--02-brightgreen.svg)](https://github.com/Cog-Creators/Red-DiscordBot) [![GitHub last commit](https://img.shields.io/github/last-commit/Cog-Creators/Red-DiscordBot.svg?color=blue)](https://github.com/Cog-Creators/Red-DiscordBot) [![GitHub tags](https://img.shields.io/github/v/tag/Cog-Creators/Red-DiscordBot.svg)](https://github.com/Cog-Creators/Red-DiscordBot)
 
@@ -5628,7 +5652,7 @@ A fast tool to scan SAAS,PAAS App written in Go
 
 The official CLI for interacting with your Doppler secrets and configuration.
 
-[![GitHub topics](https://img.shields.io/badge/Topics-cli%2C%20doppler%2C%20doppler–cli%2C%20secret–management%2C%20secrets%2C%20secrets–management-brightgreen.svg)](https://github.com/DopplerHQ/cli)
+[![GitHub topics](https://img.shields.io/badge/Topics-cli%2C%20doppler%2C%20doppler–cli%2C%20environment–variables%2C%20secret–management%2C%20secrets%2C%20secrets–management%2C%20secrets–manager%2C%20security-brightgreen.svg)](https://github.com/DopplerHQ/cli)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/DopplerHQ/cli.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2019--10--04-brightgreen.svg)](https://github.com/DopplerHQ/cli) [![GitHub last commit](https://img.shields.io/github/last-commit/DopplerHQ/cli.svg?color=blue)](https://github.com/DopplerHQ/cli) [![GitHub tags](https://img.shields.io/github/v/tag/DopplerHQ/cli.svg)](https://github.com/DopplerHQ/cli)
 
@@ -8212,7 +8236,7 @@ Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检�
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/kubeshark) [![GitHub stars](https://img.shields.io/github/stars/kubeshark/kubeshark.svg?style=social&label=Stars)](https://github.com/kubeshark/kubeshark)
 
-The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters.. Think TCPDump and Wireshark re-invented for Kubernetes
+The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes
 
 [![GitHub topics](https://img.shields.io/badge/Topics-amqp%2C%20cloud–native%2C%20devops%2C%20devops–tools%2C%20docker%2C%20forensics%2C%20go%2C%20golang%2C%20grpc%2C%20incident–response%2C%20kafka%2C%20kubernetes%2C%20microservice%2C%20microservices%2C%20microservices–application%2C%20observability%2C%20redis%2C%20rest%2C%20sniffer%2C%20wireshark-brightgreen.svg)](https://github.com/kubeshark/kubeshark)
 
@@ -8884,7 +8908,7 @@ A tool for OSINT based threat hunting
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/lk-geimfari) [![GitHub stars](https://img.shields.io/github/stars/lk-geimfari/mimesis.svg?style=social&label=Stars)](https://github.com/lk-geimfari/mimesis)
 
-Mimesis is a robust data generator for Python, capable of rapidly producing large volumes of synthetic data for various use cases.
+Mimesis is a powerful Python library that empowers developers to generate massive amounts of synthetic data efficiently. 
 
 [![GitHub topics](https://img.shields.io/badge/Topics-api–mock%2C%20data%2C%20dataframe%2C%20datascience%2C%20dummy%2C%20fake%2C%20faker%2C%20fixtures%2C%20generator%2C%20json%2C%20json–generator%2C%20mimesis%2C%20mock%2C%20pandas%2C%20python%2C%20schema%2C%20syntetic%2C%20synthetic–data%2C%20testing-brightgreen.svg)](https://github.com/lk-geimfari/mimesis)
 
@@ -9102,7 +9126,7 @@ The legendary netstalking NEtwork SCAnner
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/nestjs) [![GitHub stars](https://img.shields.io/github/stars/nestjs/nest.svg?style=social&label=Stars)](https://github.com/nestjs/nest)
 
-A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 
 [![GitHub topics](https://img.shields.io/badge/Topics-framework%2C%20hacktoberfest%2C%20javascript%2C%20javascript–framework%2C%20microservices%2C%20nest%2C%20nestjs%2C%20node%2C%20nodejs%2C%20nodejs–framework%2C%20typescript%2C%20typescript–framework%2C%20websockets-brightgreen.svg)](https://github.com/nestjs/nest)
 
@@ -9492,7 +9516,7 @@ Want to contribute? These are difficult, long-term projects that could be valuab
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/rodukov) [![GitHub stars](https://img.shields.io/github/stars/rodukov/openNasa.svg?style=social&label=Stars)](https://github.com/rodukov/openNasa)
 
-This software can parse pictures from the Nasa server
+This software can parse pictures from the Nasa server. I used python and requests library to parse and save images.
 
 [![GitHub topics](https://img.shields.io/badge/Topics-api%2C%20html%2C%20images%2C%20json%2C%20nasa%2C%20python%2C%20requests%2C%20scraper-brightgreen.svg)](https://github.com/rodukov/openNasa)
 
@@ -13006,7 +13030,7 @@ Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for e
 
 Browser extension for viewing archived and cached versions of web pages, available for Chrome, Edge and Safari
 
-[![GitHub topics](https://img.shields.io/badge/Topics-archive%2C%20browser–extension%2C%20cache%2C%20chrome–extension%2C%20firefox–extension%2C%20google%2C%20wayback–machine%2C%20yandex-brightgreen.svg)](https://github.com/dessant/web-archives)
+[![GitHub topics](https://img.shields.io/badge/Topics-archive%2C%20browser–extension%2C%20cache%2C%20chrome–extension%2C%20firefox–extension%2C%20google%2C%20safari–extension%2C%20wayback–machine%2C%20yandex-brightgreen.svg)](https://github.com/dessant/web-archives)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/dessant/web-archives.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2017--08--02-brightgreen.svg)](https://github.com/dessant/web-archives) [![GitHub last commit](https://img.shields.io/github/last-commit/dessant/web-archives.svg?color=blue)](https://github.com/dessant/web-archives) [![GitHub tags](https://img.shields.io/github/v/tag/dessant/web-archives.svg)](https://github.com/dessant/web-archives)
 
