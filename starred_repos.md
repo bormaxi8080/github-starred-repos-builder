@@ -4,9 +4,9 @@ This document generated automatically, see https://github.com/bormaxi8080/github
 
 (c) @bormaxi8080, 2023
 
-Created at: 2023-06-15
+Created at: 2023-06-21
 
-Starred repositories count: 1195
+Starred repositories count: 1201
 
 ----
 
@@ -2904,6 +2904,18 @@ A GPT-empowered penetration testing tool
 
 ----
 
+### [PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) from [AzeemIdrisi](https://github.com/AzeemIdrisi)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/AzeemIdrisi) [![GitHub stars](https://img.shields.io/github/stars/AzeemIdrisi/PhoneSploit-Pro.svg?style=social&label=Stars)](https://github.com/AzeemIdrisi/PhoneSploit-Pro)
+
+An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
+
+[![GitHub topics](https://img.shields.io/badge/Topics-adb%2C%20android%2C%20android–debug–bridge%2C%20android–hacking%2C%20cybersecurity%2C%20exploit%2C%20hack%2C%20hacking%2C%20hacking–script%2C%20hacking–tool%2C%20metasploit%2C%20metasploit–framework%2C%20meterpreter%2C%20penetration–testing%2C%20pentest–scripts%2C%20pentest–tool%2C%20pentesting%2C%20phonesploit%2C%20phonesploit–pro%2C%20python-brightgreen.svg)](https://github.com/AzeemIdrisi/PhoneSploit-Pro)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/AzeemIdrisi/PhoneSploit-Pro.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--12--24-brightgreen.svg)](https://github.com/AzeemIdrisi/PhoneSploit-Pro) [![GitHub last commit](https://img.shields.io/github/last-commit/AzeemIdrisi/PhoneSploit-Pro.svg?color=blue)](https://github.com/AzeemIdrisi/PhoneSploit-Pro) [![GitHub tags](https://img.shields.io/github/v/tag/AzeemIdrisi/PhoneSploit-Pro.svg)](https://github.com/AzeemIdrisi/PhoneSploit-Pro)
+
+----
+
 ### [Photon](https://github.com/s0md3v/Photon) from [s0md3v](https://github.com/s0md3v)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/s0md3v) [![GitHub stars](https://img.shields.io/github/stars/s0md3v/Photon.svg?style=social&label=Stars)](https://github.com/s0md3v/Photon)
@@ -3433,6 +3445,18 @@ Samurai Email Discovery - SED is a email discovery framework that grabs emails v
 Search tool to find specific files containing specific words, i.e. files containing passwords..
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/vivami/SauronEye.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2019--08--03-brightgreen.svg)](https://github.com/vivami/SauronEye) [![GitHub last commit](https://img.shields.io/github/last-commit/vivami/SauronEye.svg?color=blue)](https://github.com/vivami/SauronEye) [![GitHub tags](https://img.shields.io/github/v/tag/vivami/SauronEye.svg)](https://github.com/vivami/SauronEye)
+
+----
+
+### [Savant](https://github.com/insight-platform/Savant) from [insight-platform](https://github.com/insight-platform)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/insight-platform) [![GitHub stars](https://img.shields.io/github/stars/insight-platform/Savant.svg?style=social&label=Stars)](https://github.com/insight-platform/Savant)
+
+Python Computer Vision & Video Analytics Framework With Batteries Included
+
+[![GitHub topics](https://img.shields.io/badge/Topics-computer–vision%2C%20cuda%2C%20deep–learning%2C%20deepstream%2C%20edge–computing%2C%20inference–engine%2C%20machine–learning%2C%20nvidia%2C%20nvidia–deepstream–sdk%2C%20object–detection%2C%20opencv%2C%20tensorrt%2C%20video-brightgreen.svg)](https://github.com/insight-platform/Savant)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/insight-platform/Savant.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--05--07-brightgreen.svg)](https://github.com/insight-platform/Savant) [![GitHub last commit](https://img.shields.io/github/last-commit/insight-platform/Savant.svg?color=blue)](https://github.com/insight-platform/Savant) [![GitHub tags](https://img.shields.io/github/v/tag/insight-platform/Savant.svg)](https://github.com/insight-platform/Savant)
 
 ----
 
@@ -4223,6 +4247,18 @@ A simple LinkedIn profile scraper implemented as a chrome extension
 [![GitHub topics](https://img.shields.io/badge/Topics-browser–extension%2C%20chrome%2C%20chrome–extension%2C%20hrms%2C%20linkedin%2C%20linkedin–profile%2C%20linkedin–profile–scraping–tool%2C%20linkedin–scraper%2C%20recruiter%2C%20recruiting%2C%20recruitment%2C%20scraper-brightgreen.svg)](https://github.com/DrakenWan/Yale3)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/DrakenWan/Yale3.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2021--12--04-brightgreen.svg)](https://github.com/DrakenWan/Yale3) [![GitHub last commit](https://img.shields.io/github/last-commit/DrakenWan/Yale3.svg?color=blue)](https://github.com/DrakenWan/Yale3) [![GitHub tags](https://img.shields.io/github/v/tag/DrakenWan/Yale3.svg)](https://github.com/DrakenWan/Yale3)
+
+----
+
+### [Zehef](https://github.com/N0rz3/Zehef) from [N0rz3](https://github.com/N0rz3)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/N0rz3) [![GitHub stars](https://img.shields.io/github/stars/N0rz3/Zehef.svg?style=social&label=Stars)](https://github.com/N0rz3/Zehef)
+
+Zehef is an osint tool to track emails
+
+[![GitHub topics](https://img.shields.io/badge/Topics-account–checker%2C%20breach–check%2C%20cybersecurity%2C%20email–osint%2C%20osint%2C%20osint–python%2C%20osint–tool-brightgreen.svg)](https://github.com/N0rz3/Zehef)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/N0rz3/Zehef.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--06--13-brightgreen.svg)](https://github.com/N0rz3/Zehef) [![GitHub last commit](https://img.shields.io/github/last-commit/N0rz3/Zehef.svg?color=blue)](https://github.com/N0rz3/Zehef) [![GitHub tags](https://img.shields.io/github/v/tag/N0rz3/Zehef.svg)](https://github.com/N0rz3/Zehef)
 
 ----
 
@@ -7458,6 +7494,18 @@ goosh.org the unofficial google shell
 
 ----
 
+### [gopherjs](https://github.com/gopherjs/gopherjs) from [gopherjs](https://github.com/gopherjs)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/gopherjs) [![GitHub stars](https://img.shields.io/github/stars/gopherjs/gopherjs.svg?style=social&label=Stars)](https://github.com/gopherjs/gopherjs)
+
+A compiler from Go to JavaScript for running Go code in a browser
+
+[![GitHub topics](https://img.shields.io/badge/Topics-compiler%2C%20go%2C%20golang%2C%20hacktoberfest%2C%20javascript-brightgreen.svg)](https://github.com/gopherjs/gopherjs)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/gopherjs/gopherjs.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2013--08--27-brightgreen.svg)](https://github.com/gopherjs/gopherjs) [![GitHub last commit](https://img.shields.io/github/last-commit/gopherjs/gopherjs.svg?color=blue)](https://github.com/gopherjs/gopherjs) [![GitHub tags](https://img.shields.io/github/v/tag/gopherjs/gopherjs.svg)](https://github.com/gopherjs/gopherjs)
+
+----
+
 ### [goris](https://github.com/tanaikech/goris) from [tanaikech](https://github.com/tanaikech)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/tanaikech) [![GitHub stars](https://img.shields.io/github/stars/tanaikech/goris.svg?style=social&label=Stars)](https://github.com/tanaikech/goris)
@@ -8930,7 +8978,7 @@ A fast, minimal browser that protects your privacy
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/mindsdb) [![GitHub stars](https://img.shields.io/github/stars/mindsdb/mindsdb.svg?style=social&label=Stars)](https://github.com/mindsdb/mindsdb)
 
-MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship AI powered projects to production in a fast and scalable way. 
+MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship to production AI powered projects (from the latest LLMs, vector operations, state of the art time-series forecasting to Machine Learning) in a fast and scalable way. 
 
 [![GitHub topics](https://img.shields.io/badge/Topics-artificial–intelligence%2C%20automl%2C%20explainable–ai%2C%20gpt–4%2C%20hacktoberfest%2C%20huggingface%2C%20llm%2C%20llmops%2C%20llms%2C%20machine–learning%2C%20machine–learning–api%2C%20ml%2C%20mysql%2C%20nlp%2C%20openapi%2C%20pytorch-brightgreen.svg)](https://github.com/mindsdb/mindsdb)
 
@@ -9538,7 +9586,7 @@ Client for PPP+SSL VPN tunnel services
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/atenreiro) [![GitHub stars](https://img.shields.io/github/stars/atenreiro/opensquat.svg?style=social&label=Stars)](https://github.com/atenreiro/opensquat)
 
-The openSquat project is an open-source solution for detecting phishing domains and domain squatting. It searches for newly registered domains that impersonate legitimate domains on a daily basis. This project aims to help protect individuals and organizations from cyber threats by identifying and alerting them to potentially malicious domains.
+The openSquat project is an open-source solution for detecting phishing domains and domain squatting. It searches for newly registered domains that impersonate legitimate domains on a daily basis.
 
 [![GitHub topics](https://img.shields.io/badge/Topics-blue–team%2C%20cybersecurity%2C%20cybersquatting%2C%20domain–name%2C%20domain–squatting%2C%20homograph–attack%2C%20infosec%2C%20malware%2C%20osint%2C%20phishing%2C%20phishing–detection%2C%20phishing–domains%2C%20python%2C%20scanner%2C%20security–tools%2C%20threat–hunting%2C%20threat–intelligence%2C%20typosquatting-brightgreen.svg)](https://github.com/atenreiro/opensquat)
 
@@ -12426,6 +12474,18 @@ Find and verify credentials
 
 ----
 
+### [trurl](https://github.com/curl/trurl) from [curl](https://github.com/curl)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/curl) [![GitHub stars](https://img.shields.io/github/stars/curl/trurl.svg?style=social&label=Stars)](https://github.com/curl/trurl)
+
+trurl is a command line tool for URL parsing and manipulation.
+
+[![GitHub topics](https://img.shields.io/badge/Topics-command–line–tool%2C%20manipulation%2C%20parsing%2C%20url-brightgreen.svg)](https://github.com/curl/trurl)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/curl/trurl.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--03--31-brightgreen.svg)](https://github.com/curl/trurl) [![GitHub last commit](https://img.shields.io/github/last-commit/curl/trurl.svg?color=blue)](https://github.com/curl/trurl) [![GitHub tags](https://img.shields.io/github/v/tag/curl/trurl.svg)](https://github.com/curl/trurl)
+
+----
+
 ### [truthbrush](https://github.com/bellingcat/truthbrush) from [bellingcat](https://github.com/bellingcat)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/bellingcat) [![GitHub stars](https://img.shields.io/github/stars/bellingcat/truthbrush.svg?style=social&label=Stars)](https://github.com/bellingcat/truthbrush)
@@ -13089,6 +13149,18 @@ Add filters (background blur, etc) to your webcam on Linux.
 An utility to manage WebDriver instances
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/barancev/webdriver-factory.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2016--03--18-brightgreen.svg)](https://github.com/barancev/webdriver-factory) [![GitHub last commit](https://img.shields.io/github/last-commit/barancev/webdriver-factory.svg?color=blue)](https://github.com/barancev/webdriver-factory) [![GitHub tags](https://img.shields.io/github/v/tag/barancev/webdriver-factory.svg)](https://github.com/barancev/webdriver-factory)
+
+----
+
+### [webpalm](https://github.com/Malwarize/webpalm) from [Malwarize](https://github.com/Malwarize)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/Malwarize) [![GitHub stars](https://img.shields.io/github/stars/Malwarize/webpalm.svg?style=social&label=Stars)](https://github.com/Malwarize/webpalm)
+
+WebPalm is a powerful command-line tool for website mapping and web scraping. With its recursive approach, it can generate a complete tree of all webpages and their links on a website. It can also extract data from the body of each page using regular expressions, making it an ideal tool for web scraping and data extraction.
+
+[![GitHub topics](https://img.shields.io/badge/Topics-crawler%2C%20crawling%2C%20go%2C%20golang%2C%20hack%2C%20osint%2C%20redteam%2C%20spider%2C%20tool-brightgreen.svg)](https://github.com/Malwarize/webpalm)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/Malwarize/webpalm.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--04--22-brightgreen.svg)](https://github.com/Malwarize/webpalm) [![GitHub last commit](https://img.shields.io/github/last-commit/Malwarize/webpalm.svg?color=blue)](https://github.com/Malwarize/webpalm) [![GitHub tags](https://img.shields.io/github/v/tag/Malwarize/webpalm.svg)](https://github.com/Malwarize/webpalm)
 
 ----
 
