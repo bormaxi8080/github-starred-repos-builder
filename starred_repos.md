@@ -4,9 +4,9 @@ This document generated automatically, see https://github.com/bormaxi8080/github
 
 (c) @bormaxi8080, 2023
 
-Created at: 2023-06-21
+Created at: 2023-06-29
 
-Starred repositories count: 1201
+Starred repositories count: 1208
 
 ----
 
@@ -1332,7 +1332,7 @@ this project can extract contact email address from many site.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/keraattin) [![GitHub stars](https://img.shields.io/github/stars/keraattin/EmailAnalyzer.svg?style=social&label=Stars)](https://github.com/keraattin/EmailAnalyzer)
 
-With EmailAnalyzer you can analyze your suspicious emails. You can extract headers, links and hashes from the .eml file
+With EmailAnalyzer you can analyze your suspicious emails. You can extract headers, links, and hashes from the .eml file and you can generate reports.
 
 [![GitHub topics](https://img.shields.io/badge/Topics-blueteaming%2C%20cybersecurity%2C%20dfir%2C%20email%2C%20forensics-brightgreen.svg)](https://github.com/keraattin/EmailAnalyzer)
 
@@ -2253,6 +2253,16 @@ Malcolm is a powerful, easily deployable network traffic analysis tool suite for
 [![GitHub topics](https://img.shields.io/badge/Topics-arkime%2C%20cybersecurity%2C%20infosec%2C%20network–security%2C%20network–traffic–analysis%2C%20networksecurity%2C%20networktrafficanalysis%2C%20opensearch%2C%20opensearch–dashboards%2C%20pcap%2C%20security%2C%20suricata%2C%20zeek-brightgreen.svg)](https://github.com/cisagov/Malcolm)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/cisagov/Malcolm.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2019--05--13-brightgreen.svg)](https://github.com/cisagov/Malcolm) [![GitHub last commit](https://img.shields.io/github/last-commit/cisagov/Malcolm.svg?color=blue)](https://github.com/cisagov/Malcolm) [![GitHub tags](https://img.shields.io/github/v/tag/cisagov/Malcolm.svg)](https://github.com/cisagov/Malcolm)
+
+----
+
+### [Maltego_WhatsMyName](https://github.com/TURROKS/Maltego_WhatsMyName) from [TURROKS](https://github.com/TURROKS)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/TURROKS) [![GitHub stars](https://img.shields.io/github/stars/TURROKS/Maltego_WhatsMyName.svg?style=social&label=Stars)](https://github.com/TURROKS/Maltego_WhatsMyName)
+
+Maltego Transforms for WhatsMyName
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/TURROKS/Maltego_WhatsMyName.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--04--07-brightgreen.svg)](https://github.com/TURROKS/Maltego_WhatsMyName) [![GitHub last commit](https://img.shields.io/github/last-commit/TURROKS/Maltego_WhatsMyName.svg?color=blue)](https://github.com/TURROKS/Maltego_WhatsMyName) [![GitHub tags](https://img.shields.io/github/v/tag/TURROKS/Maltego_WhatsMyName.svg)](https://github.com/TURROKS/Maltego_WhatsMyName)
 
 ----
 
@@ -3722,6 +3732,16 @@ No project description
 
 ----
 
+### [SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) from [Sysinternals](https://github.com/Sysinternals)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/Sysinternals) [![GitHub stars](https://img.shields.io/github/stars/Sysinternals/SysmonForLinux.svg?style=social&label=Stars)](https://github.com/Sysinternals/SysmonForLinux)
+
+No project description
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/Sysinternals/SysmonForLinux.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2020--10--28-brightgreen.svg)](https://github.com/Sysinternals/SysmonForLinux) [![GitHub last commit](https://img.shields.io/github/last-commit/Sysinternals/SysmonForLinux.svg?color=blue)](https://github.com/Sysinternals/SysmonForLinux) [![GitHub tags](https://img.shields.io/github/v/tag/Sysinternals/SysmonForLinux.svg)](https://github.com/Sysinternals/SysmonForLinux)
+
+----
+
 ### [TLDHunt](https://github.com/yuyudhn/TLDHunt) from [yuyudhn](https://github.com/yuyudhn)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/yuyudhn) [![GitHub stars](https://img.shields.io/github/stars/yuyudhn/TLDHunt.svg?style=social&label=Stars)](https://github.com/yuyudhn/TLDHunt)
@@ -4644,7 +4664,7 @@ A Tool for Domain Flyovers
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/arkime) [![GitHub stars](https://img.shields.io/github/stars/arkime/arkime.svg?style=social&label=Stars)](https://github.com/arkime/arkime)
 
-Arkime (formerly Moloch) is an open source, large scale, full packet capturing, indexing, and database system.
+Arkime is an open source, large scale, full packet capturing, indexing, and database system.
 
 [![GitHub topics](https://img.shields.io/badge/Topics-big–data%2C%20c%2C%20javascript%2C%20network–monitoring%2C%20nsm%2C%20packet–capture%2C%20pcap%2C%20security-brightgreen.svg)](https://github.com/arkime/arkime)
 
@@ -6013,6 +6033,18 @@ Free universal database tool and SQL client
 [![GitHub topics](https://img.shields.io/badge/Topics-database%2C%20db2%2C%20dbeaver%2C%20erd%2C%20gui%2C%20java%2C%20mysql%2C%20nosql%2C%20oracle%2C%20postgresql%2C%20redshift%2C%20sql%2C%20sqlite%2C%20sqlserver-brightgreen.svg)](https://github.com/dbeaver/dbeaver)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/dbeaver/dbeaver.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2015--10--21-brightgreen.svg)](https://github.com/dbeaver/dbeaver) [![GitHub last commit](https://img.shields.io/github/last-commit/dbeaver/dbeaver.svg?color=blue)](https://github.com/dbeaver/dbeaver) [![GitHub tags](https://img.shields.io/github/v/tag/dbeaver/dbeaver.svg)](https://github.com/dbeaver/dbeaver)
+
+----
+
+### [deduplicator](https://github.com/sreedevk/deduplicator) from [sreedevk](https://github.com/sreedevk)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/sreedevk) [![GitHub stars](https://img.shields.io/github/stars/sreedevk/deduplicator.svg?style=social&label=Stars)](https://github.com/sreedevk/deduplicator)
+
+Filter, Sort & Delete Duplicate Files Recursively
+
+[![GitHub topics](https://img.shields.io/badge/Topics-deduplication%2C%20duplicate–detection%2C%20duplicate–files%2C%20duplicatefilefinder%2C%20filesystem%2C%20rust-brightgreen.svg)](https://github.com/sreedevk/deduplicator)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/sreedevk/deduplicator.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--12--25-brightgreen.svg)](https://github.com/sreedevk/deduplicator) [![GitHub last commit](https://img.shields.io/github/last-commit/sreedevk/deduplicator.svg?color=blue)](https://github.com/sreedevk/deduplicator) [![GitHub tags](https://img.shields.io/github/v/tag/sreedevk/deduplicator.svg)](https://github.com/sreedevk/deduplicator)
 
 ----
 
@@ -7692,6 +7724,16 @@ Simple, fast web crawler designed for easy, quick discovery of endpoints and ass
 
 ----
 
+### [hakrevdns](https://github.com/hakluke/hakrevdns) from [hakluke](https://github.com/hakluke)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/hakluke) [![GitHub stars](https://img.shields.io/github/stars/hakluke/hakrevdns.svg?style=social&label=Stars)](https://github.com/hakluke/hakrevdns)
+
+Small, fast tool for performing reverse DNS lookups en masse.
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/hakluke/hakrevdns.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2019--12--19-brightgreen.svg)](https://github.com/hakluke/hakrevdns) [![GitHub last commit](https://img.shields.io/github/last-commit/hakluke/hakrevdns.svg?color=blue)](https://github.com/hakluke/hakrevdns) [![GitHub tags](https://img.shields.io/github/v/tag/hakluke/hakrevdns.svg)](https://github.com/hakluke/hakrevdns)
+
+----
+
 ### [harpoon](https://github.com/Te-k/harpoon) from [Te-k](https://github.com/Te-k)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/Te-k) [![GitHub stars](https://img.shields.io/github/stars/Te-k/harpoon.svg?style=social&label=Stars)](https://github.com/Te-k/harpoon)
@@ -8268,6 +8310,16 @@ JavaScript Knex.js for PostgreSQL Extension Library
 
 ----
 
+### [knock](https://github.com/guelfoweb/knock) from [guelfoweb](https://github.com/guelfoweb)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/guelfoweb) [![GitHub stars](https://img.shields.io/github/stars/guelfoweb/knock.svg?style=social&label=Stars)](https://github.com/guelfoweb/knock)
+
+Knock Subdomain Scan
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/guelfoweb/knock.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2014--02--11-brightgreen.svg)](https://github.com/guelfoweb/knock) [![GitHub last commit](https://img.shields.io/github/last-commit/guelfoweb/knock.svg?color=blue)](https://github.com/guelfoweb/knock) [![GitHub tags](https://img.shields.io/github/v/tag/guelfoweb/knock.svg)](https://github.com/guelfoweb/knock)
+
+----
+
 ### [kscan](https://github.com/lcvvvv/kscan) from [lcvvvv](https://github.com/lcvvvv)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/lcvvvv) [![GitHub stars](https://img.shields.io/github/stars/lcvvvv/kscan.svg?style=social&label=Stars)](https://github.com/lcvvvv/kscan)
@@ -8468,9 +8520,9 @@ A library that scrapes Linkedin for user data
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/linkwarden) [![GitHub stars](https://img.shields.io/github/stars/linkwarden/linkwarden.svg?style=social&label=Stars)](https://github.com/linkwarden/linkwarden)
 
-A self-hosted bookmark + archive manager to store your useful links.
+An open-source collaborative bookmark manager.
 
-[![GitHub topics](https://img.shields.io/badge/Topics-javascript%2C%20mongodb%2C%20nodejs%2C%20react-brightgreen.svg)](https://github.com/linkwarden/linkwarden)
+[![GitHub topics](https://img.shields.io/badge/Topics-bookmark–manager%2C%20collaboration%2C%20nextjs%2C%20self–hosted%2C%20typescript-brightgreen.svg)](https://github.com/linkwarden/linkwarden)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/linkwarden/linkwarden.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--04--09-brightgreen.svg)](https://github.com/linkwarden/linkwarden) [![GitHub last commit](https://img.shields.io/github/last-commit/linkwarden/linkwarden.svg?color=blue)](https://github.com/linkwarden/linkwarden) [![GitHub tags](https://img.shields.io/github/v/tag/linkwarden/linkwarden.svg)](https://github.com/linkwarden/linkwarden)
 
@@ -8681,6 +8733,16 @@ Custom Maltego transforms
 Maltego
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/dreadl0ck/maltego.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2021--01--30-brightgreen.svg)](https://github.com/dreadl0ck/maltego) [![GitHub last commit](https://img.shields.io/github/last-commit/dreadl0ck/maltego.svg?color=blue)](https://github.com/dreadl0ck/maltego) [![GitHub tags](https://img.shields.io/github/v/tag/dreadl0ck/maltego.svg)](https://github.com/dreadl0ck/maltego)
+
+----
+
+### [maltego-ltc](https://github.com/TURROKS/maltego-ltc) from [TURROKS](https://github.com/TURROKS)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/TURROKS) [![GitHub stars](https://img.shields.io/github/stars/TURROKS/maltego-ltc.svg?style=social&label=Stars)](https://github.com/TURROKS/maltego-ltc)
+
+Local Transform Collection 
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/TURROKS/maltego-ltc.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--04--15-brightgreen.svg)](https://github.com/TURROKS/maltego-ltc) [![GitHub last commit](https://img.shields.io/github/last-commit/TURROKS/maltego-ltc.svg?color=blue)](https://github.com/TURROKS/maltego-ltc) [![GitHub tags](https://img.shields.io/github/v/tag/TURROKS/maltego-ltc.svg)](https://github.com/TURROKS/maltego-ltc)
 
 ----
 
@@ -13084,6 +13146,16 @@ Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for e
 
 ----
 
+### [weaponised-XSS-payloads](https://github.com/hakluke/weaponised-XSS-payloads) from [hakluke](https://github.com/hakluke)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/hakluke) [![GitHub stars](https://img.shields.io/github/stars/hakluke/weaponised-XSS-payloads.svg?style=social&label=Stars)](https://github.com/hakluke/weaponised-XSS-payloads)
+
+XSS payloads designed to turn alert(1) into P1
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/hakluke/weaponised-XSS-payloads.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2019--05--19-brightgreen.svg)](https://github.com/hakluke/weaponised-XSS-payloads) [![GitHub last commit](https://img.shields.io/github/last-commit/hakluke/weaponised-XSS-payloads.svg?color=blue)](https://github.com/hakluke/weaponised-XSS-payloads) [![GitHub tags](https://img.shields.io/github/v/tag/hakluke/weaponised-XSS-payloads.svg)](https://github.com/hakluke/weaponised-XSS-payloads)
+
+----
+
 ### [web-archives](https://github.com/dessant/web-archives) from [dessant](https://github.com/dessant)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/dessant) [![GitHub stars](https://img.shields.io/github/stars/dessant/web-archives.svg?style=social&label=Stars)](https://github.com/dessant/web-archives)
@@ -13420,9 +13492,9 @@ xowa offline wiki application
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/hueristiq) [![GitHub stars](https://img.shields.io/github/stars/hueristiq/xurlfind3r.svg?style=social&label=Stars)](https://github.com/hueristiq/xurlfind3r)
 
-A CLI utility to find domain's known URLs from AlienVault's Open Threat Exchange, Common Crawl, Github, Intelligence X, URLScan, and the Wayback Machine.
+A CLI utility to find domain's known URLs from curated passive online sources.
 
-[![GitHub topics](https://img.shields.io/badge/Topics-alienvault%2C%20alienvault–otx%2C%20bug–bounty%2C%20bug–bounty–tools%2C%20common–crawl%2C%20commoncrawl%2C%20contentdiscovery%2C%20ethical–hacking%2C%20ethical–hacking–tools%2C%20osint%2C%20osint–tools%2C%20penetration–testing%2C%20penetration–testing–tools%2C%20reconnaissance%2C%20red–teaming%2C%20red–teaming–tools%2C%20urlscan%2C%20urlscan–io%2C%20waybackmachine%2C%20web–security-brightgreen.svg)](https://github.com/hueristiq/xurlfind3r)
+[![GitHub topics](https://img.shields.io/badge/Topics-bug–bounty%2C%20bug–bounty–tools%2C%20contentdiscovery%2C%20ethical–hacking%2C%20ethical–hacking–tools%2C%20go%2C%20golang%2C%20osint%2C%20osint–tools%2C%20penetration–testing%2C%20penetration–testing–tools%2C%20reconnaissance%2C%20red–teaming%2C%20red–teaming–tools%2C%20web–security-brightgreen.svg)](https://github.com/hueristiq/xurlfind3r)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/hueristiq/xurlfind3r.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2021--05--13-brightgreen.svg)](https://github.com/hueristiq/xurlfind3r) [![GitHub last commit](https://img.shields.io/github/last-commit/hueristiq/xurlfind3r.svg?color=blue)](https://github.com/hueristiq/xurlfind3r) [![GitHub tags](https://img.shields.io/github/v/tag/hueristiq/xurlfind3r.svg)](https://github.com/hueristiq/xurlfind3r)
 
