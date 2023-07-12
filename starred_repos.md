@@ -4,9 +4,9 @@ This document generated automatically, see https://github.com/bormaxi8080/github
 
 (c) @bormaxi8080, 2023
 
-Created at: 2023-07-06
+Created at: 2023-07-13
 
-Starred repositories count: 1224
+Starred repositories count: 1235
 
 ----
 
@@ -946,6 +946,18 @@ GUI Osint Framework with Kali Linux
 
 ----
 
+### [DDoSlayer](https://github.com/blackhatethicalhacking/DDoSlayer) from [blackhatethicalhacking](https://github.com/blackhatethicalhacking)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/blackhatethicalhacking) [![GitHub stars](https://img.shields.io/github/stars/blackhatethicalhacking/DDoSlayer.svg?style=social&label=Stars)](https://github.com/blackhatethicalhacking/DDoSlayer)
+
+An Advanced Layer 7 DDoS tool
+
+[![GitHub topics](https://img.shields.io/badge/Topics-bugbounty%2C%20ddos–attacks%2C%20hacking%2C%20kali–linux%2C%20penetration–testing%2C%20pentesting-brightgreen.svg)](https://github.com/blackhatethicalhacking/DDoSlayer)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/blackhatethicalhacking/DDoSlayer.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2018--08--25-brightgreen.svg)](https://github.com/blackhatethicalhacking/DDoSlayer) [![GitHub last commit](https://img.shields.io/github/last-commit/blackhatethicalhacking/DDoSlayer.svg?color=blue)](https://github.com/blackhatethicalhacking/DDoSlayer) [![GitHub tags](https://img.shields.io/github/v/tag/blackhatethicalhacking/DDoSlayer.svg)](https://github.com/blackhatethicalhacking/DDoSlayer)
+
+----
+
 ### [DFIR](https://github.com/hugoahosta/DFIR) from [hugoahosta](https://github.com/hugoahosta)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/hugoahosta) [![GitHub stars](https://img.shields.io/github/stars/hugoahosta/DFIR.svg?style=social&label=Stars)](https://github.com/hugoahosta/DFIR)
@@ -1394,6 +1406,16 @@ A python tool that will extract exif data from picture with two methods
 
 ----
 
+### [ExploitationBundle](https://github.com/gustanini/ExploitationBundle) from [gustanini](https://github.com/gustanini)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/gustanini) [![GitHub stars](https://img.shields.io/github/stars/gustanini/ExploitationBundle.svg?style=social&label=Stars)](https://github.com/gustanini/ExploitationBundle)
+
+Bash script that automates the downloading of various exploitation tools.
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/gustanini/ExploitationBundle.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--05--27-brightgreen.svg)](https://github.com/gustanini/ExploitationBundle) [![GitHub last commit](https://img.shields.io/github/last-commit/gustanini/ExploitationBundle.svg?color=blue)](https://github.com/gustanini/ExploitationBundle) [![GitHub tags](https://img.shields.io/github/v/tag/gustanini/ExploitationBundle.svg)](https://github.com/gustanini/ExploitationBundle)
+
+----
+
 ### [FALdetector](https://github.com/PeterWang512/FALdetector) from [PeterWang512](https://github.com/PeterWang512)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/PeterWang512) [![GitHub stars](https://img.shields.io/github/stars/PeterWang512/FALdetector.svg?style=social&label=Stars)](https://github.com/PeterWang512/FALdetector)
@@ -1537,6 +1559,18 @@ An OSINT Geolocalization tool for Telegram that find nearby users and groups �
 [![GitHub topics](https://img.shields.io/badge/Topics-geolocalization%2C%20osint%2C%20osint–tool%2C%20projet–fox%2C%20python%2C%20telegram%2C%20telegram–nearby–map%2C%20telegram–osint-brightgreen.svg)](https://github.com/Alb-310/Geogramint)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/Alb-310/Geogramint.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--07--16-brightgreen.svg)](https://github.com/Alb-310/Geogramint) [![GitHub last commit](https://img.shields.io/github/last-commit/Alb-310/Geogramint.svg?color=blue)](https://github.com/Alb-310/Geogramint) [![GitHub tags](https://img.shields.io/github/v/tag/Alb-310/Geogramint.svg)](https://github.com/Alb-310/Geogramint)
+
+----
+
+### [Gepetto](https://github.com/JusticeRage/Gepetto) from [JusticeRage](https://github.com/JusticeRage)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/JusticeRage) [![GitHub stars](https://img.shields.io/github/stars/JusticeRage/Gepetto.svg?style=social&label=Stars)](https://github.com/JusticeRage/Gepetto)
+
+IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up reverse-engineering
+
+[![GitHub topics](https://img.shields.io/badge/Topics-gpt–35–turbo%2C%20ida–pro%2C%20openai%2C%20python%2C%20reverse–engineering-brightgreen.svg)](https://github.com/JusticeRage/Gepetto)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/JusticeRage/Gepetto.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--12--04-brightgreen.svg)](https://github.com/JusticeRage/Gepetto) [![GitHub last commit](https://img.shields.io/github/last-commit/JusticeRage/Gepetto.svg?color=blue)](https://github.com/JusticeRage/Gepetto) [![GitHub tags](https://img.shields.io/github/v/tag/JusticeRage/Gepetto.svg)](https://github.com/JusticeRage/Gepetto)
 
 ----
 
@@ -2143,6 +2177,16 @@ LinkedIn Recon Tool
 [![GitHub topics](https://img.shields.io/badge/Topics-android%2C%20jetpack–compose%2C%20kotlin%2C%20kotlin–multiplatform%2C%20linux-brightgreen.svg)](https://github.com/SimonSchubert/LinuxCommandLibrary)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/SimonSchubert/LinuxCommandLibrary.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2014--06--19-brightgreen.svg)](https://github.com/SimonSchubert/LinuxCommandLibrary) [![GitHub last commit](https://img.shields.io/github/last-commit/SimonSchubert/LinuxCommandLibrary.svg?color=blue)](https://github.com/SimonSchubert/LinuxCommandLibrary) [![GitHub tags](https://img.shields.io/github/v/tag/SimonSchubert/LinuxCommandLibrary.svg)](https://github.com/SimonSchubert/LinuxCommandLibrary)
+
+----
+
+### [Linux_QuickEnum](https://github.com/gustanini/Linux_QuickEnum) from [gustanini](https://github.com/gustanini)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/gustanini) [![GitHub stars](https://img.shields.io/github/stars/gustanini/Linux_QuickEnum.svg?style=social&label=Stars)](https://github.com/gustanini/Linux_QuickEnum)
+
+QuickEnum is a tool designed to help with privilege escalation on Linux systems
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/gustanini/Linux_QuickEnum.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--07--08-brightgreen.svg)](https://github.com/gustanini/Linux_QuickEnum) [![GitHub last commit](https://img.shields.io/github/last-commit/gustanini/Linux_QuickEnum.svg?color=blue)](https://github.com/gustanini/Linux_QuickEnum) [![GitHub tags](https://img.shields.io/github/v/tag/gustanini/Linux_QuickEnum.svg)](https://github.com/gustanini/Linux_QuickEnum)
 
 ----
 
@@ -6270,6 +6314,16 @@ OSINT scanning tool which discovers and maps directories found in javascript fil
 
 ----
 
+### [dirspider](https://github.com/gustanini/dirspider) from [gustanini](https://github.com/gustanini)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/gustanini) [![GitHub stars](https://img.shields.io/github/stars/gustanini/dirspider.svg?style=social&label=Stars)](https://github.com/gustanini/dirspider)
+
+Bash script automating directory brute forcing and crawling/spider. 
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/gustanini/dirspider.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--05--25-brightgreen.svg)](https://github.com/gustanini/dirspider) [![GitHub last commit](https://img.shields.io/github/last-commit/gustanini/dirspider.svg?color=blue)](https://github.com/gustanini/dirspider) [![GitHub tags](https://img.shields.io/github/v/tag/gustanini/dirspider.svg)](https://github.com/gustanini/dirspider)
+
+----
+
 ### [discord-osint-hub](https://github.com/oryon-osint/discord-osint-hub) from [oryon-osint](https://github.com/oryon-osint)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/oryon-osint) [![GitHub stars](https://img.shields.io/github/stars/oryon-osint/discord-osint-hub.svg?style=social&label=Stars)](https://github.com/oryon-osint/discord-osint-hub)
@@ -6732,15 +6786,15 @@ List of phrases in different languages for which you can get banned on Facebook
 
 ----
 
-### [facebook-downloader](https://github.com/rly0nheart/facebook-downloader) from [rly0nheart](https://github.com/rly0nheart)
+### [facebook-downloader](https://github.com/bellingcat/facebook-downloader) from [bellingcat](https://github.com/bellingcat)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/rly0nheart) [![GitHub stars](https://img.shields.io/github/stars/rly0nheart/facebook-downloader.svg?style=social&label=Stars)](https://github.com/rly0nheart/facebook-downloader)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/bellingcat) [![GitHub stars](https://img.shields.io/github/stars/bellingcat/facebook-downloader.svg?style=social&label=Stars)](https://github.com/bellingcat/facebook-downloader)
 
 Facebook video downloader
 
-[![GitHub topics](https://img.shields.io/badge/Topics-facebook–downloader%2C%20facebook–video–downloader-brightgreen.svg)](https://github.com/rly0nheart/facebook-downloader)
+[![GitHub topics](https://img.shields.io/badge/Topics-facebook–downloader%2C%20facebook–video–downloader-brightgreen.svg)](https://github.com/bellingcat/facebook-downloader)
 
-[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/rly0nheart/facebook-downloader.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--09--21-brightgreen.svg)](https://github.com/rly0nheart/facebook-downloader) [![GitHub last commit](https://img.shields.io/github/last-commit/rly0nheart/facebook-downloader.svg?color=blue)](https://github.com/rly0nheart/facebook-downloader) [![GitHub tags](https://img.shields.io/github/v/tag/rly0nheart/facebook-downloader.svg)](https://github.com/rly0nheart/facebook-downloader)
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/bellingcat/facebook-downloader.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--09--21-brightgreen.svg)](https://github.com/bellingcat/facebook-downloader) [![GitHub last commit](https://img.shields.io/github/last-commit/bellingcat/facebook-downloader.svg?color=blue)](https://github.com/bellingcat/facebook-downloader) [![GitHub tags](https://img.shields.io/github/v/tag/bellingcat/facebook-downloader.svg)](https://github.com/bellingcat/facebook-downloader)
 
 ----
 
@@ -7478,6 +7532,18 @@ GitHub star ranking for users, organizations and repositories
 
 ----
 
+### [glit](https://github.com/shadawck/glit) from [shadawck](https://github.com/shadawck)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/shadawck) [![GitHub stars](https://img.shields.io/github/stars/shadawck/glit.svg?style=social&label=Stars)](https://github.com/shadawck/glit)
+
+Retrieve all mails of users related to a git repository, a git user or a git organization
+
+[![GitHub topics](https://img.shields.io/badge/Topics-data–gathering%2C%20email%2C%20multithreaded%2C%20osint%2C%20osint–tool%2C%20rust-brightgreen.svg)](https://github.com/shadawck/glit)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/shadawck/glit.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--11--14-brightgreen.svg)](https://github.com/shadawck/glit) [![GitHub last commit](https://img.shields.io/github/last-commit/shadawck/glit.svg?color=blue)](https://github.com/shadawck/glit) [![GitHub tags](https://img.shields.io/github/v/tag/shadawck/glit.svg)](https://github.com/shadawck/glit)
+
+----
+
 ### [gluetun](https://github.com/qdm12/gluetun) from [qdm12](https://github.com/qdm12)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/qdm12) [![GitHub stars](https://img.shields.io/github/stars/qdm12/gluetun.svg?style=social&label=Stars)](https://github.com/qdm12/gluetun)
@@ -7679,6 +7745,16 @@ HTTP client made for scraping based on got.
 [![GitHub topics](https://img.shields.io/badge/Topics-chrome%2C%20chrome–headless%2C%20fingerprint%2C%20footprinting%2C%20golang%2C%20gowitness%2C%20headless%2C%20headless–chrome%2C%20reporting%2C%20screenshot%2C%20screenshots%2C%20security%2C%20technologies%2C%20web-brightgreen.svg)](https://github.com/sensepost/gowitness)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/sensepost/gowitness.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2017--10--31-brightgreen.svg)](https://github.com/sensepost/gowitness) [![GitHub last commit](https://img.shields.io/github/last-commit/sensepost/gowitness.svg?color=blue)](https://github.com/sensepost/gowitness) [![GitHub tags](https://img.shields.io/github/v/tag/sensepost/gowitness.svg)](https://github.com/sensepost/gowitness)
+
+----
+
+### [gpt3_security_vulnerability_scanner](https://github.com/chris-koch-penn/gpt3_security_vulnerability_scanner) from [chris-koch-penn](https://github.com/chris-koch-penn)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/chris-koch-penn) [![GitHub stars](https://img.shields.io/github/stars/chris-koch-penn/gpt3_security_vulnerability_scanner.svg?style=social&label=Stars)](https://github.com/chris-koch-penn/gpt3_security_vulnerability_scanner)
+
+GPT-3 found hundreds of security vulnerabilities in this repo
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/chris-koch-penn/gpt3_security_vulnerability_scanner.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--02--03-brightgreen.svg)](https://github.com/chris-koch-penn/gpt3_security_vulnerability_scanner) [![GitHub last commit](https://img.shields.io/github/last-commit/chris-koch-penn/gpt3_security_vulnerability_scanner.svg?color=blue)](https://github.com/chris-koch-penn/gpt3_security_vulnerability_scanner) [![GitHub tags](https://img.shields.io/github/v/tag/chris-koch-penn/gpt3_security_vulnerability_scanner.svg)](https://github.com/chris-koch-penn/gpt3_security_vulnerability_scanner)
 
 ----
 
@@ -8342,7 +8418,7 @@ Convert one JSON to another
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/AykutSarac) [![GitHub stars](https://img.shields.io/github/stars/AykutSarac/jsoncrack.com.svg?style=social&label=Stars)](https://github.com/AykutSarac/jsoncrack.com)
 
-✨ Seamlessly visualize your JSON data instantly into graphs.
+✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 
 [![GitHub topics](https://img.shields.io/badge/Topics-diagrams%2C%20graph%2C%20json%2C%20nextjs%2C%20productivity%2C%20react%2C%20tool%2C%20visualization-brightgreen.svg)](https://github.com/AykutSarac/jsoncrack.com)
 
@@ -8592,15 +8668,15 @@ Browser extension to turn a LinkedIn profile page into a JSON Resume export.
 
 ----
 
-### [linkedin2md](https://github.com/M157q/linkedin2md) from [M157q](https://github.com/M157q)
+### [linkedin2md](https://github.com/fkztw/linkedin2md) from [fkztw](https://github.com/fkztw)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/M157q) [![GitHub stars](https://img.shields.io/github/stars/M157q/linkedin2md.svg?style=social&label=Stars)](https://github.com/M157q/linkedin2md)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/fkztw) [![GitHub stars](https://img.shields.io/github/stars/fkztw/linkedin2md.svg?style=social&label=Stars)](https://github.com/fkztw/linkedin2md)
 
 (DEPRECATED) Export public LinkedIn profile to Markdown format
 
-[![GitHub topics](https://img.shields.io/badge/Topics-linkedin%2C%20markdown%2C%20python%2C%20resume-brightgreen.svg)](https://github.com/M157q/linkedin2md)
+[![GitHub topics](https://img.shields.io/badge/Topics-linkedin%2C%20markdown%2C%20python%2C%20resume-brightgreen.svg)](https://github.com/fkztw/linkedin2md)
 
-[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/M157q/linkedin2md.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2015--12--09-brightgreen.svg)](https://github.com/M157q/linkedin2md) [![GitHub last commit](https://img.shields.io/github/last-commit/M157q/linkedin2md.svg?color=blue)](https://github.com/M157q/linkedin2md) [![GitHub tags](https://img.shields.io/github/v/tag/M157q/linkedin2md.svg)](https://github.com/M157q/linkedin2md)
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/fkztw/linkedin2md.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2015--12--09-brightgreen.svg)](https://github.com/fkztw/linkedin2md) [![GitHub last commit](https://img.shields.io/github/last-commit/fkztw/linkedin2md.svg?color=blue)](https://github.com/fkztw/linkedin2md) [![GitHub tags](https://img.shields.io/github/v/tag/fkztw/linkedin2md.svg)](https://github.com/fkztw/linkedin2md)
 
 ----
 
@@ -9648,6 +9724,18 @@ Advanced Github OSINT Framework
 
 ----
 
+### [odat](https://github.com/quentinhardy/odat) from [quentinhardy](https://github.com/quentinhardy)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/quentinhardy) [![GitHub stars](https://img.shields.io/github/stars/quentinhardy/odat.svg?style=social&label=Stars)](https://github.com/quentinhardy/odat)
+
+ODAT: Oracle Database Attacking Tool
+
+[![GitHub topics](https://img.shields.io/badge/Topics-oracle–database%2C%20pentest%2C%20pentest–tool%2C%20privilege–escalation-brightgreen.svg)](https://github.com/quentinhardy/odat)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/quentinhardy/odat.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2014--02--28-brightgreen.svg)](https://github.com/quentinhardy/odat) [![GitHub last commit](https://img.shields.io/github/last-commit/quentinhardy/odat.svg?color=blue)](https://github.com/quentinhardy/odat) [![GitHub tags](https://img.shields.io/github/v/tag/quentinhardy/odat.svg)](https://github.com/quentinhardy/odat)
+
+----
+
 ### [odiff](https://github.com/dmtrKovalenko/odiff) from [dmtrKovalenko](https://github.com/dmtrKovalenko)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/dmtrKovalenko) [![GitHub stars](https://img.shields.io/github/stars/dmtrKovalenko/odiff.svg?style=social&label=Stars)](https://github.com/dmtrKovalenko/odiff)
@@ -10404,6 +10492,18 @@ Check if IP address is private.
 
 ----
 
+### [prowler](https://github.com/prowler-cloud/prowler) from [prowler-cloud](https://github.com/prowler-cloud)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/prowler-cloud) [![GitHub stars](https://img.shields.io/github/stars/prowler-cloud/prowler.svg?style=social&label=Stars)](https://github.com/prowler-cloud/prowler)
+
+Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more.
+
+[![GitHub topics](https://img.shields.io/badge/Topics-aws%2C%20azure%2C%20cis–benchmark%2C%20cloud%2C%20compliance%2C%20devsecops%2C%20forensics%2C%20gcp%2C%20gdpr%2C%20hardening%2C%20iam%2C%20multi–cloud%2C%20python%2C%20security%2C%20security–audit%2C%20security–hardening%2C%20security–tools%2C%20well–architected-brightgreen.svg)](https://github.com/prowler-cloud/prowler)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/prowler-cloud/prowler.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2016--08--24-brightgreen.svg)](https://github.com/prowler-cloud/prowler) [![GitHub last commit](https://img.shields.io/github/last-commit/prowler-cloud/prowler.svg?color=blue)](https://github.com/prowler-cloud/prowler) [![GitHub tags](https://img.shields.io/github/v/tag/prowler-cloud/prowler.svg)](https://github.com/prowler-cloud/prowler)
+
+----
+
 ### [proxy-chain](https://github.com/apify/proxy-chain) from [apify](https://github.com/apify)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/apify) [![GitHub stars](https://img.shields.io/github/stars/apify/proxy-chain.svg?style=social&label=Stars)](https://github.com/apify/proxy-chain)
@@ -10525,6 +10625,28 @@ The world's most versatile desktop notifications framework :earth_americas:
 [![GitHub topics](https://img.shields.io/badge/Topics-javascript%2C%20javascript–library%2C%20notification–api%2C%20notifications%2C%20push%2C%20push–notifications-brightgreen.svg)](https://github.com/Nickersoft/push.js)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/Nickersoft/push.js.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2015--07--20-brightgreen.svg)](https://github.com/Nickersoft/push.js) [![GitHub last commit](https://img.shields.io/github/last-commit/Nickersoft/push.js.svg?color=blue)](https://github.com/Nickersoft/push.js) [![GitHub tags](https://img.shields.io/github/v/tag/Nickersoft/push.js.svg)](https://github.com/Nickersoft/push.js)
+
+----
+
+### [pwnd-GPT](https://github.com/0xKoda/pwnd-GPT) from [0xKoda](https://github.com/0xKoda)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/0xKoda) [![GitHub stars](https://img.shields.io/github/stars/0xKoda/pwnd-GPT.svg?style=social&label=Stars)](https://github.com/0xKoda/pwnd-GPT)
+
+AI assisted incident response for any cyber issue. Clear malware, patch networks, isolate machines, perform active defence with guided terminal commands. 
+
+[![GitHub topics](https://img.shields.io/badge/Topics-ai%2C%20cybersecurity%2C%20gpt%2C%20incident–response-brightgreen.svg)](https://github.com/0xKoda/pwnd-GPT)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/0xKoda/pwnd-GPT.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--05--04-brightgreen.svg)](https://github.com/0xKoda/pwnd-GPT) [![GitHub last commit](https://img.shields.io/github/last-commit/0xKoda/pwnd-GPT.svg?color=blue)](https://github.com/0xKoda/pwnd-GPT) [![GitHub tags](https://img.shields.io/github/v/tag/0xKoda/pwnd-GPT.svg)](https://github.com/0xKoda/pwnd-GPT)
+
+----
+
+### [pwndbg](https://github.com/tenable/pwndbg) from [tenable](https://github.com/tenable)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/tenable) [![GitHub stars](https://img.shields.io/github/stars/tenable/pwndbg.svg?style=social&label=Stars)](https://github.com/tenable/pwndbg)
+
+Exploit Development and Reverse Engineering with GDB Made Easy
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/tenable/pwndbg.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--02--23-brightgreen.svg)](https://github.com/tenable/pwndbg) [![GitHub last commit](https://img.shields.io/github/last-commit/tenable/pwndbg.svg?color=blue)](https://github.com/tenable/pwndbg) [![GitHub tags](https://img.shields.io/github/v/tag/tenable/pwndbg.svg)](https://github.com/tenable/pwndbg)
 
 ----
 
@@ -13336,7 +13458,9 @@ Session cookies handler
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/Lissy93) [![GitHub stars](https://img.shields.io/github/stars/Lissy93/web-check.svg?style=social&label=Stars)](https://github.com/Lissy93/web-check)
 
-🌐 All-in-one website OSINT tool
+🌐 All-in-one website OSINT tool for analysing any website
+
+[![GitHub topics](https://img.shields.io/badge/Topics-osint%2C%20privacy%2C%20security%2C%20security–tools%2C%20sysadmin-brightgreen.svg)](https://github.com/Lissy93/web-check)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/Lissy93/web-check.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--06--25-brightgreen.svg)](https://github.com/Lissy93/web-check) [![GitHub last commit](https://img.shields.io/github/last-commit/Lissy93/web-check.svg?color=blue)](https://github.com/Lissy93/web-check) [![GitHub tags](https://img.shields.io/github/v/tag/Lissy93/web-check.svg)](https://github.com/Lissy93/web-check)
 
