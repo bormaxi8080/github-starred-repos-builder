@@ -4,9 +4,9 @@ This document generated automatically, see https://github.com/bormaxi8080/github
 
 (c) @bormaxi8080, 2023
 
-Created at: 2023-07-13
+Created at: 2023-07-19
 
-Starred repositories count: 1235
+Starred repositories count: 1241
 
 ----
 
@@ -2604,6 +2604,18 @@ Collection of port scans of the North Korean IPv4 subnets from different vps
 
 ----
 
+### [Nucleimonst3r](https://github.com/blackhatethicalhacking/Nucleimonst3r) from [blackhatethicalhacking](https://github.com/blackhatethicalhacking)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/blackhatethicalhacking) [![GitHub stars](https://img.shields.io/github/stars/blackhatethicalhacking/Nucleimonst3r.svg?style=social&label=Stars)](https://github.com/blackhatethicalhacking/Nucleimonst3r)
+
+Nucleimonst3r is a powerful vulnerability scanner that can help Bug Bounty Hunters find low hanging fruit vulnerabilities for known CVEs and exploits but also gather all the technology running behind them for further investigation for a potential target.
+
+[![GitHub topics](https://img.shields.io/badge/Topics-bugbounty%2C%20bugbounty–tool%2C%20hacking%2C%20hacking–tool%2C%20infosec%2C%20infosectools%2C%20redteam%2C%20vulnerability–scanners-brightgreen.svg)](https://github.com/blackhatethicalhacking/Nucleimonst3r)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/blackhatethicalhacking/Nucleimonst3r.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--02--14-brightgreen.svg)](https://github.com/blackhatethicalhacking/Nucleimonst3r) [![GitHub last commit](https://img.shields.io/github/last-commit/blackhatethicalhacking/Nucleimonst3r.svg?color=blue)](https://github.com/blackhatethicalhacking/Nucleimonst3r) [![GitHub tags](https://img.shields.io/github/v/tag/blackhatethicalhacking/Nucleimonst3r.svg)](https://github.com/blackhatethicalhacking/Nucleimonst3r)
+
+----
+
 ### [OSINT](https://github.com/OsintDojo/OSINT) from [OsintDojo](https://github.com/OsintDojo)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/OsintDojo) [![GitHub stars](https://img.shields.io/github/stars/OsintDojo/OSINT.svg?style=social&label=Stars)](https://github.com/OsintDojo/OSINT)
@@ -3534,6 +3546,18 @@ Samurai Email Discovery - SED is a email discovery framework that grabs emails v
 
 ----
 
+### [SatIntel](https://github.com/ANG13T/SatIntel) from [ANG13T](https://github.com/ANG13T)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/ANG13T) [![GitHub stars](https://img.shields.io/github/stars/ANG13T/SatIntel.svg?style=social&label=Stars)](https://github.com/ANG13T/SatIntel)
+
+SatIntel is an OSINT tool for Satellites 🛰. Extract satellite telemetry, receive orbital predictions, and parse TLEs 🔭
+
+[![GitHub topics](https://img.shields.io/badge/Topics-aerospace%2C%20cybersecurity%2C%20golang%2C%20orbital–dynamics%2C%20osint%2C%20reconnaissance%2C%20satellite%2C%20tle-brightgreen.svg)](https://github.com/ANG13T/SatIntel)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/ANG13T/SatIntel.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--05--03-brightgreen.svg)](https://github.com/ANG13T/SatIntel) [![GitHub last commit](https://img.shields.io/github/last-commit/ANG13T/SatIntel.svg?color=blue)](https://github.com/ANG13T/SatIntel) [![GitHub tags](https://img.shields.io/github/v/tag/ANG13T/SatIntel.svg)](https://github.com/ANG13T/SatIntel)
+
+----
+
 ### [SauronEye](https://github.com/vivami/SauronEye) from [vivami](https://github.com/vivami)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/vivami) [![GitHub stars](https://img.shields.io/github/stars/vivami/SauronEye.svg?style=social&label=Stars)](https://github.com/vivami/SauronEye)
@@ -4204,6 +4228,18 @@ The awesome document factory
 
 ----
 
+### [WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons) from [hahwul](https://github.com/hahwul)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/hahwul) [![GitHub stars](https://img.shields.io/github/stars/hahwul/WebHackersWeapons.svg?style=social&label=Stars)](https://github.com/hahwul/WebHackersWeapons)
+
+⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting
+
+[![GitHub topics](https://img.shields.io/badge/Topics-awesome–list%2C%20bugbounty%2C%20bugbountytips%2C%20hacking%2C%20scanner%2C%20security%2C%20tools%2C%20webhacking-brightgreen.svg)](https://github.com/hahwul/WebHackersWeapons)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/hahwul/WebHackersWeapons.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2020--04--04-brightgreen.svg)](https://github.com/hahwul/WebHackersWeapons) [![GitHub last commit](https://img.shields.io/github/last-commit/hahwul/WebHackersWeapons.svg?color=blue)](https://github.com/hahwul/WebHackersWeapons) [![GitHub tags](https://img.shields.io/github/v/tag/hahwul/WebHackersWeapons.svg)](https://github.com/hahwul/WebHackersWeapons)
+
+----
+
 ### [Weylus](https://github.com/H-M-H/Weylus) from [H-M-H](https://github.com/H-M-H)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/H-M-H) [![GitHub stars](https://img.shields.io/github/stars/H-M-H/Weylus.svg?style=social&label=Stars)](https://github.com/H-M-H/Weylus)
@@ -4385,6 +4421,18 @@ A simple LinkedIn profile scraper implemented as a chrome extension
 [![GitHub topics](https://img.shields.io/badge/Topics-browser–extension%2C%20chrome%2C%20chrome–extension%2C%20hrms%2C%20linkedin%2C%20linkedin–profile%2C%20linkedin–profile–scraping–tool%2C%20linkedin–scraper%2C%20recruiter%2C%20recruiting%2C%20recruitment%2C%20scraper-brightgreen.svg)](https://github.com/DrakenWan/Yale3)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/DrakenWan/Yale3.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2021--12--04-brightgreen.svg)](https://github.com/DrakenWan/Yale3) [![GitHub last commit](https://img.shields.io/github/last-commit/DrakenWan/Yale3.svg?color=blue)](https://github.com/DrakenWan/Yale3) [![GitHub tags](https://img.shields.io/github/v/tag/DrakenWan/Yale3.svg)](https://github.com/DrakenWan/Yale3)
+
+----
+
+### [YouTube-Video-OSINT](https://github.com/cqcore/YouTube-Video-OSINT) from [cqcore](https://github.com/cqcore)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/cqcore) [![GitHub stars](https://img.shields.io/github/stars/cqcore/YouTube-Video-OSINT.svg?style=social&label=Stars)](https://github.com/cqcore/YouTube-Video-OSINT)
+
+Mainly YouTube, tools, techniques & tradecraft OSINT resources. 
+
+[![GitHub topics](https://img.shields.io/badge/Topics-osint%2C%20video%2C%20youtube-brightgreen.svg)](https://github.com/cqcore/YouTube-Video-OSINT)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/cqcore/YouTube-Video-OSINT.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--05--05-brightgreen.svg)](https://github.com/cqcore/YouTube-Video-OSINT) [![GitHub last commit](https://img.shields.io/github/last-commit/cqcore/YouTube-Video-OSINT.svg?color=blue)](https://github.com/cqcore/YouTube-Video-OSINT) [![GitHub tags](https://img.shields.io/github/v/tag/cqcore/YouTube-Video-OSINT.svg)](https://github.com/cqcore/YouTube-Video-OSINT)
 
 ----
 
@@ -5120,7 +5168,7 @@ List of my favourite recruitment things 💫
 
 A list of Free Software network services and web applications which can be hosted on your own servers
 
-[![GitHub topics](https://img.shields.io/badge/Topics-awesome%2C%20awesome–list%2C%20cloud%2C%20hosting%2C%20privacy%2C%20self–hosted%2C%20selfhosted-brightgreen.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted)
+[![GitHub topics](https://img.shields.io/badge/Topics-awesome%2C%20awesome–list%2C%20cloud%2C%20free–software%2C%20hosting%2C%20privacy%2C%20self–hosted%2C%20selfhosted-brightgreen.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/awesome-selfhosted/awesome-selfhosted.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2015--06--01-brightgreen.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted) [![GitHub last commit](https://img.shields.io/github/last-commit/awesome-selfhosted/awesome-selfhosted.svg?color=blue)](https://github.com/awesome-selfhosted/awesome-selfhosted) [![GitHub tags](https://img.shields.io/github/v/tag/awesome-selfhosted/awesome-selfhosted.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
@@ -9236,7 +9284,7 @@ A fast, minimal browser that protects your privacy
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/mindsdb) [![GitHub stars](https://img.shields.io/github/stars/mindsdb/mindsdb.svg?style=social&label=Stars)](https://github.com/mindsdb/mindsdb)
 
-MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship to production AI powered projects (from the latest LLMs, vector operations, state of the art time-series forecasting to Machine Learning) in a fast and scalable way. 
+MindsDB is a leading open-source platform for building AI Logic into your applications using your existing developer skills. It's a Central Hub where you can Deploy and Manage Hundreds of AI Engines and Data Integrations and Automate your Generative AI workflows.
 
 [![GitHub topics](https://img.shields.io/badge/Topics-artificial–intelligence%2C%20automl%2C%20explainable–ai%2C%20gpt–4%2C%20hacktoberfest%2C%20huggingface%2C%20llm%2C%20llmops%2C%20llms%2C%20machine–learning%2C%20machine–learning–api%2C%20ml%2C%20mysql%2C%20nlp%2C%20openapi%2C%20pytorch-brightgreen.svg)](https://github.com/mindsdb/mindsdb)
 
@@ -9716,7 +9764,7 @@ These templates are suggestions of how the Obsidian notetaking tool can be used 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/bellingcat) [![GitHub stars](https://img.shields.io/github/stars/bellingcat/octosuite.svg?style=social&label=Stars)](https://github.com/bellingcat/octosuite)
 
-Advanced Github OSINT Framework
+An all-in-one GitHub open-source intelligence framework.
 
 [![GitHub topics](https://img.shields.io/badge/Topics-framework%2C%20frameworks%2C%20github%2C%20github–api%2C%20linux%2C%20osint%2C%20osint–framework%2C%20osint–python%2C%20osint–tool%2C%20osint–tools%2C%20python-brightgreen.svg)](https://github.com/bellingcat/octosuite)
 
@@ -9824,7 +9872,7 @@ Want to contribute? These are difficult, long-term projects that could be valuab
 
 OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 
-[![GitHub topics](https://img.shields.io/badge/Topics-resume%2C%20resume–builder%2C%20resume–parser-brightgreen.svg)](https://github.com/xitanggg/open-resume)
+[![GitHub topics](https://img.shields.io/badge/Topics-nextjs%2C%20react%2C%20resume%2C%20resume–builder%2C%20resume–parser%2C%20resume–template%2C%20tailwindcss%2C%20typescript-brightgreen.svg)](https://github.com/xitanggg/open-resume)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/xitanggg/open-resume.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--06--24-brightgreen.svg)](https://github.com/xitanggg/open-resume) [![GitHub last commit](https://img.shields.io/github/last-commit/xitanggg/open-resume.svg?color=blue)](https://github.com/xitanggg/open-resume) [![GitHub tags](https://img.shields.io/github/v/tag/xitanggg/open-resume.svg)](https://github.com/xitanggg/open-resume)
 
@@ -10191,6 +10239,18 @@ Open source Dropbox-like file sharing with full client encryption !
 Collections of services for search data from passengers lists and emigrants records
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/cipher387/passengers_lists_and_migrants_records.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2021--08--27-brightgreen.svg)](https://github.com/cipher387/passengers_lists_and_migrants_records) [![GitHub last commit](https://img.shields.io/github/last-commit/cipher387/passengers_lists_and_migrants_records.svg?color=blue)](https://github.com/cipher387/passengers_lists_and_migrants_records) [![GitHub tags](https://img.shields.io/github/v/tag/cipher387/passengers_lists_and_migrants_records.svg)](https://github.com/cipher387/passengers_lists_and_migrants_records)
+
+----
+
+### [passer](https://github.com/activecm/passer) from [activecm](https://github.com/activecm)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/activecm) [![GitHub stars](https://img.shields.io/github/stars/activecm/passer.svg?style=social&label=Stars)](https://github.com/activecm/passer)
+
+Passive service locator, a python sniffer that identifies servers, clients, names and much more
+
+[![GitHub topics](https://img.shields.io/badge/Topics-capturing–packets%2C%20dns%2C%20docker–command%2C%20gplv3%2C%20hacktoberfest%2C%20linux%2C%20macosx%2C%20network–monitoring%2C%20packet–analyzer%2C%20packet–sniffer%2C%20packets%2C%20passer%2C%20pcap%2C%20pcap–analyzer%2C%20python%2C%20python–2%2C%20scapy%2C%20security%2C%20sniffer-brightgreen.svg)](https://github.com/activecm/passer)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/activecm/passer.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2018--11--08-brightgreen.svg)](https://github.com/activecm/passer) [![GitHub last commit](https://img.shields.io/github/last-commit/activecm/passer.svg?color=blue)](https://github.com/activecm/passer) [![GitHub tags](https://img.shields.io/github/v/tag/activecm/passer.svg)](https://github.com/activecm/passer)
 
 ----
 
@@ -11145,6 +11205,18 @@ Chrome extension to return youtube dislikes
 A "panic button" app for triggering a "ripple effect" across apps that are set up to respond to panic events
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/guardianproject/ripple.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2015--10--28-brightgreen.svg)](https://github.com/guardianproject/ripple) [![GitHub last commit](https://img.shields.io/github/last-commit/guardianproject/ripple.svg?color=blue)](https://github.com/guardianproject/ripple) [![GitHub tags](https://img.shields.io/github/v/tag/guardianproject/ripple.svg)](https://github.com/guardianproject/ripple)
+
+----
+
+### [rita](https://github.com/activecm/rita) from [activecm](https://github.com/activecm)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/activecm) [![GitHub stars](https://img.shields.io/github/stars/activecm/rita.svg?style=social&label=Stars)](https://github.com/activecm/rita)
+
+Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis.
+
+[![GitHub topics](https://img.shields.io/badge/Topics-analysis%2C%20analytics%2C%20beacon%2C%20beacon–sniffer%2C%20bhis%2C%20blueteam%2C%20bro–ids%2C%20dga%2C%20dns%2C%20dns–tunneling%2C%20logs%2C%20network–traffic%2C%20offensive–countermeasures%2C%20rita%2C%20scanning%2C%20security%2C%20threat-brightgreen.svg)](https://github.com/activecm/rita)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/activecm/rita.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2016--09--24-brightgreen.svg)](https://github.com/activecm/rita) [![GitHub last commit](https://img.shields.io/github/last-commit/activecm/rita.svg?color=blue)](https://github.com/activecm/rita) [![GitHub tags](https://img.shields.io/github/v/tag/activecm/rita.svg)](https://github.com/activecm/rita)
 
 ----
 
@@ -13198,7 +13270,7 @@ Manage your vagrant machines in one place with Vagrant Manager for OS X
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/errata-ai) [![GitHub stars](https://img.shields.io/github/stars/errata-ai/vale.svg?style=social&label=Stars)](https://github.com/errata-ai/vale)
 
-:pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
+:pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 
 [![GitHub topics](https://img.shields.io/badge/Topics-linter%2C%20linting%2C%20nlp%2C%20vale-brightgreen.svg)](https://github.com/errata-ai/vale)
 
