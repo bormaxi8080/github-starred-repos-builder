@@ -4,9 +4,9 @@ This document generated automatically, see https://github.com/bormaxi8080/github
 
 (c) @bormaxi8080, 2023
 
-Created at: 2023-07-19
+Created at: 2023-07-26
 
-Starred repositories count: 1241
+Starred repositories count: 1250
 
 ----
 
@@ -111,6 +111,16 @@ I am using this repository to document my journey learning about DevOps. I began
 [![GitHub topics](https://img.shields.io/badge/Topics-ansible%2C%20backup%2C%20containers%2C%20devops%2C%20iac%2C%20kubernetes%2C%20networking%2C%20terraform-brightgreen.svg)](https://github.com/MichaelCade/90DaysOfDevOps)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/MichaelCade/90DaysOfDevOps.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2021--12--26-brightgreen.svg)](https://github.com/MichaelCade/90DaysOfDevOps) [![GitHub last commit](https://img.shields.io/github/last-commit/MichaelCade/90DaysOfDevOps.svg?color=blue)](https://github.com/MichaelCade/90DaysOfDevOps) [![GitHub tags](https://img.shields.io/github/v/tag/MichaelCade/90DaysOfDevOps.svg)](https://github.com/MichaelCade/90DaysOfDevOps)
+
+----
+
+### [ADCSKiller](https://github.com/grimlockx/ADCSKiller) from [grimlockx](https://github.com/grimlockx)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/grimlockx) [![GitHub stars](https://img.shields.io/github/stars/grimlockx/ADCSKiller.svg?style=social&label=Stars)](https://github.com/grimlockx/ADCSKiller)
+
+An ADCS Exploitation Automation Tool Weaponizing Certipy and Coercer
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/grimlockx/ADCSKiller.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--05--19-brightgreen.svg)](https://github.com/grimlockx/ADCSKiller) [![GitHub last commit](https://img.shields.io/github/last-commit/grimlockx/ADCSKiller.svg?color=blue)](https://github.com/grimlockx/ADCSKiller) [![GitHub tags](https://img.shields.io/github/v/tag/grimlockx/ADCSKiller.svg)](https://github.com/grimlockx/ADCSKiller)
 
 ----
 
@@ -578,6 +588,18 @@ Network Analysis Tool
 
 ----
 
+### [BucketLoot](https://github.com/redhuntlabs/BucketLoot) from [redhuntlabs](https://github.com/redhuntlabs)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/redhuntlabs) [![GitHub stars](https://img.shields.io/github/stars/redhuntlabs/BucketLoot.svg?style=social&label=Stars)](https://github.com/redhuntlabs/BucketLoot)
+
+BucketLoot is an automated S3-compatible bucket inspector that can help users extract assets, flag secret exposures and even search for custom keywords as well as Regular Expressions from publicly-exposed storage buckets by scanning files that store data in plain-text.
+
+[![GitHub topics](https://img.shields.io/badge/Topics-automation%2C%20blackhat%2C%20bounty%2C%20bugbounty%2C%20bughunting%2C%20cli%2C%20cloud%2C%20cloud–security%2C%20cybersecurity%2C%20infosec%2C%20infosectools%2C%20osint%2C%20pentesting%2C%20recon%2C%20reconnaissance%2C%20s3%2C%20secret–scanning-brightgreen.svg)](https://github.com/redhuntlabs/BucketLoot)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/redhuntlabs/BucketLoot.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--07--17-brightgreen.svg)](https://github.com/redhuntlabs/BucketLoot) [![GitHub last commit](https://img.shields.io/github/last-commit/redhuntlabs/BucketLoot.svg?color=blue)](https://github.com/redhuntlabs/BucketLoot) [![GitHub tags](https://img.shields.io/github/v/tag/redhuntlabs/BucketLoot.svg)](https://github.com/redhuntlabs/BucketLoot)
+
+----
+
 ### [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) from [TheAlgorithms](https://github.com/TheAlgorithms)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/TheAlgorithms) [![GitHub stars](https://img.shields.io/github/stars/TheAlgorithms/C-Plus-Plus.svg?style=social&label=Stars)](https://github.com/TheAlgorithms/C-Plus-Plus)
@@ -1004,6 +1026,18 @@ The Best Forwarded Shell
 
 ----
 
+### [DFW1N-OSINT](https://github.com/DFW1N/DFW1N-OSINT) from [DFW1N](https://github.com/DFW1N)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/DFW1N) [![GitHub stars](https://img.shields.io/github/stars/DFW1N/DFW1N-OSINT.svg?style=social&label=Stars)](https://github.com/DFW1N/DFW1N-OSINT)
+
+Australian Open Source Intelligence Gathering Resources,                                                                              Australias Largest Open Source Intelligence Repository for Cyber Professionals and Ethical Hackers
+
+[![GitHub topics](https://img.shields.io/badge/Topics-australia%2C%20cryptography%2C%20cybersecurity%2C%20darkweb–data%2C%20ethical–hacking%2C%20forensics%2C%20intelligence%2C%20intelligence–search–service%2C%20investigator%2C%20opensource%2C%20osint%2C%20osint–framework%2C%20osint–reconnaissance%2C%20osint–resources%2C%20penetration–testing–tools%2C%20police%2C%20redteaming%2C%20social–media%2C%20social–network-brightgreen.svg)](https://github.com/DFW1N/DFW1N-OSINT)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/DFW1N/DFW1N-OSINT.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2019--08--08-brightgreen.svg)](https://github.com/DFW1N/DFW1N-OSINT) [![GitHub last commit](https://img.shields.io/github/last-commit/DFW1N/DFW1N-OSINT.svg?color=blue)](https://github.com/DFW1N/DFW1N-OSINT) [![GitHub tags](https://img.shields.io/github/v/tag/DFW1N/DFW1N-OSINT.svg)](https://github.com/DFW1N/DFW1N-OSINT)
+
+----
+
 ### [DNSStager](https://github.com/mhaskar/DNSStager) from [mhaskar](https://github.com/mhaskar)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/mhaskar) [![GitHub stars](https://img.shields.io/github/stars/mhaskar/DNSStager.svg?style=social&label=Stars)](https://github.com/mhaskar/DNSStager)
@@ -1082,13 +1116,13 @@ DeepFaceLab is the leading software for creating deepfakes.
 
 ----
 
-### [Depix](https://github.com/beurtschipper/Depix) from [beurtschipper](https://github.com/beurtschipper)
+### [Depix](https://github.com/spipm/Depix) from [spipm](https://github.com/spipm)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/beurtschipper) [![GitHub stars](https://img.shields.io/github/stars/beurtschipper/Depix.svg?style=social&label=Stars)](https://github.com/beurtschipper/Depix)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/spipm) [![GitHub stars](https://img.shields.io/github/stars/spipm/Depix.svg?style=social&label=Stars)](https://github.com/spipm/Depix)
 
 Recovers passwords from pixelized screenshots
 
-[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/beurtschipper/Depix.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2020--12--06-brightgreen.svg)](https://github.com/beurtschipper/Depix) [![GitHub last commit](https://img.shields.io/github/last-commit/beurtschipper/Depix.svg?color=blue)](https://github.com/beurtschipper/Depix) [![GitHub tags](https://img.shields.io/github/v/tag/beurtschipper/Depix.svg)](https://github.com/beurtschipper/Depix)
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/spipm/Depix.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2020--12--06-brightgreen.svg)](https://github.com/spipm/Depix) [![GitHub last commit](https://img.shields.io/github/last-commit/spipm/Depix.svg?color=blue)](https://github.com/spipm/Depix) [![GitHub tags](https://img.shields.io/github/v/tag/spipm/Depix.svg)](https://github.com/spipm/Depix)
 
 ----
 
@@ -1612,9 +1646,9 @@ No project description
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/C3n7ral051nt4g3ncy) [![GitHub stars](https://img.shields.io/github/stars/C3n7ral051nt4g3ncy/GitOSINT_Bot.svg?style=social&label=Stars)](https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot)
 
-GitOSINT is a Discord bot that helps to find information on GitHub users
+GitOSINT is a Discord bot that will scan a username across over 1000 sites with Maigret, provide information on phone numbers, and Github users
 
-[![GitHub topics](https://img.shields.io/badge/Topics-discord%2C%20discord–bot%2C%20discord–py%2C%20github%2C%20osint%2C%20osint–python%2C%20osint–tool-brightgreen.svg)](https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot)
+[![GitHub topics](https://img.shields.io/badge/Topics-bot%2C%20cyber%2C%20cybersecurity%2C%20discord%2C%20discord–bot%2C%20discord–py%2C%20github%2C%20osint%2C%20osint–python%2C%20osint–reconnaissance%2C%20osint–tool%2C%20pentesting%2C%20recon%2C%20reconnaissance%2C%20username–checker-brightgreen.svg)](https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--06--04-brightgreen.svg)](https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot) [![GitHub last commit](https://img.shields.io/github/last-commit/C3n7ral051nt4g3ncy/GitOSINT_Bot.svg?color=blue)](https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot) [![GitHub tags](https://img.shields.io/github/v/tag/C3n7ral051nt4g3ncy/GitOSINT_Bot.svg)](https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot)
 
@@ -1763,6 +1797,18 @@ Unblur Scribd document pages for non-paid members
 [![GitHub topics](https://img.shields.io/badge/Topics-greasemonkey%2C%20hack%2C%20javascript%2C%20scribd%2C%20scriptish%2C%20tampermonkey-brightgreen.svg)](https://github.com/ayltai/Hack-Scribd-Unblurer)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/ayltai/Hack-Scribd-Unblurer.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2014--02--22-brightgreen.svg)](https://github.com/ayltai/Hack-Scribd-Unblurer) [![GitHub last commit](https://img.shields.io/github/last-commit/ayltai/Hack-Scribd-Unblurer.svg?color=blue)](https://github.com/ayltai/Hack-Scribd-Unblurer) [![GitHub tags](https://img.shields.io/github/v/tag/ayltai/Hack-Scribd-Unblurer.svg)](https://github.com/ayltai/Hack-Scribd-Unblurer)
+
+----
+
+### [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) from [moonD4rk](https://github.com/moonD4rk)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/moonD4rk) [![GitHub stars](https://img.shields.io/github/stars/moonD4rk/HackBrowserData.svg?style=social&label=Stars)](https://github.com/moonD4rk/HackBrowserData)
+
+Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
+
+[![GitHub topics](https://img.shields.io/badge/Topics-browser%2C%20browser–extension%2C%20chrome%2C%20edge%2C%20firefox%2C%20golang%2C%20hacking%2C%20macos%2C%20pentest–tool%2C%20windows-brightgreen.svg)](https://github.com/moonD4rk/HackBrowserData)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/moonD4rk/HackBrowserData.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2020--06--18-brightgreen.svg)](https://github.com/moonD4rk/HackBrowserData) [![GitHub last commit](https://img.shields.io/github/last-commit/moonD4rk/HackBrowserData.svg?color=blue)](https://github.com/moonD4rk/HackBrowserData) [![GitHub tags](https://img.shields.io/github/v/tag/moonD4rk/HackBrowserData.svg)](https://github.com/moonD4rk/HackBrowserData)
 
 ----
 
@@ -5376,7 +5422,7 @@ A library for Pythonistas to call Michael Bazzell's OSINT tools as functions
 
 OSINT automation for hackers.
 
-[![GitHub topics](https://img.shields.io/badge/Topics-attack–surface%2C%20automation%2C%20bugbounty%2C%20cli%2C%20command–line–tool%2C%20hacking%2C%20neo4j%2C%20osint%2C%20osint–framework%2C%20osint–tool%2C%20pentesting%2C%20pypi%2C%20python%2C%20python–library%2C%20recon%2C%20recursion%2C%20scanner%2C%20security%2C%20security–tools%2C%20subdomain–enumeration-brightgreen.svg)](https://github.com/blacklanternsecurity/bbot)
+[![GitHub topics](https://img.shields.io/badge/Topics-attack–surface%2C%20automation%2C%20bugbounty%2C%20cli%2C%20command–line–tool%2C%20hacking%2C%20neo4j%2C%20osint%2C%20osint–framework%2C%20osint–tool%2C%20pentesting%2C%20python%2C%20python–library%2C%20recon%2C%20recursion%2C%20scanner%2C%20security–tools%2C%20subdomain–enumeration%2C%20subdomain–scanner%2C%20subdomains-brightgreen.svg)](https://github.com/blacklanternsecurity/bbot)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/blacklanternsecurity/bbot.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--03--12-brightgreen.svg)](https://github.com/blacklanternsecurity/bbot) [![GitHub last commit](https://img.shields.io/github/last-commit/blacklanternsecurity/bbot.svg?color=blue)](https://github.com/blacklanternsecurity/bbot) [![GitHub tags](https://img.shields.io/github/v/tag/blacklanternsecurity/bbot.svg)](https://github.com/blacklanternsecurity/bbot)
 
@@ -6164,7 +6210,7 @@ Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/fin3ss3g0d) [![GitHub stars](https://img.shields.io/github/stars/fin3ss3g0d/cypherhound.svg?style=social&label=Stars)](https://github.com/fin3ss3g0d/cypherhound)
 
-Python3 terminal application that contains 270+ Neo4j cyphers for BloodHound data sets
+Python3 terminal application that contains 270+ Neo4j cyphers for BloodHound data sets and 254 GUI cyphers
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/fin3ss3g0d/cypherhound.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--10--23-brightgreen.svg)](https://github.com/fin3ss3g0d/cypherhound) [![GitHub last commit](https://img.shields.io/github/last-commit/fin3ss3g0d/cypherhound.svg?color=blue)](https://github.com/fin3ss3g0d/cypherhound) [![GitHub tags](https://img.shields.io/github/v/tag/fin3ss3g0d/cypherhound.svg)](https://github.com/fin3ss3g0d/cypherhound)
 
@@ -6315,6 +6361,18 @@ A secure file encryption utility, written in Rust.
 [![GitHub topics](https://img.shields.io/badge/Topics-aes–256–gcm%2C%20crypto%2C%20cryptography%2C%20deoxys%2C%20encryption%2C%20rust%2C%20security%2C%20xchacha20–poly1305-brightgreen.svg)](https://github.com/brxken128/dexios)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/brxken128/dexios.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--05--01-brightgreen.svg)](https://github.com/brxken128/dexios) [![GitHub last commit](https://img.shields.io/github/last-commit/brxken128/dexios.svg?color=blue)](https://github.com/brxken128/dexios) [![GitHub tags](https://img.shields.io/github/v/tag/brxken128/dexios.svg)](https://github.com/brxken128/dexios)
+
+----
+
+### [dfir-toolkit](https://github.com/dfir-dd/dfir-toolkit) from [dfir-dd](https://github.com/dfir-dd)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/dfir-dd) [![GitHub stars](https://img.shields.io/github/stars/dfir-dd/dfir-toolkit.svg?style=social&label=Stars)](https://github.com/dfir-dd/dfir-toolkit)
+
+CLI tools for forensic investigation of Windows artifacts
+
+[![GitHub topics](https://img.shields.io/badge/Topics-cli%2C%20dfir%2C%20digital–forensics%2C%20digital–forensics–incident–response%2C%20forensic–analysis%2C%20forensics%2C%20forensics–tools%2C%20rust%2C%20rust–lang-brightgreen.svg)](https://github.com/dfir-dd/dfir-toolkit)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/dfir-dd/dfir-toolkit.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--07--08-brightgreen.svg)](https://github.com/dfir-dd/dfir-toolkit) [![GitHub last commit](https://img.shields.io/github/last-commit/dfir-dd/dfir-toolkit.svg?color=blue)](https://github.com/dfir-dd/dfir-toolkit) [![GitHub tags](https://img.shields.io/github/v/tag/dfir-dd/dfir-toolkit.svg)](https://github.com/dfir-dd/dfir-toolkit)
 
 ----
 
@@ -7586,7 +7644,7 @@ GitHub star ranking for users, organizations and repositories
 
 Retrieve all mails of users related to a git repository, a git user or a git organization
 
-[![GitHub topics](https://img.shields.io/badge/Topics-data–gathering%2C%20email%2C%20multithreaded%2C%20osint%2C%20osint–tool%2C%20rust-brightgreen.svg)](https://github.com/shadawck/glit)
+[![GitHub topics](https://img.shields.io/badge/Topics-data–gathering%2C%20email%2C%20email–osint%2C%20information–gathering%2C%20multithreaded%2C%20osint%2C%20osint–tool%2C%20rust-brightgreen.svg)](https://github.com/shadawck/glit)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/shadawck/glit.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--11--14-brightgreen.svg)](https://github.com/shadawck/glit) [![GitHub last commit](https://img.shields.io/github/last-commit/shadawck/glit.svg?color=blue)](https://github.com/shadawck/glit) [![GitHub tags](https://img.shields.io/github/v/tag/shadawck/glit.svg)](https://github.com/shadawck/glit)
 
@@ -8400,7 +8458,7 @@ ISP Data Pollution to Protect Private Browsing History with Obfuscation
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/ivre) [![GitHub stars](https://img.shields.io/github/stars/ivre/ivre.svg?style=social&label=Stars)](https://github.com/ivre/ivre)
 
-Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligence from your sensors, and much more!
+Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligence from your sensors, and much more! Uses Nmap, Masscan, Zeek, p0f, etc.
 
 [![GitHub topics](https://img.shields.io/badge/Topics-bro%2C%20hacktoberfest%2C%20masscan%2C%20network%2C%20network–analysis%2C%20network–discovery%2C%20network–monitoring%2C%20network–security%2C%20nmap%2C%20nmap–parser%2C%20nmap–results–analyse%2C%20nmap–scripts%2C%20osint%2C%20osint–python%2C%20osint–reconnaissance%2C%20python%2C%20scan–ports%2C%20scans%2C%20security%2C%20zeek-brightgreen.svg)](https://github.com/ivre/ivre)
 
@@ -8835,6 +8893,16 @@ A privacy-first, open-source platform for knowledge management and collaboration
 [![GitHub topics](https://img.shields.io/badge/Topics-clojure%2C%20clojurescript%2C%20git%2C%20graph%2C%20knowledge–base%2C%20knowledge–graph%2C%20local–first%2C%20markdown%2C%20note–taking%2C%20org–mode%2C%20pkm-brightgreen.svg)](https://github.com/logseq/logseq)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/logseq/logseq.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2020--05--23-brightgreen.svg)](https://github.com/logseq/logseq) [![GitHub last commit](https://img.shields.io/github/last-commit/logseq/logseq.svg?color=blue)](https://github.com/logseq/logseq) [![GitHub tags](https://img.shields.io/github/v/tag/logseq/logseq.svg)](https://github.com/logseq/logseq)
+
+----
+
+### [lupo](https://github.com/malienist/lupo) from [malienist](https://github.com/malienist)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/malienist) [![GitHub stars](https://img.shields.io/github/stars/malienist/lupo.svg?style=social&label=Stars)](https://github.com/malienist/lupo)
+
+Lupo - Malware IOC Extractor. Debugging module for Malware Analysis Automation
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/malienist/lupo.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2020--06--09-brightgreen.svg)](https://github.com/malienist/lupo) [![GitHub last commit](https://img.shields.io/github/last-commit/malienist/lupo.svg?color=blue)](https://github.com/malienist/lupo) [![GitHub tags](https://img.shields.io/github/v/tag/malienist/lupo.svg)](https://github.com/malienist/lupo)
 
 ----
 
@@ -9284,7 +9352,7 @@ A fast, minimal browser that protects your privacy
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/mindsdb) [![GitHub stars](https://img.shields.io/github/stars/mindsdb/mindsdb.svg?style=social&label=Stars)](https://github.com/mindsdb/mindsdb)
 
-MindsDB is a leading open-source platform for building AI Logic into your applications using your existing developer skills. It's a Central Hub where you can Deploy and Manage Hundreds of AI Engines and Data Integrations and Automate your Generative AI workflows.
+MindsDB’s AI database empowers world’s developers to build, deploy and automate Generative AI models for data-intensive applications.
 
 [![GitHub topics](https://img.shields.io/badge/Topics-artificial–intelligence%2C%20automl%2C%20explainable–ai%2C%20gpt–4%2C%20hacktoberfest%2C%20huggingface%2C%20llm%2C%20llmops%2C%20llms%2C%20machine–learning%2C%20machine–learning–api%2C%20ml%2C%20mysql%2C%20nlp%2C%20openapi%2C%20pytorch-brightgreen.svg)](https://github.com/mindsdb/mindsdb)
 
@@ -9517,6 +9585,18 @@ A tool for plotting processes accessing the network
 A SHODAN/Censys + Paramiko scanner to check for backdoored Internet-facing Juniper ScreenOS devices
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/juliocesarfort/netscreen-shodan-scanner.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2015--12--21-brightgreen.svg)](https://github.com/juliocesarfort/netscreen-shodan-scanner) [![GitHub last commit](https://img.shields.io/github/last-commit/juliocesarfort/netscreen-shodan-scanner.svg?color=blue)](https://github.com/juliocesarfort/netscreen-shodan-scanner) [![GitHub tags](https://img.shields.io/github/v/tag/juliocesarfort/netscreen-shodan-scanner.svg)](https://github.com/juliocesarfort/netscreen-shodan-scanner)
+
+----
+
+### [netspionage](https://github.com/ANG13T/netspionage) from [ANG13T](https://github.com/ANG13T)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/ANG13T) [![GitHub stars](https://img.shields.io/github/stars/ANG13T/netspionage.svg?style=social&label=Stars)](https://github.com/ANG13T/netspionage)
+
+Network Forensics CLI utility that performs Network Scanning, OSINT, and Attack Detection
+
+[![GitHub topics](https://img.shields.io/badge/Topics-arp–spoofing%2C%20cli%2C%20cybersecurity%2C%20forensics%2C%20network%2C%20osint%2C%20port–scanner%2C%20reconnaissance%2C%20syn–flood%2C%20wifi–security-brightgreen.svg)](https://github.com/ANG13T/netspionage)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/ANG13T/netspionage.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--01--04-brightgreen.svg)](https://github.com/ANG13T/netspionage) [![GitHub last commit](https://img.shields.io/github/last-commit/ANG13T/netspionage.svg?color=blue)](https://github.com/ANG13T/netspionage) [![GitHub tags](https://img.shields.io/github/v/tag/ANG13T/netspionage.svg)](https://github.com/ANG13T/netspionage)
 
 ----
 
@@ -13642,6 +13722,18 @@ Analyze your WhatsApp Chat in Seconds. Reveal insights & get statistics, while a
 
 ----
 
+### [whatsapp-osint](https://github.com/jasperan/whatsapp-osint) from [jasperan](https://github.com/jasperan)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/jasperan) [![GitHub stars](https://img.shields.io/github/stars/jasperan/whatsapp-osint.svg?style=social&label=Stars)](https://github.com/jasperan/whatsapp-osint)
+
+WhatsApp spy - logs online/offline events from ANYONE in the world
+
+[![GitHub topics](https://img.shields.io/badge/Topics-bot%2C%20logger%2C%20osint%2C%20python%2C%20selenium%2C%20spy%2C%20whatsapp-brightgreen.svg)](https://github.com/jasperan/whatsapp-osint)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/jasperan/whatsapp-osint.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2019--11--14-brightgreen.svg)](https://github.com/jasperan/whatsapp-osint) [![GitHub last commit](https://img.shields.io/github/last-commit/jasperan/whatsapp-osint.svg?color=blue)](https://github.com/jasperan/whatsapp-osint) [![GitHub tags](https://img.shields.io/github/v/tag/jasperan/whatsapp-osint.svg)](https://github.com/jasperan/whatsapp-osint)
+
+----
+
 ### [whatsapp-verifier](https://github.com/bormaxi8080/whatsapp-verifier) from [bormaxi8080](https://github.com/bormaxi8080)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/bormaxi8080) [![GitHub stars](https://img.shields.io/github/stars/bormaxi8080/whatsapp-verifier.svg?style=social&label=Stars)](https://github.com/bormaxi8080/whatsapp-verifier)
@@ -14061,6 +14153,18 @@ ytxtractor - a simple javascript tool to extract images from a Youtube video.
 [![GitHub topics](https://img.shields.io/badge/Topics-censorship–circumvention%2C%20dpi%2C%20freebsd%2C%20linux%2C%20macos%2C%20openbsd%2C%20openwrt%2C%20russian%2C%20wireguard–mod-brightgreen.svg)](https://github.com/bol-van/zapret)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/bol-van/zapret.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2016--02--15-brightgreen.svg)](https://github.com/bol-van/zapret) [![GitHub last commit](https://img.shields.io/github/last-commit/bol-van/zapret.svg?color=blue)](https://github.com/bol-van/zapret) [![GitHub tags](https://img.shields.io/github/v/tag/bol-van/zapret.svg)](https://github.com/bol-van/zapret)
+
+----
+
+### [zbox](https://github.com/zboxfs/zbox) from [zboxfs](https://github.com/zboxfs)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/zboxfs) [![GitHub stars](https://img.shields.io/github/stars/zboxfs/zbox.svg?style=social&label=Stars)](https://github.com/zboxfs/zbox)
+
+Zero-details, privacy-focused in-app file system.
+
+[![GitHub topics](https://img.shields.io/badge/Topics-crypto%2C%20encryption%2C%20filesystem%2C%20fs%2C%20libsodium%2C%20privacy%2C%20rust%2C%20storage%2C%20zbox-brightgreen.svg)](https://github.com/zboxfs/zbox)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/zboxfs/zbox.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2017--11--28-brightgreen.svg)](https://github.com/zboxfs/zbox) [![GitHub last commit](https://img.shields.io/github/last-commit/zboxfs/zbox.svg?color=blue)](https://github.com/zboxfs/zbox) [![GitHub tags](https://img.shields.io/github/v/tag/zboxfs/zbox.svg)](https://github.com/zboxfs/zbox)
 
 ----
 
