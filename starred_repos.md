@@ -4,9 +4,9 @@ This document generated automatically, see https://github.com/bormaxi8080/github
 
 (c) @bormaxi8080, 2023
 
-Created at: 2023-08-12
+Created at: 2023-08-18
 
-Starred repositories count: 1281
+Starred repositories count: 1285
 
 ----
 
@@ -3738,6 +3738,18 @@ Python Computer Vision & Video Analytics Framework With Batteries Included
 
 ----
 
+### [Scalpel](https://github.com/SMAT-Lab/Scalpel) from [SMAT-Lab](https://github.com/SMAT-Lab)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/SMAT-Lab) [![GitHub stars](https://img.shields.io/github/stars/SMAT-Lab/Scalpel.svg?style=social&label=Stars)](https://github.com/SMAT-Lab/Scalpel)
+
+Scalpel: The Python Static Analysis Framework
+
+[![GitHub topics](https://img.shields.io/badge/Topics-analysis%2C%20python%2C%20software–engineering%2C%20static–analysis-brightgreen.svg)](https://github.com/SMAT-Lab/Scalpel)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/SMAT-Lab/Scalpel.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2020--10--19-brightgreen.svg)](https://github.com/SMAT-Lab/Scalpel) [![GitHub last commit](https://img.shields.io/github/last-commit/SMAT-Lab/Scalpel.svg?color=blue)](https://github.com/SMAT-Lab/Scalpel) [![GitHub tags](https://img.shields.io/github/v/tag/SMAT-Lab/Scalpel.svg)](https://github.com/SMAT-Lab/Scalpel)
+
+----
+
 ### [ScopeHunter](https://github.com/blackhatethicalhacking/ScopeHunter) from [blackhatethicalhacking](https://github.com/blackhatethicalhacking)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/blackhatethicalhacking) [![GitHub stars](https://img.shields.io/github/stars/blackhatethicalhacking/ScopeHunter.svg?style=social&label=Stars)](https://github.com/blackhatethicalhacking/ScopeHunter)
@@ -3851,18 +3863,6 @@ Shareworthy Interview Prep Resources w/ clickable links (HackerRank Interview Pr
 [![GitHub topics](https://img.shields.io/badge/Topics-coding–interview%2C%20coding–interview–guide%2C%20coding–interview–tutorials%2C%20coding–interviews%2C%20cracking–code–interview%2C%20cracking–the–coding–interview%2C%20cracking–the–technical–interview%2C%20hackerrank%2C%20interview–practice%2C%20interview–prep%2C%20interview–preparation%2C%20technical–interview%2C%20technical–interviews-brightgreen.svg)](https://github.com/ohsusannamarie/Shareworthy-Technical-Interview-Prep-Resources)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/ohsusannamarie/Shareworthy-Technical-Interview-Prep-Resources.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2019--11--06-brightgreen.svg)](https://github.com/ohsusannamarie/Shareworthy-Technical-Interview-Prep-Resources) [![GitHub last commit](https://img.shields.io/github/last-commit/ohsusannamarie/Shareworthy-Technical-Interview-Prep-Resources.svg?color=blue)](https://github.com/ohsusannamarie/Shareworthy-Technical-Interview-Prep-Resources) [![GitHub tags](https://img.shields.io/github/v/tag/ohsusannamarie/Shareworthy-Technical-Interview-Prep-Resources.svg)](https://github.com/ohsusannamarie/Shareworthy-Technical-Interview-Prep-Resources)
-
-----
-
-### [SickNerd](https://github.com/JakeWnuk/SickNerd) from [JakeWnuk](https://github.com/JakeWnuk)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/JakeWnuk) [![GitHub stars](https://img.shields.io/github/stars/JakeWnuk/SickNerd.svg?style=social&label=Stars)](https://github.com/JakeWnuk/SickNerd)
-
-CLI tool for Google Dorking with the ability to fetch and filter dorks from GHDB, save and load results, and search multiple domains.
-
-[![GitHub topics](https://img.shields.io/badge/Topics-googledork%2C%20osint-brightgreen.svg)](https://github.com/JakeWnuk/SickNerd)
-
-[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/JakeWnuk/SickNerd.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--01--27-brightgreen.svg)](https://github.com/JakeWnuk/SickNerd) [![GitHub last commit](https://img.shields.io/github/last-commit/JakeWnuk/SickNerd.svg?color=blue)](https://github.com/JakeWnuk/SickNerd) [![GitHub tags](https://img.shields.io/github/v/tag/JakeWnuk/SickNerd.svg)](https://github.com/JakeWnuk/SickNerd)
 
 ----
 
@@ -4255,6 +4255,18 @@ An Android App that can be used as laptop touchpad via local Network
 Use Instagram location features to track an account
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/initzerCreations/Tracgram.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--01--11-brightgreen.svg)](https://github.com/initzerCreations/Tracgram) [![GitHub last commit](https://img.shields.io/github/last-commit/initzerCreations/Tracgram.svg?color=blue)](https://github.com/initzerCreations/Tracgram) [![GitHub tags](https://img.shields.io/github/v/tag/initzerCreations/Tracgram.svg)](https://github.com/initzerCreations/Tracgram)
+
+----
+
+### [TraxOsint](https://github.com/N0rz3/TraxOsint) from [N0rz3](https://github.com/N0rz3)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/N0rz3) [![GitHub stars](https://img.shields.io/github/stars/N0rz3/TraxOsint.svg?style=social&label=Stars)](https://github.com/N0rz3/TraxOsint)
+
+Osint tool for track ip adress 
+
+[![GitHub topics](https://img.shields.io/badge/Topics-cyber–security%2C%20cybersecurity%2C%20ip%2C%20ipv4%2C%20osint%2C%20osint–python%2C%20osint–tool%2C%20protonvpn%2C%20python3%2C%20track-brightgreen.svg)](https://github.com/N0rz3/TraxOsint)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/N0rz3/TraxOsint.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--07--30-brightgreen.svg)](https://github.com/N0rz3/TraxOsint) [![GitHub last commit](https://img.shields.io/github/last-commit/N0rz3/TraxOsint.svg?color=blue)](https://github.com/N0rz3/TraxOsint) [![GitHub tags](https://img.shields.io/github/v/tag/N0rz3/TraxOsint.svg)](https://github.com/N0rz3/TraxOsint)
 
 ----
 
@@ -6936,6 +6948,18 @@ An OSINT tool that helps detect members of a company with leaked credentials
 
 ----
 
+### [enola](https://github.com/TheYahya/enola) from [TheYahya](https://github.com/TheYahya)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/TheYahya) [![GitHub stars](https://img.shields.io/github/stars/TheYahya/enola.svg?style=social&label=Stars)](https://github.com/TheYahya/enola)
+
+This is Sherlock's sister, Modern shiny CLI tool written with Golang to help you: 🔎 Hunt down social media accounts by username across social networks
+
+[![GitHub topics](https://img.shields.io/badge/Topics-cli%2C%20go%2C%20golang%2C%20search%2C%20sherlock%2C%20sherlock–holmes%2C%20social–network%2C%20username-brightgreen.svg)](https://github.com/TheYahya/enola)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/TheYahya/enola.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--12--11-brightgreen.svg)](https://github.com/TheYahya/enola) [![GitHub last commit](https://img.shields.io/github/last-commit/TheYahya/enola.svg?color=blue)](https://github.com/TheYahya/enola) [![GitHub tags](https://img.shields.io/github/v/tag/TheYahya/enola.svg)](https://github.com/TheYahya/enola)
+
+----
+
 ### [esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) from [SpacehuhnTech](https://github.com/SpacehuhnTech)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/SpacehuhnTech) [![GitHub stars](https://img.shields.io/github/stars/SpacehuhnTech/esp8266_deauther.svg?style=social&label=Stars)](https://github.com/SpacehuhnTech/esp8266_deauther)
@@ -8070,9 +8094,9 @@ GPT-3 found hundreds of security vulnerabilities in this repo
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/graphql-editor) [![GitHub stars](https://img.shields.io/github/stars/graphql-editor/graphql-editor.svg?style=social&label=Stars)](https://github.com/graphql-editor/graphql-editor)
 
-📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
+📺 Visual Editor & GraphQL IDE. 
 
-[![GitHub topics](https://img.shields.io/badge/Topics-api%2C%20editor%2C%20graphql%2C%20ide%2C%20javascript%2C%20playground%2C%20react%2C%20tools%2C%20tutorial%2C%20typescript%2C%20ui-brightgreen.svg)](https://github.com/graphql-editor/graphql-editor)
+[![GitHub topics](https://img.shields.io/badge/Topics-graphql%2C%20ide%2C%20playground%2C%20tool%2C%20tools-brightgreen.svg)](https://github.com/graphql-editor/graphql-editor)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/graphql-editor/graphql-editor.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2018--09--18-brightgreen.svg)](https://github.com/graphql-editor/graphql-editor) [![GitHub last commit](https://img.shields.io/github/last-commit/graphql-editor/graphql-editor.svg?color=blue)](https://github.com/graphql-editor/graphql-editor) [![GitHub tags](https://img.shields.io/github/v/tag/graphql-editor/graphql-editor.svg)](https://github.com/graphql-editor/graphql-editor)
 
@@ -12168,6 +12192,16 @@ API, CLI, and Web App for analyzing and finding a person's profile in 1000 socia
 
 ----
 
+### [social-media-analysis-toolkit](https://github.com/EmmiBevensee/social-media-analysis-toolkit) from [EmmiBevensee](https://github.com/EmmiBevensee)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/EmmiBevensee) [![GitHub stars](https://img.shields.io/github/stars/EmmiBevensee/social-media-analysis-toolkit.svg?style=social&label=Stars)](https://github.com/EmmiBevensee/social-media-analysis-toolkit)
+
+Tools I'm developing to analyze social media, particularly hate and disinformation, at scale.
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/EmmiBevensee/social-media-analysis-toolkit.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2019--11--03-brightgreen.svg)](https://github.com/EmmiBevensee/social-media-analysis-toolkit) [![GitHub last commit](https://img.shields.io/github/last-commit/EmmiBevensee/social-media-analysis-toolkit.svg?color=blue)](https://github.com/EmmiBevensee/social-media-analysis-toolkit) [![GitHub tags](https://img.shields.io/github/v/tag/EmmiBevensee/social-media-analysis-toolkit.svg)](https://github.com/EmmiBevensee/social-media-analysis-toolkit)
+
+----
+
 ### [socialhunter](https://github.com/utkusen/socialhunter) from [utkusen](https://github.com/utkusen)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/utkusen) [![GitHub stars](https://img.shields.io/github/stars/utkusen/socialhunter.svg?style=social&label=Stars)](https://github.com/utkusen/socialhunter)
@@ -13298,6 +13332,18 @@ The most powerfull Web Content Scanner
 
 ----
 
+### [tw1tter0s1nt](https://github.com/falkensmz/tw1tter0s1nt) from [falkensmz](https://github.com/falkensmz)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/falkensmz) [![GitHub stars](https://img.shields.io/github/stars/falkensmz/tw1tter0s1nt.svg?style=social&label=Stars)](https://github.com/falkensmz/tw1tter0s1nt)
+
+Python tool that automates the process of Twitter OSiNT investigation using twint.
+
+[![GitHub topics](https://img.shields.io/badge/Topics-investigation%2C%20osint%2C%20twint%2C%20twint–library%2C%20twitter–osint–investigation-brightgreen.svg)](https://github.com/falkensmz/tw1tter0s1nt)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/falkensmz/tw1tter0s1nt.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2021--04--29-brightgreen.svg)](https://github.com/falkensmz/tw1tter0s1nt) [![GitHub last commit](https://img.shields.io/github/last-commit/falkensmz/tw1tter0s1nt.svg?color=blue)](https://github.com/falkensmz/tw1tter0s1nt) [![GitHub tags](https://img.shields.io/github/v/tag/falkensmz/tw1tter0s1nt.svg)](https://github.com/falkensmz/tw1tter0s1nt)
+
+----
+
 ### [twayback](https://github.com/humandecoded/twayback) from [humandecoded](https://github.com/humandecoded)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/humandecoded) [![GitHub stars](https://img.shields.io/github/stars/humandecoded/twayback.svg?style=social&label=Stars)](https://github.com/humandecoded/twayback)
@@ -13924,7 +13970,7 @@ Session cookies handler
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/Lissy93) [![GitHub stars](https://img.shields.io/github/stars/Lissy93/web-check.svg?style=social&label=Stars)](https://github.com/Lissy93/web-check)
 
-🌐 All-in-one OSINT tool for analysing any website
+🕵️‍♂️ All-in-one OSINT tool for analysing any website
 
 [![GitHub topics](https://img.shields.io/badge/Topics-osint%2C%20privacy%2C%20security%2C%20security–tools%2C%20sysadmin-brightgreen.svg)](https://github.com/Lissy93/web-check)
 
@@ -14098,9 +14144,9 @@ Simple implementation of OpenAI's whisper model to transcribe audio files from y
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/bellingcat) [![GitHub stars](https://img.shields.io/github/stars/bellingcat/whisperbox-transcribe.svg?style=social&label=Stars)](https://github.com/bellingcat/whisperbox-transcribe)
 
-Easy to deploy API for transcribing/translating video and audio using OpenAI's Whisper model and more.
+Easy to deploy API for transcribing and translating audio / video using OpenAI's whisper model.
 
-[![GitHub topics](https://img.shields.io/badge/Topics-http–api%2C%20open–source–research%2C%20openai–whisper%2C%20osint%2C%20transcription%2C%20translation-brightgreen.svg)](https://github.com/bellingcat/whisperbox-transcribe)
+[![GitHub topics](https://img.shields.io/badge/Topics-http–api%2C%20open–source–research%2C%20openai–whisper%2C%20osint%2C%20self–hosted%2C%20transcription%2C%20translation-brightgreen.svg)](https://github.com/bellingcat/whisperbox-transcribe)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/bellingcat/whisperbox-transcribe.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--02--08-brightgreen.svg)](https://github.com/bellingcat/whisperbox-transcribe) [![GitHub last commit](https://img.shields.io/github/last-commit/bellingcat/whisperbox-transcribe.svg?color=blue)](https://github.com/bellingcat/whisperbox-transcribe) [![GitHub tags](https://img.shields.io/github/v/tag/bellingcat/whisperbox-transcribe.svg)](https://github.com/bellingcat/whisperbox-transcribe)
 
