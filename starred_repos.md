@@ -4,9 +4,9 @@ This document generated automatically, see https://github.com/bormaxi8080/github
 
 (c) @bormaxi8080, 2023
 
-Created at: 2023-08-18
+Created at: 2023-08-24
 
-Starred repositories count: 1285
+Starred repositories count: 1290
 
 ----
 
@@ -1520,6 +1520,18 @@ Bash script that automates the downloading of various exploitation tools.
 
 ----
 
+### [Eyes](https://github.com/N0rz3/Eyes) from [N0rz3](https://github.com/N0rz3)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/N0rz3) [![GitHub stars](https://img.shields.io/github/stars/N0rz3/Eyes.svg?style=social&label=Stars)](https://github.com/N0rz3/Eyes)
+
+🕵️ Email osint tool 
+
+[![GitHub topics](https://img.shields.io/badge/Topics-account%2C%20cli%2C%20duolingo%2C%20email%2C%20faciale%2C%20github%2C%20imgur%2C%20osint%2C%20osint–email%2C%20osint–python%2C%20osint–tool%2C%20protonmail%2C%20reconnaissance-brightgreen.svg)](https://github.com/N0rz3/Eyes)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/N0rz3/Eyes.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--08--08-brightgreen.svg)](https://github.com/N0rz3/Eyes) [![GitHub last commit](https://img.shields.io/github/last-commit/N0rz3/Eyes.svg?color=blue)](https://github.com/N0rz3/Eyes) [![GitHub tags](https://img.shields.io/github/v/tag/N0rz3/Eyes.svg)](https://github.com/N0rz3/Eyes)
+
+----
+
 ### [FALdetector](https://github.com/PeterWang512/FALdetector) from [PeterWang512](https://github.com/PeterWang512)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/PeterWang512) [![GitHub stars](https://img.shields.io/github/stars/PeterWang512/FALdetector.svg?style=social&label=Stars)](https://github.com/PeterWang512/FALdetector)
@@ -1721,6 +1733,18 @@ GitOSINT: The OSINT Powerhouse for Discord. The go-to Discord bot for Open Sourc
 [![GitHub topics](https://img.shields.io/badge/Topics-bot%2C%20cyber%2C%20cybersecurity%2C%20discord%2C%20discord–bot%2C%20discord–py%2C%20github%2C%20osint%2C%20osint–python%2C%20osint–reconnaissance%2C%20osint–tool%2C%20pentesting%2C%20recon%2C%20reconnaissance%2C%20username–checker-brightgreen.svg)](https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--06--04-brightgreen.svg)](https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot) [![GitHub last commit](https://img.shields.io/github/last-commit/C3n7ral051nt4g3ncy/GitOSINT_Bot.svg?color=blue)](https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot) [![GitHub tags](https://img.shields.io/github/v/tag/C3n7ral051nt4g3ncy/GitOSINT_Bot.svg)](https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot)
+
+----
+
+### [GitSint](https://github.com/N0rz3/GitSint) from [N0rz3](https://github.com/N0rz3)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/N0rz3) [![GitHub stars](https://img.shields.io/github/stars/N0rz3/GitSint.svg?style=social&label=Stars)](https://github.com/N0rz3/GitSint)
+
+🕵️ OSINT Tool (github tracker)
+
+[![GitHub topics](https://img.shields.io/badge/Topics-github%2C%20github–tracker%2C%20open–source–intelligence%2C%20osint%2C%20osint–python%2C%20osint–tool%2C%20username–osint-brightgreen.svg)](https://github.com/N0rz3/GitSint)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/N0rz3/GitSint.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--04--26-brightgreen.svg)](https://github.com/N0rz3/GitSint) [![GitHub last commit](https://img.shields.io/github/last-commit/N0rz3/GitSint.svg?color=blue)](https://github.com/N0rz3/GitSint) [![GitHub tags](https://img.shields.io/github/v/tag/N0rz3/GitSint.svg)](https://github.com/N0rz3/GitSint)
 
 ----
 
@@ -2067,6 +2091,18 @@ No project description
 [![GitHub topics](https://img.shields.io/badge/Topics-bash–script%2C%20inploit%2C%20search–engine%2C%20security–scanner%2C%20security–tools%2C%20zoomeye–api-brightgreen.svg)](https://github.com/keerok/InploitEye)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/keerok/InploitEye.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2017--07--09-brightgreen.svg)](https://github.com/keerok/InploitEye) [![GitHub last commit](https://img.shields.io/github/last-commit/keerok/InploitEye.svg?color=blue)](https://github.com/keerok/InploitEye) [![GitHub tags](https://img.shields.io/github/v/tag/keerok/InploitEye.svg)](https://github.com/keerok/InploitEye)
+
+----
+
+### [Inspector](https://github.com/N0rz3/Inspector) from [N0rz3](https://github.com/N0rz3)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/N0rz3) [![GitHub stars](https://img.shields.io/github/stars/N0rz3/Inspector.svg?style=social&label=Stars)](https://github.com/N0rz3/Inspector)
+
+Osint tool (👁️ phone-number tracker) 
+
+[![GitHub topics](https://img.shields.io/badge/Topics-cyber–security%2C%20open–source–intelligence%2C%20osint%2C%20osint–phonenumbers%2C%20osint–python%2C%20osint–tool%2C%20phone–number-brightgreen.svg)](https://github.com/N0rz3/Inspector)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/N0rz3/Inspector.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--05--01-brightgreen.svg)](https://github.com/N0rz3/Inspector) [![GitHub last commit](https://img.shields.io/github/last-commit/N0rz3/Inspector.svg?color=blue)](https://github.com/N0rz3/Inspector) [![GitHub tags](https://img.shields.io/github/v/tag/N0rz3/Inspector.svg)](https://github.com/N0rz3/Inspector)
 
 ----
 
@@ -2965,6 +3001,18 @@ Links for the OSINT Team
 [![GitHub topics](https://img.shields.io/badge/Topics-data–journalism%2C%20infosec%2C%20journalism%2C%20osint%2C%20recon%2C%20reconaissance%2C%20slack–team-brightgreen.svg)](https://github.com/IVMachiavelli/OSINT_Team_Links)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/IVMachiavelli/OSINT_Team_Links.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2017--01--17-brightgreen.svg)](https://github.com/IVMachiavelli/OSINT_Team_Links) [![GitHub last commit](https://img.shields.io/github/last-commit/IVMachiavelli/OSINT_Team_Links.svg?color=blue)](https://github.com/IVMachiavelli/OSINT_Team_Links) [![GitHub tags](https://img.shields.io/github/v/tag/IVMachiavelli/OSINT_Team_Links.svg)](https://github.com/IVMachiavelli/OSINT_Team_Links)
+
+----
+
+### [OTE](https://github.com/3nock/OTE) from [3nock](https://github.com/3nock)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/3nock) [![GitHub stars](https://img.shields.io/github/stars/3nock/OTE.svg?style=social&label=Stars)](https://github.com/3nock/OTE)
+
+OSINT Template Engine
+
+[![GitHub topics](https://img.shields.io/badge/Topics-attack–surface%2C%20cplusplus%2C%20cybersecurity%2C%20footprinting%2C%20gui%2C%20hacking%2C%20information–gathering%2C%20infosec%2C%20intelligence–gathering%2C%20osint%2C%20qt%2C%20qt5%2C%20recon%2C%20reconnaissance%2C%20security–tools%2C%20subdomain-brightgreen.svg)](https://github.com/3nock/OTE)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/3nock/OTE.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2021--06--07-brightgreen.svg)](https://github.com/3nock/OTE) [![GitHub last commit](https://img.shields.io/github/last-commit/3nock/OTE.svg?color=blue)](https://github.com/3nock/OTE) [![GitHub tags](https://img.shields.io/github/v/tag/3nock/OTE.svg)](https://github.com/3nock/OTE)
 
 ----
 
@@ -4264,7 +4312,7 @@ Use Instagram location features to track an account
 
 Osint tool for track ip adress 
 
-[![GitHub topics](https://img.shields.io/badge/Topics-cyber–security%2C%20cybersecurity%2C%20ip%2C%20ipv4%2C%20osint%2C%20osint–python%2C%20osint–tool%2C%20protonvpn%2C%20python3%2C%20track-brightgreen.svg)](https://github.com/N0rz3/TraxOsint)
+[![GitHub topics](https://img.shields.io/badge/Topics-cyber–security%2C%20cybersecurity%2C%20ip%2C%20ipv4%2C%20osint%2C%20osint–python%2C%20osint–tools%2C%20pentest–tool%2C%20protonvpn%2C%20python3%2C%20recon%2C%20track-brightgreen.svg)](https://github.com/N0rz3/TraxOsint)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/N0rz3/TraxOsint.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--07--30-brightgreen.svg)](https://github.com/N0rz3/TraxOsint) [![GitHub last commit](https://img.shields.io/github/last-commit/N0rz3/TraxOsint.svg?color=blue)](https://github.com/N0rz3/TraxOsint) [![GitHub tags](https://img.shields.io/github/v/tag/N0rz3/TraxOsint.svg)](https://github.com/N0rz3/TraxOsint)
 
@@ -5107,6 +5155,18 @@ A browser extension for automating your browser by connecting blocks
 [![GitHub topics](https://img.shields.io/badge/Topics-automation%2C%20browser–automation%2C%20browser–extension%2C%20chrome–extension%2C%20firefox–extension%2C%20hacktoberfest%2C%20javascript%2C%20vue%2C%20workflow-brightgreen.svg)](https://github.com/AutomaApp/automa)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/AutomaApp/automa.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2021--10--02-brightgreen.svg)](https://github.com/AutomaApp/automa) [![GitHub last commit](https://img.shields.io/github/last-commit/AutomaApp/automa.svg?color=blue)](https://github.com/AutomaApp/automa) [![GitHub tags](https://img.shields.io/github/v/tag/AutomaApp/automa.svg)](https://github.com/AutomaApp/automa)
+
+----
+
+### [autoscraper](https://github.com/alirezamika/autoscraper) from [alirezamika](https://github.com/alirezamika)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/alirezamika) [![GitHub stars](https://img.shields.io/github/stars/alirezamika/autoscraper.svg?style=social&label=Stars)](https://github.com/alirezamika/autoscraper)
+
+A Smart, Automatic, Fast and Lightweight Web Scraper for Python
+
+[![GitHub topics](https://img.shields.io/badge/Topics-ai%2C%20artificial–intelligence%2C%20automation%2C%20crawler%2C%20machine–learning%2C%20python%2C%20scrape%2C%20scraper%2C%20scraping%2C%20web–scraping%2C%20webautomation%2C%20webscraping-brightgreen.svg)](https://github.com/alirezamika/autoscraper)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/alirezamika/autoscraper.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2020--08--31-brightgreen.svg)](https://github.com/alirezamika/autoscraper) [![GitHub last commit](https://img.shields.io/github/last-commit/alirezamika/autoscraper.svg?color=blue)](https://github.com/alirezamika/autoscraper) [![GitHub tags](https://img.shields.io/github/v/tag/alirezamika/autoscraper.svg)](https://github.com/alirezamika/autoscraper)
 
 ----
 
@@ -9970,6 +10030,18 @@ Back-end boilerplate for building web applications, based on Node.js.
 
 ----
 
+### [noir](https://github.com/hahwul/noir) from [hahwul](https://github.com/hahwul)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/hahwul) [![GitHub stars](https://img.shields.io/github/stars/hahwul/noir.svg?style=social&label=Stars)](https://github.com/hahwul/noir)
+
+♠️ Noir is an attack surface detector form source code.
+
+[![GitHub topics](https://img.shields.io/badge/Topics-api–endpoints%2C%20attack–surfaces%2C%20crystal%2C%20crystal–lang%2C%20devsecops%2C%20pentesting%2C%20security-brightgreen.svg)](https://github.com/hahwul/noir)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/hahwul/noir.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--03--05-brightgreen.svg)](https://github.com/hahwul/noir) [![GitHub last commit](https://img.shields.io/github/last-commit/hahwul/noir.svg?color=blue)](https://github.com/hahwul/noir) [![GitHub tags](https://img.shields.io/github/v/tag/hahwul/noir.svg)](https://github.com/hahwul/noir)
+
+----
+
 ### [noisy](https://github.com/1tayH/noisy) from [1tayH](https://github.com/1tayH)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/1tayH) [![GitHub stars](https://img.shields.io/github/stars/1tayH/noisy.svg?style=social&label=Stars)](https://github.com/1tayH/noisy)
@@ -12508,15 +12580,15 @@ Fast passive subdomain enumeration tool.
 
 ----
 
-### [subzy](https://github.com/LukaSikic/subzy) from [LukaSikic](https://github.com/LukaSikic)
+### [subzy](https://github.com/PentestPad/subzy) from [PentestPad](https://github.com/PentestPad)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/LukaSikic) [![GitHub stars](https://img.shields.io/github/stars/LukaSikic/subzy.svg?style=social&label=Stars)](https://github.com/LukaSikic/subzy)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/PentestPad) [![GitHub stars](https://img.shields.io/github/stars/PentestPad/subzy.svg?style=social&label=Stars)](https://github.com/PentestPad/subzy)
 
 Subdomain takeover vulnerability checker
 
-[![GitHub topics](https://img.shields.io/badge/Topics-bugbounty%2C%20cybersecurity%2C%20security–research%2C%20security–vulnerability%2C%20subdomain–takeover-brightgreen.svg)](https://github.com/LukaSikic/subzy)
+[![GitHub topics](https://img.shields.io/badge/Topics-bugbounty%2C%20cybersecurity%2C%20security–research%2C%20security–vulnerability%2C%20subdomain–takeover-brightgreen.svg)](https://github.com/PentestPad/subzy)
 
-[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/LukaSikic/subzy.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2019--03--01-brightgreen.svg)](https://github.com/LukaSikic/subzy) [![GitHub last commit](https://img.shields.io/github/last-commit/LukaSikic/subzy.svg?color=blue)](https://github.com/LukaSikic/subzy) [![GitHub tags](https://img.shields.io/github/v/tag/LukaSikic/subzy.svg)](https://github.com/LukaSikic/subzy)
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/PentestPad/subzy.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2019--03--01-brightgreen.svg)](https://github.com/PentestPad/subzy) [![GitHub last commit](https://img.shields.io/github/last-commit/PentestPad/subzy.svg?color=blue)](https://github.com/PentestPad/subzy) [![GitHub tags](https://img.shields.io/github/v/tag/PentestPad/subzy.svg)](https://github.com/PentestPad/subzy)
 
 ----
 
@@ -13863,18 +13935,6 @@ Detect real scammers with Wallet-Tracker CLI from anywhere.
 Web vulnerability scanner written in Python3
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/wapiti-scanner/wapiti.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2020--06--06-brightgreen.svg)](https://github.com/wapiti-scanner/wapiti) [![GitHub last commit](https://img.shields.io/github/last-commit/wapiti-scanner/wapiti.svg?color=blue)](https://github.com/wapiti-scanner/wapiti) [![GitHub tags](https://img.shields.io/github/v/tag/wapiti-scanner/wapiti.svg)](https://github.com/wapiti-scanner/wapiti)
-
-----
-
-### [wappalyzer](https://github.com/wappalyzer/wappalyzer) from [wappalyzer](https://github.com/wappalyzer)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/wappalyzer) [![GitHub stars](https://img.shields.io/github/stars/wappalyzer/wappalyzer.svg?style=social&label=Stars)](https://github.com/wappalyzer/wappalyzer)
-
-Identify technology on websites.
-
-[![GitHub topics](https://img.shields.io/badge/Topics-browser–extension%2C%20cms–detector%2C%20developer–tools%2C%20devtools%2C%20framework–detector-brightgreen.svg)](https://github.com/wappalyzer/wappalyzer)
-
-[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/wappalyzer/wappalyzer.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2010--02--12-brightgreen.svg)](https://github.com/wappalyzer/wappalyzer) [![GitHub last commit](https://img.shields.io/github/last-commit/wappalyzer/wappalyzer.svg?color=blue)](https://github.com/wappalyzer/wappalyzer) [![GitHub tags](https://img.shields.io/github/v/tag/wappalyzer/wappalyzer.svg)](https://github.com/wappalyzer/wappalyzer)
 
 ----
 
