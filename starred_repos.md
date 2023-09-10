@@ -4,9 +4,9 @@ This document generated automatically, see https://github.com/bormaxi8080/github
 
 (c) @bormaxi8080, 2023
 
-Created at: 2023-08-30
+Created at: 2023-09-10
 
-Starred repositories count: 1298
+Starred repositories count: 1305
 
 ----
 
@@ -1062,6 +1062,16 @@ all things DFIR. I'm a novice becoming immersed in digital forensics
 
 ----
 
+### [DFIR-Detection-Engineering](https://github.com/adrianlois/DFIR-Detection-Engineering) from [adrianlois](https://github.com/adrianlois)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/adrianlois) [![GitHub stars](https://img.shields.io/github/stars/adrianlois/DFIR-Detection-Engineering.svg?style=social&label=Stars)](https://github.com/adrianlois/DFIR-Detection-Engineering)
+
+Digital Forensics Incident Response and Detection engineering: Análisis forense de artefactos comunes y no tan comunes. Técnicas anti-forense y detección de técnicas utilizadas por actores maliciosos para la evasión de sistemas de protección y monitorización.
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/adrianlois/DFIR-Detection-Engineering.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--06--26-brightgreen.svg)](https://github.com/adrianlois/DFIR-Detection-Engineering) [![GitHub last commit](https://img.shields.io/github/last-commit/adrianlois/DFIR-Detection-Engineering.svg?color=blue)](https://github.com/adrianlois/DFIR-Detection-Engineering) [![GitHub tags](https://img.shields.io/github/v/tag/adrianlois/DFIR-Detection-Engineering.svg)](https://github.com/adrianlois/DFIR-Detection-Engineering)
+
+----
+
 ### [DFIRMindMaps](https://github.com/AndrewRathbun/DFIRMindMaps) from [AndrewRathbun](https://github.com/AndrewRathbun)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/AndrewRathbun) [![GitHub stars](https://img.shields.io/github/stars/AndrewRathbun/DFIRMindMaps.svg?style=social&label=Stars)](https://github.com/AndrewRathbun/DFIRMindMaps)
@@ -1266,15 +1276,15 @@ Please no pull requests for this repository. Thanks!
 
 ----
 
-### [DirRunner](https://github.com/AdonsIzaguirre/DirRunner) from [AdonsIzaguirre](https://github.com/AdonsIzaguirre)
+### [DirRunner](https://github.com/sp34rh34d/DirRunner) from [sp34rh34d](https://github.com/sp34rh34d)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/AdonsIzaguirre) [![GitHub stars](https://img.shields.io/github/stars/AdonsIzaguirre/DirRunner.svg?style=social&label=Stars)](https://github.com/AdonsIzaguirre/DirRunner)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/sp34rh34d) [![GitHub stars](https://img.shields.io/github/stars/sp34rh34d/DirRunner.svg?style=social&label=Stars)](https://github.com/sp34rh34d/DirRunner)
 
 Enumeration & fingerprint tool
 
-[![GitHub topics](https://img.shields.io/badge/Topics-brute–force%2C%20ctf%2C%20ctf–tools%2C%20cybersecurity%2C%20directory–enumeration%2C%20enumeration%2C%20hacking%2C%20pentest–tool%2C%20python%2C%20python3%2C%20subdomain–enumeration-brightgreen.svg)](https://github.com/AdonsIzaguirre/DirRunner)
+[![GitHub topics](https://img.shields.io/badge/Topics-brute–force%2C%20ctf%2C%20ctf–tools%2C%20cybersecurity%2C%20directory–enumeration%2C%20enumeration%2C%20hacking%2C%20pentest–tool%2C%20python%2C%20python3%2C%20subdomain–enumeration-brightgreen.svg)](https://github.com/sp34rh34d/DirRunner)
 
-[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/AdonsIzaguirre/DirRunner.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--02--16-brightgreen.svg)](https://github.com/AdonsIzaguirre/DirRunner) [![GitHub last commit](https://img.shields.io/github/last-commit/AdonsIzaguirre/DirRunner.svg?color=blue)](https://github.com/AdonsIzaguirre/DirRunner) [![GitHub tags](https://img.shields.io/github/v/tag/AdonsIzaguirre/DirRunner.svg)](https://github.com/AdonsIzaguirre/DirRunner)
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/sp34rh34d/DirRunner.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--02--16-brightgreen.svg)](https://github.com/sp34rh34d/DirRunner) [![GitHub last commit](https://img.shields.io/github/last-commit/sp34rh34d/DirRunner.svg?color=blue)](https://github.com/sp34rh34d/DirRunner) [![GitHub tags](https://img.shields.io/github/v/tag/sp34rh34d/DirRunner.svg)](https://github.com/sp34rh34d/DirRunner)
 
 ----
 
@@ -3142,6 +3152,18 @@ A powerful and sophisticated tool for detecting and exploiting open redirect vul
 
 ----
 
+### [OpenRedireX](https://github.com/devanshbatham/OpenRedireX) from [devanshbatham](https://github.com/devanshbatham)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/devanshbatham) [![GitHub stars](https://img.shields.io/github/stars/devanshbatham/OpenRedireX.svg?style=social&label=Stars)](https://github.com/devanshbatham/OpenRedireX)
+
+A fuzzer for detecting open redirect vulnerabilities
+
+[![GitHub topics](https://img.shields.io/badge/Topics-open–redirect%2C%20openredirect%2C%20openredirect–fuzzer%2C%20openredirect–scanner-brightgreen.svg)](https://github.com/devanshbatham/OpenRedireX)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/devanshbatham/OpenRedireX.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2020--04--19-brightgreen.svg)](https://github.com/devanshbatham/OpenRedireX) [![GitHub last commit](https://img.shields.io/github/last-commit/devanshbatham/OpenRedireX.svg?color=blue)](https://github.com/devanshbatham/OpenRedireX) [![GitHub tags](https://img.shields.io/github/v/tag/devanshbatham/OpenRedireX.svg)](https://github.com/devanshbatham/OpenRedireX)
+
+----
+
 ### [Open_Source_Your_Interview_Process](https://github.com/zincwork/Open_Source_Your_Interview_Process) from [zincwork](https://github.com/zincwork)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/zincwork) [![GitHub stars](https://img.shields.io/github/stars/zincwork/Open_Source_Your_Interview_Process.svg?style=social&label=Stars)](https://github.com/zincwork/Open_Source_Your_Interview_Process)
@@ -3195,6 +3217,18 @@ PYcrypt - 'python backdoor' framework
 [![GitHub topics](https://img.shields.io/badge/Topics-antivirus–evasion%2C%20backdoors%2C%20encryption%2C%20metasploit%2C%20python%2C%20undetected-brightgreen.svg)](https://github.com/xHak9x/PYcrypt)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/xHak9x/PYcrypt.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2018--07--21-brightgreen.svg)](https://github.com/xHak9x/PYcrypt) [![GitHub last commit](https://img.shields.io/github/last-commit/xHak9x/PYcrypt.svg?color=blue)](https://github.com/xHak9x/PYcrypt) [![GitHub tags](https://img.shields.io/github/v/tag/xHak9x/PYcrypt.svg)](https://github.com/xHak9x/PYcrypt)
+
+----
+
+### [ParamSpider](https://github.com/devanshbatham/ParamSpider) from [devanshbatham](https://github.com/devanshbatham)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/devanshbatham) [![GitHub stars](https://img.shields.io/github/stars/devanshbatham/ParamSpider.svg?style=social&label=Stars)](https://github.com/devanshbatham/ParamSpider)
+
+ Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing 
+
+[![GitHub topics](https://img.shields.io/badge/Topics-bugbounty%2C%20content–discovery%2C%20fuzzing%2C%20osint%2C%20parameter%2C%20parameter–finder%2C%20urls–parameters-brightgreen.svg)](https://github.com/devanshbatham/ParamSpider)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/devanshbatham/ParamSpider.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2020--04--12-brightgreen.svg)](https://github.com/devanshbatham/ParamSpider) [![GitHub last commit](https://img.shields.io/github/last-commit/devanshbatham/ParamSpider.svg?color=blue)](https://github.com/devanshbatham/ParamSpider) [![GitHub tags](https://img.shields.io/github/v/tag/devanshbatham/ParamSpider.svg)](https://github.com/devanshbatham/ParamSpider)
 
 ----
 
@@ -4306,15 +4340,15 @@ Scrape emails, phone numbers and social media accounts from a website.
 
 ----
 
-### [The_spy_job](https://github.com/SobrioRiot/The_spy_job) from [SobrioRiot](https://github.com/SobrioRiot)
+### [The_spy_job](https://github.com/H0wardR0ark/The_spy_job) from [H0wardR0ark](https://github.com/H0wardR0ark)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/SobrioRiot) [![GitHub stars](https://img.shields.io/github/stars/SobrioRiot/The_spy_job.svg?style=social&label=Stars)](https://github.com/SobrioRiot/The_spy_job)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/H0wardR0ark) [![GitHub stars](https://img.shields.io/github/stars/H0wardR0ark/The_spy_job.svg?style=social&label=Stars)](https://github.com/H0wardR0ark/The_spy_job)
 
 The Spy's Job is a tool focused on OSINT. IP, Whois, Subdomains, Open Ports, OS, CF real IP,  Phone, Email, Name, Nick, photo, and much more.
 
-[![GitHub topics](https://img.shields.io/badge/Topics-dnsdumpster%2C%20email%2C%20name%2C%20nickname%2C%20osint–tool%2C%20phone%2C%20phone–number%2C%20reconnaissance%2C%20shodan–api%2C%20zoomeye–api-brightgreen.svg)](https://github.com/SobrioRiot/The_spy_job)
+[![GitHub topics](https://img.shields.io/badge/Topics-dnsdumpster%2C%20email%2C%20name%2C%20nickname%2C%20osint–tool%2C%20phone%2C%20phone–number%2C%20reconnaissance%2C%20shodan–api%2C%20zoomeye–api-brightgreen.svg)](https://github.com/H0wardR0ark/The_spy_job)
 
-[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/SobrioRiot/The_spy_job.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--11--05-brightgreen.svg)](https://github.com/SobrioRiot/The_spy_job) [![GitHub last commit](https://img.shields.io/github/last-commit/SobrioRiot/The_spy_job.svg?color=blue)](https://github.com/SobrioRiot/The_spy_job) [![GitHub tags](https://img.shields.io/github/v/tag/SobrioRiot/The_spy_job.svg)](https://github.com/SobrioRiot/The_spy_job)
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/H0wardR0ark/The_spy_job.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--11--05-brightgreen.svg)](https://github.com/H0wardR0ark/The_spy_job) [![GitHub last commit](https://img.shields.io/github/last-commit/H0wardR0ark/The_spy_job.svg?color=blue)](https://github.com/H0wardR0ark/The_spy_job) [![GitHub tags](https://img.shields.io/github/v/tag/H0wardR0ark/The_spy_job.svg)](https://github.com/H0wardR0ark/The_spy_job)
 
 ----
 
@@ -4509,6 +4543,18 @@ A lightweight Qt5 web browser using QtWebEngine
 Vulnogram is a tool for creating and editing CVE information in CVE JSON format
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/sickcodes/Vulnogram.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2021--04--08-brightgreen.svg)](https://github.com/sickcodes/Vulnogram) [![GitHub last commit](https://img.shields.io/github/last-commit/sickcodes/Vulnogram.svg?color=blue)](https://github.com/sickcodes/Vulnogram) [![GitHub tags](https://img.shields.io/github/v/tag/sickcodes/Vulnogram.svg)](https://github.com/sickcodes/Vulnogram)
+
+----
+
+### [WEF](https://github.com/D3Ext/WEF) from [D3Ext](https://github.com/D3Ext)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/D3Ext) [![GitHub stars](https://img.shields.io/github/stars/D3Ext/WEF.svg?style=social&label=Stars)](https://github.com/D3Ext/WEF)
+
+Wi-Fi Exploitation Framework
+
+[![GitHub topics](https://img.shields.io/badge/Topics-bash%2C%20kali–linux%2C%20oswp%2C%20wef%2C%20wifi%2C%20wifi–exploitation–framework-brightgreen.svg)](https://github.com/D3Ext/WEF)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/D3Ext/WEF.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--04--11-brightgreen.svg)](https://github.com/D3Ext/WEF) [![GitHub last commit](https://img.shields.io/github/last-commit/D3Ext/WEF.svg?color=blue)](https://github.com/D3Ext/WEF) [![GitHub tags](https://img.shields.io/github/v/tag/D3Ext/WEF.svg)](https://github.com/D3Ext/WEF)
 
 ----
 
@@ -6735,6 +6781,18 @@ Modern XMPP ("Jabber") Chat Client using GTK+/Vala
 [![GitHub topics](https://img.shields.io/badge/Topics-chat%2C%20dino%2C%20gtk%2C%20gtk4%2C%20jabber%2C%20jabber–client%2C%20jingle%2C%20linux–desktop%2C%20messenger%2C%20omemo%2C%20p2p%2C%20vala%2C%20xml%2C%20xmpp%2C%20xmpp–client-brightgreen.svg)](https://github.com/dino/dino)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/dino/dino.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2017--03--02-brightgreen.svg)](https://github.com/dino/dino) [![GitHub last commit](https://img.shields.io/github/last-commit/dino/dino.svg?color=blue)](https://github.com/dino/dino) [![GitHub tags](https://img.shields.io/github/v/tag/dino/dino.svg)](https://github.com/dino/dino)
+
+----
+
+### [dirhunt](https://github.com/Nekmo/dirhunt) from [Nekmo](https://github.com/Nekmo)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/Nekmo) [![GitHub stars](https://img.shields.io/github/stars/Nekmo/dirhunt.svg?style=social&label=Stars)](https://github.com/Nekmo/dirhunt)
+
+Find web directories without bruteforce
+
+[![GitHub topics](https://img.shields.io/badge/Topics-crawler%2C%20dirscanner%2C%20pentesting%2C%20python%2C%20security%2C%20security–tools%2C%20websec%2C%20without–bruteforce-brightgreen.svg)](https://github.com/Nekmo/dirhunt)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/Nekmo/dirhunt.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2018--01--05-brightgreen.svg)](https://github.com/Nekmo/dirhunt) [![GitHub last commit](https://img.shields.io/github/last-commit/Nekmo/dirhunt.svg?color=blue)](https://github.com/Nekmo/dirhunt) [![GitHub tags](https://img.shields.io/github/v/tag/Nekmo/dirhunt.svg)](https://github.com/Nekmo/dirhunt)
 
 ----
 
@@ -9267,6 +9325,18 @@ A privacy-first, open-source platform for knowledge management and collaboration
 [![GitHub topics](https://img.shields.io/badge/Topics-clojure%2C%20clojurescript%2C%20git%2C%20graph%2C%20knowledge–base%2C%20knowledge–graph%2C%20local–first%2C%20markdown%2C%20note–taking%2C%20org–mode%2C%20pkm-brightgreen.svg)](https://github.com/logseq/logseq)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/logseq/logseq.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2020--05--23-brightgreen.svg)](https://github.com/logseq/logseq) [![GitHub last commit](https://img.shields.io/github/last-commit/logseq/logseq.svg?color=blue)](https://github.com/logseq/logseq) [![GitHub tags](https://img.shields.io/github/v/tag/logseq/logseq.svg)](https://github.com/logseq/logseq)
+
+----
+
+### [loki](https://github.com/grafana/loki) from [grafana](https://github.com/grafana)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/grafana) [![GitHub stars](https://img.shields.io/github/stars/grafana/loki.svg?style=social&label=Stars)](https://github.com/grafana/loki)
+
+Like Prometheus, but for logs.
+
+[![GitHub topics](https://img.shields.io/badge/Topics-cloudnative%2C%20grafana%2C%20hacktoberfest%2C%20logging%2C%20loki%2C%20prometheus-brightgreen.svg)](https://github.com/grafana/loki)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/grafana/loki.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2018--04--16-brightgreen.svg)](https://github.com/grafana/loki) [![GitHub last commit](https://img.shields.io/github/last-commit/grafana/loki.svg?color=blue)](https://github.com/grafana/loki) [![GitHub tags](https://img.shields.io/github/v/tag/grafana/loki.svg)](https://github.com/grafana/loki)
 
 ----
 
@@ -12561,6 +12631,16 @@ Investigation Trends, Challenges, Methodologies & Strategies development - Forec
 [![GitHub topics](https://img.shields.io/badge/Topics-investigation%2C%20osint-brightgreen.svg)](https://github.com/salaheldinaz/stateofosint)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/salaheldinaz/stateofosint.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2021--02--05-brightgreen.svg)](https://github.com/salaheldinaz/stateofosint) [![GitHub last commit](https://img.shields.io/github/last-commit/salaheldinaz/stateofosint.svg?color=blue)](https://github.com/salaheldinaz/stateofosint) [![GitHub tags](https://img.shields.io/github/v/tag/salaheldinaz/stateofosint.svg)](https://github.com/salaheldinaz/stateofosint)
+
+----
+
+### [steghide](https://github.com/StefanoDeVuono/steghide) from [StefanoDeVuono](https://github.com/StefanoDeVuono)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/StefanoDeVuono) [![GitHub stars](https://img.shields.io/github/stars/StefanoDeVuono/steghide.svg?style=social&label=Stars)](https://github.com/StefanoDeVuono/steghide)
+
+No project description
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/StefanoDeVuono/steghide.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2013--10--28-brightgreen.svg)](https://github.com/StefanoDeVuono/steghide) [![GitHub last commit](https://img.shields.io/github/last-commit/StefanoDeVuono/steghide.svg?color=blue)](https://github.com/StefanoDeVuono/steghide) [![GitHub tags](https://img.shields.io/github/v/tag/StefanoDeVuono/steghide.svg)](https://github.com/StefanoDeVuono/steghide)
 
 ----
 
