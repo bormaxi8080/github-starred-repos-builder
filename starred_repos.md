@@ -4,9 +4,9 @@ This document generated automatically, see https://github.com/bormaxi8080/github
 
 (c) @bormaxi8080, 2023
 
-Created at: 2023-09-25
+Created at: 2023-09-29
 
-Starred repositories count: 1324
+Starred repositories count: 1329
 
 ----
 
@@ -660,6 +660,18 @@ Network Analysis Tool
 
 ----
 
+### [Bryobio](https://github.com/emrekybs/Bryobio) from [emrekybs](https://github.com/emrekybs)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/emrekybs) [![GitHub stars](https://img.shields.io/github/stars/emrekybs/Bryobio.svg?style=social&label=Stars)](https://github.com/emrekybs/Bryobio)
+
+It was developed to speed up the processes of SOC Analysts during analysis
+
+[![GitHub topics](https://img.shields.io/badge/Topics-network%2C%20network–analysis%2C%20pcap–analyzer%2C%20pcap–files%2C%20security–tools%2C%20tcpdump–capture%2C%20tshark%2C%20wireshark-brightgreen.svg)](https://github.com/emrekybs/Bryobio)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/emrekybs/Bryobio.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--02--11-brightgreen.svg)](https://github.com/emrekybs/Bryobio) [![GitHub last commit](https://img.shields.io/github/last-commit/emrekybs/Bryobio.svg?color=blue)](https://github.com/emrekybs/Bryobio) [![GitHub tags](https://img.shields.io/github/v/tag/emrekybs/Bryobio.svg)](https://github.com/emrekybs/Bryobio)
+
+----
+
 ### [BucketLoot](https://github.com/redhuntlabs/BucketLoot) from [redhuntlabs](https://github.com/redhuntlabs)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/redhuntlabs) [![GitHub stars](https://img.shields.io/github/stars/redhuntlabs/BucketLoot.svg?style=social&label=Stars)](https://github.com/redhuntlabs/BucketLoot)
@@ -1248,7 +1260,7 @@ Recovers passwords from pixelized screenshots
 
 Program for determining types of files for Windows, Linux and MacOS.
 
-[![GitHub topics](https://img.shields.io/badge/Topics-binary–analysis%2C%20debugger%2C%20detect%2C%20detector%2C%20disassembler%2C%20elf%2C%20entropy%2C%20hacktoberfest%2C%20hacktoberfest2022%2C%20mach–o%2C%20macho%2C%20malware–analysis%2C%20malware–research%2C%20packer%2C%20pentest%2C%20program–analysis%2C%20reverse–engineering%2C%20scanner%2C%20static–analysis%2C%20unpacker-brightgreen.svg)](https://github.com/horsicq/Detect-It-Easy)
+[![GitHub topics](https://img.shields.io/badge/Topics-binary–analysis%2C%20debugger%2C%20detect%2C%20detector%2C%20disassembler%2C%20elf%2C%20entropy%2C%20hacktoberfest%2C%20hacktoberfest2023%2C%20mach–o%2C%20macho%2C%20malware–analysis%2C%20malware–research%2C%20packer%2C%20pentest%2C%20program–analysis%2C%20reverse–engineering%2C%20scanner%2C%20static–analysis%2C%20unpacker-brightgreen.svg)](https://github.com/horsicq/Detect-It-Easy)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/horsicq/Detect-It-Easy.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2014--06--01-brightgreen.svg)](https://github.com/horsicq/Detect-It-Easy) [![GitHub last commit](https://img.shields.io/github/last-commit/horsicq/Detect-It-Easy.svg?color=blue)](https://github.com/horsicq/Detect-It-Easy) [![GitHub tags](https://img.shields.io/github/v/tag/horsicq/Detect-It-Easy.svg)](https://github.com/horsicq/Detect-It-Easy)
 
@@ -1634,7 +1646,7 @@ Making Favicon.ico based Recon Great again !
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/thewhiteh4t) [![GitHub stars](https://img.shields.io/github/stars/thewhiteh4t/FinalRecon.svg?style=social&label=Stars)](https://github.com/thewhiteh4t/FinalRecon)
 
-The Last Web Recon Tool You'll Need
+All In One Web Recon
 
 [![GitHub topics](https://img.shields.io/badge/Topics-crawler%2C%20directory–search%2C%20dns–enumeration%2C%20finalrecon%2C%20headers%2C%20javascript–crawler%2C%20pentest–tool%2C%20pentesting%2C%20pentesting–tools%2C%20port–scanning%2C%20python3%2C%20reconnaissance%2C%20ssl–certificate%2C%20subdomain–enumeration%2C%20thewhiteh4t%2C%20traceroute%2C%20web–penetration–testing%2C%20web–reconnaissance%2C%20webpentest%2C%20whois-brightgreen.svg)](https://github.com/thewhiteh4t/FinalRecon)
 
@@ -2251,6 +2263,16 @@ No project description
 Just-Metadata is a tool that gathers and analyzes metadata about IP addresses.  It attempts to find relationships between systems within a large dataset.
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/RedSiege/Just-Metadata.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2015--06--10-brightgreen.svg)](https://github.com/RedSiege/Just-Metadata) [![GitHub last commit](https://img.shields.io/github/last-commit/RedSiege/Just-Metadata.svg?color=blue)](https://github.com/RedSiege/Just-Metadata) [![GitHub tags](https://img.shields.io/github/v/tag/RedSiege/Just-Metadata.svg)](https://github.com/RedSiege/Just-Metadata)
+
+----
+
+### [KD6-3.7](https://github.com/duk3r4/KD6-3.7) from [duk3r4](https://github.com/duk3r4)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/duk3r4) [![GitHub stars](https://img.shields.io/github/stars/duk3r4/KD6-3.7.svg?style=social&label=Stars)](https://github.com/duk3r4/KD6-3.7)
+
+A tool for extracting additional data from a person's personal identifiers
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/duk3r4/KD6-3.7.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--09--26-brightgreen.svg)](https://github.com/duk3r4/KD6-3.7) [![GitHub last commit](https://img.shields.io/github/last-commit/duk3r4/KD6-3.7.svg?color=blue)](https://github.com/duk3r4/KD6-3.7) [![GitHub tags](https://img.shields.io/github/v/tag/duk3r4/KD6-3.7.svg)](https://github.com/duk3r4/KD6-3.7)
 
 ----
 
@@ -3013,6 +3035,16 @@ Complex OSINT Search Tools 🕵️‍♂️🔥
 A collection of Open Source Intelligence (OSINT) tools derived from infosec society.
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/daviesombasa/OSINT-Tools.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2021--10--25-brightgreen.svg)](https://github.com/daviesombasa/OSINT-Tools) [![GitHub last commit](https://img.shields.io/github/last-commit/daviesombasa/OSINT-Tools.svg?color=blue)](https://github.com/daviesombasa/OSINT-Tools) [![GitHub tags](https://img.shields.io/github/v/tag/daviesombasa/OSINT-Tools.svg)](https://github.com/daviesombasa/OSINT-Tools)
+
+----
+
+### [OSINT-Tools-Israel](https://github.com/ranlo/OSINT-Tools-Israel) from [ranlo](https://github.com/ranlo)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/ranlo) [![GitHub stars](https://img.shields.io/github/stars/ranlo/OSINT-Tools-Israel.svg?style=social&label=Stars)](https://github.com/ranlo/OSINT-Tools-Israel)
+
+Websites and tools for OSINT investigations pertaining to Israel
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/ranlo/OSINT-Tools-Israel.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--08--30-brightgreen.svg)](https://github.com/ranlo/OSINT-Tools-Israel) [![GitHub last commit](https://img.shields.io/github/last-commit/ranlo/OSINT-Tools-Israel.svg?color=blue)](https://github.com/ranlo/OSINT-Tools-Israel) [![GitHub tags](https://img.shields.io/github/v/tag/ranlo/OSINT-Tools-Israel.svg)](https://github.com/ranlo/OSINT-Tools-Israel)
 
 ----
 
@@ -5116,7 +5148,7 @@ Amnezia VPN Client (Desktop+Mobile)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/plausible) [![GitHub stars](https://img.shields.io/github/stars/plausible/analytics.svg?style=social&label=Stars)](https://github.com/plausible/analytics)
 
-Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 [![GitHub topics](https://img.shields.io/badge/Topics-analytics%2C%20charts%2C%20clickhouse%2C%20cloud%2C%20elixir%2C%20google–analytics%2C%20marketing%2C%20metrics%2C%20phoenix%2C%20plausible–analytics%2C%20postgresql%2C%20privacy%2C%20statistics%2C%20tailwindcss%2C%20web–analytics%2C%20website%2C%20website–analytics%2C%20website–stats-brightgreen.svg)](https://github.com/plausible/analytics)
 
@@ -9426,6 +9458,16 @@ lmt is a cli program written in go that can be used to run applications with res
 
 ----
 
+### [lnkbomb](https://github.com/dievus/lnkbomb) from [dievus](https://github.com/dievus)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/dievus) [![GitHub stars](https://img.shields.io/github/stars/dievus/lnkbomb.svg?style=social&label=Stars)](https://github.com/dievus/lnkbomb)
+
+Malicious shortcut generator for collecting NTLM hashes from insecure file shares.
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/dievus/lnkbomb.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--01--03-brightgreen.svg)](https://github.com/dievus/lnkbomb) [![GitHub last commit](https://img.shields.io/github/last-commit/dievus/lnkbomb.svg?color=blue)](https://github.com/dievus/lnkbomb) [![GitHub tags](https://img.shields.io/github/v/tag/dievus/lnkbomb.svg)](https://github.com/dievus/lnkbomb)
+
+----
+
 ### [localsend](https://github.com/localsend/localsend) from [localsend](https://github.com/localsend)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/localsend) [![GitHub stars](https://img.shields.io/github/stars/localsend/localsend.svg?style=social&label=Stars)](https://github.com/localsend/localsend)
@@ -9655,6 +9697,18 @@ Malwoverview is a first response tool used for threat hunting and offers intel i
 [![GitHub topics](https://img.shields.io/badge/Topics-alienvault%2C%20cybersecurity%2C%20malpedia%2C%20malshare%2C%20malware%2C%20malware–analysis%2C%20malwarebazaar%2C%20threat–hunting%2C%20threatfox%2C%20threathunting%2C%20threatintelligence%2C%20triage%2C%20urlhaus%2C%20virustotal-brightgreen.svg)](https://github.com/alexandreborges/malwoverview)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/alexandreborges/malwoverview.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2018--09--08-brightgreen.svg)](https://github.com/alexandreborges/malwoverview) [![GitHub last commit](https://img.shields.io/github/last-commit/alexandreborges/malwoverview.svg?color=blue)](https://github.com/alexandreborges/malwoverview) [![GitHub tags](https://img.shields.io/github/v/tag/alexandreborges/malwoverview.svg)](https://github.com/alexandreborges/malwoverview)
+
+----
+
+### [mantra](https://github.com/MrEmpy/mantra) from [MrEmpy](https://github.com/MrEmpy)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/MrEmpy) [![GitHub stars](https://img.shields.io/github/stars/MrEmpy/mantra.svg?style=social&label=Stars)](https://github.com/MrEmpy/mantra)
+
+「🔑」A tool used to hunt down API key leaks in JS files and pages
+
+[![GitHub topics](https://img.shields.io/badge/Topics-api%2C%20bugbounty%2C%20files%2C%20hacking%2C%20javascript%2C%20js%2C%20key%2C%20leak%2C%20leaked–secrets%2C%20pentest%2C%20security%2C%20tool-brightgreen.svg)](https://github.com/MrEmpy/mantra)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/MrEmpy/mantra.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--01--31-brightgreen.svg)](https://github.com/MrEmpy/mantra) [![GitHub last commit](https://img.shields.io/github/last-commit/MrEmpy/mantra.svg?color=blue)](https://github.com/MrEmpy/mantra) [![GitHub tags](https://img.shields.io/github/v/tag/MrEmpy/mantra.svg)](https://github.com/MrEmpy/mantra)
 
 ----
 
@@ -11994,7 +12048,7 @@ A beautiful Redis GUI :fire: (under development)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/rosenpass) [![GitHub stars](https://img.shields.io/github/stars/rosenpass/rosenpass.svg?style=social&label=Stars)](https://github.com/rosenpass/rosenpass)
 
-Rosenpass is a formally verified, post-quantum secure VPN that uses WireGuard to transport the actual data. 
+Rosenpass is a post-quantum secure VPN that uses WireGuard to transport the actual data. 
 
 [![GitHub topics](https://img.shields.io/badge/Topics-cryptography%2C%20post–quantum%2C%20rust%2C%20vpn%2C%20wireguard-brightgreen.svg)](https://github.com/rosenpass/rosenpass)
 
@@ -12864,7 +12918,7 @@ Ongoing Storj v3 development. Decentralized cloud object storage that is afforda
 
 Streamlink is a CLI utility which pipes video streams from various services into a video player
 
-[![GitHub topics](https://img.shields.io/badge/Topics-cli%2C%20livestream%2C%20python%2C%20streaming%2C%20streaming–services%2C%20streamlink%2C%20twitch%2C%20vlc-brightgreen.svg)](https://github.com/streamlink/streamlink)
+[![GitHub topics](https://img.shields.io/badge/Topics-cli%2C%20hacktoberfest%2C%20livestream%2C%20python%2C%20streaming%2C%20streaming–services%2C%20streamlink%2C%20twitch%2C%20vlc-brightgreen.svg)](https://github.com/streamlink/streamlink)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/streamlink/streamlink.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2016--09--16-brightgreen.svg)](https://github.com/streamlink/streamlink) [![GitHub last commit](https://img.shields.io/github/last-commit/streamlink/streamlink.svg?color=blue)](https://github.com/streamlink/streamlink) [![GitHub tags](https://img.shields.io/github/v/tag/streamlink/streamlink.svg)](https://github.com/streamlink/streamlink)
 
