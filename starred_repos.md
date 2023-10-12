@@ -4,9 +4,9 @@ This document generated automatically, see https://github.com/bormaxi8080/github
 
 (c) @bormaxi8080, 2023
 
-Created at: 2023-10-05
+Created at: 2023-10-12
 
-Starred repositories count: 1346
+Starred repositories count: 1377
 
 ----
 
@@ -2152,6 +2152,18 @@ A realtime malware scanner
 
 ----
 
+### [HyperDbg](https://github.com/HyperDbg/HyperDbg) from [HyperDbg](https://github.com/HyperDbg)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/HyperDbg) [![GitHub stars](https://img.shields.io/github/stars/HyperDbg/HyperDbg.svg?style=social&label=Stars)](https://github.com/HyperDbg/HyperDbg)
+
+State-of-the-art native debugging tool
+
+[![GitHub topics](https://img.shields.io/badge/Topics-debug%2C%20debugger%2C%20ept%2C%20hook%2C%20hyperdbg%2C%20hypervisor%2C%20kernel–debugger%2C%20windows–kernel-brightgreen.svg)](https://github.com/HyperDbg/HyperDbg)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/HyperDbg/HyperDbg.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2020--01--01-brightgreen.svg)](https://github.com/HyperDbg/HyperDbg) [![GitHub last commit](https://img.shields.io/github/last-commit/HyperDbg/HyperDbg.svg?color=blue)](https://github.com/HyperDbg/HyperDbg) [![GitHub tags](https://img.shields.io/github/v/tag/HyperDbg/HyperDbg.svg)](https://github.com/HyperDbg/HyperDbg)
+
+----
+
 ### [Import-DB-from-CleverStaff-2-FriendWork](https://github.com/VickentyZherebov/Import-DB-from-CleverStaff-2-FriendWork) from [VickentyZherebov](https://github.com/VickentyZherebov)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/VickentyZherebov) [![GitHub stars](https://img.shields.io/github/stars/VickentyZherebov/Import-DB-from-CleverStaff-2-FriendWork.svg?style=social&label=Stars)](https://github.com/VickentyZherebov/Import-DB-from-CleverStaff-2-FriendWork)
@@ -2255,6 +2267,16 @@ Intel Owl: analyze files, domains, IPs in multiple ways from a single API at sca
 [![GitHub topics](https://img.shields.io/badge/Topics-cyber–security%2C%20cyber–threat–intelligence%2C%20cybersecurity%2C%20dfir%2C%20enrichment%2C%20hacktoberfest%2C%20honeynet%2C%20incident–response%2C%20intel–owl%2C%20ioc%2C%20malware–analysis%2C%20malware–analyzer%2C%20osint%2C%20osint–python%2C%20python%2C%20security–tools%2C%20threat–hunting%2C%20threat–intelligence%2C%20threathunting%2C%20threatintel-brightgreen.svg)](https://github.com/intelowlproject/IntelOwl)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/intelowlproject/IntelOwl.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2019--12--31-brightgreen.svg)](https://github.com/intelowlproject/IntelOwl) [![GitHub last commit](https://img.shields.io/github/last-commit/intelowlproject/IntelOwl.svg?color=blue)](https://github.com/intelowlproject/IntelOwl) [![GitHub tags](https://img.shields.io/github/v/tag/intelowlproject/IntelOwl.svg)](https://github.com/intelowlproject/IntelOwl)
+
+----
+
+### [IpGeo](https://github.com/z4l4mi/IpGeo) from [z4l4mi](https://github.com/z4l4mi)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/z4l4mi) [![GitHub stars](https://img.shields.io/github/stars/z4l4mi/IpGeo.svg?style=social&label=Stars)](https://github.com/z4l4mi/IpGeo)
+
+No project description
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/z4l4mi/IpGeo.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--07--26-brightgreen.svg)](https://github.com/z4l4mi/IpGeo) [![GitHub last commit](https://img.shields.io/github/last-commit/z4l4mi/IpGeo.svg?color=blue)](https://github.com/z4l4mi/IpGeo) [![GitHub tags](https://img.shields.io/github/v/tag/z4l4mi/IpGeo.svg)](https://github.com/z4l4mi/IpGeo)
 
 ----
 
@@ -2738,6 +2760,18 @@ A mobile friendly measure tool for Google Maps JS API v3.
 
 ----
 
+### [MetaDetective](https://github.com/franckferman/MetaDetective) from [franckferman](https://github.com/franckferman)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/franckferman) [![GitHub stars](https://img.shields.io/github/stars/franckferman/MetaDetective.svg?style=social&label=Stars)](https://github.com/franckferman/MetaDetective)
+
+🕵️ Unleash Metadata Intelligence with MetaDetective. Your Assistant Beyond Metagoofil.
+
+[![GitHub topics](https://img.shields.io/badge/Topics-cyber–security%2C%20cybersecurity%2C%20cybersecurity–awareness%2C%20cybersecurity–tools%2C%20exif%2C%20exif–data–extraction%2C%20exif–metadata%2C%20exiftool%2C%20metadata%2C%20metadata–extraction%2C%20metadata–extractor%2C%20metagoofil%2C%20osint%2C%20osint–python%2C%20osint–tool%2C%20python%2C%20python–3%2C%20python3%2C%20security%2C%20security–tools-brightgreen.svg)](https://github.com/franckferman/MetaDetective)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/franckferman/MetaDetective.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--08--27-brightgreen.svg)](https://github.com/franckferman/MetaDetective) [![GitHub last commit](https://img.shields.io/github/last-commit/franckferman/MetaDetective.svg?color=blue)](https://github.com/franckferman/MetaDetective) [![GitHub tags](https://img.shields.io/github/v/tag/franckferman/MetaDetective.svg)](https://github.com/franckferman/MetaDetective)
+
+----
+
 ### [Mind-Maps](https://github.com/imran-parray/Mind-Maps) from [imran-parray](https://github.com/imran-parray)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/imran-parray) [![GitHub stars](https://img.shields.io/github/stars/imran-parray/Mind-Maps.svg?style=social&label=Stars)](https://github.com/imran-parray/Mind-Maps)
@@ -2813,6 +2847,18 @@ List of Custom Search Engines
 A simple javascript tool to prepare possible name and login search patterns with links.
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/seintpl/NAMINT.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--01--25-brightgreen.svg)](https://github.com/seintpl/NAMINT) [![GitHub last commit](https://img.shields.io/github/last-commit/seintpl/NAMINT.svg?color=blue)](https://github.com/seintpl/NAMINT) [![GitHub tags](https://img.shields.io/github/v/tag/seintpl/NAMINT.svg)](https://github.com/seintpl/NAMINT)
+
+----
+
+### [NTLMRecon](https://github.com/pwnfoo/NTLMRecon) from [pwnfoo](https://github.com/pwnfoo)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/pwnfoo) [![GitHub stars](https://img.shields.io/github/stars/pwnfoo/NTLMRecon.svg?style=social&label=Stars)](https://github.com/pwnfoo/NTLMRecon)
+
+Enumerate information from NTLM authentication enabled web endpoints 🔎
+
+[![GitHub topics](https://img.shields.io/badge/Topics-blackarch%2C%20cybersecurity%2C%20enumeration%2C%20hacking%2C%20hacking–tools%2C%20ntlm%2C%20ntlmssp%2C%20osint%2C%20recon%2C%20reconnaissance%2C%20redteam%2C%20security%2C%20tools-brightgreen.svg)](https://github.com/pwnfoo/NTLMRecon)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/pwnfoo/NTLMRecon.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2019--12--01-brightgreen.svg)](https://github.com/pwnfoo/NTLMRecon) [![GitHub last commit](https://img.shields.io/github/last-commit/pwnfoo/NTLMRecon.svg?color=blue)](https://github.com/pwnfoo/NTLMRecon) [![GitHub tags](https://img.shields.io/github/v/tag/pwnfoo/NTLMRecon.svg)](https://github.com/pwnfoo/NTLMRecon)
 
 ----
 
@@ -3840,6 +3886,18 @@ This is a Javascript library to achieve the resumable upload for Google Drive.
 
 ----
 
+### [Robber](https://github.com/MojtabaTajik/Robber) from [MojtabaTajik](https://github.com/MojtabaTajik)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/MojtabaTajik) [![GitHub stars](https://img.shields.io/github/stars/MojtabaTajik/Robber.svg?style=social&label=Stars)](https://github.com/MojtabaTajik/Robber)
+
+Robber is open source tool for finding executables prone to DLL hijacking
+
+[![GitHub topics](https://img.shields.io/badge/Topics-candidate–dlls%2C%20delphi%2C%20dll–hijacking%2C%20dlls%2C%20security%2C%20vulnerability–scanners-brightgreen.svg)](https://github.com/MojtabaTajik/Robber)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/MojtabaTajik/Robber.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2015--11--16-brightgreen.svg)](https://github.com/MojtabaTajik/Robber) [![GitHub last commit](https://img.shields.io/github/last-commit/MojtabaTajik/Robber.svg?color=blue)](https://github.com/MojtabaTajik/Robber) [![GitHub tags](https://img.shields.io/github/v/tag/MojtabaTajik/Robber.svg)](https://github.com/MojtabaTajik/Robber)
+
+----
+
 ### [Russian_System_of_ANPR](https://github.com/KostyaKulakov/Russian_System_of_ANPR) from [KostyaKulakov](https://github.com/KostyaKulakov)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/KostyaKulakov) [![GitHub stars](https://img.shields.io/github/stars/KostyaKulakov/Russian_System_of_ANPR.svg?style=social&label=Stars)](https://github.com/KostyaKulakov/Russian_System_of_ANPR)
@@ -4124,6 +4182,18 @@ Shareworthy Interview Prep Resources w/ clickable links (HackerRank Interview Pr
 
 ----
 
+### [Shoggoth](https://github.com/frkngksl/Shoggoth) from [frkngksl](https://github.com/frkngksl)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/frkngksl) [![GitHub stars](https://img.shields.io/github/stars/frkngksl/Shoggoth.svg?style=social&label=Stars)](https://github.com/frkngksl/Shoggoth)
+
+Shoggoth: Asmjit Based Polymorphic Encryptor
+
+[![GitHub topics](https://img.shields.io/badge/Topics-asmjit%2C%20bof%2C%20coff%2C%20loader%2C%20obfuscator%2C%20pe%2C%20polymorphic–engine%2C%20polymorphism%2C%20shellcode-brightgreen.svg)](https://github.com/frkngksl/Shoggoth)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/frkngksl/Shoggoth.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2021--12--03-brightgreen.svg)](https://github.com/frkngksl/Shoggoth) [![GitHub last commit](https://img.shields.io/github/last-commit/frkngksl/Shoggoth.svg?color=blue)](https://github.com/frkngksl/Shoggoth) [![GitHub tags](https://img.shields.io/github/v/tag/frkngksl/Shoggoth.svg)](https://github.com/frkngksl/Shoggoth)
+
+----
+
 ### [Silence](https://github.com/x13a/Silence) from [x13a](https://github.com/x13a)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/x13a) [![GitHub stars](https://img.shields.io/github/stars/x13a/Silence.svg?style=social&label=Stars)](https://github.com/x13a/Silence)
@@ -4302,6 +4372,16 @@ No project description
 
 ----
 
+### [TEx](https://github.com/guibacellar/TEx) from [guibacellar](https://github.com/guibacellar)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/guibacellar) [![GitHub stars](https://img.shields.io/github/stars/guibacellar/TEx.svg?style=social&label=Stars)](https://github.com/guibacellar/TEx)
+
+Telegram Monitor
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/guibacellar/TEx.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2021--09--29-brightgreen.svg)](https://github.com/guibacellar/TEx) [![GitHub last commit](https://img.shields.io/github/last-commit/guibacellar/TEx.svg?color=blue)](https://github.com/guibacellar/TEx) [![GitHub tags](https://img.shields.io/github/v/tag/guibacellar/TEx.svg)](https://github.com/guibacellar/TEx)
+
+----
+
 ### [TLDHunt](https://github.com/yuyudhn/TLDHunt) from [yuyudhn](https://github.com/yuyudhn)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/yuyudhn) [![GitHub stars](https://img.shields.io/github/stars/yuyudhn/TLDHunt.svg?style=social&label=Stars)](https://github.com/yuyudhn/TLDHunt)
@@ -4457,18 +4537,6 @@ Scrape emails, phone numbers and social media accounts from a website.
 [![GitHub topics](https://img.shields.io/badge/Topics-contact%2C%20contact–finder%2C%20osint%2C%20osint–tool%2C%20python%2C%20python3%2C%20scraping%2C%20scrapper%2C%20socialmedia%2C%20tool-brightgreen.svg)](https://github.com/champmq/TheScrapper)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/champmq/TheScrapper.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2021--05--07-brightgreen.svg)](https://github.com/champmq/TheScrapper) [![GitHub last commit](https://img.shields.io/github/last-commit/champmq/TheScrapper.svg?color=blue)](https://github.com/champmq/TheScrapper) [![GitHub tags](https://img.shields.io/github/v/tag/champmq/TheScrapper.svg)](https://github.com/champmq/TheScrapper)
-
-----
-
-### [The_spy_job](https://github.com/KnowsWho/The_spy_job) from [KnowsWho](https://github.com/KnowsWho)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/KnowsWho) [![GitHub stars](https://img.shields.io/github/stars/KnowsWho/The_spy_job.svg?style=social&label=Stars)](https://github.com/KnowsWho/The_spy_job)
-
-The Spy's Job is a tool focused on OSINT. IP, Whois, Subdomains, Open Ports, OS, CF real IP,  Phone, Email, Name, Nick, photo, and much more.
-
-[![GitHub topics](https://img.shields.io/badge/Topics-dnsdumpster%2C%20email%2C%20name%2C%20nickname%2C%20osint–tool%2C%20phone%2C%20phone–number%2C%20reconnaissance%2C%20shodan–api%2C%20zoomeye–api-brightgreen.svg)](https://github.com/KnowsWho/The_spy_job)
-
-[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/KnowsWho/The_spy_job.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--11--05-brightgreen.svg)](https://github.com/KnowsWho/The_spy_job) [![GitHub last commit](https://img.shields.io/github/last-commit/KnowsWho/The_spy_job.svg?color=blue)](https://github.com/KnowsWho/The_spy_job) [![GitHub tags](https://img.shields.io/github/v/tag/KnowsWho/The_spy_job.svg)](https://github.com/KnowsWho/The_spy_job)
 
 ----
 
@@ -4900,7 +4968,7 @@ XSS Rocket is written by Black Hat Ethical Hacking with the help of #ChatGPT as 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/l4rm4nd) [![GitHub stars](https://img.shields.io/github/stars/l4rm4nd/XingDumper.svg?style=social&label=Stars)](https://github.com/l4rm4nd/XingDumper)
 
-Python 3 script to dump company employees from XING API
+Python 3 script to dump/scrape/extract company employees from XING API
 
 [![GitHub topics](https://img.shields.io/badge/Topics-crawling%2C%20employees%2C%20osint%2C%20profile%2C%20python%2C%20reconnaissance%2C%20spider%2C%20xing%2C%20xing–api-brightgreen.svg)](https://github.com/l4rm4nd/XingDumper)
 
@@ -4929,6 +4997,18 @@ Yandex OSINT tool
 [![GitHub topics](https://img.shields.io/badge/Topics-osint%2C%20yandex%2C%20yandex–api-brightgreen.svg)](https://github.com/HowToFind-bot/YaSeeker)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/HowToFind-bot/YaSeeker.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2021--01--30-brightgreen.svg)](https://github.com/HowToFind-bot/YaSeeker) [![GitHub last commit](https://img.shields.io/github/last-commit/HowToFind-bot/YaSeeker.svg?color=blue)](https://github.com/HowToFind-bot/YaSeeker) [![GitHub tags](https://img.shields.io/github/v/tag/HowToFind-bot/YaSeeker.svg)](https://github.com/HowToFind-bot/YaSeeker)
+
+----
+
+### [YaSeekerUltra](https://github.com/OSINT-mindset/YaSeekerUltra) from [OSINT-mindset](https://github.com/OSINT-mindset)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/OSINT-mindset) [![GitHub stars](https://img.shields.io/github/stars/OSINT-mindset/YaSeekerUltra.svg?style=social&label=Stars)](https://github.com/OSINT-mindset/YaSeekerUltra)
+
+Advanced version of YaSeeker tool for gathering of information about Yandex account
+
+[![GitHub topics](https://img.shields.io/badge/Topics-osint%2C%20osint–tool%2C%20socmint-brightgreen.svg)](https://github.com/OSINT-mindset/YaSeekerUltra)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/OSINT-mindset/YaSeekerUltra.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--07--16-brightgreen.svg)](https://github.com/OSINT-mindset/YaSeekerUltra) [![GitHub last commit](https://img.shields.io/github/last-commit/OSINT-mindset/YaSeekerUltra.svg?color=blue)](https://github.com/OSINT-mindset/YaSeekerUltra) [![GitHub tags](https://img.shields.io/github/v/tag/OSINT-mindset/YaSeekerUltra.svg)](https://github.com/OSINT-mindset/YaSeekerUltra)
 
 ----
 
@@ -6254,15 +6334,15 @@ No project description
 
 ----
 
-### [celery-message-consumer](https://github.com/depop/celery-message-consumer) from [depop](https://github.com/depop)
+### [celery-message-consumer](https://github.com/depoplabs/celery-message-consumer) from [depoplabs](https://github.com/depoplabs)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/depop) [![GitHub stars](https://img.shields.io/github/stars/depop/celery-message-consumer.svg?style=social&label=Stars)](https://github.com/depop/celery-message-consumer)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/depoplabs) [![GitHub stars](https://img.shields.io/github/stars/depoplabs/celery-message-consumer.svg?style=social&label=Stars)](https://github.com/depoplabs/celery-message-consumer)
 
 Tool for using the battle-tested `bin/celery` worker to consume vanilla AMQP messages (i.e. not Celery tasks)
 
-[![GitHub topics](https://img.shields.io/badge/Topics-scalability-brightgreen.svg)](https://github.com/depop/celery-message-consumer)
+[![GitHub topics](https://img.shields.io/badge/Topics-scalability-brightgreen.svg)](https://github.com/depoplabs/celery-message-consumer)
 
-[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/depop/celery-message-consumer.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2017--10--24-brightgreen.svg)](https://github.com/depop/celery-message-consumer) [![GitHub last commit](https://img.shields.io/github/last-commit/depop/celery-message-consumer.svg?color=blue)](https://github.com/depop/celery-message-consumer) [![GitHub tags](https://img.shields.io/github/v/tag/depop/celery-message-consumer.svg)](https://github.com/depop/celery-message-consumer)
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/depoplabs/celery-message-consumer.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2017--10--24-brightgreen.svg)](https://github.com/depoplabs/celery-message-consumer) [![GitHub last commit](https://img.shields.io/github/last-commit/depoplabs/celery-message-consumer.svg?color=blue)](https://github.com/depoplabs/celery-message-consumer) [![GitHub tags](https://img.shields.io/github/v/tag/depoplabs/celery-message-consumer.svg)](https://github.com/depoplabs/celery-message-consumer)
 
 ----
 
@@ -6386,7 +6466,7 @@ the only cheat sheet you need
 
 Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
 
-[![GitHub topics](https://img.shields.io/badge/Topics-email%2C%20email–validation%2C%20email–verification%2C%20hacktoberfest%2C%20rust%2C%20smtp-brightgreen.svg)](https://github.com/reacherhq/check-if-email-exists)
+[![GitHub topics](https://img.shields.io/badge/Topics-email%2C%20email–validation%2C%20email–validation–api%2C%20email–verification%2C%20email–verification–api%2C%20email–verifier%2C%20hacktoberfest-brightgreen.svg)](https://github.com/reacherhq/check-if-email-exists)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/reacherhq/check-if-email-exists.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2017--04--25-brightgreen.svg)](https://github.com/reacherhq/check-if-email-exists) [![GitHub last commit](https://img.shields.io/github/last-commit/reacherhq/check-if-email-exists.svg?color=blue)](https://github.com/reacherhq/check-if-email-exists) [![GitHub tags](https://img.shields.io/github/v/tag/reacherhq/check-if-email-exists.svg)](https://github.com/reacherhq/check-if-email-exists)
 
@@ -7172,6 +7252,18 @@ World’s single largest Internet domains dataset
 
 ----
 
+### [domru-customer-check](https://github.com/OSINT-mindset/domru-customer-check) from [OSINT-mindset](https://github.com/OSINT-mindset)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/OSINT-mindset) [![GitHub stars](https://img.shields.io/github/stars/OSINT-mindset/domru-customer-check.svg?style=social&label=Stars)](https://github.com/OSINT-mindset/domru-customer-check)
+
+Get additional information about Dom.ru customers with API interface
+
+[![GitHub topics](https://img.shields.io/badge/Topics-osint%2C%20osint–tool%2C%20socmint-brightgreen.svg)](https://github.com/OSINT-mindset/domru-customer-check)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/OSINT-mindset/domru-customer-check.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--07--16-brightgreen.svg)](https://github.com/OSINT-mindset/domru-customer-check) [![GitHub last commit](https://img.shields.io/github/last-commit/OSINT-mindset/domru-customer-check.svg?color=blue)](https://github.com/OSINT-mindset/domru-customer-check) [![GitHub tags](https://img.shields.io/github/v/tag/OSINT-mindset/domru-customer-check.svg)](https://github.com/OSINT-mindset/domru-customer-check)
+
+----
+
 ### [dontgo403](https://github.com/devploit/dontgo403) from [devploit](https://github.com/devploit)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/devploit) [![GitHub stars](https://img.shields.io/github/stars/devploit/dontgo403.svg?style=social&label=Stars)](https://github.com/devploit/dontgo403)
@@ -7557,6 +7649,18 @@ Deepfakes Software For All
 [![GitHub topics](https://img.shields.io/badge/Topics-deep–face–swap%2C%20deep–learning%2C%20deep–neural–networks%2C%20deepface%2C%20deepfakes%2C%20deeplearning%2C%20face–swap%2C%20faceswap%2C%20fakeapp%2C%20machine–learning%2C%20myfakeapp%2C%20neural–nets%2C%20neural–networks%2C%20openfaceswap-brightgreen.svg)](https://github.com/deepfakes/faceswap)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/deepfakes/faceswap.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2017--12--19-brightgreen.svg)](https://github.com/deepfakes/faceswap) [![GitHub last commit](https://img.shields.io/github/last-commit/deepfakes/faceswap.svg?color=blue)](https://github.com/deepfakes/faceswap) [![GitHub tags](https://img.shields.io/github/v/tag/deepfakes/faceswap.svg)](https://github.com/deepfakes/faceswap)
+
+----
+
+### [fail2ban](https://github.com/fail2ban/fail2ban) from [fail2ban](https://github.com/fail2ban)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/fail2ban) [![GitHub stars](https://img.shields.io/github/stars/fail2ban/fail2ban.svg?style=social&label=Stars)](https://github.com/fail2ban/fail2ban)
+
+Daemon to ban hosts that cause multiple authentication errors
+
+[![GitHub topics](https://img.shields.io/badge/Topics-anti–bot%2C%20attack–prevention%2C%20ban–hosts%2C%20ban–management%2C%20bsd%2C%20fail2ban%2C%20gplv2%2C%20hids%2C%20ids%2C%20intrusion–detection%2C%20intrusion–prevention%2C%20ips%2C%20linux%2C%20loganalyzer%2C%20macos%2C%20monitoring%2C%20python%2C%20security%2C%20security–tools-brightgreen.svg)](https://github.com/fail2ban/fail2ban)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/fail2ban/fail2ban.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2011--09--28-brightgreen.svg)](https://github.com/fail2ban/fail2ban) [![GitHub last commit](https://img.shields.io/github/last-commit/fail2ban/fail2ban.svg?color=blue)](https://github.com/fail2ban/fail2ban) [![GitHub tags](https://img.shields.io/github/v/tag/fail2ban/fail2ban.svg)](https://github.com/fail2ban/fail2ban)
 
 ----
 
@@ -8328,6 +8432,18 @@ VPN client in a thin Docker container for multiple VPN providers, written in Go,
 
 ----
 
+### [gmail-analytics-check](https://github.com/OSINT-mindset/gmail-analytics-check) from [OSINT-mindset](https://github.com/OSINT-mindset)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/OSINT-mindset) [![GitHub stars](https://img.shields.io/github/stars/OSINT-mindset/gmail-analytics-check.svg?style=social&label=Stars)](https://github.com/OSINT-mindset/gmail-analytics-check)
+
+Get gmail alternate email and GAIA ID by gmail with API interface
+
+[![GitHub topics](https://img.shields.io/badge/Topics-google%2C%20google–analytics%2C%20osint%2C%20osint–tool%2C%20socmint-brightgreen.svg)](https://github.com/OSINT-mindset/gmail-analytics-check)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/OSINT-mindset/gmail-analytics-check.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--07--16-brightgreen.svg)](https://github.com/OSINT-mindset/gmail-analytics-check) [![GitHub last commit](https://img.shields.io/github/last-commit/OSINT-mindset/gmail-analytics-check.svg?color=blue)](https://github.com/OSINT-mindset/gmail-analytics-check) [![GitHub tags](https://img.shields.io/github/v/tag/OSINT-mindset/gmail-analytics-check.svg)](https://github.com/OSINT-mindset/gmail-analytics-check)
+
+----
+
 ### [go-dork](https://github.com/dwisiswant0/go-dork) from [dwisiswant0](https://github.com/dwisiswant0)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/dwisiswant0) [![GitHub stars](https://img.shields.io/github/stars/dwisiswant0/go-dork.svg?style=social&label=Stars)](https://github.com/dwisiswant0/go-dork)
@@ -8924,6 +9040,18 @@ a script that  is fairly reliable for web OSINT
 
 ----
 
+### [hysteria](https://github.com/apernet/hysteria) from [apernet](https://github.com/apernet)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/apernet) [![GitHub stars](https://img.shields.io/github/stars/apernet/hysteria.svg?style=social&label=Stars)](https://github.com/apernet/hysteria)
+
+Hysteria is a powerful, lightning fast and censorship resistant proxy.
+
+[![GitHub topics](https://img.shields.io/badge/Topics-censorship–circumvention%2C%20golang%2C%20http–proxy%2C%20hysteria%2C%20proxy%2C%20quic%2C%20relay%2C%20reliable–udp%2C%20socks5%2C%20tun%2C%20vpn-brightgreen.svg)](https://github.com/apernet/hysteria)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/apernet/hysteria.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2020--04--21-brightgreen.svg)](https://github.com/apernet/hysteria) [![GitHub last commit](https://img.shields.io/github/last-commit/apernet/hysteria.svg?color=blue)](https://github.com/apernet/hysteria) [![GitHub tags](https://img.shields.io/github/v/tag/apernet/hysteria.svg)](https://github.com/apernet/hysteria)
+
+----
+
 ### [idnt](https://github.com/r-darwish/idnt) from [r-darwish](https://github.com/r-darwish)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/r-darwish) [![GitHub stars](https://img.shields.io/github/stars/r-darwish/idnt.svg?style=social&label=Stars)](https://github.com/r-darwish/idnt)
@@ -9069,6 +9197,18 @@ An online handy-recon tool
 [![GitHub topics](https://img.shields.io/badge/Topics-bugbounty%2C%20bugbounty–tool%2C%20pentest–tool%2C%20pentesting%2C%20reconnaissance-brightgreen.svg)](https://github.com/abhijithb200/investigator)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/abhijithb200/investigator.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2021--07--30-brightgreen.svg)](https://github.com/abhijithb200/investigator) [![GitHub last commit](https://img.shields.io/github/last-commit/abhijithb200/investigator.svg?color=blue)](https://github.com/abhijithb200/investigator) [![GitHub tags](https://img.shields.io/github/v/tag/abhijithb200/investigator.svg)](https://github.com/abhijithb200/investigator)
+
+----
+
+### [invoker](https://github.com/ivan-sincek/invoker) from [ivan-sincek](https://github.com/ivan-sincek)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/ivan-sincek) [![GitHub stars](https://img.shields.io/github/stars/ivan-sincek/invoker.svg?style=social&label=Stars)](https://github.com/ivan-sincek/invoker)
+
+Penetration testing utility and antivirus assessment tool.
+
+[![GitHub topics](https://img.shields.io/badge/Topics-access–token%2C%20bytecode–injection%2C%20c–plus–plus%2C%20dll–injection%2C%20dump–memory%2C%20ethical–hacking%2C%20hook–procedure%2C%20malware%2C%20offensive–security%2C%20penetration–testing%2C%20process–ghosting%2C%20process–hollowing%2C%20red–team–engagement%2C%20reverse–tcp%2C%20security%2C%20sticky–keys%2C%20system–calls%2C%20task–scheduler%2C%20windows%2C%20windows–penetration–testing-brightgreen.svg)](https://github.com/ivan-sincek/invoker)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/ivan-sincek/invoker.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2019--07--11-brightgreen.svg)](https://github.com/ivan-sincek/invoker) [![GitHub last commit](https://img.shields.io/github/last-commit/ivan-sincek/invoker.svg?color=blue)](https://github.com/ivan-sincek/invoker) [![GitHub tags](https://img.shields.io/github/v/tag/ivan-sincek/invoker.svg)](https://github.com/ivan-sincek/invoker)
 
 ----
 
@@ -9736,6 +9876,16 @@ mailcow: dockerized - 🐮 + 🐋 = 💕
 
 ----
 
+### [mailto_analyzer](https://github.com/soxoj/mailto_analyzer) from [soxoj](https://github.com/soxoj)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/soxoj) [![GitHub stars](https://img.shields.io/github/stars/soxoj/mailto_analyzer.svg?style=social&label=Stars)](https://github.com/soxoj/mailto_analyzer)
+
+PoC analyzer of your email address exposure on various services
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/soxoj/mailto_analyzer.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--10--08-brightgreen.svg)](https://github.com/soxoj/mailto_analyzer) [![GitHub last commit](https://img.shields.io/github/last-commit/soxoj/mailto_analyzer.svg?color=blue)](https://github.com/soxoj/mailto_analyzer) [![GitHub tags](https://img.shields.io/github/v/tag/soxoj/mailto_analyzer.svg)](https://github.com/soxoj/mailto_analyzer)
+
+----
+
 ### [mailtools](https://github.com/aels/mailtools) from [aels](https://github.com/aels)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/aels) [![GitHub stars](https://img.shields.io/github/stars/aels/mailtools.svg?style=social&label=Stars)](https://github.com/aels/mailtools)
@@ -10094,7 +10244,7 @@ A fast, minimal browser that protects your privacy
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/mindsdb) [![GitHub stars](https://img.shields.io/github/stars/mindsdb/mindsdb.svg?style=social&label=Stars)](https://github.com/mindsdb/mindsdb)
 
-MindsDB connects AI models to databases.
+MindsDB connects AI models to datasources.
 
 [![GitHub topics](https://img.shields.io/badge/Topics-ai%2C%20ai–agents%2C%20artificial–intelligence%2C%20auto–gpt%2C%20chatbot%2C%20database%2C%20forecasting%2C%20gpt%2C%20gpt4all%2C%20hacktoberfest%2C%20huggingface%2C%20langchain%2C%20llm%2C%20machine–learning%2C%20ml%2C%20mongodb%2C%20mysql%2C%20postgres%2C%20semantic–search%2C%20timeseries-brightgreen.svg)](https://github.com/mindsdb/mindsdb)
 
@@ -10524,6 +10674,18 @@ An asynchronized Python library to automate solving ReCAPTCHA v2 using audio
 
 ----
 
+### [noseyparker](https://github.com/praetorian-inc/noseyparker) from [praetorian-inc](https://github.com/praetorian-inc)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/praetorian-inc) [![GitHub stars](https://img.shields.io/github/stars/praetorian-inc/noseyparker.svg?style=social&label=Stars)](https://github.com/praetorian-inc/noseyparker)
+
+Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
+
+[![GitHub topics](https://img.shields.io/badge/Topics-credentials%2C%20devsecops%2C%20penetration–testing%2C%20rust%2C%20scanner%2C%20secrets%2C%20secrets–detection%2C%20security%2C%20security–tools-brightgreen.svg)](https://github.com/praetorian-inc/noseyparker)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/praetorian-inc/noseyparker.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--11--08-brightgreen.svg)](https://github.com/praetorian-inc/noseyparker) [![GitHub last commit](https://img.shields.io/github/last-commit/praetorian-inc/noseyparker.svg?color=blue)](https://github.com/praetorian-inc/noseyparker) [![GitHub tags](https://img.shields.io/github/v/tag/praetorian-inc/noseyparker.svg)](https://github.com/praetorian-inc/noseyparker)
+
+----
+
 ### [noverify](https://github.com/VKCOM/noverify) from [VKCOM](https://github.com/VKCOM)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/VKCOM) [![GitHub stars](https://img.shields.io/github/stars/VKCOM/noverify.svg?style=social&label=Stars)](https://github.com/VKCOM/noverify)
@@ -10630,11 +10792,23 @@ The fastest pixel-by-pixel image visual difference tool in the world.
 
 ----
 
+### [odnoklassniki-checker](https://github.com/OSINT-mindset/odnoklassniki-checker) from [OSINT-mindset](https://github.com/OSINT-mindset)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/OSINT-mindset) [![GitHub stars](https://img.shields.io/github/stars/OSINT-mindset/odnoklassniki-checker.svg?style=social&label=Stars)](https://github.com/OSINT-mindset/odnoklassniki-checker)
+
+Get info about accounts of ok.ru by phone number / email address
+
+[![GitHub topics](https://img.shields.io/badge/Topics-osint%2C%20osint–tool%2C%20socmint-brightgreen.svg)](https://github.com/OSINT-mindset/odnoklassniki-checker)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/OSINT-mindset/odnoklassniki-checker.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--10--15-brightgreen.svg)](https://github.com/OSINT-mindset/odnoklassniki-checker) [![GitHub last commit](https://img.shields.io/github/last-commit/OSINT-mindset/odnoklassniki-checker.svg?color=blue)](https://github.com/OSINT-mindset/odnoklassniki-checker) [![GitHub tags](https://img.shields.io/github/v/tag/OSINT-mindset/odnoklassniki-checker.svg)](https://github.com/OSINT-mindset/odnoklassniki-checker)
+
+----
+
 ### [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) from [ohmyzsh](https://github.com/ohmyzsh)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/ohmyzsh) [![GitHub stars](https://img.shields.io/github/stars/ohmyzsh/ohmyzsh.svg?style=social&label=Stars)](https://github.com/ohmyzsh/ohmyzsh)
 
-🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 
 [![GitHub topics](https://img.shields.io/badge/Topics-cli%2C%20cli–app%2C%20hacktoberfest%2C%20oh–my–zsh%2C%20oh–my–zsh–plugin%2C%20oh–my–zsh–theme%2C%20ohmyzsh%2C%20plugin–framework%2C%20plugins%2C%20productivity%2C%20shell%2C%20terminal%2C%20theme%2C%20themes%2C%20zsh%2C%20zsh–configuration-brightgreen.svg)](https://github.com/ohmyzsh/ohmyzsh)
 
@@ -10860,6 +11034,18 @@ Repositório criado com intuito de reunir informações, fontes(websites/portais
 
 ----
 
+### [osint-cases-ru](https://github.com/OSINT-mindset/osint-cases-ru) from [OSINT-mindset](https://github.com/OSINT-mindset)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/OSINT-mindset) [![GitHub stars](https://img.shields.io/github/stars/OSINT-mindset/osint-cases-ru.svg?style=social&label=Stars)](https://github.com/OSINT-mindset/osint-cases-ru)
+
+Решения различных OSINT-задач / OSINT tasks writeups in Russian
+
+[![GitHub topics](https://img.shields.io/badge/Topics-cases%2C%20casescollection%2C%20documentation%2C%20gitbook%2C%20osint%2C%20osint–resources-brightgreen.svg)](https://github.com/OSINT-mindset/osint-cases-ru)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/OSINT-mindset/osint-cases-ru.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--02--01-brightgreen.svg)](https://github.com/OSINT-mindset/osint-cases-ru) [![GitHub last commit](https://img.shields.io/github/last-commit/OSINT-mindset/osint-cases-ru.svg?color=blue)](https://github.com/OSINT-mindset/osint-cases-ru) [![GitHub tags](https://img.shields.io/github/v/tag/OSINT-mindset/osint-cases-ru.svg)](https://github.com/OSINT-mindset/osint-cases-ru)
+
+----
+
 ### [osint-cli-tool-skeleton](https://github.com/soxoj/osint-cli-tool-skeleton) from [soxoj](https://github.com/soxoj)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/soxoj) [![GitHub stars](https://img.shields.io/github/stars/soxoj/osint-cli-tool-skeleton.svg?style=social&label=Stars)](https://github.com/soxoj/osint-cli-tool-skeleton)
@@ -10877,6 +11063,8 @@ Template for new OSINT command-line tools
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/jclark1913) [![GitHub stars](https://img.shields.io/github/stars/jclark1913/osint-google-analytics.svg?style=social&label=Stars)](https://github.com/jclark1913/osint-google-analytics)
 
 A lightweight tool for scraping current and historic Google Analytics data
+
+[![GitHub topics](https://img.shields.io/badge/Topics-google–analytics%2C%20open–source–intelligence%2C%20osint%2C%20osint–tool%2C%20python-brightgreen.svg)](https://github.com/jclark1913/osint-google-analytics)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/jclark1913/osint-google-analytics.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--09--15-brightgreen.svg)](https://github.com/jclark1913/osint-google-analytics) [![GitHub last commit](https://img.shields.io/github/last-commit/jclark1913/osint-google-analytics.svg?color=blue)](https://github.com/jclark1913/osint-google-analytics) [![GitHub tags](https://img.shields.io/github/v/tag/jclark1913/osint-google-analytics.svg)](https://github.com/jclark1913/osint-google-analytics)
 
@@ -10968,7 +11156,7 @@ Worldwide map of OSINT tools. 614 services (cadastral maps, business registries,
 
 A Workflow Engine for Offensive Security
 
-[![GitHub topics](https://img.shields.io/badge/Topics-bug–bounty%2C%20bugbounty%2C%20go%2C%20golang%2C%20hacking%2C%20hacking–tool%2C%20information–gathering%2C%20osint%2C%20osmedeus%2C%20penetration–testing%2C%20pentest–tool%2C%20pentesting%2C%20reconnaissance%2C%20scanning%2C%20security%2C%20security–tools-brightgreen.svg)](https://github.com/j3ssie/osmedeus)
+[![GitHub topics](https://img.shields.io/badge/Topics-attack–surfaces%2C%20bug–bounty%2C%20bugbounty%2C%20go%2C%20golang%2C%20hacking%2C%20hacking–tool%2C%20information–gathering%2C%20osint%2C%20penetration–testing%2C%20pentest–tool%2C%20pentesting%2C%20reconnaissance%2C%20scanning%2C%20security%2C%20security–tools-brightgreen.svg)](https://github.com/j3ssie/osmedeus)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/j3ssie/osmedeus.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2018--11--10-brightgreen.svg)](https://github.com/j3ssie/osmedeus) [![GitHub last commit](https://img.shields.io/github/last-commit/j3ssie/osmedeus.svg?color=blue)](https://github.com/j3ssie/osmedeus) [![GitHub tags](https://img.shields.io/github/v/tag/j3ssie/osmedeus.svg)](https://github.com/j3ssie/osmedeus)
 
@@ -11343,6 +11531,28 @@ Python Interactive Deepweb-oriented Rapid Intelligent Link Analyzer
 🐦 Quickly annotate data from the comfort of your Jupyter notebook
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/agermanidis/pigeon.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2017--09--05-brightgreen.svg)](https://github.com/agermanidis/pigeon) [![GitHub last commit](https://img.shields.io/github/last-commit/agermanidis/pigeon.svg?color=blue)](https://github.com/agermanidis/pigeon) [![GitHub tags](https://img.shields.io/github/v/tag/agermanidis/pigeon.svg)](https://github.com/agermanidis/pigeon)
+
+----
+
+### [pina-colada](https://github.com/ecthros/pina-colada) from [ecthros](https://github.com/ecthros)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/ecthros) [![GitHub stars](https://img.shields.io/github/stars/ecthros/pina-colada.svg?style=social&label=Stars)](https://github.com/ecthros/pina-colada)
+
+A powerful and extensible wireless drop box
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/ecthros/pina-colada.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2016--09--30-brightgreen.svg)](https://github.com/ecthros/pina-colada) [![GitHub last commit](https://img.shields.io/github/last-commit/ecthros/pina-colada.svg?color=blue)](https://github.com/ecthros/pina-colada) [![GitHub tags](https://img.shields.io/github/v/tag/ecthros/pina-colada.svg)](https://github.com/ecthros/pina-colada)
+
+----
+
+### [pinterest-email-checker](https://github.com/OSINT-mindset/pinterest-email-checker) from [OSINT-mindset](https://github.com/OSINT-mindset)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/OSINT-mindset) [![GitHub stars](https://img.shields.io/github/stars/OSINT-mindset/pinterest-email-checker.svg?style=social&label=Stars)](https://github.com/OSINT-mindset/pinterest-email-checker)
+
+Get Pinterest account by email with API interface
+
+[![GitHub topics](https://img.shields.io/badge/Topics-osint%2C%20osint–tool%2C%20socmint-brightgreen.svg)](https://github.com/OSINT-mindset/pinterest-email-checker)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/OSINT-mindset/pinterest-email-checker.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--07--16-brightgreen.svg)](https://github.com/OSINT-mindset/pinterest-email-checker) [![GitHub last commit](https://img.shields.io/github/last-commit/OSINT-mindset/pinterest-email-checker.svg?color=blue)](https://github.com/OSINT-mindset/pinterest-email-checker) [![GitHub tags](https://img.shields.io/github/v/tag/OSINT-mindset/pinterest-email-checker.svg)](https://github.com/OSINT-mindset/pinterest-email-checker)
 
 ----
 
@@ -12068,6 +12278,16 @@ reNgine is an automated reconnaissance framework for web applications with a foc
 
 ----
 
+### [reportly](https://github.com/sap8899/reportly) from [sap8899](https://github.com/sap8899)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/sap8899) [![GitHub stars](https://img.shields.io/github/stars/sap8899/reportly.svg?style=social&label=Stars)](https://github.com/sap8899/reportly)
+
+Reportly is an AzureAD user activity report tool.
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/sap8899/reportly.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--11--16-brightgreen.svg)](https://github.com/sap8899/reportly) [![GitHub last commit](https://img.shields.io/github/last-commit/sap8899/reportly.svg?color=blue)](https://github.com/sap8899/reportly) [![GitHub tags](https://img.shields.io/github/v/tag/sap8899/reportly.svg)](https://github.com/sap8899/reportly)
+
+----
+
 ### [requests-html](https://github.com/psf/requests-html) from [psf](https://github.com/psf)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/psf) [![GitHub stars](https://img.shields.io/github/stars/psf/requests-html.svg?style=social&label=Stars)](https://github.com/psf/requests-html)
@@ -12242,7 +12462,7 @@ The Reliable USB Formatting Utility
 
 An open-source remote desktop, and alternative to TeamViewer.
 
-[![GitHub topics](https://img.shields.io/badge/Topics-anydesk%2C%20dart%2C%20flutter%2C%20flutter–apps%2C%20flutter–desktop%2C%20flutter–examples%2C%20flutter–mobile%2C%20flutter–ui%2C%20flutter–web%2C%20linux%2C%20p2p%2C%20rdp%2C%20remote–control%2C%20remote–desktop%2C%20rust%2C%20rust–lang%2C%20teamviewer%2C%20vnc%2C%20wayland-brightgreen.svg)](https://github.com/rustdesk/rustdesk)
+[![GitHub topics](https://img.shields.io/badge/Topics-anydesk%2C%20dart%2C%20flutter%2C%20flutter–apps%2C%20flutter–desktop%2C%20flutter–examples%2C%20flutter–mobile%2C%20flutter–ui%2C%20flutter–web%2C%20hacktoberfest%2C%20linux%2C%20p2p%2C%20rdp%2C%20remote–control%2C%20remote–desktop%2C%20rust%2C%20rust–lang%2C%20teamviewer%2C%20vnc%2C%20wayland-brightgreen.svg)](https://github.com/rustdesk/rustdesk)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/rustdesk/rustdesk.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2020--09--28-brightgreen.svg)](https://github.com/rustdesk/rustdesk) [![GitHub last commit](https://img.shields.io/github/last-commit/rustdesk/rustdesk.svg?color=blue)](https://github.com/rustdesk/rustdesk) [![GitHub tags](https://img.shields.io/github/v/tag/rustdesk/rustdesk.svg)](https://github.com/rustdesk/rustdesk)
 
@@ -12662,6 +12882,18 @@ Source code of Visual Site Mapper Node.js version
 
 ----
 
+### [skype-contact-parser](https://github.com/OSINT-mindset/skype-contact-parser) from [OSINT-mindset](https://github.com/OSINT-mindset)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/OSINT-mindset) [![GitHub stars](https://img.shields.io/github/stars/OSINT-mindset/skype-contact-parser.svg?style=social&label=Stars)](https://github.com/OSINT-mindset/skype-contact-parser)
+
+Resolve Skype accounts by phone number with API interface
+
+[![GitHub topics](https://img.shields.io/badge/Topics-osint%2C%20osint–tool%2C%20skype%2C%20socmint-brightgreen.svg)](https://github.com/OSINT-mindset/skype-contact-parser)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/OSINT-mindset/skype-contact-parser.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--07--16-brightgreen.svg)](https://github.com/OSINT-mindset/skype-contact-parser) [![GitHub last commit](https://img.shields.io/github/last-commit/OSINT-mindset/skype-contact-parser.svg?color=blue)](https://github.com/OSINT-mindset/skype-contact-parser) [![GitHub tags](https://img.shields.io/github/v/tag/OSINT-mindset/skype-contact-parser.svg)](https://github.com/OSINT-mindset/skype-contact-parser)
+
+----
+
 ### [slash](https://github.com/getslash/slash) from [getslash](https://github.com/getslash)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/getslash) [![GitHub stars](https://img.shields.io/github/stars/getslash/slash.svg?style=social&label=Stars)](https://github.com/getslash/slash)
@@ -12776,6 +13008,16 @@ API, CLI, and Web App for analyzing and finding a person's profile in 1000 socia
 
 ----
 
+### [social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) from [trustedsec](https://github.com/trustedsec)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/trustedsec) [![GitHub stars](https://img.shields.io/github/stars/trustedsec/social-engineer-toolkit.svg?style=social&label=Stars)](https://github.com/trustedsec/social-engineer-toolkit)
+
+The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/trustedsec/social-engineer-toolkit.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2012--12--31-brightgreen.svg)](https://github.com/trustedsec/social-engineer-toolkit) [![GitHub last commit](https://img.shields.io/github/last-commit/trustedsec/social-engineer-toolkit.svg?color=blue)](https://github.com/trustedsec/social-engineer-toolkit) [![GitHub tags](https://img.shields.io/github/v/tag/trustedsec/social-engineer-toolkit.svg)](https://github.com/trustedsec/social-engineer-toolkit)
+
+----
+
 ### [social-media-analysis-toolkit](https://github.com/EmmiBevensee/social-media-analysis-toolkit) from [EmmiBevensee](https://github.com/EmmiBevensee)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/EmmiBevensee) [![GitHub stars](https://img.shields.io/github/stars/EmmiBevensee/social-media-analysis-toolkit.svg?style=social&label=Stars)](https://github.com/EmmiBevensee/social-media-analysis-toolkit)
@@ -12885,6 +13127,18 @@ SpiderFoot automates OSINT for threat intelligence and mapping your attack surfa
 [![GitHub topics](https://img.shields.io/badge/Topics-attack–surface%2C%20attacksurface%2C%20cti%2C%20cybersecurity%2C%20footprinting%2C%20hacking%2C%20information–gathering%2C%20infosec%2C%20intelligence–gathering%2C%20osint%2C%20osint–framework%2C%20osint–reconnaissance%2C%20osint–tool%2C%20pentest%2C%20pentesting%2C%20python%2C%20reconnaissance%2C%20security–tools%2C%20threat–intelligence%2C%20threatintel-brightgreen.svg)](https://github.com/smicallef/spiderfoot)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/smicallef/spiderfoot.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2012--04--28-brightgreen.svg)](https://github.com/smicallef/spiderfoot) [![GitHub last commit](https://img.shields.io/github/last-commit/smicallef/spiderfoot.svg?color=blue)](https://github.com/smicallef/spiderfoot) [![GitHub tags](https://img.shields.io/github/v/tag/smicallef/spiderfoot.svg)](https://github.com/smicallef/spiderfoot)
+
+----
+
+### [spotlight](https://github.com/Renumics/spotlight) from [Renumics](https://github.com/Renumics)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/Renumics) [![GitHub stars](https://img.shields.io/github/stars/Renumics/spotlight.svg?style=social&label=Stars)](https://github.com/Renumics/spotlight)
+
+Interactively explore unstructured datasets from your dataframe.
+
+[![GitHub topics](https://img.shields.io/badge/Topics-audio%2C%20computer–vision%2C%20data–centric–ai%2C%20data–curation%2C%20data–visualization%2C%20exploratory–data–analysis%2C%20images%2C%20machine–learning%2C%20meshes%2C%20timeseries%2C%20unstructured–data%2C%20video-brightgreen.svg)](https://github.com/Renumics/spotlight)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/Renumics/spotlight.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--01--29-brightgreen.svg)](https://github.com/Renumics/spotlight) [![GitHub last commit](https://img.shields.io/github/last-commit/Renumics/spotlight.svg?color=blue)](https://github.com/Renumics/spotlight) [![GitHub tags](https://img.shields.io/github/v/tag/Renumics/spotlight.svg)](https://github.com/Renumics/spotlight)
 
 ----
 
@@ -13111,6 +13365,16 @@ Advanced python library to scrap Twitter (tweets, users) from unofficial API
 [![GitHub topics](https://img.shields.io/badge/Topics-api%2C%20crawl%2C%20python%2C%20scrap%2C%20scrap–tweet%2C%20scrape%2C%20scraper%2C%20scrapper%2C%20search%2C%20searchrunner%2C%20tweet%2C%20tweets%2C%20twint%2C%20twitter%2C%20twitter–api%2C%20unofficial%2C%20user%2C%20users-brightgreen.svg)](https://github.com/markowanga/stweet)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/markowanga/stweet.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2020--11--16-brightgreen.svg)](https://github.com/markowanga/stweet) [![GitHub last commit](https://img.shields.io/github/last-commit/markowanga/stweet.svg?color=blue)](https://github.com/markowanga/stweet) [![GitHub tags](https://img.shields.io/github/v/tag/markowanga/stweet.svg)](https://github.com/markowanga/stweet)
+
+----
+
+### [stylometry](https://github.com/jpotts18/stylometry) from [jpotts18](https://github.com/jpotts18)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/jpotts18) [![GitHub stars](https://img.shields.io/github/stars/jpotts18/stylometry.svg?style=social&label=Stars)](https://github.com/jpotts18/stylometry)
+
+A Stylometry Library for Python
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/jpotts18/stylometry.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2015--02--23-brightgreen.svg)](https://github.com/jpotts18/stylometry) [![GitHub last commit](https://img.shields.io/github/last-commit/jpotts18/stylometry.svg?color=blue)](https://github.com/jpotts18/stylometry) [![GitHub tags](https://img.shields.io/github/v/tag/jpotts18/stylometry.svg)](https://github.com/jpotts18/stylometry)
 
 ----
 
@@ -13357,6 +13621,18 @@ Pushshift Telegram Ingest
 A Telegram Bot to record messages in a given chat for a period of time
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/EdJoPaTo/telegram-chat-record-bot.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2019--11--05-brightgreen.svg)](https://github.com/EdJoPaTo/telegram-chat-record-bot) [![GitHub last commit](https://img.shields.io/github/last-commit/EdJoPaTo/telegram-chat-record-bot.svg?color=blue)](https://github.com/EdJoPaTo/telegram-chat-record-bot) [![GitHub tags](https://img.shields.io/github/v/tag/EdJoPaTo/telegram-chat-record-bot.svg)](https://github.com/EdJoPaTo/telegram-chat-record-bot)
+
+----
+
+### [telegram-explorer](https://github.com/stanykey/telegram-explorer) from [stanykey](https://github.com/stanykey)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/stanykey) [![GitHub stars](https://img.shields.io/github/stars/stanykey/telegram-explorer.svg?style=social&label=Stars)](https://github.com/stanykey/telegram-explorer)
+
+educational project: obtain the history of Telegram chat for a certain period of time
+
+[![GitHub topics](https://img.shields.io/badge/Topics-asyncio%2C%20click%2C%20gui%2C%20pyrogram%2C%20python3%2C%20telegram–api%2C%20tkinter-brightgreen.svg)](https://github.com/stanykey/telegram-explorer)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/stanykey/telegram-explorer.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--04--12-brightgreen.svg)](https://github.com/stanykey/telegram-explorer) [![GitHub last commit](https://img.shields.io/github/last-commit/stanykey/telegram-explorer.svg?color=blue)](https://github.com/stanykey/telegram-explorer) [![GitHub tags](https://img.shields.io/github/v/tag/stanykey/telegram-explorer.svg)](https://github.com/stanykey/telegram-explorer)
 
 ----
 
@@ -13678,6 +13954,16 @@ Lightweight username enumeration tool that checks the availability of a specifie
 
 ----
 
+### [thoron](https://github.com/Best2Angle/thoron) from [Best2Angle](https://github.com/Best2Angle)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/Best2Angle) [![GitHub stars](https://img.shields.io/github/stars/Best2Angle/thoron.svg?style=social&label=Stars)](https://github.com/Best2Angle/thoron)
+
+Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to generate simple payloads to provide Linux TCP attack.
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/Best2Angle/thoron.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2020--05--31-brightgreen.svg)](https://github.com/Best2Angle/thoron) [![GitHub last commit](https://img.shields.io/github/last-commit/Best2Angle/thoron.svg?color=blue)](https://github.com/Best2Angle/thoron) [![GitHub tags](https://img.shields.io/github/v/tag/Best2Angle/thoron.svg)](https://github.com/Best2Angle/thoron)
+
+----
+
 ### [threader3000](https://github.com/bormaxi8080/threader3000) from [bormaxi8080](https://github.com/bormaxi8080)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/bormaxi8080) [![GitHub stars](https://img.shields.io/github/stars/bormaxi8080/threader3000.svg?style=social&label=Stars)](https://github.com/bormaxi8080/threader3000)
@@ -13936,7 +14222,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 Find and verify credentials
 
-[![GitHub topics](https://img.shields.io/badge/Topics-credentials%2C%20devsecops%2C%20dynamic–analysis%2C%20go%2C%20golang%2C%20hacktoberfest%2C%20secret%2C%20secrets%2C%20security%2C%20security–tools%2C%20trufflehog%2C%20verification-brightgreen.svg)](https://github.com/trufflesecurity/trufflehog)
+[![GitHub topics](https://img.shields.io/badge/Topics-credentials%2C%20devsecops%2C%20dynamic–analysis%2C%20hacktoberfest%2C%20precommit%2C%20scanning%2C%20secret%2C%20secret–management%2C%20secrets%2C%20security%2C%20security–tools%2C%20trufflehog%2C%20verification-brightgreen.svg)](https://github.com/trufflesecurity/trufflehog)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/trufflesecurity/trufflehog.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2016--12--31-brightgreen.svg)](https://github.com/trufflesecurity/trufflehog) [![GitHub last commit](https://img.shields.io/github/last-commit/trufflesecurity/trufflehog.svg?color=blue)](https://github.com/trufflesecurity/trufflehog) [![GitHub tags](https://img.shields.io/github/v/tag/trufflesecurity/trufflehog.svg)](https://github.com/trufflesecurity/trufflehog)
 
@@ -14404,6 +14690,18 @@ No project description
 
 ----
 
+### [verification-plugin](https://github.com/AFP-Medialab/verification-plugin) from [AFP-Medialab](https://github.com/AFP-Medialab)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/AFP-Medialab) [![GitHub stars](https://img.shields.io/github/stars/AFP-Medialab/verification-plugin.svg?style=social&label=Stars)](https://github.com/AFP-Medialab/verification-plugin)
+
+A verification “Swiss army knife” helping journalists, fact-checkers, and human rights defenders to save time and be more efficient in their fact-checking and debunking tasks on social networks especially when verifying videos and images
+
+[![GitHub topics](https://img.shields.io/badge/Topics-debunking%2C%20disinformation%2C%20invid%2C%20keyframes%2C%20react%2C%20twitter%2C%20vera–ai-brightgreen.svg)](https://github.com/AFP-Medialab/verification-plugin)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/AFP-Medialab/verification-plugin.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2019--10--08-brightgreen.svg)](https://github.com/AFP-Medialab/verification-plugin) [![GitHub last commit](https://img.shields.io/github/last-commit/AFP-Medialab/verification-plugin.svg?color=blue)](https://github.com/AFP-Medialab/verification-plugin) [![GitHub tags](https://img.shields.io/github/v/tag/AFP-Medialab/verification-plugin.svg)](https://github.com/AFP-Medialab/verification-plugin)
+
+----
+
 ### [vichiti](https://github.com/umair9747/vichiti) from [umair9747](https://github.com/umair9747)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/umair9747) [![GitHub stars](https://img.shields.io/github/stars/umair9747/vichiti.svg?style=social&label=Stars)](https://github.com/umair9747/vichiti)
@@ -14428,6 +14726,16 @@ Extract frames from a video.
 
 ----
 
+### [video2dataset](https://github.com/m-bain/video2dataset) from [m-bain](https://github.com/m-bain)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/m-bain) [![GitHub stars](https://img.shields.io/github/stars/m-bain/video2dataset.svg?style=social&label=Stars)](https://github.com/m-bain/video2dataset)
+
+Easily create large video dataset from video urls
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/m-bain/video2dataset.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--09--25-brightgreen.svg)](https://github.com/m-bain/video2dataset) [![GitHub last commit](https://img.shields.io/github/last-commit/m-bain/video2dataset.svg?color=blue)](https://github.com/m-bain/video2dataset) [![GitHub tags](https://img.shields.io/github/v/tag/m-bain/video2dataset.svg)](https://github.com/m-bain/video2dataset)
+
+----
+
 ### [visidata](https://github.com/saulpw/visidata) from [saulpw](https://github.com/saulpw)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/saulpw) [![GitHub stars](https://img.shields.io/github/stars/saulpw/visidata.svg?style=social&label=Stars)](https://github.com/saulpw/visidata)
@@ -14437,6 +14745,18 @@ A terminal spreadsheet multitool for discovering and arranging data
 [![GitHub topics](https://img.shields.io/badge/Topics-cli%2C%20csv%2C%20datajournalism%2C%20datawrangling%2C%20devops–tools%2C%20eda%2C%20hdf5%2C%20json%2C%20opendata%2C%20pandas%2C%20python%2C%20reconciliation%2C%20spreadsheet%2C%20sqlite%2C%20tabular–data%2C%20tsv%2C%20tui%2C%20unix–toolkit-brightgreen.svg)](https://github.com/saulpw/visidata)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/saulpw/visidata.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2016--10--27-brightgreen.svg)](https://github.com/saulpw/visidata) [![GitHub last commit](https://img.shields.io/github/last-commit/saulpw/visidata.svg?color=blue)](https://github.com/saulpw/visidata) [![GitHub tags](https://img.shields.io/github/v/tag/saulpw/visidata.svg)](https://github.com/saulpw/visidata)
+
+----
+
+### [vk-osint-ru](https://github.com/OSINT-mindset/vk-osint-ru) from [OSINT-mindset](https://github.com/OSINT-mindset)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/OSINT-mindset) [![GitHub stars](https://img.shields.io/github/stars/OSINT-mindset/vk-osint-ru.svg?style=social&label=Stars)](https://github.com/OSINT-mindset/vk-osint-ru)
+
+Набор инструментов для OSINT в VKontakte. Основано на материалах Rawrdcore
+
+[![GitHub topics](https://img.shields.io/badge/Topics-osint%2C%20vk%2C%20vkontakte-brightgreen.svg)](https://github.com/OSINT-mindset/vk-osint-ru)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/OSINT-mindset/vk-osint-ru.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--09--29-brightgreen.svg)](https://github.com/OSINT-mindset/vk-osint-ru) [![GitHub last commit](https://img.shields.io/github/last-commit/OSINT-mindset/vk-osint-ru.svg?color=blue)](https://github.com/OSINT-mindset/vk-osint-ru) [![GitHub tags](https://img.shields.io/github/v/tag/OSINT-mindset/vk-osint-ru.svg)](https://github.com/OSINT-mindset/vk-osint-ru)
 
 ----
 
@@ -14461,6 +14781,18 @@ An advanced memory forensics framework
 [![GitHub topics](https://img.shields.io/badge/Topics-malware%2C%20memory%2C%20python%2C%20ram%2C%20volatility–framework-brightgreen.svg)](https://github.com/volatilityfoundation/volatility)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/volatilityfoundation/volatility.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2014--04--24-brightgreen.svg)](https://github.com/volatilityfoundation/volatility) [![GitHub last commit](https://img.shields.io/github/last-commit/volatilityfoundation/volatility.svg?color=blue)](https://github.com/volatilityfoundation/volatility) [![GitHub tags](https://img.shields.io/github/v/tag/volatilityfoundation/volatility.svg)](https://github.com/volatilityfoundation/volatility)
+
+----
+
+### [voltron](https://github.com/snare/voltron) from [snare](https://github.com/snare)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/snare) [![GitHub stars](https://img.shields.io/github/stars/snare/voltron.svg?style=social&label=Stars)](https://github.com/snare/voltron)
+
+A hacky debugger UI for hackers
+
+[![GitHub topics](https://img.shields.io/badge/Topics-debugger%2C%20gdb%2C%20lldb%2C%20python%2C%20voltron%2C%20vtrace%2C%20windbg-brightgreen.svg)](https://github.com/snare/voltron)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/snare/voltron.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2013--06--25-brightgreen.svg)](https://github.com/snare/voltron) [![GitHub last commit](https://img.shields.io/github/last-commit/snare/voltron.svg?color=blue)](https://github.com/snare/voltron) [![GitHub tags](https://img.shields.io/github/v/tag/snare/voltron.svg)](https://github.com/snare/voltron)
 
 ----
 
@@ -14722,6 +15054,16 @@ Track changes on websites via git
 
 ----
 
+### [webvid](https://github.com/m-bain/webvid) from [m-bain](https://github.com/m-bain)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/m-bain) [![GitHub stars](https://img.shields.io/github/stars/m-bain/webvid.svg?style=social&label=Stars)](https://github.com/m-bain/webvid)
+
+Large-scale text-video dataset. 10 million captioned short videos.
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/m-bain/webvid.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2021--06--07-brightgreen.svg)](https://github.com/m-bain/webvid) [![GitHub last commit](https://img.shields.io/github/last-commit/m-bain/webvid.svg?color=blue)](https://github.com/m-bain/webvid) [![GitHub tags](https://img.shields.io/github/v/tag/m-bain/webvid.svg)](https://github.com/m-bain/webvid)
+
+----
+
 ### [wg-easy](https://github.com/wg-easy/wg-easy) from [wg-easy](https://github.com/wg-easy)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/wg-easy) [![GitHub stars](https://img.shields.io/github/stars/wg-easy/wg-easy.svg?style=social&label=Stars)](https://github.com/wg-easy/wg-easy)
@@ -14811,6 +15153,18 @@ Simple implementation of OpenAI's whisper model to transcribe audio files from y
 [![GitHub topics](https://img.shields.io/badge/Topics-data–protection%2C%20local%2C%20transc%2C%20whisper–ai-brightgreen.svg)](https://github.com/soderstromkr/whisper-local-transcribe)
 
 [![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/soderstromkr/whisper-local-transcribe.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2023--03--22-brightgreen.svg)](https://github.com/soderstromkr/whisper-local-transcribe) [![GitHub last commit](https://img.shields.io/github/last-commit/soderstromkr/whisper-local-transcribe.svg?color=blue)](https://github.com/soderstromkr/whisper-local-transcribe) [![GitHub tags](https://img.shields.io/github/v/tag/soderstromkr/whisper-local-transcribe.svg)](https://github.com/soderstromkr/whisper-local-transcribe)
+
+----
+
+### [whisperX](https://github.com/m-bain/whisperX) from [m-bain](https://github.com/m-bain)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/m-bain) [![GitHub stars](https://img.shields.io/github/stars/m-bain/whisperX.svg?style=social&label=Stars)](https://github.com/m-bain/whisperX)
+
+WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
+
+[![GitHub topics](https://img.shields.io/badge/Topics-asr%2C%20speech%2C%20speech–recognition%2C%20speech–to–text%2C%20whisper-brightgreen.svg)](https://github.com/m-bain/whisperX)
+
+[![GitHub clone](https://img.shields.io/badge/GitHub-Clone-green?logo=github)](https://github.com/m-bain/whisperX.git) [![GitHub creation date](https://img.shields.io/badge/Created%20on-2022--12--09-brightgreen.svg)](https://github.com/m-bain/whisperX) [![GitHub last commit](https://img.shields.io/github/last-commit/m-bain/whisperX.svg?color=blue)](https://github.com/m-bain/whisperX) [![GitHub tags](https://img.shields.io/github/v/tag/m-bain/whisperX.svg)](https://github.com/m-bain/whisperX)
 
 ----
 
@@ -15094,7 +15448,7 @@ YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github)](https://github.com/code-charity) [![GitHub stars](https://img.shields.io/github/stars/code-charity/youtube.svg?style=social&label=Stars)](https://github.com/code-charity/youtube)
 
-Top ~ 100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰80 lean Features 📌Longest-standing 👨‍👩‍👧‍👧Please help]       ⚙️⋮[🎛️☕🎧🔊⏯️🎞️🎬📈🧩🎨 youtube playback, content discovery, player, extra buttons, youtube distractions & related videos / suggestions. youtube shorts, youtube ads, quality, codec, full tab, full screen. ...
+Top~100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰80 lean Features 📌Longest-standing 👨‍👩‍👧‍👧🧩Please help] ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, content discovery, player, extra buttons, youtube distractions & related videos / suggestions. youtube shorts, youtube ads, quality, codec, full tab, full screen. ...
 
 [![GitHub topics](https://img.shields.io/badge/Topics-chrome–extension%2C%20css%2C%20extension%2C%20firefox–addon%2C%20hacktoberfest%2C%20html5–video%2C%20playback%2C%20playback–speed%2C%20player%2C%20streaming%2C%20subtitles%2C%20video%2C%20webextension%2C%20youtube%2C%20youtube–api%2C%20youtube–channel%2C%20youtube–player%2C%20youtube–playlist%2C%20youtube–video-brightgreen.svg)](https://github.com/code-charity/youtube)
 
